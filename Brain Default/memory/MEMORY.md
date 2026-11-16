@@ -12,3 +12,5 @@
 - [Haji muốn Javis đọc nội dung thật thay vì tư vấn chung chung](facts/haji-ky-vong-javis-doc-that.md) - Khi Haji nói có tài liệu hoặc project, Javis phải mở và đọc nó trước khi đề xuất
 - [Haji xưng 'tôi' và gọi Javis là 'bạn'](facts/haji-xung-ho-voi-javis.md) - Cách xưng hô Haji dùng với Javis trong hội thoại 16/11/2026
 - [Haji muốn link HTTPS cho Javis mà không mua tên miền](facts/haji-khong-mua-ten-mien-can-https.md) - Haji cần HTTPS để mic/voice chạy trên Javis, nhưng không muốn mua tên miền
+- [Haji muốn sao lưu brain Javis lên repo GitHub Private](facts/haji-sao-luu-brain-github-private.md) - Haji chọn sao lưu brain lên một repo GitHub Private, không dùng repo công khai.
+- [Haji có kho tư duy customer success trên Google Drive, muốn giữ lõi khi bỏ logo Insider](facts/haji-thu-vien-tu-duy-customer-success.md) - Thư mục Drive gồm cách tư duy, quản trị và tổ chức quản lý khách hàng Haji góp nhặt nhiều năm, làm lõi cho quyết định.
