@@ -14,3 +14,9 @@
 - [Haji muốn link HTTPS cho Javis mà không mua tên miền](facts/haji-khong-mua-ten-mien-can-https.md) - Haji cần HTTPS để mic/voice chạy trên Javis, nhưng không muốn mua tên miền
 - [Haji muốn sao lưu brain Javis lên repo GitHub Private](facts/haji-sao-luu-brain-github-private.md) - Haji chọn sao lưu brain lên một repo GitHub Private, không dùng repo công khai.
 - [Haji có kho tư duy customer success trên Google Drive, muốn giữ lõi khi bỏ logo Insider](facts/haji-thu-vien-tu-duy-customer-success.md) - Thư mục Drive gồm cách tư duy, quản trị và tổ chức quản lý khách hàng Haji góp nhặt nhiều năm, làm lõi cho quyết định.
+- [Hồ sơ cá nhân Haji (Haji tự gửi 17/11/2026)](facts/haji-ho-so-ca-nhan.md) - Insider One tới 15/07/2026, nay tư vấn độc lập và GM Golf House, hướng Head of CX/Transformation hoặc PM tài chính
+- [Dự án đang chạy của Haji (11/2026)](facts/haji-du-an-dang-chay-2026-11.md) - Ruby 201-205 Boutique Phú Quốc, VLF2026, giáo trình AI, vibecode; Krystack đã dừng
+- [Ưu tiên: sự nghiệp trước, doanh thu thụ động sau](facts/haji-uu-tien-su-nghiep-truoc-doanh-thu-thu-dong.md) - Haji chốt 17/11/2026
+- [Luật phối hợp Ban điều hành](facts/ban-dieu-hanh-luat-phoi-hop.md) - CMO đề xuất, CFO phản biện, trợ lý CEO tổng hợp báo Haji, rồi Copywriter, Designer
+- [Văn phong Haji yêu cầu](facts/haji-van-phong-yeu-cau.md) - Không em dash; email "=>" và "Next:"; tài liệu dự án ngôi thứ ba, thuật ngữ kèm công thức
+- [Ruby Bãi Kem: Haji vẫn phụ trách chính](facts/ruby-bai-kem-haji-van-phu-trach-chinh.md) - Phần 'Haji rời dự án' trong hồ sơ bàn giao là sai; hồ sơ dự án ở projects/ruby-bai-kem/

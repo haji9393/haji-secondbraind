@@ -2,10 +2,15 @@
 
 > Tự sinh từ file - ĐỪNG sửa tay. Chỉ mục mọi năng lực của Javis trong brain này để bất kỳ AI/engine đọc 1 chỗ là hiểu Javis làm được gì. Song song `wiki/index.md` (tri thức).
 
-**Tổng quan:** 1 agents · 18 skills · 0 workflows (0 bật) · 0 loops (0 bật) · 29 plugins (28 chạy)
+**Tổng quan:** 6 agents · 19 skills · 0 workflows (0 bật) · 0 loops (0 bật) · 29 plugins (28 chạy)
 
 ## Agents
+- **CFO** (`cfo`) - Phản biện đề xuất: dự án có thực tế và tiềm năng không, kiểm mâu thuẫn trong con số, bổ sung góc nhìn tài chính · skills: query-wiki · tags: Ban điều hành, Tài chính
+- **CMO** (`cmo`) - Nhạy về nhu cầu thị trường và năng lực của Haji: đề xuất bán được không, bán thế nào, có lời không · skills: haji-cv-evidence-bank, haji-job-targeting, query-wiki · tags: Ban điều hành, Marketing
+- **Copywriter** (`copywriter`) - Hoàn thiện chữ sau khi plan được Haji duyệt: proposal, deck copy, email, landing, post · skills: haji-writing-style, haji-cv-evidence-bank, business-strategy-presentation · tags: Ban điều hành, Nội dung
+- **Designer** (`designer`) - Làm sau Copywriter: biến bản chữ đã duyệt thành deck, one-pager, ảnh mạng xã hội, trang HTML · skills: insider-deck-style, html-to-webcake · tags: Ban điều hành, Nội dung
 - **Javis Core** (`javis-core`) - Trợ lý hệ thống nhận báo cáo và hỗ trợ công việc trong brain này.
+- **Trợ lý CEO** (`tro-ly-ceo`) - Trợ lý chiến lược của Haji, trưởng Ban điều hành: đặt giả thiết, điều phối CMO và CFO, tổng hợp báo cáo cho Haji · skills: business-strategy-presentation, query-wiki, haji-job-targeting · tags: Ban điều hành, Chiến lược
 
 ## Skills
 ### AI
@@ -28,6 +33,7 @@
 - **Phong cách slide deck Insider** (`insider-deck-style`) - Hệ thống hình ảnh slide deck của Insider: layout, motif, icon, connector và quy ước placeholder khi dựng file .pptx.
 - **Báo cáo tháng Insider** (`insider-monthly-report`) - Dựng và đánh giá báo cáo hiệu quả hàng tháng cho khách hàng Insider: bước xác nhận bắt buộc và quy trình phân tích 7 bước.
 ### Nội dung
+- **Kế hoạch kinh doanh & thuyết trình chiến lược** (`business-strategy-presentation`) - Tư duy chiến lược và cấu trúc slide cho kế hoạch kinh doanh, đề xuất đầu tư, bài trình bày C-level: dẫn người nghe tới quyết định.
 - **Giọng viết LinkedIn của Haji** (`haji-writing-style`) - Viết post LinkedIn đúng giọng của Haji (Việt, Anh, song ngữ): tone, cấu trúc và triết lý nội dung cho bài chuyên môn, thương hiệu cá nhân.
 ### Security
 - **Security Audit** (`security-audit`) - Rà soát bảo mật mã nguồn, API, dịch vụ: tìm lỗ hổng có bằng chứng, kiểm chứng độc lập từng lỗi, báo cáo kèm cách sửa. Từ Cloudflare.
@@ -70,4 +76,4 @@ _(chưa có)_
 - **Đọc video YouTube** (`youtube-read`) - bundled/chạy · tools: javis_youtube_read · Đọc lời thoại (phụ đề) của video YouTube từ link để tóm tắt. Tự đổi qua 6 kiểu trình phát rồi tới yt-dlp khi YouTube chặn máy chủ. Không cần đăng nhập, không cần API key.
 
 ## Cờ sức khoẻ
-- Agent chưa workflow nào dùng: javis-core
+- Agent chưa workflow nào dùng: cfo, cmo, copywriter, designer, javis-core, tro-ly-ceo

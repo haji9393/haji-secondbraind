@@ -33,3 +33,7 @@ Nguồn: [[PSTKB - Churn Saving Process and Strategy]], [[PSTKB - CSM Kick-Off a
 - Deck khách hàng theo ngành (FMCG, Telco, Retail, Super App, BFSI, Airlines): làm case study minh họa cho lớp lõi.
 
 Lõi: [[Vòng Đời Quản Trị Khách Hàng]].
+
+## Bổ sung 2026-11-17: thuật ngữ nghi là của nhà cung cấp
+
+- "Group Level Unification (GLU)" trong [[Dữ Liệu Khách Hàng Hàng Không]]: lớp lõi gọi là "hợp nhất dữ liệu nhiều thương hiệu trong tập đoàn". Cần xác minh đây có phải tên sản phẩm hay không.
