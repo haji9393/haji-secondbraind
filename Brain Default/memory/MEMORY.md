@@ -20,3 +20,5 @@
 - [Luật phối hợp Ban điều hành](facts/ban-dieu-hanh-luat-phoi-hop.md) - CMO đề xuất, CFO phản biện, trợ lý CEO tổng hợp báo Haji, rồi Copywriter, Designer
 - [Văn phong Haji yêu cầu](facts/haji-van-phong-yeu-cau.md) - Không em dash; email "=>" và "Next:"; tài liệu dự án ngôi thứ ba, thuật ngữ kèm công thức
 - [Ruby Bãi Kem: Haji vẫn phụ trách chính](facts/ruby-bai-kem-haji-van-phu-trach-chinh.md) - Phần 'Haji rời dự án' trong hồ sơ bàn giao là sai; hồ sơ dự án ở projects/ruby-bai-kem/
+- [Ruby Bãi Kem: Haji chỉnh giả định tiền thuê PA2 và lương GĐ PA3/PA4](facts/ruby-bai-kem-sua-mo-hinh-pa2-pa3-pa4.md) - Tiền thuê PA2 không phải 85tr x 3 căn; PA3 và PA4 cùng có lương GM nền, nhân công như nhau
+- [Haji muốn gom hết nguồn của một ngành rồi mới xử lý một thể](facts/haji-gom-nguon-nganh-roi-xu-ly-mot-the.md) - Với tri thức theo ngành, chỉ lưu nguồn và ghi sổ, khi Haji ra lệnh mới dựng wiki
