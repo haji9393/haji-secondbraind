@@ -1,0 +1,23 @@
+{
+ "agent": {
+  "slug": "copywriter"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795012521.1132941,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Bài LinkedIn của Haji không tự thêm ví dụ ngành hay chi tiết đời thật ngoài ý thô chủ gửi; chỗ nào phải diễn giải hoặc giả định thì ghi vào mục \"Haji kiểm lại\"."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-18T14:36:39Z",
+ "version": 1
+}

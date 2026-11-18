@@ -18,3 +18,4 @@ Dự án Ruby Bãi Kem: Haji VẪN phụ trách chính. Hồ sơ bàn giao 17/11
 - Cập nhật 18/11/2026 14:51: công suất thấp điểm 30-45%, cao điểm 75-85%; ADR thuần 600-900k (đã trừ commission, VAT, OTA); chi phí đã khảo sát thực tế; hồi vốn thực tế an toàn ~7 năm; BỎ HẲN doanh thu khác (cửa hàng, pod), chỉ tính doanh thu phòng.
 
 - 18/11/2026: PA2 chốt thuê nguyên toà 300tr/tháng (350tr vượt lợi nhuận khách sạn khi chỉ có doanh thu phòng).
+- Cập nhật 18/11/2026 20:23: CHỐT 4 căn R201, R203, R205, R207. PA1, PA2 coi như không còn thực tế; chỉ so PA3 và PA4. Chi phí site phải tính tiền thuê khách sạn hằng tháng, giá cơ sở 85 triệu/căn (340 triệu/tháng cho 4 căn). Haji muốn tập trung tư duy nhân sự và cách vận hành. Bộ số hiện hành: projects/ruby-bai-kem/12-mo-hinh-ban-5-pa3-pa4-nhan-su-van-hanh.md và mo-hinh-ban-5/ruby-bai-kem-mo-hinh-ban-5.xlsx.

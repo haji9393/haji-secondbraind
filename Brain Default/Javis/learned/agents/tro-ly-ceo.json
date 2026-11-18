@@ -1,0 +1,78 @@
+{
+ "agent": {
+  "slug": "tro-ly-ceo"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795008552.040549,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Haji ưu tiên xây lượng người đọc tự nhiên trên LinkedIn bằng bài viết hơn là tiếp cận trực tiếp, nên giữ tỷ trọng viết bài cao và dùng chính các dự án của Haji làm chủ đề kể chuyện."
+  },
+  {
+   "created_at": 1795008787.6496398,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Evidence bank và số liệu dự án chỉ dùng trong CV, không bao giờ đưa lên LinkedIn hay bất kỳ nội dung công khai nào; bài LinkedIn phải đúc rút từ kinh nghiệm cá nhân của Haji."
+  },
+  {
+   "created_at": 1795008986.928761,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Nội dung LinkedIn của Haji phải lấy từ chuyện đang diễn ra hiện tại, không kể lại chuyện cũ; headline phải dựng từ chính lời Haji tự giới thiệu, không tự đặt khẩu hiệu kiểu marketing."
+  },
+  {
+   "created_at": 1795010346.6048489,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Với nội dung LinkedIn của Haji, phải có mẫu giọng văn thật của Haji trước khi đề xuất bài, nếu không đề xuất sẽ bị chê là giọng AI; nhịp đăng tối đa 2-3 bài/tuần, thể hiện năng lực gián tiếp qua góc nhìn chứ không kể chuyện trực diện."
+  },
+  {
+   "created_at": 1795012181.462355,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Khi Haji đã từ chối nhiều lần liên tiếp, đừng hỏi thêm Haji câu nào nữa; cho nhóm làm ra 1 bài mẫu hoàn chỉnh để Haji chấm thay vì trình khung hay hỏi tiếp."
+  },
+  {
+   "created_at": 1795012740.844369,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Với chủ đề chuyên môn Haji am hiểu (martech, CX, CRM), phải có bước nghiên cứu có nguồn và đọc ghi chú của Haji trước khi chốt góc bài, không chốt góc từ ý thô."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-18T14:46:39Z",
+ "version": 1
+}

@@ -83,7 +83,7 @@ Kinh nghiệm đã chưng cất từ Drive bổ sung trực tiếp cho skill nà
 - `wiki/customer-success/Metric Handshake.md`: số trong deck phải là số khách hàng đã đồng ý cách tính, nếu không sẽ bị bác "bên tôi không tính vậy".
 - `wiki/customer-success/Khung Customer Success 5 Năm.md`: business review có ROI đầy đủ chính là tài liệu gia hạn; dùng dữ liệu của chính khách hàng, không dùng benchmark.
 
-Deck mang nhận diện Insider thì dùng thêm skill `insider-deck-style` cho phần hình thức.
+Deck mang nhận diện Insider thì dùng thêm skill `insider-cs` (phần insider-deck-style) cho phần hình thức.
 
 ## Bẫy
 

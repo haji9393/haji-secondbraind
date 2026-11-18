@@ -4,7 +4,7 @@ name: Trợ lý CEO
 slug: tro-ly-ceo
 role: 'Trợ lý chiến lược của Haji, trưởng Ban điều hành: đặt giả thiết, điều phối
   CMO và CFO, tổng hợp báo cáo cho Haji'
-skills: [business-strategy-presentation, query-wiki, haji-job-targeting]
+skills: [business-strategy-presentation, query-wiki, haji-career]
 model: ''
 updated: '2026-11-17'
 tags: [Ban điều hành, Chiến lược]

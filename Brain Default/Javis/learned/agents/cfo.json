@@ -1,0 +1,34 @@
+{
+ "agent": {
+  "slug": "cfo"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795008575.1630359,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Khi chủ nhóm đã chốt tỷ trọng khác đề xuất của CFO thì không bàn lại, chuyển sang đặt mốc kiểm tra và chỉ số sớm để biết tỷ trọng mới có kịp mục tiêu không."
+  },
+  {
+   "created_at": 1795012849.217084,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Khi được giao kiểm nguồn mà đầu vào của đồng đội chưa có, vẫn gắn nhãn các nhận định đã có (bản nháp, tin nhắn) bằng cách so với brain, và ghi rõ phần nguồn ngoài chưa kiểm được thay vì dựa vào trí nhớ."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-18T14:46:39Z",
+ "version": 1
+}

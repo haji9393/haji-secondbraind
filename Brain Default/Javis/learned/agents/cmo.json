@@ -1,0 +1,111 @@
+{
+ "agent": {
+  "slug": "cmo"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795008574.67293,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Với kế hoạch LinkedIn cá nhân, quy tỷ trọng thời gian ra số bài và số tin tiếp cận mỗi tuần, kèm tỷ lệ phản hồi giả định, để CFO kiểm được."
+  },
+  {
+   "created_at": 1795008696.070475,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Khi brainstorm nội dung LinkedIn trong lượt chỉ có chữ, chốt câu định vị và trụ nội dung trước, để số liệu là [SỐ] chờ lượt Làm đọc evidence bank."
+  },
+  {
+   "created_at": 1795008810.289979,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Không dùng evidence bank hay số liệu dự án cho nội dung công khai (LinkedIn); evidence bank chỉ dùng trong CV, bài viết phải đúc rút từ kinh nghiệm cá nhân của Haji."
+  },
+  {
+   "created_at": 1795009004.4866629,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Nội dung LinkedIn của Haji phải lấy từ chuyện đang diễn ra hằng tuần, theo khung series có nhịp cố định, không kể lại dự án cũ."
+  },
+  {
+   "created_at": 1795009018.011042,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Với nội dung cá nhân của Haji, dựng series thành các chuyên mục cố định theo ngày, nguồn chuyện lấy từ sổ ghi 1 dòng mỗi ngày, không tự nghĩ chủ đề thay chủ."
+  },
+  {
+   "created_at": 1795012485.432918,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Với bài LinkedIn của Haji, chốt góc mở bằng một câu hỏi đời thường thay cho câu tuyên bố, và đưa Copywriter danh sách những điều cần tránh để giọng văn không bị AI."
+  },
+  {
+   "created_at": 1795012616.129765,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Hook cho bài cá nhân của Haji nên lấy từ một hiểu nhầm có thật mà chính bài muốn gỡ, như vậy hook và ý chính tự nối với nhau."
+  },
+  {
+   "created_at": 1795012716.559114,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi chốt góc cho bài chuyên môn của Haji (như martech), phải có bước nghiên cứu có nguồn và để Haji xác nhận cách hiểu, không suy ví dụ từ ý thô."
+  },
+  {
+   "created_at": 1795012849.203952,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Ban điều hành Haji",
+   "source": "self",
+   "status": "active",
+   "text": "Khi gom ghi chú của Haji từ wiki, phải tách các mục \"Bổ sung của Javis\" ra khỏi ý thật của Haji, vì wiki trộn cả hai trong cùng một trang."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-18T14:46:39Z",
+ "version": 1
+}
