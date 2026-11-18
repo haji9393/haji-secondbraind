@@ -1,0 +1,15 @@
+import sys; sys.path.insert(0,'/tmp/ruby4')
+exec(open('/tmp/ruby4/run3.py').read().split("B=mk(")[0])
+O=0.0
+B=mk((0.80,0.60,0.375),other=O); table("CO SO",B)
+table("DAU TREN",mk((0.85,0.65,0.45),other=O))
+table("DAU DUOI -10%",mk((0.75,0.525,0.30),other=O,pm=0.9,delay=3,capex=28,vac1=12,vac2=12,fin=0.28))
+table("XAU 44%",mk((0.65,0.42,0.25),other=O,pm=0.9,delay=3,capex=28,vac1=12,vac2=12,fin=0.28))
+p=mk((0.80,0.60,0.375),other=O); p['site_fix']=0.196; table("CO SO, dinh phi giu 196",p)
+for f in (0.30,0.28,0.25):
+    table(f"CO SO, PA2 thue {f}",mk((0.80,0.60,0.375),other=O,fin=f))
+r=run(B,'PA3'); d=r['detail'][24:36]; R=sum(x['R'] for x in d)
+print("R/thang %.0f; PA3 pre %.1f%%"%(R/12*1000,100*sum(x['pre'] for x in d)/R))
+r=run(B,'PA4'); d=r['detail'][24:36]; print("PA4 bonus/nam %.2f"%sum(x['bon'] for x in d))
+# hotel cash profit vs PA2 rent: what lessee can pay (GOP after site+BO 12%, FFE)
+print("lai KS truoc thue/thang (100%%) %.0f vs thue 350*1.08=%.0f"%(sum(x['pre'] for x in run(B,'PA3')['detail'][24:36])/12*1000, 350*1.0816))

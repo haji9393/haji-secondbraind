@@ -55,5 +55,6 @@ Hệ quả: **giả định gốc của PA4 vẫn đứng.** Haji trực tiếp 
 - [[07-ra-soat-cua-javis]] - Các điểm lệch số và lỗ hổng Javis tìm thấy khi đối chiếu.
 - [[09-so-lieu-ban-3-va-sua-slide]] - Giả định Haji chốt 17/11 (12 tr/m² all-in, xấu 40-45%, GĐ 50 tr), số mới và danh sách sửa từng trang slide.
 - [[10-ra-soat-mo-hinh-tai-chinh]] - Rà soát 17/11: tiền thuê PA2 vượt lãi khách sạn, GĐ 50 tr cho cả PA3 và PA4, PA1 lên đầu khi sửa.
+- [[11-mo-hinh-ban-4-theo-thang]] - Bản 4 (18/11): mỗi PA một cấu trúc, tiền/tháng và giá trị cuối năm 10, so sánh PA3 và PA4. Code: mo-hinh/model.py.
 - [[08-slide-tu-van-va-doi-chieu]] - Slide tư vấn 25 trang (11/2026), mạch trình bày và đối chiếu với Sheet bản 2.
 - Nguồn gốc: `sources/ruby-bai-kem/Hồ sơ bàn giao Ruby Bãi Kem 2026-11-17.md`.

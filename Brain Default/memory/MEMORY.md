@@ -22,3 +22,4 @@
 - [Ruby Bãi Kem: Haji vẫn phụ trách chính](facts/ruby-bai-kem-haji-van-phu-trach-chinh.md) - Phần 'Haji rời dự án' trong hồ sơ bàn giao là sai; hồ sơ dự án ở projects/ruby-bai-kem/
 - [Ruby Bãi Kem: Haji chỉnh giả định tiền thuê PA2 và lương GĐ PA3/PA4](facts/ruby-bai-kem-sua-mo-hinh-pa2-pa3-pa4.md) - Tiền thuê PA2 không phải 85tr x 3 căn; PA3 và PA4 cùng có lương GM nền, nhân công như nhau
 - [Haji muốn gom hết nguồn của một ngành rồi mới xử lý một thể](facts/haji-gom-nguon-nganh-roi-xu-ly-mot-the.md) - Với tri thức theo ngành, chỉ lưu nguồn và ghi sổ, khi Haji ra lệnh mới dựng wiki
+- [Ruby Bãi Kem: giả định công suất, ADR và bỏ doanh thu khác (18/11/2026)](facts/ruby-bai-kem-gia-dinh-cong-suat-adr-doanh-thu-khac.md) - Công suất thấp điểm 30-45%, cao điểm 75-85%, ADR 600-900k ròng, bỏ hẳn doanh thu khác, mốc hồi vốn thực tế 7 năm
