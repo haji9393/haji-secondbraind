@@ -25,3 +25,4 @@
 - [Ruby Bãi Kem: giả định công suất, ADR và bỏ doanh thu khác (18/11/2026)](facts/ruby-bai-kem-gia-dinh-cong-suat-adr-doanh-thu-khac.md) - Công suất thấp điểm 30-45%, cao điểm 75-85%, ADR 600-900k ròng, bỏ hẳn doanh thu khác, mốc hồi vốn thực tế 7 năm
 - [Haji muốn flow automation có vòng research thị trường và tự tối ưu](facts/haji-muon-flow-marketing-co-vong-research-va-tu-toi-uu.md)
 - [Haji muốn gộp skill cùng chức năng để không bị phân mảnh](facts/haji-thich-gop-skill-cung-chuc-nang-tranh-phan-manh.md)
+- [Bộ máy LinkedIn: 5 quy trình và playbook sống (19/11/2026)](facts/linkedin-bo-may-5-quy-trinh-playbook-song.md) - 5 quy trình li-* đang tắt chờ Haji đọc, chưa có lịch chạy; playbook ở marketing/linkedin/playbook.md
