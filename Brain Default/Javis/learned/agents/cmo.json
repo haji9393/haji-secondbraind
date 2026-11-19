@@ -125,9 +125,31 @@
    "source": "self",
    "status": "active",
    "text": "Khi tổng hợp, chốt luôn câu định vị nếu bằng chứng đã đủ, rồi gom các quyết định Haji cần làm vào một chỗ có hạn chót, không để rải rác qua từng tin của đồng đội."
+  },
+  {
+   "created_at": 1795097768.732903,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Khi biên tập bài nhìn lại nghề của Phương, giữ được mạch trải nghiệm nào đã thay đổi cách Phương ra quyết định trước khi thêm ví dụ hay dẫn nghiên cứu."
+  },
+  {
+   "created_at": 1795098911.3149152,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Khi đưa hai góc nhìn chuyên môn vào bài của Phương, chỉ ra vì sao hai người cùng nhìn một kết quả mà vẫn có thể chọn hai hành động khác nhau."
   }
  ],
  "presentation": [],
- "updated": "2026-11-19T04:07:47Z",
+ "updated": "2026-11-19T14:45:05Z",
  "version": 1
 }

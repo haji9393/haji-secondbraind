@@ -1,8 +1,10 @@
 ---
 name: haji-writing
-description: Viết post LinkedIn đúng giọng Haji (Việt, Anh, song ngữ) và gọt văn hết mùi AI mà không đổi ý. Dùng cho bài chuyên môn, thương hiệu cá nhân.
+description: Viết post LinkedIn đúng giọng Haji (Việt, Anh, song ngữ) và gọt văn hết
+  mùi AI mà không đổi ý. Dùng cho bài chuyên môn, thương hiệu cá nhân.
 group: Nội dung
 ---
+
 # Giọng viết của Haji
 
 Skill gộp 2 skill cũ: viết đúng giọng, rồi gọt cho hết mùi AI.

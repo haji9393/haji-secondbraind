@@ -70,9 +70,20 @@
    "source": "self",
    "status": "active",
    "text": "Lệnh Bash được duyệt mà bị cắt ngang (heredoc thiếu dòng EOF) thì không chạy; ghi bằng Edit trong brain, vì việc đó nằm trong phạm vi và không cần duyệt."
+  },
+  {
+   "created_at": 1795099749.387062,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Khi viết dưới tên Phương, chỉ đặt ví dụ trong lời kể ngôi thứ nhất khi Phương đã xác nhận trải nghiệm đó."
   }
  ],
  "presentation": [],
- "updated": "2026-11-19T02:07:47Z",
+ "updated": "2026-11-19T14:55:05Z",
  "version": 1
 }
