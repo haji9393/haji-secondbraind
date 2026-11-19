@@ -1,16 +1,22 @@
 ---
 name: "deep-research"
-description: "Cited research report from many web sources: plan sub-questions, read deeply, synthesize with inline citations and confidence."
+description: "Nghiên cứu nhiều nguồn, tổng quan tài liệu có hệ thống, phản biện phương pháp và kiểm tra bằng chứng cho từng kết luận."
 group: "ECC · Research"
 ---
 
 # Deep Research
 
+## Tài liệu theo tình huống
+
+- Khi tổng hợp nhiều công trình, xác định tiêu chí chọn nguồn, ghi nhật ký tìm kiếm và lập bảng bằng chứng trước khi kết luận. Đọc [hướng dẫn](references/scientific-thinking-literature-review.md).
+- Khi phản biện một nghiên cứu hoặc đề xuất, đối chiếu câu hỏi với phương pháp, dữ liệu, giới hạn và trích dẫn. Ghi rõ kết luận nào đủ căn cứ. Đọc [hướng dẫn](references/scientific-thinking-scholar-evaluation.md).
+
+
 > **Drift-prone skill.** Firecrawl/Exa MCP tool names, quotas, and result
 > shapes change. Verify the configured MCP tools and current API docs before
 > promising coverage or quoting live source counts.
 
-Produce thorough, cited research reports from multiple web sources using firecrawl and exa MCP tools.
+Produce thorough, cited research reports from multiple web sources using the available search and reading tools.
 
 ## When to Activate
 
@@ -20,13 +26,9 @@ Produce thorough, cited research reports from multiple web sources using firecra
 - Any question requiring synthesis from multiple sources
 - User says "research", "deep dive", "investigate", or "what's the current state of"
 
-## MCP Requirements
+## Nguồn tìm kiếm
 
-At least one of:
-- **firecrawl** — `firecrawl_search`, `firecrawl_scrape`, `firecrawl_crawl`
-- **exa** — `web_search_exa`, `web_search_advanced_exa`, `crawling_exa`
-
-Both together give the best coverage. Configure in `~/.claude.json` or `~/.codex/config.toml`.
+Dùng công cụ tìm và đọc web đang có trong Javis. Các ví dụ Exa hoặc Firecrawl bên dưới áp dụng khi công cụ tương ứng đã kết nối. Với tài liệu người dùng cung cấp, đọc trực tiếp tài liệu.
 
 ## Untrusted Sources
 
@@ -60,7 +62,7 @@ Break the topic into 3-5 research sub-questions. Example:
 
 ### Step 3: Execute Multi-Source Search
 
-For EACH sub-question, search using available MCP tools:
+Với từng câu hỏi, dùng `javis_web_search` với tham số `query` để tìm nguồn. Ghi URL, tiêu đề và ngày của tài liệu đã chọn. Các ví dụ dưới đây dành cho kết nối bổ sung.
 
 **With firecrawl:**
 ```
@@ -81,7 +83,7 @@ web_search_advanced_exa(query: "<keywords>", numResults: 5, startPublishedDate: 
 
 ### Step 4: Deep-Read Key Sources
 
-For the most promising URLs, fetch full content:
+Dùng `javis_web_fetch` với tham số `url` để đọc tài liệu gốc. Nếu bài bị cắt, đọc tiếp bằng `offset`. Khi nguồn không mở được, ghi giới hạn hoặc tìm nguồn khác trước khi dùng làm bằng chứng. Các ví dụ dưới đây dành cho kết nối bổ sung.
 
 **With firecrawl:**
 ```
@@ -136,18 +138,9 @@ Sub-questions investigated: [list]
 - **Short topics**: Post the full report in chat
 - **Long reports**: Post the executive summary + key takeaways, save full report to a file
 
-## Parallel Research with Subagents
+## Tổng hợp theo câu hỏi
 
-For broad topics, use Claude Code's Task tool to parallelize:
-
-```
-Launch 3 research agents in parallel:
-1. Agent 1: Research sub-questions 1-2
-2. Agent 2: Research sub-questions 3-4
-3. Agent 3: Research sub-question 5 + cross-cutting themes
-```
-
-Each agent searches, reads sources, and returns findings. The main session synthesizes into the final report.
+Với đề tài rộng, lập bảng gồm câu hỏi, nguồn đã đọc, kết luận và chỗ còn thiếu. Hoàn tất từng câu hỏi rồi đối chiếu các kết luận trước khi viết báo cáo chung.
 
 ## Quality Rules
 

@@ -1,11 +1,17 @@
 ---
 name: insider-cs
-description: Công việc CS cho khách hàng Insider: hồ sơ khách, làm sạch file export, báo cáo hiệu quả tháng 7 bước, dựng slide deck đúng style Insider.
+description: "Quản trị khách hàng, xử lý thuê bao và hoàn tiền, trích và đối soát dữ liệu, làm sạch file xuất, lập báo cáo tháng và dựng deck Insider."
 group: Marketing
 ---
 # Insider Customer Success
 
-Skill gộp 4 skill cũ. Mở đúng file trong `references/` theo việc.
+## Tài liệu theo tình huống
+
+- Khi khách gặp vấn đề thuê bao, hóa đơn hoặc hoàn tiền, xác minh đúng giao dịch và trạng thái qua công cụ thanh toán được cấp quyền. Đọc [hướng dẫn](references/customer-billing-ops.md).
+- Khi đọc file xuất, biểu mẫu hoặc hóa đơn, chọn cách trích theo định dạng và đối soát từng bản ghi với nguồn trước khi tổng hợp. Đọc [hướng dẫn](references/regex-vs-llm-structured-text.md).
+
+
+Mở đúng file trong `references/` theo việc.
 
 ## Khi nào dùng
 | Việc | Mở file |
@@ -17,7 +23,7 @@ Skill gộp 4 skill cũ. Mở đúng file trong `references/` theo việc.
 
 ## Chuỗi chuẩn cho báo cáo tháng
 1. Hồ sơ khách: biết KPI và cách framing trước khi đọc số.
-2. Làm sạch dữ liệu export.
+2. Làm sạch dữ liệu export. Trước khi gộp hoặc pivot, đối soát số bản ghi hợp lệ và số chờ kiểm tra với đầu vào.
 3. Phân tích theo quy trình 7 bước, làm đủ bước xác nhận bắt buộc.
 4. Dựng deck theo style Insider.
 

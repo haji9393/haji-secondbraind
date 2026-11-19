@@ -32,3 +32,13 @@ Catalog nội dung wiki (cập nhật mỗi lần INGEST). Đọc file này trư
 - [[Nhóm Đối Chứng Toàn Cục]] - global holdout 5% để chứng minh doanh thu tăng thêm cho CFO, dùng cho mọi ngành.
 - [[Ancillary Revenue Hàng Không]] - attach rate 15-25%, 5 bộ kịch bản bán bổ trợ, logic loại trừ, status anxiety.
 - [[Case Study Martech Hàng Không]] - VNA, SIA, Turkish, Flyadeal, Pegasus và bài học.
+
+## nghien-cuu (nghiên cứu thị trường, làm nền cho chiến lược)
+
+- [[nghien-cuu/thi-truong-tu-van-cx-crm-ai-vn-2026-11|Thị trường tư vấn CX/CRM/AI Việt Nam (11/2026)]] - bảng số liệu gắn nhãn nguồn, bản đồ đối thủ, hành vi LinkedIn của người mua, khoảng trống Haji lấp được, 5 kết luận cho chiến lược LinkedIn.
+
+## van-hanh-ban-le (vận hành bán lẻ, chưng cất từ 2 skill ECC đã gỡ)
+
+- [[Vận Hành Bán Lẻ - Tổng Quan]] - trang trung tâm: dòng hàng xuôi (tồn kho) và ngược (đổi trả), chỗ hai dòng nối nhau, liên hệ CX.
+- [[Hoạch Định Nhu Cầu Tồn Kho]] - quy trình 6 bước, ABC/XYZ, chọn phương pháp dự báo, WMAPE/bias, công thức tồn an toàn, ROP, EOQ, khuyến mãi, markdown.
+- [[Quản Trị Đổi Trả Hàng]] - quy trình 6 bước, phân hạng A-D, kênh xử lý, chấm điểm gian lận, logic ngoại lệ chính sách, đòi NCC, KPI.

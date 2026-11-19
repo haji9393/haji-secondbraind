@@ -2,7 +2,7 @@
 
 > Tự sinh từ file - ĐỪNG sửa tay. Chỉ mục mọi năng lực của Javis trong brain này để bất kỳ AI/engine đọc 1 chỗ là hiểu Javis làm được gì. Song song `wiki/index.md` (tri thức).
 
-**Tổng quan:** 300 agents · 32 skills · 8 workflows (3 bật) · 0 loops (0 bật) · 29 plugins (28 chạy)
+**Tổng quan:** 300 agents · 23 skills · 8 workflows (3 bật) · 0 loops (0 bật) · 29 plugins (28 chạy)
 
 ## Agents
 - **Nhà nhân học** (`agency-academic-anthropologist`) - Chuyên gia về văn hoá, nghi lễ, quan hệ họ hàng, tín ngưỡng và phương pháp điền dã. Dựng xã hội hư cấu có văn hoá chặt chẽ, như có thật. · tags: Học thuật, Agency Agents
@@ -314,35 +314,27 @@
 - **Notes** (`notes`) - Lưu tin nhắn hiện tại nguyên văn vào sources/ (kèm ảnh), tự chưng cất lên wiki nếu note đáng.
 - **Query Wiki** (`query-wiki`) - Khai thác tri thức trong Second Brain: tổng hợp, so sánh, giả thuyết. Trả lời có trích dẫn.
 ### Chung
-- **haji-career** (`haji-career`) - # Sự nghiệp của Haji (tìm việc và CV)
 - **haji-travel** (`haji-travel`) - # Du lịch của Haji
-- **insider-cs** (`insider-cs`) - # Insider Customer Success
 - **marketing-strategy** (`marketing-strategy`) - # Chiến lược và đo lường marketing
+### Cá nhân
+- **haji-career** (`haji-career`) - Tìm và lọc JD công khai, chọn kênh ứng tuyển, chấm độ phù hợp, viết CV và trao đổi với nhà tuyển dụng theo dữ kiện của Haji.
 ### ECC · Business
 - **benchmark-methodology** (`benchmark-methodology`) - Step 2 of competitor analysis: score rivals on 9 weighted dimensions with evidence-anchored 1-5 rubrics and a tension plot.
 - **competitive-platform-analysis** (`competitive-platform-analysis`) - Step 1 of competitor analysis: decide who counts as a competitor, sort them into tiers, choose which sources to mine.
 - **competitive-report-structure** (`competitive-report-structure`) - Step 3 of competitor analysis: turn scored profiles into a decision-grade report with white space and recommendations.
 - **council** (`council`) - Convene a four-voice council (you, Skeptic, Pragmatist, Critic) for ambiguous decisions and go/no-go calls.
-- **customer-billing-ops** (`customer-billing-ops`) - Handle subscriptions, refunds, churn triage and billing-portal issues with a connected billing tool such as Stripe.
-- **inventory-demand-planning** (`inventory-demand-planning`) - Retail demand planning: forecast method choice, ABC/XYZ segments, safety stock, reorder points, promo lift, markdowns.
-- **investor-materials** (`investor-materials`) - Build pitch decks, one-pagers, investor memos, financial models and use-of-funds tables that stay consistent.
-- **investor-outreach** (`investor-outreach`) - Draft cold emails, warm intro blurbs, follow-ups and update emails to angels, VCs and accelerators.
-- **lead-intelligence** (`lead-intelligence`) - Find, score and reach high-value contacts: signal scoring, warm-path discovery, voice-matched outreach on email, LinkedIn, X.
+- **lead-intelligence** (`lead-intelligence`) - Tìm và chấm điểm đầu mối, xác định người giới thiệu, soạn thư tiếp cận nhà đầu tư, thư theo dõi và cập nhật sau cuộc gặp.
 - **market-research** (`market-research`) - Market research with sources: market sizing, competitor comparison, due diligence and industry scans that end in a decision.
 - **product-lens** (`product-lens`) - Pressure-test a product before building: YC-style diagnostic, fit signals, time-to-value audit, ICE feature priorities.
-- **returns-reverse-logistics** (`returns-reverse-logistics`) - Run product returns: authorization, inspection, disposition economics, refunds, fraud patterns, warranty and vendor recovery.
 ### ECC · Research
-- **data-scraper-agent** (`data-scraper-agent`) - Build a scheduled agent that collects public data (prices, jobs, news), enriches it with an LLM and stores it in Sheets or Notion.
-- **deep-research** (`deep-research`) - Cited research report from many web sources: plan sub-questions, read deeply, synthesize with inline citations and confidence.
+- **deep-research** (`deep-research`) - Nghiên cứu nhiều nguồn, tổng quan tài liệu có hệ thống, phản biện phương pháp và kiểm tra bằng chứng cho từng kết luận.
 - **exa-search** (`exa-search`) - Neural search through the Exa MCP for web pages, code examples, company intel and people lookup.
-- **regex-vs-llm-structured-text** (`regex-vs-llm-structured-text`) - Parse forms, invoices and tables regex-first, flag low-confidence items, and send only those edge cases to an LLM.
-- **scientific-thinking-literature-review** (`scientific-thinking-literature-review`) - Systematic literature review: plan the search, screen sources, synthesize, check citations and keep an evidence log.
-- **scientific-thinking-scholar-evaluation** (`scientific-thinking-scholar-evaluation`) - Evaluate a paper, proposal or methods section against a repeatable rubric for evidence quality and citation support.
 ### Marketing
 - **HTML sang Webcake** (`html-to-webcake`) - Chuyển trang HTML thành file .pke mở được trong trình dựng Webcake, giữ đúng màu, cỡ chữ, ảnh và bố cục của bản gốc.
+- **insider-cs** (`insider-cs`) - Quản trị khách hàng, xử lý thuê bao và hoàn tiền, trích và đối soát dữ liệu, làm sạch file xuất, lập báo cáo tháng và dựng deck Insider.
 - **marketing-content** (`marketing-content`) - Viết nội dung marketing đa kênh (blog, social, newsletter, landing, PR, case study), chuỗi email và duyệt nội dung theo brand voice.
 ### Nội dung
-- **Kế hoạch kinh doanh & thuyết trình chiến lược** (`business-strategy-presentation`) - Tư duy chiến lược và cấu trúc slide cho kế hoạch kinh doanh, đề xuất đầu tư, bài trình bày C-level: dẫn người nghe tới quyết định.
+- **Kế hoạch kinh doanh & thuyết trình chiến lược** (`business-strategy-presentation`) - Lập kế hoạch kinh doanh, thuyết trình C-level và dựng hồ sơ đầu tư với số liệu nhất quán giữa deck, mô hình tài chính và kế hoạch dùng vốn.
 - **haji-writing** (`haji-writing`) - Viết post LinkedIn đúng giọng Haji (Việt, Anh, song ngữ) và gọt văn hết mùi AI mà không đổi ý. Dùng cho bài chuyên môn, thương hiệu cá nhân.
 ### Security
 - **Security Audit** (`security-audit`) - Rà soát bảo mật mã nguồn, API, dịch vụ: tìm lỗ hổng có bằng chứng, kiểm chứng độc lập từng lỗi, báo cáo kèm cách sửa. Từ Cloudflare.

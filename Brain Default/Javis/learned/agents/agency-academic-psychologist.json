@@ -1,0 +1,23 @@
+{
+ "agent": {
+  "slug": "agency-academic-psychologist"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795053763.0141609,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Với nhóm LinkedIn của Haji, chân dung người đọc phải bám dữ liệu tuổi người dùng LinkedIn VN (90% dưới 35) và mục tiêu chính là tìm việc, nên người mua enterprise cũng chính là hiring manager, còn chủ SME chỉ đến qua giới thiệu."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-19T02:07:47Z",
+ "version": 1
+}

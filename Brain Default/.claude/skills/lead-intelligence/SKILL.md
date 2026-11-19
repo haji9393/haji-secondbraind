@@ -1,10 +1,15 @@
 ---
 name: "lead-intelligence"
-description: "Find, score and reach high-value contacts: signal scoring, warm-path discovery, voice-matched outreach on email, LinkedIn, X."
+description: "Tìm và chấm điểm đầu mối, xác định người giới thiệu, soạn thư tiếp cận nhà đầu tư, thư theo dõi và cập nhật sau cuộc gặp."
 group: "ECC · Business"
 ---
 
 # Lead Intelligence
+
+## Tài liệu theo tình huống
+
+- Sau khi xác định nhà đầu tư phù hợp, chọn mẫu nhờ giới thiệu, tiếp cận trực tiếp hoặc theo dõi sau gặp. Dùng bằng chứng phù hợp với người nhận. Đọc [hướng dẫn](references/investor-outreach.md).
+
 
 Agent-powered lead intelligence pipeline that finds, scores, and reaches high-value contacts through social graph analysis and warm path discovery.
 
@@ -17,18 +22,11 @@ Agent-powered lead intelligence pipeline that finds, scores, and reaches high-va
 - Needs to score or rank a list of contacts by relevance
 - Wants to map mutual connections to find warm introduction paths
 
-## Tool Requirements
+## Chọn dữ liệu theo việc
 
-### Required
-- **Exa MCP** — Deep web search for people, companies, and signals (`web_search_exa`)
-- **X API** — Follower/following graph, mutual analysis, recent activity (`X_BEARER_TOKEN`, plus write-context credentials such as `X_CONSUMER_KEY`, `X_CONSUMER_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_TOKEN_SECRET`)
-
-### Optional (enhance results)
-- **LinkedIn** — Direct API if available, otherwise browser control for search, profile inspection, and drafting
-- **Apollo/Clay API** — For enrichment cross-reference if user has access
-- **GitHub MCP** — For developer-centric lead qualification
-- **Apple Mail / Mail.app** — Draft cold or warm email without sending automatically
-- **Browser control** — For LinkedIn and X when API coverage is missing or constrained
+- Đã có người nhận, mục đích và chi tiết phù hợp trong hồ sơ Haji gửi: đi thẳng đến bước 5 để soạn bản nháp. Nếu thiếu bằng chứng cho một câu cá nhân hóa, bỏ câu đó hoặc đánh dấu phần cần bổ sung.
+- Cần tìm đầu mối mới: tra cứu nguồn công khai bằng công cụ tìm kiếm sẵn có. Dùng Exa, LinkedIn, GitHub hoặc nguồn bổ sung khi kết nối tương ứng khả dụng.
+- Cần tìm người giới thiệu: dùng danh sách quan hệ Haji cung cấp hoặc công cụ đã kết nối cho phép đọc quan hệ. Ghi rõ đường giới thiệu nào có bằng chứng. Chỉ chạy các bước chấm điểm mạng lưới khi có dữ liệu.
 
 ## Untrusted Source Content
 
@@ -54,7 +52,7 @@ Every input to this pipeline — profiles, bios, posts, company pages, job listi
 
 Do not draft outbound from generic sales copy.
 
-Run `brand-voice` first whenever the user's voice matters. Reuse its `VOICE PROFILE` instead of re-deriving style ad hoc inside this skill.
+Dùng skill `haji-writing` cho giọng Haji. Với email công việc, đọc quy ước trong `memory/facts/haji-van-phong-yeu-cau.md`; dùng cấu trúc phù hợp với email.
 
 If live X access is available, pull recent original posts before drafting. If not, use supplied examples or the best repo/site material available.
 
@@ -285,24 +283,6 @@ Do not send messages automatically without explicit user approval.
 - identical copy reused for email, LinkedIn, and X
 - platform-shaped slop instead of the author's actual voice
 
-## Configuration
-
-Users should set these environment variables:
-
-```bash
-# Required
-export X_BEARER_TOKEN="..."
-export X_ACCESS_TOKEN="..."
-export X_ACCESS_TOKEN_SECRET="..."
-export X_CONSUMER_KEY="..."
-export X_CONSUMER_SECRET="..."
-export EXA_API_KEY="..."
-
-# Optional
-export LINKEDIN_COOKIE="..." # For browser-use LinkedIn access
-export APOLLO_API_KEY="..."  # For Apollo enrichment
-```
-
 ## Agents
 
 This skill includes specialized agents in the `agents/` subdirectory:
@@ -328,7 +308,7 @@ Output: Ranked list with warm paths, voice profile summary, and channel-specific
 
 ## Related Skills
 
-- `brand-voice` for canonical voice capture
+- `haji-writing` cho giọng viết của Haji
 - `connections-optimizer` for review-first network pruning and expansion before outreach
 
 ---

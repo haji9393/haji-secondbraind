@@ -1,0 +1,34 @@
+{
+ "agent": {
+  "slug": "agency-agents-orchestrator"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795053927.337645,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Ở quyền 'cần duyệt', lệnh Bash gộp (vòng for, grep nhiều mẫu) hay bị chặn, nên đọc file bằng Read và sửa bằng Edit/Write để khỏi mất lượt chờ duyệt."
+  },
+  {
+   "created_at": 1795061122.075517,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Khi xin duyệt lệnh kiểm tra, chỉ xin đúng lệnh còn cần (vd grep kiểm em dash và tên khách), đừng gộp thêm lệnh đọc file đã xử lý xong để khỏi tốn một lượt duyệt."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-19T04:07:47Z",
+ "version": 1
+}

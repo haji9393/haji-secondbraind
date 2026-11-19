@@ -28,3 +28,12 @@ Nhật ký thời gian (append-only). Mỗi entry: `## [YYYY-MM-DD] loại | ti�
 - Tạo 4 trang: [[Bộ Chỉ Số Martech Hàng Không]], [[Catalog Theo Điểm Đến]], [[Cứu Giỏ Bỏ Dở Hàng Không]], [[Nhóm Đối Chứng Toàn Cục]].
 - Viết lại [[Dữ Liệu Khách Hàng Hàng Không]] (TTL đầy đủ, định danh, PCI DSS, tách tin vận hành và tiếp thị); cập nhật [[Hành Trình Khách Hàng Hàng Không]], [[Ancillary Revenue Hàng Không]], [[Hàng Không - Bản Đồ Martech]] (mạch tư duy 8 bước).
 - Ghi 2 mục Mâu thuẫn (chặn 4 giờ vs geofence; thứ tự định danh) và thêm 3 câu hỏi mở. TTL 30-60 ngày, 12 tháng, 7 ngày được diễn giải là không mâu thuẫn.
+
+## [2026-11-19] ingest | Vận hành bán lẻ (2 skill ECC trước khi gỡ)
+- Nguồn: sources/van-hanh-ban-le/ECC - Inventory Demand Planning.md, sources/van-hanh-ban-le/ECC - Returns Reverse Logistics.md (bản gốc skill, giữ nguyên).
+- Tạo 3 trang: [[Vận Hành Bán Lẻ - Tổng Quan]], [[Hoạch Định Nhu Cầu Tồn Kho]], [[Quản Trị Đổi Trả Hàng]]. Mọi ngưỡng số ghi là benchmark Mỹ, cần xác minh cho Việt Nam.
+- Gỡ skill inventory-demand-planning và returns-reverse-logistics khỏi skills/ và .claude/skills theo yêu cầu của Haji.
+
+## [2026-11-19] update | Nghiên cứu thị trường tư vấn CX/CRM/AI Việt Nam (bản 1)
+- Gom 5 file trong marketing/linkedin/research/ (quy mô, đối thủ và giá, người ra quyết định và LinkedIn, đối chiếu khoảng trống, chân dung người đọc) thành [[nghien-cuu/thi-truong-tu-van-cx-crm-ai-vn-2026-11]].
+- Bảng 39 dòng số liệu có mã, mỗi dòng gắn nhãn có nguồn hoặc giả định. 5 kết luận trỏ về mã dòng. Còn mở: follower đối thủ, người kiểm giá giả định, điều kiện tư vấn viên QĐ 433.

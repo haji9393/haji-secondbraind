@@ -1,0 +1,56 @@
+{
+ "agent": {
+  "slug": "ecc-marketing"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795053303.895802,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Ở Việt Nam gần như không đơn vị tư vấn CX/CRM nào công bố giá, nên lấy giá Clutch, giá phần mềm và giá chứng chỉ làm mốc có nguồn, còn giá gói tư vấn thì ghi giả định ngay từ đầu."
+  },
+  {
+   "created_at": 1795053597.4437492,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi xin duyệt lời gọi social_intel, phải kiểm tài khoản BuildPartner đã đăng nhập chưa, vì lời gọi đã duyệt chỉ chạy một lần và hỏng do chưa đăng nhập là mất lượt duyệt."
+  },
+  {
+   "created_at": 1795053787.346347,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Khi đối chiếu khoảng trống định vị cho Haji, chấm mức phù hợp theo thứ tự mục tiêu Haji đã chốt (tìm việc trước, lead sau) và kiểm khoảng trống nào làm hồ sơ bị đọc thành chuyên gia công cụ hay account manager."
+  },
+  {
+   "created_at": 1795053952.154933,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Khi lập lịch nội dung cho Haji, đối chiếu các memory về hiện trạng công việc (vd vai GM Golf House so với chuỗi bài thất nghiệp) để tránh hai câu chuyện công khai mâu thuẫn nhau trước khi sửa headline."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-19T02:07:47Z",
+ "version": 1
+}

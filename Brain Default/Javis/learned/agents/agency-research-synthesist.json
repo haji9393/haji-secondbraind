@@ -1,0 +1,78 @@
+{
+ "agent": {
+  "slug": "agency-research-synthesist"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795053156.886283,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Kho dữ kiện CV chỉ cho biết số nào dùng được trong CV gửi riêng, không cho biết số nào được đăng công khai, nên với LinkedIn phải tách số cấp danh mục khỏi số gắn tên khách và mặc định ẩn danh nhóm sau."
+  },
+  {
+   "created_at": 1795053169.128486,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Với thị trường ngách ở Việt Nam, như tư vấn CX/CRM, cần báo trước rằng số quy mô thường chỉ có từ báo cáo bán phí bị trích vòng, và đề xuất dùng số gián tiếp gắn nhãn thay vì hứa có số trực tiếp."
+  },
+  {
+   "created_at": 1795053303.887617,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Số áp dụng AI ở Việt Nam hầu hết đến từ bên bán giải pháp (AWS, MISA, Finastra), nên phải ghi lợi ích liên quan và chỉ dùng để nói chiều hướng, không dùng để nói mức chính xác."
+  },
+  {
+   "created_at": 1795053500.764343,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi bàn mục tiêu kênh nội dung, đọc memory về thứ tự ưu tiên chủ đã chốt (vd haji-uu-tien-su-nghiep-truoc-doanh-thu-thu-dong), vì nó quyết định mục tiêu chính và phụ, mạnh hơn suy luận từ mô tả việc."
+  },
+  {
+   "created_at": 1795053597.437343,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Số người dùng LinkedIn VN theo chức danh và ngành không có công khai, nên báo ngay từ đầu rằng nguồn thật duy nhất là LinkedIn Campaign Manager, và dùng cơ cấu tuổi của NapoleonCat làm số thay có nhãn giả định."
+  },
+  {
+   "created_at": 1795053688.64637,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Lệnh Bash được duyệt mà bị cắt ngang (heredoc thiếu dòng EOF) thì không chạy; ghi bằng Edit trong brain, vì việc đó nằm trong phạm vi và không cần duyệt."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-19T02:07:47Z",
+ "version": 1
+}

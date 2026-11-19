@@ -26,3 +26,4 @@
 - [Haji muốn flow automation có vòng research thị trường và tự tối ưu](facts/haji-muon-flow-marketing-co-vong-research-va-tu-toi-uu.md)
 - [Haji muốn gộp skill cùng chức năng để không bị phân mảnh](facts/haji-thich-gop-skill-cung-chuc-nang-tranh-phan-manh.md)
 - [Bộ máy LinkedIn: 5 quy trình và playbook sống (19/11/2026)](facts/linkedin-bo-may-5-quy-trinh-playbook-song.md) - 5 quy trình li-* đang tắt chờ Haji đọc, chưa có lịch chạy; playbook ở marketing/linkedin/playbook.md
+- [Haji chọn cách gộp sáu skill và phần regex](facts/haji-chon-cach-gop-sau-skill-va-regex-vao-cs.md) - Haji yêu cầu nhập sáu skill đầu vào các skill phù hợp và gộp phần regex vào Customer Success.

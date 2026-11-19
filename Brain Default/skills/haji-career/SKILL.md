@@ -1,11 +1,16 @@
 ---
 name: haji-career
-description: Tìm việc cho Haji: chọn kênh nộp, chấm JD, viết CV theo JD, message recruiter, trả lời khoảng trống, dựa trên kho dữ kiện đã khoá.
+description: "Tìm và lọc JD công khai, chọn kênh ứng tuyển, chấm độ phù hợp, viết CV và trao đổi với nhà tuyển dụng theo dữ kiện của Haji."
 group: Cá nhân
 ---
 # Sự nghiệp của Haji (tìm việc và CV)
 
-Skill gộp 3 skill cũ. Mở đúng file trong `references/` theo việc cần làm, không đọc hết một lúc.
+## Tài liệu theo tình huống
+
+- Khi cần xây bộ thu thập JD, chọn nguồn công khai, giữ URL và ngày đăng, lọc trùng rồi đưa từng JD sang bước chấm độ phù hợp. Đọc [hướng dẫn](references/data-scraper-agent.md).
+
+
+Mở đúng file trong `references/` theo việc cần làm, không đọc hết một lúc.
 
 ## Khi nào dùng
 | Việc | Mở file |

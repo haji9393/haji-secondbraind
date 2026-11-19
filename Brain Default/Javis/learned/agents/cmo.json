@@ -103,9 +103,31 @@
    "source": "self",
    "status": "active",
    "text": "Khi gom ghi chú của Haji từ wiki, phải tách các mục \"Bổ sung của Javis\" ra khỏi ý thật của Haji, vì wiki trộn cả hai trong cùng một trang."
+  },
+  {
+   "created_at": 1795054109.360574,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Với phễu tư vấn của Haji, tách riêng đường LinkedIn và đường referral rồi tính tỷ lệ từng đường; LinkedIn trực tiếp gần như không ra hợp đồng trong 90 ngày nên referral phải là phần chính."
+  },
+  {
+   "created_at": 1795061136.644704,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "team-name:Marketing Linkedin",
+   "source": "self",
+   "status": "active",
+   "text": "Khi tổng hợp, chốt luôn câu định vị nếu bằng chứng đã đủ, rồi gom các quyết định Haji cần làm vào một chỗ có hạn chót, không để rải rác qua từng tin của đồng đội."
   }
  ],
  "presentation": [],
- "updated": "2026-11-18T14:46:39Z",
+ "updated": "2026-11-19T04:07:47Z",
  "version": 1
 }
