@@ -6,6 +6,8 @@ created: 2026-11-19
 updated: 2026-11-19
 source: ["marketing/linkedin/strategy/2026-11-19-dinh-vi-tru-lich-chi-so.md", "marketing/linkedin/research/2026-11-19-bang-chung-va-so-lieu-linkedin.md", "marketing/linkedin/research/2026-11-19-chan-dung-nguoi-doc.md", "skills/haji-career/references/haji-cv-evidence-bank.md"]
 ---
+
+> Bản nháp theo mục tiêu ngày 19/11. Khi dùng cho LinkedIn, áp dụng mục tiêu, độc giả và tiêu chí duyệt hiện hành trong [playbook](../playbook.md). Các KPI tuyển dụng và câu kết cũ chỉ để đối chiếu.
 # Bộ tối ưu hồ sơ LinkedIn của Haji (bản 1, song ngữ)
 
 Bước "hồ sơ" của việc "Chiến lược xây dựng Haji thành chuyên gia trên LinkedIn". Bám câu định vị trong [[2026-11-19-dinh-vi-tru-lich-chi-so]] mục 1.

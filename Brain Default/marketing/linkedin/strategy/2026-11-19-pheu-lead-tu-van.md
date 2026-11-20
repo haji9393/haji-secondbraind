@@ -6,6 +6,8 @@ created: 2026-11-19
 updated: 2026-11-19
 source: ["marketing/linkedin/strategy/2026-11-19-dinh-vi-tru-lich-chi-so.md", "marketing/linkedin/research/2026-11-19-chan-dung-nguoi-doc.md", "marketing/linkedin/research/2026-11-19-nguoi-ra-quyet-dinh-va-linkedin-vn.md", "marketing/linkedin/research/2026-11-19-ban-do-doi-thu-va-gia.md", "marketing/linkedin/research/2026-11-19-bang-chung-va-so-lieu-linkedin.md"]
 ---
+
+> Bản nháp theo mục tiêu ngày 19/11. Khi dùng cho LinkedIn, áp dụng mục tiêu, độc giả và tiêu chí duyệt hiện hành trong [playbook](../playbook.md). Các KPI tuyển dụng và câu kết cũ chỉ để đối chiếu.
 # Phễu từ LinkedIn và mạng lưới tới hợp đồng tư vấn (bản 1)
 
 Phần phễu của việc "Chiến lược xây dựng Haji thành chuyên gia trên LinkedIn". Nối với lịch 90 ngày và chỉ số ở [[2026-11-19-dinh-vi-tru-lich-chi-so]].

@@ -2,7 +2,7 @@
 
 > Tự sinh từ file - ĐỪNG sửa tay. Chỉ mục mọi năng lực của Javis trong brain này để bất kỳ AI/engine đọc 1 chỗ là hiểu Javis làm được gì. Song song `wiki/index.md` (tri thức).
 
-**Tổng quan:** 300 agents · 23 skills · 8 workflows (3 bật) · 0 loops (0 bật) · 29 plugins (28 chạy)
+**Tổng quan:** 300 agents · 23 skills · 10 workflows (3 bật) · 0 loops (0 bật) · 29 plugins (28 chạy)
 
 ## Agents
 - **Nhà nhân học** (`agency-academic-anthropologist`) - Chuyên gia về văn hoá, nghi lễ, quan hệ họ hàng, tín ngưỡng và phương pháp điền dã. Dựng xã hội hư cấu có văn hoá chặt chẽ, như có thật. · tags: Học thuật, Agency Agents
@@ -345,11 +345,13 @@
 - **Lịch nội dung một tháng** (`lich-noi-dung-thang`) - active · 2 bước [nd-goc-nhin -> nd-bien-tap] · Từ chủ đề và sản phẩm đang bán, lên lịch nội dung một tháng có nhịp bán xen nhịp cho đi.
 - **Từ ý tưởng ra bài đăng** (`y-tuong-thanh-bai-dang`) - active · 3 bước [nd-goc-nhin -> nd-viet-bai -> nd-bien-tap] · Tìm góc tiếp cận, viết bài, biên tập, rồi kiểm chứng trước khi đăng.
 ### Marketing
-- **LinkedIn - Chiến lược tháng** (`li-chien-luoc-thang`) - off · 3 bước [cmo -> tl-phan-bien -> tro-ly-ceo] · CMO đề xuất trụ nội dung, KPI, giả thuyết tháng cho LinkedIn tìm việc; phản biện qua council; Trợ lý CEO trình Haji duyệt.
-- **LinkedIn - Radar thị trường** (`li-radar-thi-truong`) - off · 2 bước [agency-product-trend-researcher -> agency-research-synthesist] · Quét tuần xu hướng CX/CRM/AI, JD Head of CX/Transformation/PM tài chính ở VN, tín hiệu recruiter; cập nhật playbook LinkedIn.
-- **LinkedIn - Sản xuất tuần** (`li-san-xuat-tuan`) - off · 3 bước [nd-goc-nhin -> copywriter -> nd-bien-tap] · Mỗi tuần ra 2 bản nháp LinkedIn tiếng Việt đúng giọng Haji, gắn giả thuyết đang test, kiểm Red List và số đã khoá.
-- **LinkedIn - Soi đối thủ** (`li-soi-doi-thu`) - off · 2 bước [agency-marketing-social-media-strategist -> agency-marketing-social-media-strategist] · Hằng tháng tìm 5-10 người cùng nhắm vai trò CX/Transformation trên LinkedIn VN, chấm điểm, vẽ khoảng trống cho Haji.
-- **LinkedIn - Thí nghiệm và tối ưu** (`li-toi-uu-tuan`) - off · 2 bước [agency-project-management-experiment-tracker -> agency-marketing-growth-hacker] · Haji dán số liệu bài tuần; đo giả thuyết, biến thắng 2 tuần liền thành luật, biến thua vào danh sách đã thử, cập nhật playbook.
+- **LinkedIn - Họp biên tập nhóm Marketing** (`li-ban-bien-tap`) - off · 5 bước [cmo -> agency-research-synthesist -> copywriter -> cmo -> tro-ly-ceo] · Nhóm Marketing Linkedin nhận một đề mở, nghiên cứu LinkedIn và Substack, phát triển luận điểm và trình Haji chọn góc.
+- **LinkedIn - Chiến lược tháng** (`li-chien-luoc-thang`) - off · 3 bước [cmo -> tl-phan-bien -> tro-ly-ceo] · Trình định vị, mạch tám bài và quyết định tối ưu tháng tới từ tín hiệu nhận diện chuyên môn.
+- **LinkedIn - Đề xuất góc tuần** (`li-de-xuat-goc-tuan`) - off · 4 bước [nd-goc-nhin -> copywriter -> cmo -> tro-ly-ceo] · Đề xuất góc chuyên môn và trình Haji chọn theo định vị và câu hỏi thật của độc giả.
+- **LinkedIn - Radar thị trường** (`li-radar-thi-truong`) - off · 2 bước [agency-product-trend-researcher -> agency-research-synthesist] · Quét tín hiệu định vị CX/CRM/AI trên LinkedIn và Substack từ bộ từ khóa và phản hồi độc giả.
+- **LinkedIn - Sản xuất tuần** (`li-san-xuat-tuan`) - off · 2 bước [copywriter -> nd-bien-tap] · Viết bài giúp độc giả hiểu cách Haji nhìn một quyết định CX, CRM hoặc AI theo góc đã duyệt.
+- **LinkedIn - Soi đối thủ** (`li-soi-doi-thu`) - off · 2 bước [agency-marketing-social-media-strategist -> agency-marketing-social-media-strategist] · Đối chiếu tác giả cùng chủ đề để tìm luận điểm khác biệt và khoảng trống có bằng chứng.
+- **LinkedIn - Thí nghiệm và tối ưu** (`li-toi-uu-tuan`) - off · 3 bước [agency-project-management-experiment-tracker -> agency-marketing-growth-hacker -> cmo] · Review tín hiệu định vị sau 7 ngày, ghi quyết định và chuyển câu hỏi về Radar, chiến lược tháng.
 
 ## Loops
 _(chưa có)_

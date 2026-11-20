@@ -6,6 +6,8 @@ created: 2026-11-19
 updated: 2026-11-19
 source: ["marketing/linkedin/research/2026-11-19-bang-chung-va-so-lieu-linkedin.md", "marketing/linkedin/research/2026-11-19-doi-chieu-khoang-trong-va-bang-chung.md", "marketing/linkedin/research/2026-11-19-chan-dung-nguoi-doc.md", "marketing/linkedin/research/2026-11-19-nguoi-ra-quyet-dinh-va-linkedin-vn.md", "marketing/linkedin/research/2026-11-19-ban-do-doi-thu-va-gia.md", "marketing/linkedin/playbook.md", "skills/haji-career/references/haji-cv-evidence-bank.md"]
 ---
+
+> Bản nháp theo mục tiêu ngày 19/11. Khi dùng cho LinkedIn, áp dụng mục tiêu, độc giả và tiêu chí duyệt hiện hành trong [playbook](../playbook.md). Các KPI tuyển dụng và câu kết cũ chỉ để đối chiếu.
 # Định vị, trụ nội dung, lịch 90 ngày và chỉ số theo tháng (bản 1)
 
 Phần chiến lược của việc "Chiến lược xây dựng Haji thành chuyên gia trên LinkedIn". Hồ sơ LinkedIn, phễu lead và 3 bài mẫu là các bước khác; file này chỉ đánh dấu chỗ nối.
