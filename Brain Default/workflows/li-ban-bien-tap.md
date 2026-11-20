@@ -2,8 +2,8 @@
 type: workflow
 name: LinkedIn - Họp biên tập nhóm Marketing
 slug: li-ban-bien-tap
-status: 'off'
-group: Marketing
+status: active
+group: Marketing Linkedin
 description: Nhóm Marketing Linkedin nhận một đề mở, nghiên cứu LinkedIn và Substack, phát triển luận điểm và trình Haji chọn góc.
 steps:
 - agent: cmo

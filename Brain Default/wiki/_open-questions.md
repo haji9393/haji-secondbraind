@@ -12,3 +12,4 @@ Câu hỏi wiki chưa trả lời đủ. Format mỗi dòng:
 - [ ] (2026-11-17) [[Hành Trình Khách Hàng Hàng Không]]: luật chặn mọi tin tiếp thị 4 giờ trước giờ bay vênh với kịch bản geofence sân bay mời mua phòng chờ, voucher F&B; geofence chỉ áp cho khách nối chuyến hay phòng chờ được coi là dịch vụ ngày bay - status: open
 - [ ] (2026-11-17) [[Dữ Liệu Khách Hàng Hàng Không]]: thứ tự khoá định danh đầy đủ, CRM ID đứng ở đâu so với Loyalty ID > Email > Phone - status: open
 - [ ] (2026-11-17) [[Catalog Theo Điểm Đến]]: câu "Real-Time Widget Refresh ... ngẫu nhiên" trong nguồn 3 chưa rõ là lấy mẫu ngẫu nhiên hay chỉ là cách diễn đạt - status: open
+- [ ] (2026-11-20) [[marketing/linkedin/research/radar-2026-11-20]]: Đội CSKH Việt Nam nào có hồ sơ ẩn danh và log nối kênh để kiểm việc giữ lời hẹn, khách phải kể lại và liên hệ lại cùng yêu cầu sau bàn giao? - status: open

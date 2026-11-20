@@ -28,3 +28,4 @@
 - [Bộ máy LinkedIn: 5 quy trình và playbook sống (19/11/2026)](facts/linkedin-bo-may-5-quy-trinh-playbook-song.md) - 5 quy trình li-* đang tắt chờ Haji đọc, chưa có lịch chạy; playbook ở marketing/linkedin/playbook.md
 - [Haji chọn cách gộp sáu skill và phần regex](facts/haji-chon-cach-gop-sau-skill-va-regex-vao-cs.md) - Haji yêu cầu nhập sáu skill đầu vào các skill phù hợp và gộp phần regex vào Customer Success.
 - [Haji muốn workflow nội dung kết hợp Substack, tư duy góc bài và cơ chế đổi hướng](facts/haji-yeu-cau-workflow-content-co-substack-angle-va-doi-huong.md) - Haji yêu cầu nghiên cứu nội dung ngoài LinkedIn phải có Substack, đồng thời workflow cần phát triển góc bài, lập chiến lược nội dung có kế hoạch và quy định khi nào phải làm lại hướng tiếp cận.
+- [Haji muốn Javis trực tiếp tạo năng lực cho Team](facts/haji-muon-javis-tu-tao-nang-luc-team.md) - Khi Haji yêu cầu tạo workflow cho một Team, Javis nên tự thực hiện thay vì chỉ hướng dẫn Haji thao tác.
