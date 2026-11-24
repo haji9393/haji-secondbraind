@@ -94,6 +94,13 @@ ATS chỉ loại tự động qua: knockout questions, hard filter, file không 
 | 10/2026 | Phuc Long | Head of Digital Transformation (báo cáo COO) | Transformation | LinkedIn | Chưa phản hồi (nộp 23/10) | 2 cột, product mindset |
 | 10/2026 | ILA | Head of Customer Experience | CX | ? | ? | ILA vừa mua Insider: ưu tiên CX technology |
 | 10/2026 | Home Credit Vietnam | CVM | CRM / CVM | ? | ? | Bản mới nhất |
+| ? | Generali Vietnam | Customer Experience Associate Manager | CX/BFSI | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 9 / 8 |
+| ? | AIA Vietnam | Agency Growth and Transformation, Senior Lead | Transformation/BFSI | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 8 / 8; JR-64554 |
+| ? | EY | Manager, Business Transformation (HCMC) | Transformation | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 7 / 8; 1724917 |
+| ? | AIA Vietnam | Head of Agency Digital Platforms | Transformation/BFSI | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 6 / 9; JR-66079 |
+| ? | TBS Retail | CRM Lead | CRM / Loyalty | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 8 / 7 |
+| ? | Adjust | Customer Success Manager | Customer Success | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 8 / 6 |
+| ? | Merap | Head of Customer-Centric Transformation & Governance | CX / Transformation | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 7 / 9 |
 
 Mỗi lần nộp mới: thêm 1 dòng đủ cột (kênh, ngày nộp, điểm, kết quả, ngày phản hồi). Ô "?" cần Haji bổ sung.
 
