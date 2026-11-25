@@ -161,7 +161,7 @@ Use `N/A` for dimensions that do not apply.
 
 ---
 
-*Nguồn: [ECC](https://github.com/affaan-m/ECC) của Affaan Mustafa - `ECC/skills/scientific-thinking-scholar-evaluation` - giấy phép MIT.*
+*Nguồn: [Tài liệu gốc của ECC](https://github.com/affaan-m/ECC/blob/main/skills/scientific-thinking-scholar-evaluation/SKILL.md) của Affaan Mustafa - `ECC/skills/scientific-thinking-scholar-evaluation` - giấy phép MIT.*
 *Đã sửa để chạy trên Javis OS: `description` được viết lại còn ≤150 ký tự cho router của Javis; `group` được thêm cho trang Kỹ năng của Javis. Nội dung skill giữ nguyên bản gốc.*
 
 *Mô tả gốc:*

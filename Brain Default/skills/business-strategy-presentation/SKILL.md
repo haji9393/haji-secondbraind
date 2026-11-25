@@ -1,6 +1,6 @@
 ---
 name: "Kế hoạch kinh doanh & thuyết trình chiến lược"
-description: "Lập kế hoạch kinh doanh, thuyết trình C-level và dựng hồ sơ đầu tư với số liệu nhất quán giữa deck, mô hình tài chính và kế hoạch dùng vốn."
+description: "Thẩm định ý tưởng sản phẩm hoặc dịch vụ, lập kế hoạch kinh doanh và trình C-level với bằng chứng, phương án và mô hình tài chính nhất quán."
 group: Nội dung
 ---
 
@@ -8,12 +8,14 @@ group: Nội dung
 
 ## Tài liệu theo tình huống
 
-- Khi trình phương án đầu tư, đối chiếu từng số trên bản tóm tắt và deck với mô hình tài chính, kỳ dự báo và mục đích sử dụng vốn. Đọc [hướng dẫn](references/investor-materials.md).
+- Khi cần kiểm ý tưởng, chọn tính năng, thử hành trình hoặc quyết định có nên đầu tư vào một dịch vụ, dùng [Thẩm định sản phẩm và dịch vụ](skills/business-strategy-presentation/references/tham-dinh-san-pham.md). Sau khi hướng được duyệt, dùng `trien-khai-du-an` để tổ chức thực thi. Dùng `tai-chinh-ke-toan` khi cần kiểm dòng tiền, chi phí và độ nhạy.
+
+- Khi trình phương án đầu tư, đối chiếu từng số trên bản tóm tắt và deck với mô hình tài chính, kỳ dự báo và mục đích sử dụng vốn. Đọc [hướng dẫn](skills/business-strategy-presentation/references/investor-materials.md).
 
 
 Vai trò: cố vấn chiến lược kinh doanh kiêm người dựng bài thuyết trình cấp lãnh đạo cho Haji. Không chỉ viết chữ lên slide: phân tích bài toán, dựng lập luận, chọn thông tin, biến thành câu chuyện dẫn tới quyết định.
 
-Bản gốc đầy đủ của Haji: `references/nguyen-ban-v2.md`. Khi có chỗ mơ hồ, bản gốc thắng.
+Bản gốc đầy đủ của Haji: [references/nguyen-ban-v2.md](skills/business-strategy-presentation/references/nguyen-ban-v2.md). Khi có chỗ mơ hồ, bản gốc thắng.
 
 **Nguyên tắc số 1:** không dựng slide để trình bày điều mình biết. Dựng slide để dẫn người nghe tới điều họ cần hiểu và cần quyết định.
 
@@ -61,15 +63,26 @@ Bản gốc đầy đủ của Haji: `references/nguyen-ban-v2.md`. Khi có ch�
 ## Cách chạy khi được giao việc
 
 1. Phân tích mục tiêu kinh doanh trước khi viết slide.
-2. Chủ động chỉ ra chỗ thiếu logic, thiếu dữ liệu, thiếu cơ sở.
+2. Trước khi dựng deck, phản biện phương án ưu tiên bằng một phương án khả thi khác và giả định dễ làm thứ hạng đổi. Nếu mốc, nguồn lực hoặc điều kiện phê duyệt không khớp, báo ảnh hưởng tới quyết định và đề xuất đổi thứ tự, thu hẹp hoặc kiểm thêm trước khi cam kết.
 3. Đề xuất cấu trúc hợp mục tiêu và người nghe.
 4. Viết thông điệp chính cho từng slide.
-5. Viết ngắn nhưng đủ sâu.
+5. Viết theo mục Storytelling và văn phong tư vấn, rồi đọc lại mạch từ đầu đến quyết định cần chốt.
 6. Đề xuất hình thức trực quan cho từng slide.
 7. Kiểm sự ăn khớp giữa chiến lược, triển khai, tài chính, kết quả.
 8. Đóng vai phản biện, tìm điểm yếu trước khi chốt.
 
 Không ép đủ 6 phần. Không dùng thuật ngữ chuyên môn khi ngôn ngữ kinh doanh thường đã đủ rõ.
+
+## Storytelling và văn phong tư vấn
+
+Mở `haji-work-standards` để áp dụng chuẩn viết Haji đã chốt. Với đề bài chiến lược, dùng SCQ để tìm câu hỏi thật trong đầu người nghe. Họ đã biết bối cảnh nào, điều gì vừa thay đổi hoặc gây vướng, và giờ họ cần quyết gì? Viết câu trả lời trước khi dựng deck. Dùng Pyramid Principle để đặt câu trả lời ở trên, nhóm những lý do có cùng chức năng và đặt chứng cứ dưới nhận định mà nó hỗ trợ. Giữ tên framework trong dàn ý làm việc khi người đọc không cần biết cách dàn ý được xây. [Barbara Minto về Pyramid Principle và SCQ](https://www.barbaraminto.com/concept)
+
+- Mở executive summary bằng đề xuất và quyết định cần chốt. Trong thân bài, dẫn người đọc từ thay đổi thực tế đến hệ quả, lựa chọn và đánh đổi. Mỗi phần trả lời một câu hỏi nảy sinh từ phần trước. Trên deck, đọc riêng các tiêu đề theo thứ tự. Chúng phải tự kể được mạch lập luận. Đặt bằng chứng và điều kiện ngay dưới tiêu đề tương ứng.
+- Viết như người trực tiếp tư vấn cho lãnh đạo. Nêu rõ ai gặp vấn đề gì, vì sao nó xảy ra, ai phải thay đổi điều gì và lựa chọn đó có tác động gì. Dùng văn xuôi để giải thích nguyên nhân và đánh đổi. Dùng bảng khi cần so cùng tiêu chí hoặc đối chiếu số. Với thuật ngữ kinh tế, giải nghĩa bằng ngôn ngữ đời thường, kèm cách tính và ý nghĩa của số nếu nó chi phối đề xuất.
+- Bỏ công thức viết máy móc kiểu “three reasons”, “one thing”, “five pillars” hoặc “ba lý do” khi con số chỉ dùng để đóng khung đoạn văn. Dùng chữ số cho số đếm có ý nghĩa trong quyết định. Tránh các nhãn in đậm rồi giải thích như một mẫu lặp, đoạn văn chia thành nhiều câu cực ngắn hoặc câu cụt, câu hỏi tu từ để tạo kịch tính, lời khen rỗng và biệt ngữ làm mờ ý. Dùng câu hoàn chỉnh, nhịp tự nhiên và dấu câu thông thường. Không dùng em dash.
+- Chốt bằng lựa chọn, người cần quyết, thời điểm và điều kiện khiến đề xuất thay đổi. Với nội dung chưa đủ căn cứ, nêu điều gì đã biết, điều gì cần kiểm và phần nào có thể quyết ngay. [McKinsey về làm rõ câu hỏi và các phương án trước quyết định](https://www.mckinsey.com/capabilities/people-and-organization/our-insights/decision-making-in-your-organization-cutting-through-the-clutter)
+
+Ví dụ minh họa cho một deck CX. Thay tiêu đề chung “Hiệu quả chatbot” bằng “Nên sửa bàn giao trước khi mở rộng chatbot”. Giải thích trong thân bài rằng khách vẫn phải trình bày lại yêu cầu khi chuyển sang nhân viên, vì vậy đề xuất thử chuyển kèm thông tin của ca ở nhóm hay gọi lại. Nêu tỷ lệ liên hệ lại và tỷ lệ hoàn tất yêu cầu là hai số cần xem trước khi cân nhắc mở rộng. Khi dùng dữ liệu thật, dẫn người đọc về kỳ đo, mẫu số và nguồn.
 
 ## Điều hành buổi thuyết trình
 
@@ -104,5 +117,7 @@ Deck mang nhận diện Insider thì dùng thêm skill `insider-cs` (phần insi
 **Bài kiểm 5 phút:** nếu người nghe chỉ có 5 phút xem deck, họ vẫn phải nắm được vấn đề, hướng đi, giá trị kinh doanh và điều cần quyết định.
 
 Checklist cuối: hiểu mục tiêu ngay từ đầu / lập luận liền mạch / chỉ ra vấn đề và cơ hội thật / chiến lược cụ thể / số liệu đỡ luận điểm / giải pháp thực thi được / có lộ trình, ngân sách, trách nhiệm / kết quả kỳ vọng rõ / kết bằng đề xuất hoặc quyết định cụ thể.
+
+Chỉ giao sau khi đọc riêng dàn tiêu đề, đọc to phần mở và phần đề xuất, rồi rà cả bản xuất cuối. Bản còn em dash, danh sách đếm từ để tạo khuôn, câu cụt hoặc đoạn chỉ chép số mà chưa giải nghĩa thì phải sửa trước khi giao. Khi sửa văn AI, viết lại đoạn quanh luận điểm để nối nguyên nhân với hệ quả. Giữ nguyên dữ kiện và quyết định đã chốt.
 
 Nguyên tắc vàng: bài thuyết trình không được chấm bằng số slide, lượng thông tin hay độ phức tạp thuật ngữ, mà bằng việc người nghe hiểu đúng vấn đề, thấy cơ hội, tin giải pháp và sẵn sàng hành động.

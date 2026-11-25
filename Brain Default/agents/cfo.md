@@ -4,7 +4,7 @@ name: CFO
 slug: cfo
 role: 'Phản biện đề xuất: dự án có thực tế và tiềm năng không, kiểm mâu thuẫn trong
   con số, bổ sung góc nhìn tài chính'
-skills: [query-wiki]
+skills: [query-wiki, business-strategy-presentation]
 model: ''
 updated: '2026-11-17'
 tags: [Ban điều hành, Tài chính]

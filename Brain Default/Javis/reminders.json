@@ -1,0 +1,26 @@
+{
+  "reminders": [
+    {
+      "id": "r_b20fe0e8a2",
+      "text": "Billease: bạn đã qua vòng sàng lọc với HR và nộp bài đánh giá sáng 25/11/2026. Quy trình có 4 vòng. Hôm nay kiểm tra email và kênh trao đổi với recruiter. Nếu chưa có phản hồi, cân nhắc nhắn hỏi tiến độ và mốc vòng kế tiếp. Nếu đã có phản hồi, cập nhật hồ sơ Career theo thông tin mới.",
+      "mode": "notify",
+      "due_at": 1796180400.0,
+      "chat_id": "web:15fd5317c113476097f9125217caba73",
+      "repeat_min": 0,
+      "cron": "",
+      "script": "",
+      "label": "Billease - Kiểm tra kết quả bài đánh giá",
+      "status": "pending",
+      "muc_quyen": "full",
+      "remember_last": false,
+      "speak": false,
+      "call": false,
+      "created_by": "javis_schedule",
+      "created_at": 1795604228.0355709,
+      "fired_at": 0.0,
+      "result": "",
+      "error": ""
+    }
+  ],
+  "updated": 1795604228.0356421
+}

@@ -43,7 +43,7 @@ Hỏi Haji muốn làm ở đâu: Google Sheet (chỉ khi trang Kết nối củ
 Cột tối thiểu:
 | Ngày | Giờ | Điểm xuất phát | Điểm đến | Google Maps link | Phương tiện di chuyển | Thời gian di chuyển | Hoạt động ở điểm đến | Lưu ý | Thời trang (outfit) | Chỗ ở | Ngân sách dự kiến | Chi phí thực tế | Phương thức thanh toán |
 
-- Google Maps link dạng: https://www.google.com/maps/search/?api=1&query=<Tên+địa+điểm+Thành+phố>
+- Với cột Google Maps, tìm tên địa điểm kèm thành phố, xác nhận đúng địa chỉ rồi dán link chia sẻ đã mở.
 - Cột Lưu ý: vé cần đổi, cần book, cần lấy trước; giờ đóng cửa; mẹo tránh đông; góc chụp đẹp.
 - Cột Thời trang: tên outfit tham chiếu tới tab Phối đồ.
 - Để trống cột Chi phí thực tế và Phương thức thanh toán để điền trong chuyến đi.

@@ -1,9 +1,3 @@
----
-name: "benchmark-methodology"
-description: "Step 2 of competitor analysis: score rivals on 9 weighted dimensions with evidence-anchored 1-5 rubrics and a tension plot."
-group: "ECC · Business"
----
-
 # Benchmark Methodology
 
 Use this skill to turn a scoped competitor set into **comparable, defensible

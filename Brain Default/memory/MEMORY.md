@@ -31,3 +31,7 @@
 - [Haji muốn Javis trực tiếp tạo năng lực cho Team](facts/haji-muon-javis-tu-tao-nang-luc-team.md) - Khi Haji yêu cầu tạo workflow cho một Team, Javis nên tự thực hiện thay vì chỉ hướng dẫn Haji thao tác.
 - [Haji đã nộp 7 hồ sơ và chưa nhận phản hồi (11/2026)](facts/haji-da-nop-7-viec-chua-co-phan-hoi-2026-11.md) - Tính đến 24/11/2026, Haji cho biết đã nộp 7 vị trí trong danh sách trước đó nhưng chưa nhận phản hồi.
 - [Kỳ vọng lương của Haji cho Customer Experience Manager tại Prudential](facts/haji-ky-vong-luong-cem-prudential-2026-11.md) - Với vị trí CEM tại Prudential, Haji dự kiến kỳ vọng 45–50 triệu đồng gross/tháng lương cố định.
+- [Haji giữ html-to-webcake và security-audit để dùng sau](facts/haji-giu-html-webcake-va-security-audit.md) - Haji chọn giữ hai skill html-to-webcake và security-audit, chưa tắt hay gộp chúng.
+
+- [Haji chốt các skill nền tảng ở bước đầu](facts/haji-chot-skill-buoc-dau.md) - Chuẩn làm việc đã chốt. Ba skill dự án và dữ liệu sẽ tối ưu sau khi thực thi. Phương pháp kế hoạch kinh doanh đã được Haji đồng ý.
+- [Haji xác định bốn dự án đang làm song song](facts/haji-danh-muc-bon-du-an-2026-11.md) - Ưu tiên Career trước, Second Brain kế tiếp, Solo Expert và Ruby Bãi Kem cùng mức sau đó.

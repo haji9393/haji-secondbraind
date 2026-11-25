@@ -93,7 +93,7 @@ Xác nhận hoặc hỏi:
 
 > Mindset: Bạn là **Senior Analytics Consultant**. Không phải chỉ "đọc data rồi báo cáo" - mà là **dùng data để trả lời câu hỏi kinh doanh**. Mỗi con số phải serve một business question cụ thể.
 
-Chi tiết từng bước (câu hỏi phải hỏi user, code kiểm tra, template output) nằm ở `references/quy-trinh-7-buoc.md`. BẮT BUỘC đọc file đó sau BƯỚC 0 và trước khi phân tích; làm đủ 7 bước, đúng thứ tự, không bỏ bước.
+Chi tiết từng bước (câu hỏi phải hỏi user, code kiểm tra, template output) nằm ở [references/quy-trinh-7-buoc.md](skills/insider-cs/references/quy-trinh-7-buoc.md). BẮT BUỘC đọc file đó sau BƯỚC 0 và trước khi phân tích; làm đủ 7 bước, đúng thứ tự, không bỏ bước.
 
 1. Understand Data Field Availability & Meaning
 2. Validate Data - 5-Row Sample Reconfirmation
@@ -176,7 +176,7 @@ Luôn kiểm tra trước khi đánh giá hiệu quả (có thể chạy song so
 
 Xem chi tiết per-vertical và per-client tại:
 - Skill `insider-client-profiles` (`skills/insider-cs/references/insider-client-profiles.md`) - Industry profiles, đặc thù KPI, cách frame kết quả
-- KPI templates per objective, benchmarks, red flags: file `references/objectives.md` của bản gốc KHÔNG có trong Javis. Thiếu benchmark thì hỏi user, không tự đặt số.
+- Với KPI theo mục tiêu, lấy định nghĩa và ngưỡng đã chốt với khách. Đối chiếu [Metric Handshake](<wiki/customer-success/Metric Handshake.md>) và hồ sơ khách ở trên. Nếu thiếu benchmark đã xác nhận thì hỏi người dùng.
 
 ---
 

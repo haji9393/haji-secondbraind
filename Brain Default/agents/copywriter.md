@@ -8,6 +8,7 @@ skills:
 - haji-writing
 - haji-career
 - business-strategy-presentation
+- marketing-content
 model: ''
 updated: '2026-11-19'
 tags:

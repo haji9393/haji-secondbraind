@@ -144,7 +144,7 @@ BUOC 6: Preview ket qua - confirm voi user - export Google Sheet
 
 # PHẦN 2 - RULE SET THEO MODULE
 
-Chi tiết từng Rule Set (cấu trúc file, cột, code pandas) nằm ở `references/rule-sets.md`. BẮT BUỘC đọc file đó trước khi xử lý bất kỳ module nào; không tự suy ra rule.
+Chi tiết từng Rule Set (cấu trúc file, cột, code pandas) nằm ở [references/rule-sets.md](skills/insider-cs/references/rule-sets.md). BẮT BUỘC đọc file đó trước khi xử lý bất kỳ module nào; không tự suy ra rule.
 
 - RULE SET A - App Push Overall Analytics
 - RULE SET B - App Templates (Template Store Analytics)
@@ -156,7 +156,7 @@ Chi tiết từng Rule Set (cấu trúc file, cột, code pandas) nằm ở `ref
 
 # PHẦN 3 - 2 SHEET TỔNG (Campaign Master + Conversion Master)
 
-Sau khi xong mọi Rule Set, dựng 2 sheet tổng cross-module theo `references/master-sheets.md` (BẮT BUỘC đọc trước khi dựng).
+Sau khi xong mọi Rule Set, dựng 2 sheet tổng cross-module theo [references/master-sheets.md](skills/insider-cs/references/master-sheets.md) (BẮT BUỘC đọc trước khi dựng).
 
 ---
 

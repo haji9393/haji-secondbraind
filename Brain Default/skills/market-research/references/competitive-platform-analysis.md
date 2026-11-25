@@ -1,9 +1,3 @@
----
-name: "competitive-platform-analysis"
-description: "Step 1 of competitor analysis: decide who counts as a competitor, sort them into tiers, choose which sources to mine."
-group: "ECC · Business"
----
-
 # Competitive Platform Analysis
 
 Use this skill to decide **who to benchmark** and **where to find them** before

@@ -1,9 +1,3 @@
----
-name: "competitive-report-structure"
-description: "Step 3 of competitor analysis: turn scored profiles into a decision-grade report with white space and recommendations."
-group: "ECC · Business"
----
-
 # Competitive Report Structure
 
 Use this skill to assemble scored competitor cards into a decision-grade report.

@@ -2,7 +2,7 @@
 
 sponsored by [cfo.ai](https://cfo.ai)
 
-[![GitHub stars](https://img.shields.io/github/stars/blader/humanizer?style=flat)](https://github.com/blader/humanizer/stargazers) [![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer) 
+[![GitHub stars](https://img.shields.io/github/stars/blader/humanizer?style=flat)](https://github.com/blader/humanizer) [![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer) 
 
 
 Humanizer makes AI-written text sound like a person wrote it, without changing what it says. It is built on Wikipedia's [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), the guide Wikipedia editors use to catch AI-generated text, and it works in Claude Code, Codex, and any other agent that supports skills.
@@ -27,7 +27,7 @@ These are the most common signs of AI writing, and Humanizer rewrites any of the
 4. **A staged run-up:** "Here's the thing." "Honestly?"
 5. **Arguing with no one:** "I'm not saying X, but..."
 
-Humanizer checks for [26 patterns](#the-26-patterns) in all.
+Humanizer checks for 26 patterns in all.
 
 ## Installation
 
@@ -58,7 +58,7 @@ Download this repository as a ZIP (**Code → Download ZIP**) and upload it as a
 npx skills add blader/humanizer --global --agent '*'
 ```
 
-This installs Humanizer for every agent the Skills CLI supports, including Gemini CLI, GitHub Copilot, and Windsurf. Leave off `--global` in any command above to install it only in the current project. For an agent the Skills CLI does not know, copy `SKILL.md` into its skill folder.
+This installs Humanizer for every agent the Skills CLI supports, including Gemini CLI, GitHub Copilot, and Windsurf. Leave off `--global` in any command above to install it only in the current project. For an agent the Skills CLI does not know, copy *SKILL.md* into its skill folder.
 
 ## Usage
 
@@ -200,7 +200,7 @@ The patterns are numbered by strength and frequency. The first five justify an e
 
 ## Version history
 
-See [CHANGELOG.md](CHANGELOG.md).
+See [CHANGELOG.md](skills/haji-writing/references/humanizer/CHANGELOG.md).
 
 ## License
 

@@ -22,8 +22,9 @@ These override everything else:
 - No ellipsis "..." used dramatically. If needed, keep it conversational.
 - No H2/H3 headers (##, ###) inside the post body.
 
-**REQUIRED structure: Luận điểm + Bullet points**
-Every post must have a clear thesis (luận điểm) followed by bullet points that support or expand it. This is the primary structural pattern:
+**Luận điểm rõ, cấu trúc theo chất liệu**
+
+Mỗi bài có một luận điểm rõ. Những mẫu dưới đây là lựa chọn khi chất liệu phù hợp. Bài phân tích có thể dùng đoạn văn liền mạch, đối chiếu quan điểm hoặc đi theo một quyết định. Dùng bullet, emoji và hashtag khi chúng giúp bài dễ đọc hoặc phù hợp mục đích.
 - Hook/opening = sets the luận điểm (the one central argument or observation)
 - Body = bullet points (3-6 bullets) each carrying one concrete idea, data point, or example
 - Closing = signal line or CTA that ties back to the luận điểm
@@ -37,7 +38,7 @@ Bullet format options by language:
 ## VOICE & TONE
 
 **Core character:**
-- Practitioner, not pundit. Always writes from lived experience: client work, real campaigns, partner events. No generic hot takes.
+- Write as a practitioner. Start from lived experience, a source worth responding to, or a concrete decision in the field. Attribute outside ideas and use personal examples that illuminate the argument.
 - Quiet confidence. Shares observations, not prescriptions. Rarely says "you should" - says "what we found" or "what stuck with me."
 - Warm but not effusive. Grateful without being sycophantic. Recognition feels earned, not performative.
 - Bilingual fluency. Vietnamese posts are casual and local with native idiom. English posts are crisp and globally readable with subtle Vietnam/SEA context.
@@ -183,7 +184,7 @@ What this post type is NOT:
 ## FORMATTING RULES
 
 - Line breaks: Generous. Each idea gets its own line or short paragraph.
-- Bullets: 3-6 per post, each 1-3 sentences. Emoji in Vietnamese, plain or ✅/✨ in English.
+- Use bullets when the ideas are parallel. Use paragraphs when the argument needs to build from one point to the next.
 - Bold: For bullet labels and key phrases only. Not overused.
 - No em dash " - " anywhere. Substitute with: colon, period, or line break.
 - Length targets:
@@ -194,7 +195,7 @@ What this post type is NOT:
   - Field notes / survival tips: 400-650 words (each lesson needs room to breathe)
   - Workshop recap + field insight: 250-400 words
   - Milestone reflection / anniversary: 200-350 words (tight - impact comes from compression)
-- Hashtags: Always at end. Vietnamese: mix local (#martech, #CRM, #retention). English: broader (#CustomerExperience, #AI, #CDP).
+- Hashtags: optional and placed at the end when they help classify the post.
 
 ---
 
@@ -206,13 +207,13 @@ What this post type is NOT:
 4. Apply matching arc from structure patterns above
 5. Draft hook: states the luận điểm, stops the scroll
 6. Write supporting content:
-   - Most posts: 3-6 emoji or plain bullets, each = one concrete idea, data point, or example
+   - Choose prose for a developing argument. Use bullets for parallel ideas, data points, or examples.
    - Field notes: numbered lessons (3-6), each with setup + real insight + CS tip label
    - Workshop recap: 4-5 emoji insight bullets (💡🧩🌾👀) + identity close paragraph
    - Milestone: ✅ personal principles block + 💡🚀❤️ reasons block + conditional close
 7. Close with signal line or CTA tied back to luận điểm
-8. Final check: scan for " - " and replace every instance. Post fails if any em dash remains.
-9. Add hashtag block
+8. Final check: read aloud for complete sentences, then check sources, numbers and punctuation. Replace any em dash.
+9. Add relevant hashtags if useful for the post.
 
 ---
 

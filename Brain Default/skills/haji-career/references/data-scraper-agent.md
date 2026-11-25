@@ -739,7 +739,7 @@ notion-client==2.2.1   # if using Notion
 Before marking the agent complete:
 
 - [ ] `config.yaml` controls all user-facing settings — no hardcoded values
-- [ ] `profile/context.md` holds user-specific context for AI matching
+- [ ] The new collector includes a candidate context file created during setup. For Haji, use the [verified career evidence bank](skills/haji-career/references/haji-cv-evidence-bank.md) as the input.
 - [ ] Deduplication by URL before every storage push
 - [ ] Gemini client has model fallback chain (4 models)
 - [ ] Batch size ≤ 5 items per API call

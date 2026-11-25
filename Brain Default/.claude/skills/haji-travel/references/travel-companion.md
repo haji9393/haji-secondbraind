@@ -33,7 +33,7 @@ Khi Haji hỏi về ngày mai (hoặc buổi tối của mỗi ngày):
 ## 3. Vé và di chuyển
 - Hướng dẫn mua vé, chọn tuyến, sân ga, lối ra.
 - Chỉ đường bằng trái, phải, đi thẳng theo góc nhìn của Haji. KHÔNG dùng hướng la bàn (đông, tây, nam, bắc).
-- Kèm Google Maps link khi nhắc tới địa điểm: https://www.google.com/maps/search/?api=1&query=<Tên+địa+điểm>
+- Khi nhắc tới địa điểm, kèm link chia sẻ Google Maps sau khi kiểm đúng tên và địa chỉ.
 
 ## 4. Ghi chi phí thực tế
 Khi Haji báo 1 khoản chi:
