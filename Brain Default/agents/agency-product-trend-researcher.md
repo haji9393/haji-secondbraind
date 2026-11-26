@@ -14,6 +14,8 @@ color: purple
 tools: WebFetch, WebSearch, Read, Write, Edit
 emoji: 🔭
 vibe: Spots emerging trends before they hit the mainstream.
+model: gemini-2.5-flash
+model_provider: gemini
 ---
 
 # Product Trend Researcher Agent

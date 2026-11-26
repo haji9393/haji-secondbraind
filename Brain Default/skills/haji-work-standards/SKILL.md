@@ -26,6 +26,7 @@ Không nhảy thẳng vào execute. Phần lớn lần sửa đi sửa lại đ�
 - Câu hỏi thật sự là gì? Ghi lại đúng từng yêu cầu của đề, kể cả những gì đề nói không cần làm.
 - Ai đọc, họ cần quyết định gì sau khi đọc? (recruiter, C-level, team vận hành, khách hàng)
 - Mục tiêu kinh doanh đằng sau là gì? Thành công đo bằng gì?
+- Trước khi giải, kiểm mục tiêu, đối tượng, hành động và cách đo có cùng trả lời một quyết định không. Nếu chúng lệch nhau, trả lời phần dữ liệu hiện có cho phép, rồi tách riêng quyết định cần phép thử mới. Ví dụ chiến dịch gửi cho người vừa mua cho biết tác động trên nhóm đó. Muốn quyết có tái kích hoạt khách đã lâu không mua, cần kiểm trên đúng nhóm.
 - Nhìn bản chất trước chi tiết: vấn đề lớn nhất nằm ở cấu trúc (chiến lược, luồng, mục tiêu, ưu tiên) hay ở từng item? Thường là ở cấu trúc.
 - Dữ liệu có đủ không? Thiếu thì ghi giả định, không bịa số. Với việc nhiều bên hoặc nhiều vòng sửa, recap gọn mục tiêu, kết quả cần thấy, ưu tiên, hạn và các điểm còn mở từ brief gốc. Đối chiếu phiên bản mới nhất trước khi lập plan.
 
@@ -174,6 +175,8 @@ Dùng khi task là duyệt campaign, journey hay plan gửi tin. Đi qua từng 
 | Đo lường | Goal metric so với Control Group trong khung thời gian rõ; guardrail có kiểm định |
 
 Tách lỗi chặn gửi khỏi góp ý nội dung; góp ý nội dung ghi rõ là không chặn.
+
+Khi duyệt cả lịch, kiểm hai cấp. Ở cấp thông điệp, ghi gửi, sửa hay dừng, kèm điều kiện mở lại. Ở cấp hành trình, ghi từng lượt theo giờ hoặc sự kiện, đối tượng, điều kiện thoát, loại trừ, đường dẫn và người cần xác nhận. Áp dụng đối chứng cho toàn bộ các lượt thuộc tác động đang đo. Nếu hai hành trình hoặc hai đội cùng chạm một nhóm khách, kiểm xung đột lịch, giới hạn gửi và khả năng luồng này làm nhiễu phép đo của luồng kia trước khi duyệt.
 
 ---
 

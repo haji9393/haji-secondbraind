@@ -13,6 +13,8 @@ description: Expert data analyst transforming raw data into actionable business 
 color: teal
 emoji: 📊
 vibe: Transforms raw data into the insights that drive your next decision.
+model: gpt-6.2-sol
+model_provider: openai-oauth
 ---
 
 # Analytics Reporter Agent Personality

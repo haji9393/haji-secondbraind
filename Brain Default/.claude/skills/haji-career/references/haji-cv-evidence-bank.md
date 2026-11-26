@@ -35,6 +35,7 @@ Insider One: `Global CDP and customer engagement platform, Gartner Magic Quadran
 - ✅ Golf House: chuyển trung tâm đào tạo golf truyền thống thành hệ sinh thái golf-tech 5 đơn vị dịch vụ; business plan, process standards, staff KPIs, CRM, web và app; 3-tier B2B offer. **Tên Golf House được nêu trên CV (chốt 29/10/2026). Với mỗi CV mới, hỏi lại Haji có đưa tên Golf House vào CV đó không trước khi xuất.**
 - 📄 Xuan Truong Group, RHH Global: advise on CRM, marketing automation and AI adoption, từ readiness assessment, roadmap đến training và AI governance. Không viết như 1 client duy nhất.
 - ✅ Vietnam Legends Tour (Staysure Legends Tour, European Tour Group): quy trình và hệ thống quản lý giải 6 cấu phần; mô hình quản trị 6 tiểu ban; tiered sponsor benefits; maximize within allocated budget; sponsorship proposal. Dùng khi JD có governance/operating model/stakeholder.
+- ✅ Vietnam Legends Tour: trực tiếp đàm phán gói tài trợ và quyền lợi với nhà tài trợ, đối tác trong ngân sách được phân bổ. Nguồn: CV MoMo và WinX, Haji xác nhận 25/11/2026.
 
 ## D. Số cấp danh mục
 
@@ -56,6 +57,7 @@ Insider One: `Global CDP and customer engagement platform, Gartner Magic Quadran
 
 ### E1. Customer Success
 - ✅ Scope: POC, onboarding, health scores, SLA, proactive retention (phát hiện sớm rủi ro, save plan), upsell strategy và use case, expansion pipeline, escalation, monthly/QBR/annual review, CEO one-pager tuỳ từng case. Không tự sửa lỗi sản phẩm. Service KPI (SLA, thời gian xử lý khiếu nại) thuộc phòng khác; Haji chịu trách nhiệm chất lượng dịch vụ.
+- ✅ Thương mại: dẫn pitch, POC và đề xuất mở rộng từ discovery, business case và mô hình ROI đến góp ý giá và thuyết trình đề xuất. Đàm phán với lãnh đạo đối tác về điều khoản gia hạn, mở rộng và phạm vi triển khai. Nguồn: CV MKC và Head of Merchant Partnership, Haji xác nhận 25/11/2026.
 - ✅ **Quản trị rủi ro chủ động là một scope of work, không phải case lẻ:** theo dõi tín hiệu sức khoẻ của account và chương trình, call out rủi ro sớm, lập prevention plan phù hợp với từng bên liên quan. FPT Shop là bằng chứng cho năng lực này (xem dưới), không viết như một tình huống adhoc.
 - ✅ Renewal là nỗ lực liên phòng (sales, technical, product, support), nhờ chất lượng sản phẩm và dịch vụ.
 - ✅ Vietnam Airlines: largest strategic account, 3.75x account ARR / 7 năm, scope 1.5x, quan hệ 11 năm.
@@ -66,6 +68,7 @@ Insider One: `Global CDP and customer engagement platform, Gartner Magic Quadran
 - ✅ **Playbook:** nhận định pattern chung qua nhiều tổ chức để dựng playbook các journey đã chứng minh hiệu quả, nhưng vẫn tối ưu và thiết kế các kịch bản đặc thù cho từng công ty.
 
 ### E2. Customer Experience
+- ✅ RFP và đánh giá giải pháp: cùng đội khách hàng soạn yêu cầu và tiêu chí đánh giá giải pháp CX/MarTech. Khi đứng phía nhà cung cấp dự thầu, thực hiện POC. Nguồn: CV GBIA, Haji xác nhận 25/11/2026.
 - ✅ CX hai phía: B2B (trải nghiệm của client enterprise) và B2C (journey cho khách của client). Không lặp B2B/B2C nhiều lần trong một CV.
 - ✅ NPS và CSAT surveys, tổng hợp feedback cải thiện journey và quy trình nội bộ.
 - ✅ O2O: Vinpearl & VinWonders on-site touchpoints; FPT Shop đào tạo đội store-facing (KHÔNG phải CellphoneS).
@@ -77,6 +80,11 @@ Insider One: `Global CDP and customer engagement platform, Gartner Magic Quadran
 
 ### E3. CRM / CVM / Lifecycle
 - ✅ RFM segmentation; segmentation & personalization; recommendation; A/B testing; loyalty.
+- ✅ Đo hiệu quả tăng thêm: thiết lập baseline và nhóm holdout không nhận chiến dịch phù hợp, dùng doanh thu hoặc chuyển đổi tăng thêm so với nhóm đối chứng. Cùng đội Marketing/CRM lập dự báo và theo dõi ROI, đọc theo phễu và cohort hằng tuần để đề xuất phân bổ ngân sách. Nguồn: CV Billease, MoMo, STERRY và Galaxy Joy, Haji xác nhận 25/11/2026.
+- ✅ Giao dịch và dùng thêm sản phẩm: dùng dữ liệu hành vi và giao dịch để gợi ý sản phẩm B khi khách đang dùng A; phân khúc theo sản phẩm đang dùng, giá trị, hành vi và vòng đời. Tách luồng khách chưa từng giao dịch, khách ngừng hoạt động và khách có cơ hội dùng thêm sản phẩm; thiết kế từ lần đăng nhập đầu đến giao dịch đầu tiên và sử dụng thường xuyên. Nguồn: CV Billease và MoMo, Haji xác nhận 25/11/2026.
+- ✅ FPT Shop và CellphoneS: triển khai hành trình trả góp 0% tại điểm mua qua thẻ và đối tác tài chính tiêu dùng. Dùng riêng bằng chứng web push của CellphoneS khi cần nói về chuyển đổi hoặc doanh thu kênh. Nguồn: CV Billease và MoMo, Haji xác nhận 25/11/2026.
+- ✅ Wavemoney, U-money, VETC: các ví dụ trong nhóm dự án thanh toán gồm hành trình nạp tiền, thanh toán tại điểm bán và thanh toán QR, từ lần dùng đầu đến dùng thường xuyên. Chỉ gán từng luồng cho một tổ chức khi có bằng chứng cụ thể. Nguồn: CV Billease và MoMo, Haji xác nhận 25/11/2026.
+- ✅ Taptap: sau giai đoạn thu hút lượt cài đặt, thiết kế hành trình giữ người dùng bằng điểm thưởng, đổi voucher và ưu đãi từ thương hiệu đối tác. Nguồn: CV Billease, MoMo và Galaxy Joy, Haji xác nhận 25/11/2026.
 - ✅ Giá trị orchestration: cùng ngân sách, gửi nhiều hơn, CR tốt hơn. KHÔNG có số giảm chi phí truyền thông.
 - ✅ **Channel deployment là thế mạnh chính, không nhắc lướt trong danh sách kênh:** tư vấn kênh phù hợp cho từng giai đoạn lifecycle, triển khai trọn 9 kênh, orchestration bằng trigger, segment, frequency rule, test segment/content/timing hằng tuần. Zalo ZNS + Mini App: FPT Shop, MBS, Vinpearl, Vinamilk (Vinamilk: tư vấn adoption và dẫn deployment).
 - ✅ **Sacombank (chốt 29/10/2026):** segmentation 4 tầng từ 350,000+ records cho chương trình gamified digital adoption; go-live ~2 tháng. Bản chất từng số, phải ghi đúng phép so sánh:
@@ -95,6 +103,7 @@ Insider One: `Global CDP and customer engagement platform, Gartner Magic Quadran
 - ✅ 13.49 GB dataset: chỉ dùng khi JD đòi năng lực xử lý dữ liệu.
 
 ### E4. Digital Transformation / Product
+- ✅ Điều phối PMO và governance: lập kế hoạch, theo dõi mốc, phụ thuộc, rủi ro và nhật ký quyết định; vận hành họp tuần, review tháng/quý và chuẩn bị tài liệu SteerCo, theo dõi đầu việc đến khi xử lý xong. Nguồn: CV Carlsberg và Merap, Haji xác nhận 25/11/2026.
 - ✅ Luận điểm: transformation cần 2 năng lực hiếm khi đi cùng: domain depth để nghĩ như người trong ngành, và organizational fluency để biến hiểu biết thành thay đổi mà team thực sự áp dụng.
 - ✅ Transformation = biến tầm nhìn thành thực thi rồi tối ưu liên tục; sở hữu customer journey, CRM, personalization đến khi thành cách công ty vận hành.
 - ✅ "Front-end": stakeholder phức tạp trong và ngoài. "Back-end": tư vấn, xây và sửa CJM/CRM theo mục tiêu công ty. Cộng systems thinking, ưu tiên, cải tiến liên tục.
@@ -114,6 +123,12 @@ Insider One: `Global CDP and customer engagement platform, Gartner Magic Quadran
 ### E6. Agency 2015-2018
 - ✅ 15+ dự án cho Vinamilk, Prudential, Novaland, Honda, Lazada (Lazada, Bobby web game, Bobby Maternity app ở Biz-Eyes).
 - ✅ Đồng xây website đặt vé trực tuyến đầu tiên của Vietnam Airlines. 📄 Revamp site đa ngôn ngữ 4,584 trang trong 3 tháng.
+
+### E7. ROI chương trình
+
+- ✅ Nhóm chương trình trong CV tháng 11: ROI trung bình 4–6x, các mức đỉnh 18x và 50x ở nhóm hàng không và du lịch. MKC nêu 4–6x theo chi phí nền tảng; Billease, WinX và Merap diễn đạt theo đầu tư chương trình. Khi viết CV mới, giữ mẫu số theo nguồn của con số. Kiểm tra tập chương trình và kỳ đo trước khi diễn giải rộng hơn. Dùng 18x/50x như mức đỉnh, chỉ gắn từng mức cho một case nếu có nguồn cụ thể.
+- ✅ Vinpearl & VinWonders: ROI chương trình 8–15x trong vòng 3 năm, theo dõi cùng OKR năm với Digital và Operations. Đây là chỉ số của chương trình; tăng trưởng ARR account 2.75x trong 6 năm dùng cho luận điểm thương mại riêng. Nguồn: CV WinX, Carlsberg, Galaxy Joy và MKC.
+- Haji xác nhận các dữ kiện ROI trên ngày 25/11/2026. Chỉ mô tả kết quả được đo bằng nhóm đối chứng khi có căn cứ ở cấp chương trình.
 
 ## F. Framing bắt buộc và Red List
 

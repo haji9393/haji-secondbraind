@@ -46,6 +46,8 @@ _(Soi đối thủ cập nhật ngày 1 hằng tháng.)_
 
 ## Quyết định biên tập
 
+- 25/11/2026: Haji bác các đề xuất chờ duyệt của đợt Marketing Linkedin trước. Dừng dùng góc, bản nháp, bàn giao và lịch đăng của đợt đó. Giữ Radar và bộ từ khóa cho bước nghiên cứu ban đầu. Khi có đề mới, bắt đầu từ câu hỏi và nguồn phù hợp, rồi trình hướng mới để duyệt.
+
 1. Radar ghi sổ nguồn và báo cáo tuần trong research/. CMO trình kế hoạch bốn tuần trong strategy/YYYY-MM.md theo mẫu cùng thư mục. Ưu tiên định vị và câu hỏi của độc giả theo mục 1. Các bản nháp 19/11 là tài liệu tham khảo lịch sử.
 2. Haji duyệt kế hoạch tháng rồi duyệt góc cho từng bài tuần. Trợ lý CEO ghi lời duyệt hoặc trả lại từ tin nhắn thật của Haji vào đúng hồ sơ và phiên bản. Khi có yêu cầu sửa, lưu lịch sử, tăng phiên bản và trình lại. Bản chờ duyệt không thay thế bản tháng đã duyệt đang áp dụng.
 3. Một giả thuyết dùng cùng một hồ sơ briefs/<chu-de>.md qua các lần thử. Hai lần Haji trả cùng đề trước đăng: CMO quay về tìm góc, trình góc khác hoặc đề nghị bỏ. Sản xuất chỉ viết theo góc đã duyệt cho đúng phiên bản. Haji duyệt bản cuối và tự đăng.

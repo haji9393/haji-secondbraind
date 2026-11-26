@@ -8,8 +8,8 @@ skills:
 - brainstorming
 - query-wiki
 - notes
-model: ''
-model_provider: ''
+model: gpt-6.2-astra
+model_provider: openai-oauth
 updated: '2026-09-05'
 ---
 

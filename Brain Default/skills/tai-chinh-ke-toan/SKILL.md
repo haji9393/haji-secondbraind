@@ -16,6 +16,23 @@ Nhạy về số là biết con số nào đáng hỏi, đoán trước khoảng
 
 Chốt mục tiêu, kết quả cần thấy, ai cần quyết gì và khi nào. Tìm cả dữ kiện về hiện trạng lẫn những ràng buộc phải giữ, ví dụ trải nghiệm khách, năng lực đáp ứng hoặc mức tiền mặt tối thiểu. Mỗi quyết định quan trọng cần biết điều gì sẽ khiến mình chọn hướng khác.
 
+## Từ dữ liệu đến quyết định
+
+Dùng quy trình này khi cần xây bằng chứng để chọn phương án. Chọn độ sâu theo DDPP và theo quyết định đang chờ. Mô tả cho biết điều gì đã xảy ra. Chẩn đoán xem yếu tố nào có thể giải thích kết quả. Dự báo xem điều gì có thể xảy ra theo các giả định. Đề xuất so các phương án và nêu nên làm gì. Với báo cáo theo dõi, mô tả có thể đủ. Với khoản đầu tư khó đảo ngược, kiểm thêm giả định có thể đổi thứ hạng phương án và mức tổn thất nếu dự báo sai.
+
+1. **Hiểu dữ liệu đang có.** Xác nhận nguồn, độ phủ, một dòng đại diện cho gì và các trường quan trọng đo gì.
+2. **Hiểu vấn đề và mục tiêu phân tích.** Nêu ai cần quyết gì, các lựa chọn và kết quả cần bảo vệ.
+3. **Nối mục tiêu với các trường dữ liệu.** Gắn từng câu hỏi với biến, chỉ số và mốc so. Nếu dữ liệu thiếu trường hoặc cơ sở so sánh, nêu phần có thể trả lời và dữ kiện cần bổ sung.
+4. **Đặt giả thuyết.** Nêu kết quả nào sẽ ủng hộ từng giả thuyết và điều gì có thể bác bỏ nó.
+5. **Làm sạch dữ liệu theo phép kiểm.** Kiểm đơn vị, bản ghi trùng, giá trị thiếu và thay đổi định nghĩa. Ghi các quy tắc loại trừ ảnh hưởng đến kết quả.
+6. **Khám phá và kiểm giả thuyết.** Chọn phép so theo câu hỏi, kiểm theo nhóm khi cần và xét cách giải thích cạnh tranh.
+7. **Đánh giá bằng chứng và đề xuất.** Ghi giả thuyết được ủng hộ, bị bác bỏ hay chưa đủ bằng chứng. So phương án theo chi phí nếu sai và khả năng đảo ngược, rồi chốt hành động hoặc phép thử tiếp theo.
+8. **Trình bày bằng chứng.** Đặt các phương án trên cùng cơ sở so sánh và thể hiện điểm khác biệt có thể làm đổi lựa chọn. Ví dụ, dùng cột theo kịch bản có đường mốc trần vốn để thấy phương án nào vượt trần, hoặc dùng đường theo giả định công suất để thấy tại đâu hai phương án đổi thứ hạng. Gắn nhãn số thực tế, mục tiêu và dự báo, nêu giả định hoặc giới hạn ngay cạnh hình. Nếu cần đọc giá trị chính xác để đối soát hoặc phê duyệt, dùng bảng. Chuyển sang phần Chốt và xem lại quyết định để đặt chỉ số, ngưỡng và mốc kiểm.
+
+AI có thể phác thảo mục tiêu, diễn giải biến từ tài liệu và bản ghi mẫu, đề xuất giả thuyết và soạn phép tính. Xác nhận các định nghĩa ảnh hưởng đến quyết định trước khi gọi [Phân tích dữ liệu](skills/data-analytics/SKILL.md). Khi giao viết hàm, nêu đầu vào, cấp bản ghi, công thức hoặc tử số và mẫu số, kỳ đo, quy tắc lọc và cách đối soát độc lập. Dùng Excel hoặc Power Query cho phép tính cần rà từng bước, SQL khi cần truy vấn và nối bảng, Python khi cần xử lý lặp hoặc kiểm định. Một phép kiểm đạt khi số ảnh hưởng đến quyết định lần được về dữ liệu gốc và khớp với cách tính độc lập.
+
+Nguồn là giáo trình *Nghệ thuật Ra quyết định Dựa trên Dữ liệu*, Trần Hùng Thiện, tháng 10/2025, trang 12, 14-16 và 28-36. Cách dùng AI, giao hàm và xét mức bằng chứng là phần áp dụng từ buổi thảo luận.
+
 ## Cách đọc số của người ra quyết định
 
 - **Ước lượng trước khi xem số.** Từ quy mô, thời gian và năng lực thực tế, ước lượng khoảng hợp lý bằng phép tính nhanh. Dùng kết quả để phát hiện sai đơn vị, kỳ, cơ cấu hoặc giả định. Khi sai lệch có thật, dùng công thức hoặc mã để kiểm lại.
@@ -33,7 +50,7 @@ Chốt mục tiêu, kết quả cần thấy, ai cần quyết gì và khi nào.
 | Lập kế hoạch | Đi ngược từ kết quả về số lượng, tỷ lệ chuyển đổi, giờ công và nguồn lực. Kiểm ngược từ năng lực hiện có. Nếu hai phép tính vênh, nêu lựa chọn đổi phạm vi, thời hạn hoặc nguồn lực. | Mốc nền, mục tiêu, giả định, người chịu trách nhiệm và mốc xem lại. |
 | Xây chiến lược | So nơi có nhu cầu thật, thế mạnh có bằng chứng và chi phí cơ hội. Chọn nơi tập trung, thử và dành năng lực cho ưu tiên khác. Theo dõi tín hiệu thị trường, vận hành và khách hàng có thể khiến lựa chọn thay đổi. | Phương án ưu tiên, đánh đổi phải chấp nhận và tín hiệu cần xét lại. |
 
-Khi cần kiểm dữ liệu, thiết kế phép đo hoặc chạy phân tích, dùng `data-analytics`. Khi cần kiểm tín hiệu ngoài thị trường, dùng `deep-research` hoặc `market-research`. Khi cần trình lựa chọn chiến lược, dùng `business-strategy-presentation`. Khi hướng đã được duyệt, dùng `trien-khai-du-an` để giao việc, theo dõi và nghiệm thu.
+Khi cần kiểm dữ liệu, thiết kế phép đo hoặc chạy phân tích, dùng `data-analytics`. Khi cần kiểm tín hiệu ngoài thị trường, dùng `deep-research` hoặc `market-research`. Khi cần trình lựa chọn chiến lược, dùng [Kế hoạch kinh doanh & thuyết trình chiến lược](skills/business-strategy-presentation/SKILL.md) để nối đề xuất, bằng chứng và đánh đổi thành một mạch cho người nghe. Khi hướng đã được duyệt, dùng `trien-khai-du-an` để giao việc, theo dõi và nghiệm thu.
 
 ## Chốt và xem lại quyết định
 

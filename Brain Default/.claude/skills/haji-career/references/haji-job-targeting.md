@@ -7,7 +7,7 @@
 
 Định hướng nghề, chọn kênh nộp, chấm độ phù hợp JD (Capability và Direction), lịch sử nộp theo kênh, knockout answers, message recruiter và câu trả lời khoảng trống cho Haji.
 
-Dùng trước khi viết CV (bước kênh và định vị trong `haji-cv-builder`), khi đánh giá JD mới, khi soạn message, khi chuẩn bị phỏng vấn, và khi Haji báo kết quả một đơn.
+Dùng trước khi viết CV, khi đánh giá JD mới, soạn message, chuẩn bị phỏng vấn hoặc nhận kết quả một đơn. Với vị trí cần theo sâu, tạo ba đầu ra có nguồn gồm đánh giá công việc, nghiên cứu công ty và đánh giá mức phù hợp theo [mẫu Career](projects/career/mau-danh-gia-co-hoi.md). Chấm theo nội dung đã kiểm, ghi tác động của điều còn thiếu. Một điểm cao không xóa yêu cầu bắt buộc. Khi thông tin mới hoặc phản hồi tuyển dụng làm đổi định vị, mở lại đánh giá và ghi vì sao.
 
 ## 1. Định hướng
 
@@ -54,7 +54,7 @@ Dùng trước khi viết CV (bước kênh và định vị trong `haji-cv-buil
    | portfolio | danh mục sản phẩm | danh mục client | `client portfolio` |
    | account | tài khoản user | doanh nghiệp | `enterprise account` |
 6. Chọn 1 luận điểm chủ đạo. Đưa client khớp nhất lên đầu: insurance → Generali; bank/BFSI → TP Bank, MBS, Generali (CX strategy thì MBS đầu); hospitality/loyalty → Vinpearl; retail/O2O → FPT Shop, CellphoneS; logistics → Ahamove, GHN; operating model → Vietnam Airlines; e-com A/B → SonKim.
-7. Đề xuất cho Haji: điểm, gap, kênh, lane, headline, luận điểm, 3 client đầu, register. Chờ xác nhận.
+7. Đối chiếu với nghiên cứu công ty. Thử đọc như người lọc CV và hỏi bằng chứng nào có thể bác luận điểm đầu. Đề xuất cho Haji điểm, khoảng trống, kênh, hướng định vị, headline dự kiến và các ví dụ đáng dùng, kèm định vị khả thi khác khi có. Chờ xác nhận nếu cần chốt hướng mới. Ghi lại dữ kiện làm lần đánh giá sau thay đổi.
 
 ## 4. Knockout questions
 
@@ -88,11 +88,11 @@ ATS chỉ loại tự động qua: knockout questions, hard filter, file không 
 | 10/2026 | AIA Vietnam | Senior Manager, Customer Solutions & Business Enablement | CX/Transformation | Portal ATS | Chưa phản hồi | CV thế hệ cũ; tên + chức danh chung dòng; bullet dài |
 | 10/2026 | Chubb Vietnam | Senior Manager, Digital Projects | Transformation | Portal ATS | Chưa phản hồi | CV thế hệ cũ, chạm Red List; không dùng lại |
 | 10/2026 | TVHs (Thanh Vinh Holdings) | CRM & Retention Manager | CRM | ? | ? | `CV_Phuong Hoang_Apply for Thanh Vinh Holdings` |
-| 10/2026 | YouNet Media | Vice Business Head | CS / Client Partnership | Referral | **Có phỏng vấn** | Benchmark văn phong experience |
+| 10/2026 | YouNet Media | Vice Business Head | CS / Client Partnership | Referral | Đã gặp quản lý tuyển dụng, đã gửi tin nhắc cho chị Linh (xác nhận 25/11/2026) | Benchmark văn phong experience |
 | 10/2026 | Crescent Mall | CRM / Loyalty | CRM | ? | ? | `Phuong_Hoang_CRM_Loyalty_Crescent_Mall` |
 | 10/2026 | Be Group | Demand Growth | CRM / Growth | ? | ? | `Phuong_Hoang_Demand_Growth_Be_Group` |
 | 10/2026 | Phuc Long | Head of Digital Transformation (báo cáo COO) | Transformation | LinkedIn | Chưa phản hồi (nộp 23/10) | 2 cột, product mindset |
-| 10/2026 | ILA | Head of Customer Experience | CX | ? | ? | ILA vừa mua Insider: ưu tiên CX technology |
+| 10/2026 | ILA | Head of Customer Experience | CX | ? | Đã nộp, chưa phản hồi. Haji ghi nhận tình trạng tương tự Merap (25/11/2026) | ILA vừa mua Insider: ưu tiên CX technology |
 | 10/2026 | Home Credit Vietnam | CVM | CRM / CVM | ? | ? | Bản mới nhất |
 | ? | Generali Vietnam | Customer Experience Associate Manager | CX/BFSI | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 9 / 8 |
 | ? | AIA Vietnam | Agency Growth and Transformation, Senior Lead | Transformation/BFSI | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 8 / 8; JR-64554 |
@@ -100,7 +100,7 @@ ATS chỉ loại tự động qua: knockout questions, hard filter, file không 
 | ? | AIA Vietnam | Head of Agency Digital Platforms | Transformation/BFSI | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 6 / 9; JR-66079 |
 | ? | TBS Retail | CRM Lead | CRM / Loyalty | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 8 / 7 |
 | ? | Adjust | Customer Success Manager | Customer Success | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 8 / 6 |
-| ? | Merap | Head of Customer-Centric Transformation & Governance | CX / Transformation | ? | Đã nộp, chưa có phản hồi (Haji xác nhận 24/11/2026) | 7 / 9 |
+| ? | Merap | Head of Customer-Centric Transformation & Governance | CX / Transformation | VietnamWorks | Nhà tuyển dụng đã mở CV, chưa phản hồi (Haji xác nhận 25/11/2026) | 7 / 9 |
 
 Mỗi lần nộp mới: thêm 1 dòng đủ cột (kênh, ngày nộp, điểm, kết quả, ngày phản hồi). Ô "?" cần Haji bổ sung.
 

@@ -1,0 +1,104 @@
+{
+  "schema": 2,
+  "source": "kanban.sqlite3",
+  "orchestration": "auto",
+  "tasks": [
+    {
+      "id": "t_0b318408a0d6",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Career - Đánh giá cơ hội ShopBack Regional CRM Manager",
+      "intent": "Đánh giá cơ hội Regional CRM Manager tại ShopBack, TP.HCM từ JD chính thức và dữ kiện Career/Evidence Bank; đối chiếu lịch sử ứng tuyển tháng 10/2026 và email từ chối ngày 05/11 chỉ trong phạm vi bằng chứng; chấm Capability và Direction riêng, xác định yêu cầu cứng, điểm mạnh, khoảng trống in-house so với partner-side, kết luận có nên tiếp cận lại và điều kiện/kênh nộp lại. Lưu hồ sơ cơ hội theo workflow và chỉ tạo brief chờ duyệt nếu kết luận đáng theo; không liên hệ hay nộp hồ sơ.",
+      "route": "wf:career-danh-gia-co-hoi",
+      "capability": "research",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "done",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:6a5962a2324745a1a71b6e1fde7b019a",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795617158.499891,
+      "current_run_id": "",
+      "result": "Mình đã rà lại [hồ sơ ShopBack](projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md) theo đúng lỗi nghiệm thu nêu ra. Bản sửa lần trước đã có, gồm mục \"Phạm vi bằng chứng của thư 05/11\", Capability lấy căn cứ từ JD và lịch sử hồ sơ có ghi lần sửa. Nhưng còn hai chỗ vẫn ngầm gắn thư với vị trí này, mình đã sửa thêm:\n\n- **Điều kiện loại số 1:** câu cũ là \"đơn vào `efc922d8` và không có người giới thiệu thì nộp lại gần như chắc lặp kết quả\". Câu đó coi đơn vào `efc922d8` là đơn đã bị dừng. Giờ điều kiện ghi rõ phải xác nhận được đơn đó đã bị dừng, tức thư 05/11 thuộc đơn này hoặc Lever ghi trạng thái dừng. Nếu chỉ biết đơn vào `efc922d8` thì chưa đủ để loại.\n- **Câu hỏi số 4 cần bạn chốt:** câu cũ hỏi có ghi \"từ chối 05/11\" vào đơn này không. Giờ câu hỏi là trong tháng 10 và 11 bạn có nộp đơn ShopBack nào khác không. Chỉ khi chắc chỉ có một đơn, hoặc email xác nhận Lever khớp mã tin, mới ghi \"dừng 05/11\" vào ô kết quả. Trước đó ô này vẫn để \"?\".\n\nMình thêm một dòng vào lịch sử hồ sơ để ghi lần rà này. Nội dung bước 1 không đổi.\n\n**Kết luận vẫn như cũ:** Capability 6/10, Direction 6,5/10, nên xác minh thêm, ưu tiên thấp và chưa lập brief. Nếu tiếp cận lại thì chỉ qua người giới thiệu nội bộ, không nộp lại trên Lever. Mình không liên hệ ai và không nộp hồ sơ. Bản sao lưu trước lần sửa này nằm ở `/tmp/shopback_backup_v3.md`.\n\n**Bạn cần chốt:**\n1. Mã tin ghi trong email xác nhận Lever tháng 10.\n2. Bạn có người quen ở ShopBack không.\n3. Trong tháng 10 và 11 bạn có nộp đơn ShopBack nào khác không.\n\nCả ba việc này để sau buổi phỏng vấn NAB ngày 26/11.",
+      "created_at": 1795616128.389302,
+      "updated_at": 1795617158.499891,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance": [
+          "Có hồ sơ cơ hội được lưu theo workflow Career, gồm nguồn JD chính thức, ngày tin còn đăng, kết quả đối chiếu mã tin với hồ sơ tháng 10 hoặc ghi rõ chưa xác minh được.",
+          "Có đánh giá tách riêng Capability và Direction, liệt kê yêu cầu cứng, điểm mạnh, khoảng trống in-house so với partner-side, với các nhận định về email từ chối được giới hạn đúng bằng chứng.",
+          "Có kết luận rõ ràng về việc có đáng tiếp cận lại, kênh và điều kiện nộp lại; nếu đáng theo thì có brief chờ duyệt, nếu không thì nêu lý do và không tạo brief.",
+          "Không có hành động liên hệ nhà tuyển dụng, gửi tin nhắn, hoặc nộp CV."
+        ],
+        "specifier": "ai",
+        "route": "wf:career-danh-gia-co-hoi",
+        "capability": "research",
+        "run_seconds": 178,
+        "acceptance_from": "done",
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Nhận định về thư từ chối vượt quá bằng chứng: hồ sơ dùng việc “bị dừng ở đúng vai này” và suy ra người lọc đã thấy khoảng trống, trong khi email không nêu vị trí, mã tin hay lý do.",
+            "a": "Nhận định về thư từ chối vượt quá bằng chứng: hồ sơ dùng việc “bị dừng ở đúng vai này” và suy ra người lọc đã thấy khoảng trống, trong khi email không nêu vị trí, mã tin hay lý do.",
+            "by": "checker",
+            "asked_at": 1795616980.333558,
+            "answered_at": 1795616980.333559,
+            "progress": "Mình đã chấm xong và lưu vào [hồ sơ ShopBack](projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md). Phần mới nằm ở mục \"Bước 2\" cuối file, còn nội dung của bước 1 giữ nguyên. **Kết luận: cần xác minh thêm trước khi theo, và để sau các cơ hội khác. Chưa lập brief.** Mình không liên hệ ai và không nộp hồ sơ.\n\n## Phát hiện làm đổi kết luận\n\nMình tra danh sách tin tuyển trên Lever của ShopBack. Tin `efc922d8` được tạo từ **18/09/2026**, trước tất cả các file CV ShopBack của bạn (07/10 đến 01/11). Vậy nhiều khả năng đơn tháng 10 đã nộp đúng vào tin này và chính tin này bị từ chối ngày 05/11. Bước 1 có đặt điều kiện \"nộp lại nếu tin hiện tại khác mã với đơn cũ\", nhưng điều kiện đó gần như không đạt. Đây vẫn là suy luận. Email xác nhận của Lever sẽ cho biết chắc.\n\n## Điểm\n\n- **Capability 6/10.** Phần nghề CRM gần như khớp đủ: nền tảng, segmentation, thử nghiệm có nhóm đối chứng, 9 kênh. Khoảng trống nằm đúng ở yêu cầu JD nhấn mạnh nhất là *\"your own B2C wins\"*: các kết quả trong hồ sơ là của client, bạn làm cùng. Thêm nữa là bạn có 3 thị trường, JD nói 13.\n- **Direction 6,5/10.** Vị trí in-house B2C khu vực sẽ xoá được khoảng trống \"chỉ làm phía nhà cung cấp\". Nhưng nó không thuộc hướng đích Head of CX/Transformation, không phải BFSI, và chức danh Manager làm tay là đi ngang so với 4 năm làm Lead.\n- Mình chấm thấp hơn bước 1 nửa điểm ở mỗi mục. Lý do chính là đã có một lần bị từ chối ở đúng vị trí này.\n\n## Điều kiện loại và đánh đổi\n\n- **Loại nếu** đơn cũ nộp đúng vào `"
+          }
+        ],
+        "acceptance_fixes": 1,
+        "acceptance_check": "ai"
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-25 21:15",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-25 21:20",
+          "msg": "claimed by worker:69453:17896e9b"
+        },
+        {
+          "ts": "2026-11-25 21:21",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-25 21:21",
+          "msg": "claimed by worker:69453:654257b0"
+        },
+        {
+          "ts": "2026-11-25 21:29",
+          "msg": "Nhận định về thư từ chối vượt quá bằng chứng: hồ sơ dùng việc “bị dừng ở đúng vai này” và suy ra người lọc đã thấy khoảng trống, trong khi email không nêu vị trí, mã tin hay lý do."
+        },
+        {
+          "ts": "2026-11-25 21:29",
+          "msg": "claimed by worker:69453:0eb74a44"
+        },
+        {
+          "ts": "2026-11-25 21:32",
+          "msg": "done"
+        }
+      ]
+    }
+  ],
+  "updated": 1795617158.532105
+}

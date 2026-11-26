@@ -6,8 +6,8 @@ role: Đánh giá độc lập bài viết, mặc định là nó đang sai ho�
 skills:
 - grounded-citations
 - verification-before-completion
-model: ''
-model_provider: ''
+model: claude-sonnet-5-5
+model_provider: anthropic-cli
 updated: '2026-09-05'
 ---
 

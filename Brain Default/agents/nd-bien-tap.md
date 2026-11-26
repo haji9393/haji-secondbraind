@@ -7,8 +7,8 @@ role: Cắt chữ thừa, bắt câu sáo và khẳng định không có bằng 
 skills:
 - haji-writing
 - dsh-prose-standard
-model: ''
-model_provider: ''
+model: gpt-6.2-sol
+model_provider: openai-oauth
 updated: '2026-09-05'
 ---
 
