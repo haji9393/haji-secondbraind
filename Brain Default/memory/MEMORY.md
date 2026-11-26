@@ -35,3 +35,5 @@
 
 - [Haji chốt các skill nền tảng ở bước đầu](facts/haji-chot-skill-buoc-dau.md) - Chuẩn làm việc đã chốt. Ba skill dự án và dữ liệu sẽ tối ưu sau khi thực thi. Phương pháp kế hoạch kinh doanh đã được Haji đồng ý.
 - [Haji xác định bốn dự án đang làm song song](facts/haji-danh-muc-bon-du-an-2026-11.md) - Ưu tiên Career trước, Second Brain kế tiếp, Solo Expert và Ruby Bãi Kem cùng mức sau đó.
+- [Đội 10 agent](facts/haji-doi-agent-10-vai-2026-11.md) - 4 đầu mối dự án và 6 vai chuyên môn, chốt 26/11/2026
+- [Lương gần nhất ở Insider: 92-95tr gross/tháng](facts/haji-luong-gan-nhat-insider.md) - Haji xác nhận 26/11/2026, dùng làm mốc khi đàm phán lương

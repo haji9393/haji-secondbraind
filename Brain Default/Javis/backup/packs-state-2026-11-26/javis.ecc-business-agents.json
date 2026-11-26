@@ -1,0 +1,59 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/ecc-cham-chat-luong": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-cham-chat-luong.md",
+     "hash": "91b71e0d2f734af9ed4c12e6d5798cf215c955a72720d3f0f630562e93e98fc6",
+     "loai": "agents",
+     "slug": "ecc-cham-chat-luong"
+    },
+    "agents/ecc-chanh-van-phong": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-chanh-van-phong.md",
+     "hash": "51245c6df3e9c0f9513c3d1242f2ed3dd8642bdf58a1eb34ed90ae775356ebfa",
+     "loai": "agents",
+     "slug": "ecc-chanh-van-phong"
+    },
+    "agents/ecc-marketing": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-marketing.md",
+     "hash": "47e6ccd7f14a289501bc71286dd50a99181dd0e81a9d55b73cdc9561f2dfba70",
+     "loai": "agents",
+     "slug": "ecc-marketing"
+    },
+    "agents/ecc-seo": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-seo.md",
+     "hash": "19665f7126bf3274a8a002ae2b8b688f34d75816f14a18eb3440ca485ae21030",
+     "loai": "agents",
+     "slug": "ecc-seo"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/ecc-cham-chat-luong": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-cham-chat-luong.md",
+   "hash": "91b71e0d2f734af9ed4c12e6d5798cf215c955a72720d3f0f630562e93e98fc6",
+   "loai": "agents",
+   "slug": "ecc-cham-chat-luong"
+  },
+  "agents/ecc-chanh-van-phong": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-chanh-van-phong.md",
+   "hash": "51245c6df3e9c0f9513c3d1242f2ed3dd8642bdf58a1eb34ed90ae775356ebfa",
+   "loai": "agents",
+   "slug": "ecc-chanh-van-phong"
+  },
+  "agents/ecc-marketing": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-marketing.md",
+   "hash": "47e6ccd7f14a289501bc71286dd50a99181dd0e81a9d55b73cdc9561f2dfba70",
+   "loai": "agents",
+   "slug": "ecc-marketing"
+  },
+  "agents/ecc-seo": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/ecc-seo.md",
+   "hash": "19665f7126bf3274a8a002ae2b8b688f34d75816f14a18eb3440ca485ae21030",
+   "loai": "agents",
+   "slug": "ecc-seo"
+  }
+ }
+}

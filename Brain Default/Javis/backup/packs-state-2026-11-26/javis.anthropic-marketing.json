@@ -1,0 +1,107 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "skills/brand-review": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/brand-review",
+     "hash": "266e6795caefed694696f2b71d201295d6f0d2cce1e6ed5ee24195b09e34148d",
+     "loai": "skills",
+     "slug": "brand-review"
+    },
+    "skills/campaign-plan": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/campaign-plan",
+     "hash": "2335b5e87cc366b7cd6113dac41387a56e0fbf2102e3fe67fe4a2bdead60fd7d",
+     "loai": "skills",
+     "slug": "campaign-plan"
+    },
+    "skills/competitive-brief": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/competitive-brief",
+     "hash": "5cbd5b8ad2d9234fba1a149ad90e2889539e3f74d2cc66710f0bf92c23c9de3f",
+     "loai": "skills",
+     "slug": "competitive-brief"
+    },
+    "skills/content-creation": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/content-creation",
+     "hash": "012ed09d491de22ef3d2697e7f268597353711b8c17d72ce013c4a6e396df970",
+     "loai": "skills",
+     "slug": "content-creation"
+    },
+    "skills/draft-content": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/draft-content",
+     "hash": "0387c1d6dece22365c092d0c695611af0e2241b60f3e1d635a80145e4b4fc5a7",
+     "loai": "skills",
+     "slug": "draft-content"
+    },
+    "skills/email-sequence": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/email-sequence",
+     "hash": "7a89a7aeaf0ba16756cd0150b99e72efcaf22c8fbdb53c7ae484527874a4b258",
+     "loai": "skills",
+     "slug": "email-sequence"
+    },
+    "skills/performance-report": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/performance-report",
+     "hash": "10cabcb049c9305306a1cfce1960ad20fc5d44557779214f7d1bd726b57c4d9e",
+     "loai": "skills",
+     "slug": "performance-report"
+    },
+    "skills/seo-audit": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/seo-audit",
+     "hash": "8e2ca1e7267fab10969f83a4ae6dbc15ce4082f35d8bc7fcd004b7af41ee9e4d",
+     "loai": "skills",
+     "slug": "seo-audit"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "skills/brand-review": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/brand-review",
+   "hash": "266e6795caefed694696f2b71d201295d6f0d2cce1e6ed5ee24195b09e34148d",
+   "loai": "skills",
+   "slug": "brand-review"
+  },
+  "skills/campaign-plan": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/campaign-plan",
+   "hash": "2335b5e87cc366b7cd6113dac41387a56e0fbf2102e3fe67fe4a2bdead60fd7d",
+   "loai": "skills",
+   "slug": "campaign-plan"
+  },
+  "skills/competitive-brief": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/competitive-brief",
+   "hash": "5cbd5b8ad2d9234fba1a149ad90e2889539e3f74d2cc66710f0bf92c23c9de3f",
+   "loai": "skills",
+   "slug": "competitive-brief"
+  },
+  "skills/content-creation": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/content-creation",
+   "hash": "012ed09d491de22ef3d2697e7f268597353711b8c17d72ce013c4a6e396df970",
+   "loai": "skills",
+   "slug": "content-creation"
+  },
+  "skills/draft-content": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/draft-content",
+   "hash": "0387c1d6dece22365c092d0c695611af0e2241b60f3e1d635a80145e4b4fc5a7",
+   "loai": "skills",
+   "slug": "draft-content"
+  },
+  "skills/email-sequence": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/email-sequence",
+   "hash": "7a89a7aeaf0ba16756cd0150b99e72efcaf22c8fbdb53c7ae484527874a4b258",
+   "loai": "skills",
+   "slug": "email-sequence"
+  },
+  "skills/performance-report": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/performance-report",
+   "hash": "10cabcb049c9305306a1cfce1960ad20fc5d44557779214f7d1bd726b57c4d9e",
+   "loai": "skills",
+   "slug": "performance-report"
+  },
+  "skills/seo-audit": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/seo-audit",
+   "hash": "8e2ca1e7267fab10969f83a4ae6dbc15ce4082f35d8bc7fcd004b7af41ee9e4d",
+   "loai": "skills",
+   "slug": "seo-audit"
+  }
+ }
+}

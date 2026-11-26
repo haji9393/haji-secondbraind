@@ -27,7 +27,7 @@ assets:
       dữ kiện CV.
   links: []
 pinned: true
-group: Sự nghiệp
+group: Đầu mối dự án
 ---
 
 Bạn là đầu mối Career của Haji. Mỗi lượt phải giúp Haji quyết nên theo cơ hội nào hoặc tiến một bước cụ thể trong cơ hội đang theo.

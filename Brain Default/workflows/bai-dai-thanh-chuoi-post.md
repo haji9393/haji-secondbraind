@@ -6,7 +6,7 @@ status: active
 description: Từ một bài dài hoặc một tài liệu, tách thành chuỗi post đăng dần, mỗi
   post đứng một mình vẫn đọc được.
 steps:
-- agent: nd-goc-nhin
+- agent: cmo
   task: 'Đọc nội dung dài sau và tách thành 5-7 ý, mỗi ý đủ sức thành một bài đăng
     riêng:
 
@@ -16,7 +16,7 @@ steps:
 
     Với mỗi ý, ghi người đọc, nỗi đau, lời hứa và góc tiếp cận. Sắp xếp theo thứ tự
     nên đăng và nói vì sao thứ tự đó.'
-- agent: nd-viet-bai
+- agent: copywriter
   task: 'Viết trọn bộ bài đăng theo dàn ý dưới đây, mỗi ý một bài:
 
 

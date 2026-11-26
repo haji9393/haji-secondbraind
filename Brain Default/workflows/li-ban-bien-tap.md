@@ -16,7 +16,7 @@ steps:
   tools: [WebSearch, WebFetch]
 - agent: cmo
   task: "So các phương án {{prev}} với kế hoạch tháng và quyết định trong marketing/linkedin/briefs/. Dùng cùng mẫu và hồ sơ của li-de-xuat-goc-tuan, cùng mã giả thuyết cho cùng chủ đề; nếu đã có đề xuất thì cập nhật đúng hồ sơ thay vì tạo bản trùng. Ghi lựa chọn, phương án thứ hai, chỉ số chính, mốc so, điều kiện đủ dữ liệu và thay đổi so lần trước. Chuyển việc thiếu nguồn về Radar với truy vấn cụ thể. Góc chưa duyệt, giả thuyết tạm dừng hoặc thiếu tháng duyệt phải ghi rõ trạng thái."
-- agent: tro-ly-ceo
+- agent: cmo
   task: "Trình Haji từ {{prev}}: chọn gì cho từng bài, vì sao, bằng chứng có thể đảo kết luận, link brief và phiên bản. Kết thúc ở điểm cần Haji duyệt. Khi có lời duyệt thật, lưu theo playbook và dùng li-san-xuat-tuan cho vị trí đủ điều kiện. Sau đăng, li-toi-uu-tuan đọc số sau 7 ngày và đưa câu hỏi về Radar. Không tự giao việc nền hoặc đăng bài."
 updated: '2026-11-20'
 ---

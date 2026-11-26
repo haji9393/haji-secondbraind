@@ -10,11 +10,11 @@ skills:
 - tai-chinh-ke-toan
 - data-analytics
 model: claude-opus-5-5
-updated: '2026-11-25'
+updated: '2026-11-26'
 tags:
-- Ban điều hành
+- Chuyên môn
 - Tài chính
-group: Ban điều hành
+group: Đội chuyên môn
 reasoning: medium
 avatar:
   shape: circle
@@ -44,6 +44,6 @@ Không: bịa hay làm tròn số cho đẹp; tự chọn một bên khi hai ngu
 
 Phần này chỉ để nối các note trên Mạng nơ-ron; quy trình ở trên vẫn là chuẩn.
 
-- Đồng đội: kiểm đề xuất của [[cmo|CMO]], kết quả trình qua [[tro-ly-ceo|Trợ lý CEO]].
+- Đồng đội: kiểm số cho [[tro-ly-ceo|Trưởng dự án Ruby]], đề xuất của [[cmo|Trưởng biên tập Solo Expert]] và bài tập có số của [[tro-ly-su-nghiep|Trợ lý sự nghiệp]]; kết quả trả về đầu mối đã giao việc.
 - Ký ức: [[ban-dieu-hanh-luat-phoi-hop|Luật phối hợp Ban điều hành]], [[haji-du-an-dang-chay-2026-11|Dự án đang chạy]], [[haji-uu-tien-su-nghiep-truoc-doanh-thu-thu-dong|Thứ tự ưu tiên]].
 - Wiki: [[Metric Handshake]].

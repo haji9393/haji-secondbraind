@@ -1,0 +1,3407 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/agency-academic-anthropologist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-anthropologist.md",
+     "hash": "803121a06850aea1e515b77987d4694524e40f714085d3a77e6ba4ea75c9620c",
+     "loai": "agents",
+     "slug": "agency-academic-anthropologist"
+    },
+    "agents/agency-academic-geographer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-geographer.md",
+     "hash": "054c880a295f24e54c02998a216e27886372e9d55f2ab6c97050a79e899f0ea2",
+     "loai": "agents",
+     "slug": "agency-academic-geographer"
+    },
+    "agents/agency-academic-historian": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-historian.md",
+     "hash": "54dd0edaadd1cea9174d5f38a10d3d31b542741374121fe4d1f181b1dfe44e03",
+     "loai": "agents",
+     "slug": "agency-academic-historian"
+    },
+    "agents/agency-academic-narratologist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-narratologist.md",
+     "hash": "98bd2f7200e021d531b422023e3dd80ecec5f0c1fc1100c695c46e00c3dead6b",
+     "loai": "agents",
+     "slug": "agency-academic-narratologist"
+    },
+    "agents/agency-academic-psychologist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-psychologist.md",
+     "hash": "c16824ecf5d1601386cc8d004a5f1bcfec53c789fd9fd1ddd6bbbd7e64adc75b",
+     "loai": "agents",
+     "slug": "agency-academic-psychologist"
+    },
+    "agents/agency-academic-statistician": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-statistician.md",
+     "hash": "d0be126da41869fe663ff05966cf642a209f89b65c365888d0d51eb0cacee0e0",
+     "loai": "agents",
+     "slug": "agency-academic-statistician"
+    },
+    "agents/agency-accounts-payable-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-accounts-payable-agent.md",
+     "hash": "38e36ceed66413f9f1601c143821b7fce878f39b669b2981712357b6ddf24f1f",
+     "loai": "agents",
+     "slug": "agency-accounts-payable-agent"
+    },
+    "agents/agency-agentic-identity-trust": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-agentic-identity-trust.md",
+     "hash": "2444181c163b13f8525c7394f5eb1470cb23c7746e6dccfbae4f3f3029ea3e65",
+     "loai": "agents",
+     "slug": "agency-agentic-identity-trust"
+    },
+    "agents/agency-agents-orchestrator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-agents-orchestrator.md",
+     "hash": "88c2f15350ef5c56f03cba9eecbe08f4f15da66e164714302384958f52ec485b",
+     "loai": "agents",
+     "slug": "agency-agents-orchestrator"
+    },
+    "agents/agency-automation-governance-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-automation-governance-architect.md",
+     "hash": "4cd8d85466e05a60997e757767bb42f5f8c73ec1567f43979b04d16b2e9bd889",
+     "loai": "agents",
+     "slug": "agency-automation-governance-architect"
+    },
+    "agents/agency-blender-addon-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-blender-addon-engineer.md",
+     "hash": "b376446a972ec1cd126c10a2d66a3b77fc21fdd463edebdc3463f1422fd5ccba",
+     "loai": "agents",
+     "slug": "agency-blender-addon-engineer"
+    },
+    "agents/agency-business-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-business-strategist.md",
+     "hash": "fcd1941d88b3af8ff5b4822e9eff1762ff40fb48425e4f71e875d242681aeeec",
+     "loai": "agents",
+     "slug": "agency-business-strategist"
+    },
+    "agents/agency-change-management-consultant": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-change-management-consultant.md",
+     "hash": "f1ec3126874ad77973985b42b02d28d5a580a13f17c4e724932c22fc16b61a8b",
+     "loai": "agents",
+     "slug": "agency-change-management-consultant"
+    },
+    "agents/agency-chief-financial-officer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-chief-financial-officer.md",
+     "hash": "1cf01837f2594411eefd9fa283f9f21813557b85d5d157c5dd6d7d0f90e354ec",
+     "loai": "agents",
+     "slug": "agency-chief-financial-officer"
+    },
+    "agents/agency-corporate-training-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-corporate-training-designer.md",
+     "hash": "18fa2a15a9ecb9c32efaa9c094082cf232f257bbcca3760e5b1c16efe6cb4b6b",
+     "loai": "agents",
+     "slug": "agency-corporate-training-designer"
+    },
+    "agents/agency-customer-service": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-customer-service.md",
+     "hash": "5cd54417583aadcba1fcfc8fee9e3e405ff893ea5afc587d72d5fc9efcea9682",
+     "loai": "agents",
+     "slug": "agency-customer-service"
+    },
+    "agents/agency-customer-success-manager": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-customer-success-manager.md",
+     "hash": "30bf0ff4606cc8066917db9faaa023c2ac0f6e32480406a79630a493ce59edce",
+     "loai": "agents",
+     "slug": "agency-customer-success-manager"
+    },
+    "agents/agency-data-consolidation-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-data-consolidation-agent.md",
+     "hash": "36462bdda318e1f8e40778c16f5b8e9f751aa7f37d9769383c58677d37728440",
+     "loai": "agents",
+     "slug": "agency-data-consolidation-agent"
+    },
+    "agents/agency-data-privacy-officer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-data-privacy-officer.md",
+     "hash": "aeab5cedb7812b4afda33a4b6a8cf598b8900fa1ff1a08c305fd530aaa05d259",
+     "loai": "agents",
+     "slug": "agency-data-privacy-officer"
+    },
+    "agents/agency-design-brand-guardian": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-brand-guardian.md",
+     "hash": "14105741c88052a10a53c667077fef1b0da7ff1663f8da7e5035d2f736f31e4b",
+     "loai": "agents",
+     "slug": "agency-design-brand-guardian"
+    },
+    "agents/agency-design-image-prompt-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-image-prompt-engineer.md",
+     "hash": "1a3d9da696de136dba0f8056b7f60e45a5b10c872259ccfc105ad0e3f9137660",
+     "loai": "agents",
+     "slug": "agency-design-image-prompt-engineer"
+    },
+    "agents/agency-design-inclusive-visuals-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-inclusive-visuals-specialist.md",
+     "hash": "52490a4a4ddceb2945f626b4738145dc867047c091c8f43dc334e72b94012f69",
+     "loai": "agents",
+     "slug": "agency-design-inclusive-visuals-specialist"
+    },
+    "agents/agency-design-persona-walkthrough": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-persona-walkthrough.md",
+     "hash": "56a6fa3118fdf342038a0f76ef90533080806ac581dbf1520efca695fb148776",
+     "loai": "agents",
+     "slug": "agency-design-persona-walkthrough"
+    },
+    "agents/agency-design-ui-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ui-designer.md",
+     "hash": "ebe4abf207e3c3ae48f02ff6cdc64283091d2daa9733ee871fe61efc248b8cb5",
+     "loai": "agents",
+     "slug": "agency-design-ui-designer"
+    },
+    "agents/agency-design-ui-finish-gate-reviewer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ui-finish-gate-reviewer.md",
+     "hash": "2e8ba7e3215f5d3b1c1bc3e2f38726f051ed1be63138e828a5a022c11a0ff348",
+     "loai": "agents",
+     "slug": "agency-design-ui-finish-gate-reviewer"
+    },
+    "agents/agency-design-ux-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ux-architect.md",
+     "hash": "7217226725a5789ebd8d9056e64d2ab1beece23b3a76b0cab9451a13b92360f3",
+     "loai": "agents",
+     "slug": "agency-design-ux-architect"
+    },
+    "agents/agency-design-ux-researcher": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ux-researcher.md",
+     "hash": "69356475682496fa05fcb08cddd721c58e5ee86ee81b03b56e68581c46b98cfa",
+     "loai": "agents",
+     "slug": "agency-design-ux-researcher"
+    },
+    "agents/agency-design-visual-storyteller": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-visual-storyteller.md",
+     "hash": "7a9ce352a5692d296468d6c831905a054cd3a4f265195c7f787e181b5213a5d5",
+     "loai": "agents",
+     "slug": "agency-design-visual-storyteller"
+    },
+    "agents/agency-design-whimsy-injector": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-whimsy-injector.md",
+     "hash": "5d15324a12f774d3774a925d8f69790fbb92d8507cd3b1abf93134f696091b8c",
+     "loai": "agents",
+     "slug": "agency-design-whimsy-injector"
+    },
+    "agents/agency-economy-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-economy-designer.md",
+     "hash": "503e53e9c7d45227ccc42cd08d4befa8d10d1fefb1644d7d4c2c09a1f5c5765e",
+     "loai": "agents",
+     "slug": "agency-economy-designer"
+    },
+    "agents/agency-engineering-ai-data-remediation-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-ai-data-remediation-engineer.md",
+     "hash": "193918adf5d9dce0edf3434bbd6b3d6626d51acf1c43c763d42faf50e21f91b7",
+     "loai": "agents",
+     "slug": "agency-engineering-ai-data-remediation-engineer"
+    },
+    "agents/agency-engineering-ai-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-ai-engineer.md",
+     "hash": "cfb98a42d0037307aef61f76635460a7bba2ab6f808017554239b6b7017eb7ab",
+     "loai": "agents",
+     "slug": "agency-engineering-ai-engineer"
+    },
+    "agents/agency-engineering-api-platform-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-api-platform-engineer.md",
+     "hash": "339a19a5f38914d4395cb0b3d387a20e95397090cc632f3ab17720eaa697e04f",
+     "loai": "agents",
+     "slug": "agency-engineering-api-platform-engineer"
+    },
+    "agents/agency-engineering-ats-validator-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-ats-validator-architect.md",
+     "hash": "d2e94b004d2fafb75342533b2a4f5aa46ae2b344bb940da94f83155176f9fd25",
+     "loai": "agents",
+     "slug": "agency-engineering-ats-validator-architect"
+    },
+    "agents/agency-engineering-autonomous-optimization-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-autonomous-optimization-architect.md",
+     "hash": "9a631c2d505be1ced5ea38221051d8cb74021794e1d90f581cc5f0dcb4a97f5d",
+     "loai": "agents",
+     "slug": "agency-engineering-autonomous-optimization-architect"
+    },
+    "agents/agency-engineering-backend-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-backend-architect.md",
+     "hash": "1735cfc4bea75421d6638c50d8588e264c2fcdddcbc0dbc49ca934c1aa6bd840",
+     "loai": "agents",
+     "slug": "agency-engineering-backend-architect"
+    },
+    "agents/agency-engineering-china-network-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-china-network-engineer.md",
+     "hash": "981a45057a9768c70f427443b3f4f64174201cd34ae417c8a8ee3990eb34a174",
+     "loai": "agents",
+     "slug": "agency-engineering-china-network-engineer"
+    },
+    "agents/agency-engineering-cms-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-cms-developer.md",
+     "hash": "eef8972831345976d914c5ee9dc6ee87fc4d7b2be38c43fd62b85f4c80da7f8d",
+     "loai": "agents",
+     "slug": "agency-engineering-cms-developer"
+    },
+    "agents/agency-engineering-code-reviewer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-code-reviewer.md",
+     "hash": "cd7643598594b1e55bb0e0b77864729fdf54d38357d46a731a9f19fb55f105dd",
+     "loai": "agents",
+     "slug": "agency-engineering-code-reviewer"
+    },
+    "agents/agency-engineering-codebase-onboarding-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-codebase-onboarding-engineer.md",
+     "hash": "051d77272c5d87f751fccdf014aa104083d61f6e3e2572091d1c2cc4106a2d7a",
+     "loai": "agents",
+     "slug": "agency-engineering-codebase-onboarding-engineer"
+    },
+    "agents/agency-engineering-data-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-data-engineer.md",
+     "hash": "f0b5a1d48c2f563822b744647492d5efe51c76aff9d78cf7422f718fbac0df92",
+     "loai": "agents",
+     "slug": "agency-engineering-data-engineer"
+    },
+    "agents/agency-engineering-data-visualization-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-data-visualization-engineer.md",
+     "hash": "d0e0f69cd0498b33588264514a08f7bffc233656d5ed454f0c24e1624b9b2126",
+     "loai": "agents",
+     "slug": "agency-engineering-data-visualization-engineer"
+    },
+    "agents/agency-engineering-database-optimizer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-database-optimizer.md",
+     "hash": "421f844dd41763108008447c13d59c66ce85909ca5a5fb94ed0f6f8e410f347c",
+     "loai": "agents",
+     "slug": "agency-engineering-database-optimizer"
+    },
+    "agents/agency-engineering-database-reliability-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-database-reliability-engineer.md",
+     "hash": "87816af9f1777cbc2dd51a7409b12520d35f9d5dfbe39d24560f8c3230ed8aa5",
+     "loai": "agents",
+     "slug": "agency-engineering-database-reliability-engineer"
+    },
+    "agents/agency-engineering-desktop-app-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-desktop-app-engineer.md",
+     "hash": "cc4d77145454b8d7d0bce94681a3c50d0bf90f0154d317b44af1935434220db4",
+     "loai": "agents",
+     "slug": "agency-engineering-desktop-app-engineer"
+    },
+    "agents/agency-engineering-developer-tooling-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-developer-tooling-engineer.md",
+     "hash": "07ce13dc6236ddf53409d2b9de74c2cac71819a3513b27a9e54afb985414a1b5",
+     "loai": "agents",
+     "slug": "agency-engineering-developer-tooling-engineer"
+    },
+    "agents/agency-engineering-devops-automator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-devops-automator.md",
+     "hash": "a88cff4ed38f38b39d2076fba3bb45fcc2ef1ae80c4f013600c8ee8339eb5487",
+     "loai": "agents",
+     "slug": "agency-engineering-devops-automator"
+    },
+    "agents/agency-engineering-drupal-performance": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-drupal-performance.md",
+     "hash": "99a256d268eb70a3374842ffc893f8368d404d384adb053e8de68b2440fa64e2",
+     "loai": "agents",
+     "slug": "agency-engineering-drupal-performance"
+    },
+    "agents/agency-engineering-drupal-shopping-cart": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-drupal-shopping-cart.md",
+     "hash": "2be5946efdbd379aa807cce2a36544e3af06348ab24a12cb981084d3b5950637",
+     "loai": "agents",
+     "slug": "agency-engineering-drupal-shopping-cart"
+    },
+    "agents/agency-engineering-electrical-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-electrical-engineer.md",
+     "hash": "5d664ee3ba5c5cbb86d130d215c6589fdd6b3aca40175b48e9d5c73c0f3e44f2",
+     "loai": "agents",
+     "slug": "agency-engineering-electrical-engineer"
+    },
+    "agents/agency-engineering-email-intelligence-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-email-intelligence-engineer.md",
+     "hash": "ff3ba4bc2a84f7746c02017bb1c0acb18b0e0164f9411ad5d176f732f47d3efa",
+     "loai": "agents",
+     "slug": "agency-engineering-email-intelligence-engineer"
+    },
+    "agents/agency-engineering-embedded-firmware-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-embedded-firmware-engineer.md",
+     "hash": "631b8c0ea904b8bafa8de89582e0298069a4020287a89d29ba0290af2b0142bc",
+     "loai": "agents",
+     "slug": "agency-engineering-embedded-firmware-engineer"
+    },
+    "agents/agency-engineering-feishu-integration-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-feishu-integration-developer.md",
+     "hash": "73667af5bf711720bb0897e2c895c3ca15b1e3eee7546e899acdcdbc2d9c4283",
+     "loai": "agents",
+     "slug": "agency-engineering-feishu-integration-developer"
+    },
+    "agents/agency-engineering-filament-optimization-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-filament-optimization-specialist.md",
+     "hash": "92779fc7e01bd6bfb62590c78dae652ae69369f57329455dfeaac30d6758c7bf",
+     "loai": "agents",
+     "slug": "agency-engineering-filament-optimization-specialist"
+    },
+    "agents/agency-engineering-finops-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-finops-engineer.md",
+     "hash": "91c9a86142434fee174a8ddbe8a9a9bef965956274567c0205aa78b57d12f4d3",
+     "loai": "agents",
+     "slug": "agency-engineering-finops-engineer"
+    },
+    "agents/agency-engineering-frontend-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-frontend-developer.md",
+     "hash": "e51e85aa994a5569a73b7c0d744e944af316e64f49d1192676423755781f04d4",
+     "loai": "agents",
+     "slug": "agency-engineering-frontend-developer"
+    },
+    "agents/agency-engineering-gaussdb-expert": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-gaussdb-expert.md",
+     "hash": "4c9c96d4ea930958ea3571bd3159a5acfc3727d549073ec3d4ef14cec2fd29f5",
+     "loai": "agents",
+     "slug": "agency-engineering-gaussdb-expert"
+    },
+    "agents/agency-engineering-git-workflow-master": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-git-workflow-master.md",
+     "hash": "d18dcd11459c419162446877713107e79be3c8df054b3cedea333e391582546b",
+     "loai": "agents",
+     "slug": "agency-engineering-git-workflow-master"
+    },
+    "agents/agency-engineering-i18n-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-i18n-engineer.md",
+     "hash": "c3ff0f923db8b0d042a33732b0cc8694fc4eac760562468eb97a4a4e3c54e3cf",
+     "loai": "agents",
+     "slug": "agency-engineering-i18n-engineer"
+    },
+    "agents/agency-engineering-identity-access-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-identity-access-engineer.md",
+     "hash": "f217e24376612fc2722f36997a59484b396916054d4b4d581743abedd815d534",
+     "loai": "agents",
+     "slug": "agency-engineering-identity-access-engineer"
+    },
+    "agents/agency-engineering-incident-response-commander": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-incident-response-commander.md",
+     "hash": "600b121518135882906219f7f3c76d7e8193b5205b34095682d283490472709e",
+     "loai": "agents",
+     "slug": "agency-engineering-incident-response-commander"
+    },
+    "agents/agency-engineering-iot-fleet-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-iot-fleet-engineer.md",
+     "hash": "94653144807beba220f87b996e4ae974a9ec6f9ca761452e7e39dc118fa8f326",
+     "loai": "agents",
+     "slug": "agency-engineering-iot-fleet-engineer"
+    },
+    "agents/agency-engineering-it-service-manager": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-it-service-manager.md",
+     "hash": "7d7bf83c3ad098e4fa3d28578d3a9ff81b3c64c40e882225710360691fad3edf",
+     "loai": "agents",
+     "slug": "agency-engineering-it-service-manager"
+    },
+    "agents/agency-engineering-knowledge-graph-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-knowledge-graph-engineer.md",
+     "hash": "c2163a0c90411b3fcc182ebe8965d9b8ee28f20ff2180df385b851a4d50ae66c",
+     "loai": "agents",
+     "slug": "agency-engineering-knowledge-graph-engineer"
+    },
+    "agents/agency-engineering-llm-post-training-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-llm-post-training-engineer.md",
+     "hash": "7b683aba1b57f0d2a4124e67900115e54eb99fae805b87279dc4f7493fa21e0c",
+     "loai": "agents",
+     "slug": "agency-engineering-llm-post-training-engineer"
+    },
+    "agents/agency-engineering-minimal-change-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-minimal-change-engineer.md",
+     "hash": "d156d732c7cfcb02ce113a63d9eb1d8f5af172fd7b969c8cf1fbb48d7d544c1e",
+     "loai": "agents",
+     "slug": "agency-engineering-minimal-change-engineer"
+    },
+    "agents/agency-engineering-mobile-app-builder": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-mobile-app-builder.md",
+     "hash": "fcfee8c97b7e6bab0104aa4ebb4560dfed3745fee22aaa9ac9e226573c309587",
+     "loai": "agents",
+     "slug": "agency-engineering-mobile-app-builder"
+    },
+    "agents/agency-engineering-mobile-release-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-mobile-release-engineer.md",
+     "hash": "629094542f5b763c42aec29578fcd5a117211d217368b2ea14b8a1d4722834e0",
+     "loai": "agents",
+     "slug": "agency-engineering-mobile-release-engineer"
+    },
+    "agents/agency-engineering-multi-agent-systems-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-multi-agent-systems-architect.md",
+     "hash": "c4d029abe7e214b1d9e0e7c56b077f72faea02c025935b3ff417f69136fe368b",
+     "loai": "agents",
+     "slug": "agency-engineering-multi-agent-systems-architect"
+    },
+    "agents/agency-engineering-network-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-network-engineer.md",
+     "hash": "9b8d21674f3c81ad089fb1a7538f99c2a9704431a74841fe40b6b824db290cac",
+     "loai": "agents",
+     "slug": "agency-engineering-network-engineer"
+    },
+    "agents/agency-engineering-orgscript-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-orgscript-engineer.md",
+     "hash": "a7587a6341b5148adb9a44d19679fcfe67d5838099b9d1659dd5ce356ecc6a7f",
+     "loai": "agents",
+     "slug": "agency-engineering-orgscript-engineer"
+    },
+    "agents/agency-engineering-payments-billing-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-payments-billing-engineer.md",
+     "hash": "3b6e6234f97b2f410dd64d84d1267e47bb844ba7a5117c31884ae85aea2da9b9",
+     "loai": "agents",
+     "slug": "agency-engineering-payments-billing-engineer"
+    },
+    "agents/agency-engineering-pdf-engine-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-pdf-engine-architect.md",
+     "hash": "840925f78ad4d3bd633128564f8a0a247f5f52efc5c035cc435704051d7ecfcc",
+     "loai": "agents",
+     "slug": "agency-engineering-pdf-engine-architect"
+    },
+    "agents/agency-engineering-platform-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-platform-engineer.md",
+     "hash": "379acb8007e5e98f29b7b7bdf8eca62994746225c1dc817e835036f831d8a6e4",
+     "loai": "agents",
+     "slug": "agency-engineering-platform-engineer"
+    },
+    "agents/agency-engineering-privacy-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-privacy-engineer.md",
+     "hash": "f1e3ff058a35af4091290ca47af0d0a78f2adbee77036bf829e6bb6713fe63ff",
+     "loai": "agents",
+     "slug": "agency-engineering-privacy-engineer"
+    },
+    "agents/agency-engineering-prompt-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-prompt-engineer.md",
+     "hash": "c9743b24cb5f4d974507ee5f800fdc16991d7062b1135dc26803385aa5587646",
+     "loai": "agents",
+     "slug": "agency-engineering-prompt-engineer"
+    },
+    "agents/agency-engineering-rag-pipeline-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-rag-pipeline-engineer.md",
+     "hash": "328127c960c611c8fa5d6bb1e3e2ac8dc18372416aac5445f1065cf020c24fe6",
+     "loai": "agents",
+     "slug": "agency-engineering-rag-pipeline-engineer"
+    },
+    "agents/agency-engineering-rapid-prototyper": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-rapid-prototyper.md",
+     "hash": "e7718556dde8ca515a9307b2ae8465566385df77c920b8e088d46cdb9fcfe977",
+     "loai": "agents",
+     "slug": "agency-engineering-rapid-prototyper"
+    },
+    "agents/agency-engineering-realtime-collaboration-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-realtime-collaboration-engineer.md",
+     "hash": "654d51d334db9ce0f73185c3bf1a249184698e64ed69b43b56a84d84599188ce",
+     "loai": "agents",
+     "slug": "agency-engineering-realtime-collaboration-engineer"
+    },
+    "agents/agency-engineering-rust-refactoring-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-rust-refactoring-specialist.md",
+     "hash": "0bd42933e18734c951f1ec90ec5c4d0ca734785ff3948a4c6e1a2c420b0e6289",
+     "loai": "agents",
+     "slug": "agency-engineering-rust-refactoring-specialist"
+    },
+    "agents/agency-engineering-search-relevance-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-search-relevance-engineer.md",
+     "hash": "dd68234a632def658b53fa235b036b6dc4ef6ebff33e5ba3e4696aa1b7c42a03",
+     "loai": "agents",
+     "slug": "agency-engineering-search-relevance-engineer"
+    },
+    "agents/agency-engineering-section-508-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-section-508-specialist.md",
+     "hash": "6b4b68dd12a62903b81e44d479298f2ee28b02fe499d182d3c34c6c29195d894",
+     "loai": "agents",
+     "slug": "agency-engineering-section-508-specialist"
+    },
+    "agents/agency-engineering-senior-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-senior-developer.md",
+     "hash": "8a1ada39a281a6bb6955fab18b8734560829a35cf419e54aa3693b2294aedefe",
+     "loai": "agents",
+     "slug": "agency-engineering-senior-developer"
+    },
+    "agents/agency-engineering-servicenow-developer-mentor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-servicenow-developer-mentor.md",
+     "hash": "2717811b8a6d6bc9fe89a8686a535bf32680743b9d4dc2f072a643e389d42aa6",
+     "loai": "agents",
+     "slug": "agency-engineering-servicenow-developer-mentor"
+    },
+    "agents/agency-engineering-software-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-software-architect.md",
+     "hash": "4dedafd4c870c458f03be939c7cd48ef5f7fb322e3e828387708254f568f3c34",
+     "loai": "agents",
+     "slug": "agency-engineering-software-architect"
+    },
+    "agents/agency-engineering-solidity-smart-contract-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-solidity-smart-contract-engineer.md",
+     "hash": "6e1b806a9a3edd77971b0ca69b4444fc0bbc37136912b1eb1ea9f6b90844992a",
+     "loai": "agents",
+     "slug": "agency-engineering-solidity-smart-contract-engineer"
+    },
+    "agents/agency-engineering-sre": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-sre.md",
+     "hash": "8e93501230b3720768090e224286229844397b5cc06ef115bf02c96bcd2cc324",
+     "loai": "agents",
+     "slug": "agency-engineering-sre"
+    },
+    "agents/agency-engineering-technical-writer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-technical-writer.md",
+     "hash": "ddd6d938e9ef99d19950191a77ec18738c5db0d9feebfac4c1e319209e12a7d0",
+     "loai": "agents",
+     "slug": "agency-engineering-technical-writer"
+    },
+    "agents/agency-engineering-universal-document-compiler": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-universal-document-compiler.md",
+     "hash": "c475ed9c0892babf4214645a678be3190f280214379fda045ff8fa40e19f1197",
+     "loai": "agents",
+     "slug": "agency-engineering-universal-document-compiler"
+    },
+    "agents/agency-engineering-uswds-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-uswds-developer.md",
+     "hash": "34ac25b6b6fdffe80b084aae8199f5d573f40f10c911d79860ccc906f1db1236",
+     "loai": "agents",
+     "slug": "agency-engineering-uswds-developer"
+    },
+    "agents/agency-engineering-video-streaming-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-video-streaming-engineer.md",
+     "hash": "bff15a0edc2472b88fc6f498bbdfb0cf01f10932cdb9c8b51cd5db67d1bbe358",
+     "loai": "agents",
+     "slug": "agency-engineering-video-streaming-engineer"
+    },
+    "agents/agency-engineering-voice-ai-integration-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-voice-ai-integration-engineer.md",
+     "hash": "1ea0dde8686ea4c36f89edda448f955f563c0c042208b7156865ee1de8a1aa62",
+     "loai": "agents",
+     "slug": "agency-engineering-voice-ai-integration-engineer"
+    },
+    "agents/agency-engineering-webassembly-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-webassembly-engineer.md",
+     "hash": "f42c3cb9c12faae24f57c32350e7d9c514e4e1ad0abdec523c8128897820ed7c",
+     "loai": "agents",
+     "slug": "agency-engineering-webassembly-engineer"
+    },
+    "agents/agency-engineering-wechat-mini-program-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-wechat-mini-program-developer.md",
+     "hash": "ce9d834dcfb7923d954277b02c11847e8c7de57de096e952aa88409c431f3ee0",
+     "loai": "agents",
+     "slug": "agency-engineering-wechat-mini-program-developer"
+    },
+    "agents/agency-engineering-wordpress-performance": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-wordpress-performance.md",
+     "hash": "e0f1e0e3564e19c7ccc41cb79981eb254d7921c1fce4a5ab0a82cbd242a32ab0",
+     "loai": "agents",
+     "slug": "agency-engineering-wordpress-performance"
+    },
+    "agents/agency-engineering-wordpress-shopping-cart": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-wordpress-shopping-cart.md",
+     "hash": "68a5c82d4463c350cd2e2c06a68ab90df3189234d76931c30407deb6fbec2195",
+     "loai": "agents",
+     "slug": "agency-engineering-wordpress-shopping-cart"
+    },
+    "agents/agency-esg-sustainability-officer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-esg-sustainability-officer.md",
+     "hash": "00097f1f27f7cddb9bd3f465ee17fdf5e2b0fd50529bb87de91776ff4f795e6f",
+     "loai": "agents",
+     "slug": "agency-esg-sustainability-officer"
+    },
+    "agents/agency-finance-bookkeeper-controller": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-bookkeeper-controller.md",
+     "hash": "709a67056a70a6cb07b1eb655dd19297ca081a89ce50d498674e28d6cff27e74",
+     "loai": "agents",
+     "slug": "agency-finance-bookkeeper-controller"
+    },
+    "agents/agency-finance-financial-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-financial-analyst.md",
+     "hash": "4ce7846c074c8d3ade95097fd03be6b93f1bdb51ae627a8e3719b557e9a3d582",
+     "loai": "agents",
+     "slug": "agency-finance-financial-analyst"
+    },
+    "agents/agency-finance-fpa-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-fpa-analyst.md",
+     "hash": "f50ebb877bf1851dd384c533f45a27938ec13c9e8d0a15a55ff333f8a972ba58",
+     "loai": "agents",
+     "slug": "agency-finance-fpa-analyst"
+    },
+    "agents/agency-finance-investment-researcher": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-investment-researcher.md",
+     "hash": "b82239cfdfd9a0785c7a4b60f97ec9a9bf5ef0e283ec53832a3ec745155675f5",
+     "loai": "agents",
+     "slug": "agency-finance-investment-researcher"
+    },
+    "agents/agency-finance-tax-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-tax-strategist.md",
+     "hash": "fdb4baaf354dcd269a389fe0b63a757bf47a1dabd270f2b5829ab6fc3ac79f1f",
+     "loai": "agents",
+     "slug": "agency-finance-tax-strategist"
+    },
+    "agents/agency-game-audio-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-game-audio-engineer.md",
+     "hash": "4d6e8a5d4ef4e86554f6f074dc116d93bb0061d5f2059259694262adb09f0661",
+     "loai": "agents",
+     "slug": "agency-game-audio-engineer"
+    },
+    "agents/agency-game-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-game-designer.md",
+     "hash": "20c91a83e49fa6f5903980f5bb94514ee4444b10a33a3d614d8389e4fc2cf7ce",
+     "loai": "agents",
+     "slug": "agency-game-designer"
+    },
+    "agents/agency-gis-3d-scene-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-3d-scene-developer.md",
+     "hash": "6855dd3f846cbceb865fc815a9f3d099951ead42a3c759b66efd04adf884e937",
+     "loai": "agents",
+     "slug": "agency-gis-3d-scene-developer"
+    },
+    "agents/agency-gis-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-analyst.md",
+     "hash": "41dba53a40f90a3143c4b6561dc92f7833a6625f8f3f2925422e6a0c30cee177",
+     "loai": "agents",
+     "slug": "agency-gis-analyst"
+    },
+    "agents/agency-gis-bim-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-bim-specialist.md",
+     "hash": "aaad1ae5442cdce3040a7e9169f38973df9c9ee15b6f599d543f95046ee7ecff",
+     "loai": "agents",
+     "slug": "agency-gis-bim-specialist"
+    },
+    "agents/agency-gis-cartography-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-cartography-designer.md",
+     "hash": "1413e4e3b707593140569e976c8855e2504b165a2a487e0862cd1dd650a41a48",
+     "loai": "agents",
+     "slug": "agency-gis-cartography-designer"
+    },
+    "agents/agency-gis-drone-reality-mapping": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-drone-reality-mapping.md",
+     "hash": "28d2b30b989de1a4d63f2d1af5b59bc56524d263b99c9b79f1cbbd6fa98be2e6",
+     "loai": "agents",
+     "slug": "agency-gis-drone-reality-mapping"
+    },
+    "agents/agency-gis-geoai-ml-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-geoai-ml-engineer.md",
+     "hash": "33ab350a4b26171857a26ff6c80d536dd349d478d61381628bedbe4dd5afa3bd",
+     "loai": "agents",
+     "slug": "agency-gis-geoai-ml-engineer"
+    },
+    "agents/agency-gis-geoprocessing-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-geoprocessing-specialist.md",
+     "hash": "0050f2ded06e110960ff48df62b1458798588d3ff6a26ab6ce8209920161cd3c",
+     "loai": "agents",
+     "slug": "agency-gis-geoprocessing-specialist"
+    },
+    "agents/agency-gis-qa-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-qa-engineer.md",
+     "hash": "92230872ea15fe5aa4fea1f82b4755f2af8a1fa4b08cbcb59fa8b5f81f6a2d24",
+     "loai": "agents",
+     "slug": "agency-gis-qa-engineer"
+    },
+    "agents/agency-gis-solution-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-solution-engineer.md",
+     "hash": "78e46945c275c31bb786d9a7e6722ffdbbbfb5b988eb8687489b4e71a9cba11a",
+     "loai": "agents",
+     "slug": "agency-gis-solution-engineer"
+    },
+    "agents/agency-gis-spatial-data-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-spatial-data-engineer.md",
+     "hash": "0fcffb1cb122ada3e244003a1714a046f1d782a26038a2eb208762a9604d0de8",
+     "loai": "agents",
+     "slug": "agency-gis-spatial-data-engineer"
+    },
+    "agents/agency-gis-spatial-data-scientist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-spatial-data-scientist.md",
+     "hash": "7f872a56412f01e499bb613ac3a20faf976ac11100b4f6593eedc2db210d318e",
+     "loai": "agents",
+     "slug": "agency-gis-spatial-data-scientist"
+    },
+    "agents/agency-gis-technical-consultant": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-technical-consultant.md",
+     "hash": "1653ae5bbb3ff7bfd830eb16256b477e32b1af552f8305d4312f47ada0b95ea2",
+     "loai": "agents",
+     "slug": "agency-gis-technical-consultant"
+    },
+    "agents/agency-gis-web-gis-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-web-gis-developer.md",
+     "hash": "487889087bdcb1f87e9adf34ae8f9d1fea5f8a6eeb1c49d14c42585c55ae58f6",
+     "loai": "agents",
+     "slug": "agency-gis-web-gis-developer"
+    },
+    "agents/agency-godot-gameplay-scripter": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-godot-gameplay-scripter.md",
+     "hash": "ffb2706c74a6a185a9c5ae6c91d67cca71363317968c99bfbe81cbefe304d162",
+     "loai": "agents",
+     "slug": "agency-godot-gameplay-scripter"
+    },
+    "agents/agency-godot-multiplayer-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-godot-multiplayer-engineer.md",
+     "hash": "0e21212abf2e8680e279bc27319229a4b82797098c0687f7d8ba5e2a5834d4c9",
+     "loai": "agents",
+     "slug": "agency-godot-multiplayer-engineer"
+    },
+    "agents/agency-godot-shader-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-godot-shader-developer.md",
+     "hash": "8de26279753719244be4220450731b190a1eb631055ea897f14b49880d775285",
+     "loai": "agents",
+     "slug": "agency-godot-shader-developer"
+    },
+    "agents/agency-government-digital-presales-consultant": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-government-digital-presales-consultant.md",
+     "hash": "5d308021ac5f790db1f944fab8ac974c1b006545930dfda7e097ab35bace8743",
+     "loai": "agents",
+     "slug": "agency-government-digital-presales-consultant"
+    },
+    "agents/agency-grant-writer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-grant-writer.md",
+     "hash": "da4f7bd505270a104e99e1f91760d30bc0548f195db91dfe6a39f4d23a25bc4e",
+     "loai": "agents",
+     "slug": "agency-grant-writer"
+    },
+    "agents/agency-healthcare-aging-parent-care-companion": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-aging-parent-care-companion.md",
+     "hash": "88dbf1fd3a15bdb6dd46c2243375c7c8652c11672cae6f0b363a54aa7fa8ed92",
+     "loai": "agents",
+     "slug": "agency-healthcare-aging-parent-care-companion"
+    },
+    "agents/agency-healthcare-clinical-evidence-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-clinical-evidence-agent.md",
+     "hash": "3c9831fc2467ee5a3a624035f4ade5e65a2febf3e8f3ac68da91b7a027edf856",
+     "loai": "agents",
+     "slug": "agency-healthcare-clinical-evidence-agent"
+    },
+    "agents/agency-healthcare-customer-service": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-customer-service.md",
+     "hash": "079054b6c75dcc367d30006ec1f0ebba8482dbc8300a03935e12daea67cdad2b",
+     "loai": "agents",
+     "slug": "agency-healthcare-customer-service"
+    },
+    "agents/agency-healthcare-innovation-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-innovation-strategist.md",
+     "hash": "0f1b61ee60e1a29b3f59194a83cfd553c593a77ecb331c0ba9b0c2df18a640a5",
+     "loai": "agents",
+     "slug": "agency-healthcare-innovation-strategist"
+    },
+    "agents/agency-healthcare-marketing-compliance": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-marketing-compliance.md",
+     "hash": "7f6a2d8f57860beb54b7349bb99fa41c7a6fae9049e24e64bc12c0ae07bc2f7b",
+     "loai": "agents",
+     "slug": "agency-healthcare-marketing-compliance"
+    },
+    "agents/agency-healthcare-sovereign-health-systems-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-sovereign-health-systems-agent.md",
+     "hash": "d80d676711ce5573735eefcb0aea1ed7cdcacf15cc196fc7d103802d37cdb18c",
+     "loai": "agents",
+     "slug": "agency-healthcare-sovereign-health-systems-agent"
+    },
+    "agents/agency-hospitality-guest-services": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-hospitality-guest-services.md",
+     "hash": "ede7d8902da64724688c01fe2a21691b1f2e4d1d8eed66f2e5cd17d9585d8725",
+     "loai": "agents",
+     "slug": "agency-hospitality-guest-services"
+    },
+    "agents/agency-hr-onboarding": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-hr-onboarding.md",
+     "hash": "ee56347230c6b9c7c0b57e066108df2cea6d1a6f73a1ed045b87bccd1ef884d3",
+     "loai": "agents",
+     "slug": "agency-hr-onboarding"
+    },
+    "agents/agency-identity-graph-operator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-identity-graph-operator.md",
+     "hash": "b2ad2a7d1b594b5e668a0520c9a6c06ff01f3c4abe74740e780f435a3bfe2633",
+     "loai": "agents",
+     "slug": "agency-identity-graph-operator"
+    },
+    "agents/agency-language-translator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-language-translator.md",
+     "hash": "3d9129704dac12f0df40c29411fb25a2dea801788d801d28d20ee932af2c6334",
+     "loai": "agents",
+     "slug": "agency-language-translator"
+    },
+    "agents/agency-legal-billing-time-tracking": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-legal-billing-time-tracking.md",
+     "hash": "66de3bd4527cf91ba613bc0ae1e01e6dc41bf28279c7a815c7b412843f31abbc",
+     "loai": "agents",
+     "slug": "agency-legal-billing-time-tracking"
+    },
+    "agents/agency-legal-client-intake": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-legal-client-intake.md",
+     "hash": "7c664b57c879b78bb22d1791b1e4fa99d178dec33d5701fb3964b2b2fa58ab5e",
+     "loai": "agents",
+     "slug": "agency-legal-client-intake"
+    },
+    "agents/agency-legal-document-review": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-legal-document-review.md",
+     "hash": "7186e2f66d920216c4c1e3951025ae4f6cd363bea1c8b296731fdb2c1cbecb88",
+     "loai": "agents",
+     "slug": "agency-legal-document-review"
+    },
+    "agents/agency-level-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-level-designer.md",
+     "hash": "b5b3056c1a894dece726812fe35abe99b17c25fd94549fd1f122f142815a2c50",
+     "loai": "agents",
+     "slug": "agency-level-designer"
+    },
+    "agents/agency-loan-officer-assistant": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-loan-officer-assistant.md",
+     "hash": "1271720a05d63e1ed91091eb2b9afe9e7f5e9dc5eae879ecffe9e276b509707d",
+     "loai": "agents",
+     "slug": "agency-loan-officer-assistant"
+    },
+    "agents/agency-lsp-index-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-lsp-index-engineer.md",
+     "hash": "04c59871aece1702c0369219ec4eb76e88312ae99873284de270b11ba5f82ffa",
+     "loai": "agents",
+     "slug": "agency-lsp-index-engineer"
+    },
+    "agents/agency-ma-integration-manager": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-ma-integration-manager.md",
+     "hash": "9257c6e1b7b25c7d42c76ab444fe2272771903ab191c38f40b8d39646c92a74e",
+     "loai": "agents",
+     "slug": "agency-ma-integration-manager"
+    },
+    "agents/agency-macos-spatial-metal-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-macos-spatial-metal-engineer.md",
+     "hash": "ca057273e5d431c99575d40bf3eb473bba6553d0b9dc787d9f0e72d79e01c4d8",
+     "loai": "agents",
+     "slug": "agency-macos-spatial-metal-engineer"
+    },
+    "agents/agency-marketing-aeo-foundations": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-aeo-foundations.md",
+     "hash": "307a20ab3393ec5701e9d22802149756a4ee51d4e69290a27999641d17a1512f",
+     "loai": "agents",
+     "slug": "agency-marketing-aeo-foundations"
+    },
+    "agents/agency-marketing-agentic-search-optimizer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-agentic-search-optimizer.md",
+     "hash": "646cd3529f9808441855e5ffe329a997c35afca1fc8e9cb66520457305982d91",
+     "loai": "agents",
+     "slug": "agency-marketing-agentic-search-optimizer"
+    },
+    "agents/agency-marketing-ai-citation-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-ai-citation-strategist.md",
+     "hash": "0c97173e5cacb5cc44d4ce80b80660e09b9868092d305a00a51f073b5f950c44",
+     "loai": "agents",
+     "slug": "agency-marketing-ai-citation-strategist"
+    },
+    "agents/agency-marketing-app-store-optimizer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-app-store-optimizer.md",
+     "hash": "d07fe10596f251c32cad68ba4d17ad26173ac582567e0328126ee2a60d07a9b5",
+     "loai": "agents",
+     "slug": "agency-marketing-app-store-optimizer"
+    },
+    "agents/agency-marketing-baidu-seo-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-baidu-seo-specialist.md",
+     "hash": "768d5cd59d7346fdb852e06391633ab1babd72b0092a35e101efacb46354a533",
+     "loai": "agents",
+     "slug": "agency-marketing-baidu-seo-specialist"
+    },
+    "agents/agency-marketing-bilibili-content-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-bilibili-content-strategist.md",
+     "hash": "e66da2666acedec74cd466db1bfd009a58c26ae63ee91c761bf1469d9baad5c2",
+     "loai": "agents",
+     "slug": "agency-marketing-bilibili-content-strategist"
+    },
+    "agents/agency-marketing-book-co-author": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-book-co-author.md",
+     "hash": "169ff4a7c0a17a23f8b0c71a6e687decfe27509d8a904ccde9952f9356c01b81",
+     "loai": "agents",
+     "slug": "agency-marketing-book-co-author"
+    },
+    "agents/agency-marketing-carousel-growth-engine": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-carousel-growth-engine.md",
+     "hash": "da90d5a2e7de99f24b577f9889b0480b1d42112ceb506f96797752301593520b",
+     "loai": "agents",
+     "slug": "agency-marketing-carousel-growth-engine"
+    },
+    "agents/agency-marketing-china-ecommerce-operator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-china-ecommerce-operator.md",
+     "hash": "ac76b4263e4d845f1d817142f9f9c1ca688e4aee4b3d454d4e17cb752af0d1e6",
+     "loai": "agents",
+     "slug": "agency-marketing-china-ecommerce-operator"
+    },
+    "agents/agency-marketing-china-market-localization-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-china-market-localization-strategist.md",
+     "hash": "673bdd1c089a6742cb2b335a806251634e57ff4390859f6aa6a4f9ea8d2e912c",
+     "loai": "agents",
+     "slug": "agency-marketing-china-market-localization-strategist"
+    },
+    "agents/agency-marketing-content-creator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-content-creator.md",
+     "hash": "2f0e5bd4f785ba694de74a830730391b27c6c4bd31fa6c5f28cb687f5ce91d3f",
+     "loai": "agents",
+     "slug": "agency-marketing-content-creator"
+    },
+    "agents/agency-marketing-cross-border-ecommerce": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-cross-border-ecommerce.md",
+     "hash": "c901d98fce86c3e4b5c2cda448270ac3446ab50405648c90cc0290b56a410db3",
+     "loai": "agents",
+     "slug": "agency-marketing-cross-border-ecommerce"
+    },
+    "agents/agency-marketing-developer-community-builder": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-developer-community-builder.md",
+     "hash": "9421437a4b9a483554e660a3c28f68a8cb28e4a59a7558220ce0b7158095097d",
+     "loai": "agents",
+     "slug": "agency-marketing-developer-community-builder"
+    },
+    "agents/agency-marketing-douyin-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-douyin-strategist.md",
+     "hash": "11910b2b965c1a68b9a87086df0b9b0e97be93aed2dd05646396912e06726faf",
+     "loai": "agents",
+     "slug": "agency-marketing-douyin-strategist"
+    },
+    "agents/agency-marketing-email-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-email-strategist.md",
+     "hash": "4bbbb67b83fcbc73c70595ec56b7cb888aea182d7f7d43770d90b4781ef23e4e",
+     "loai": "agents",
+     "slug": "agency-marketing-email-strategist"
+    },
+    "agents/agency-marketing-global-podcast-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-global-podcast-strategist.md",
+     "hash": "323a8680e66b58bc7f1e6307cfdba2bffc2f82b9fe90c117d4bf73f9e3b0a78c",
+     "loai": "agents",
+     "slug": "agency-marketing-global-podcast-strategist"
+    },
+    "agents/agency-marketing-growth-hacker": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-growth-hacker.md",
+     "hash": "8bf55945c1b98ab671207d857a04eddd0a7be39bf43e0e7deb76a3a321388847",
+     "loai": "agents",
+     "slug": "agency-marketing-growth-hacker"
+    },
+    "agents/agency-marketing-instagram-curator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-instagram-curator.md",
+     "hash": "08f781d5932b882894590313327d5fe582d7d77b8bf6d489a01fa59db0d1895e",
+     "loai": "agents",
+     "slug": "agency-marketing-instagram-curator"
+    },
+    "agents/agency-marketing-kuaishou-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-kuaishou-strategist.md",
+     "hash": "814b4923b1b4045ec330fb18a04961fb10e1703e01bf2ff2001e1f45016823bf",
+     "loai": "agents",
+     "slug": "agency-marketing-kuaishou-strategist"
+    },
+    "agents/agency-marketing-linkedin-content-creator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-linkedin-content-creator.md",
+     "hash": "1f64861b68a162f25704f30ad5306aca7fee7495eecde58ceefa9663670c8961",
+     "loai": "agents",
+     "slug": "agency-marketing-linkedin-content-creator"
+    },
+    "agents/agency-marketing-livestream-commerce-coach": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-livestream-commerce-coach.md",
+     "hash": "e9ad9f147aceae13e8858b81b59c60aa36acbf29dd6019bc3fca5807be6c4acb",
+     "loai": "agents",
+     "slug": "agency-marketing-livestream-commerce-coach"
+    },
+    "agents/agency-marketing-multi-platform-publisher": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-multi-platform-publisher.md",
+     "hash": "e59caf0f380f21c106d3b2dea5c26e2059ded7f183fe94cc0f8fde9753917736",
+     "loai": "agents",
+     "slug": "agency-marketing-multi-platform-publisher"
+    },
+    "agents/agency-marketing-podcast-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-podcast-strategist.md",
+     "hash": "f2ac44324d6748b91ef3fe11bc57cd4437937e968dfe295a0fca389541e7b8c4",
+     "loai": "agents",
+     "slug": "agency-marketing-podcast-strategist"
+    },
+    "agents/agency-marketing-pr-communications-manager": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-pr-communications-manager.md",
+     "hash": "3fc12458872f531eefc739b5046b8641c00028a096fe1054d56d6ba896bf1e82",
+     "loai": "agents",
+     "slug": "agency-marketing-pr-communications-manager"
+    },
+    "agents/agency-marketing-private-domain-operator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-private-domain-operator.md",
+     "hash": "8a8327bdcafba93fe638bd3b0a378b032d0ffc37d90ef3c99dc8cd64e198d461",
+     "loai": "agents",
+     "slug": "agency-marketing-private-domain-operator"
+    },
+    "agents/agency-marketing-reddit-community-builder": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-reddit-community-builder.md",
+     "hash": "313498341cd55a010366700f98ac3530d499500ef9fa0a868bac3d8c4b6f1622",
+     "loai": "agents",
+     "slug": "agency-marketing-reddit-community-builder"
+    },
+    "agents/agency-marketing-seo-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-seo-specialist.md",
+     "hash": "60f19c555fe7243f628394b110844d06a92bae92190cdd5d7c1d7d3fc627d5c5",
+     "loai": "agents",
+     "slug": "agency-marketing-seo-specialist"
+    },
+    "agents/agency-marketing-short-video-editing-coach": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-short-video-editing-coach.md",
+     "hash": "c35d3462a7a1d9307a4fe59faa388eb4b7c93b163531c4566fa89c7e72136d6d",
+     "loai": "agents",
+     "slug": "agency-marketing-short-video-editing-coach"
+    },
+    "agents/agency-marketing-social-media-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-social-media-strategist.md",
+     "hash": "af98189692e02c22c2a2ddaa3ae7c6e5cada5034322484c976dc21fdfe58bba8",
+     "loai": "agents",
+     "slug": "agency-marketing-social-media-strategist"
+    },
+    "agents/agency-marketing-tiktok-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-tiktok-strategist.md",
+     "hash": "fca5e561bc1914f7609853e312e1f1980a286482ad59779f72c22eb3d98fae8d",
+     "loai": "agents",
+     "slug": "agency-marketing-tiktok-strategist"
+    },
+    "agents/agency-marketing-twitter-engager": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-twitter-engager.md",
+     "hash": "73fcf98fdd03e28502e4352accf1542e6d09b198ff317296a3b6ceb944058c77",
+     "loai": "agents",
+     "slug": "agency-marketing-twitter-engager"
+    },
+    "agents/agency-marketing-video-optimization-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-video-optimization-specialist.md",
+     "hash": "1b2368974ff352d04daf1618c813f372cb2e44123a439039fcc58ca569572985",
+     "loai": "agents",
+     "slug": "agency-marketing-video-optimization-specialist"
+    },
+    "agents/agency-marketing-wechat-official-account": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-wechat-official-account.md",
+     "hash": "afa026d7e17873fb0fbe9d5f6552d3f99ac973f130111761cb4752a38e781d51",
+     "loai": "agents",
+     "slug": "agency-marketing-wechat-official-account"
+    },
+    "agents/agency-marketing-weibo-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-weibo-strategist.md",
+     "hash": "40dc2f915daa5c4a312ed62c44245278e8fe66755eb5a24db6da57333b77ae36",
+     "loai": "agents",
+     "slug": "agency-marketing-weibo-strategist"
+    },
+    "agents/agency-marketing-x-twitter-intelligence-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-x-twitter-intelligence-analyst.md",
+     "hash": "980ea883d6be92fabc59b06122c5e21a188edd31d90af56d256395e14c468582",
+     "loai": "agents",
+     "slug": "agency-marketing-x-twitter-intelligence-analyst"
+    },
+    "agents/agency-marketing-xiaohongshu-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-xiaohongshu-specialist.md",
+     "hash": "f726065c50631990e944dabfedd30627861ce36ada362c04a336b4dd521a8b8a",
+     "loai": "agents",
+     "slug": "agency-marketing-xiaohongshu-specialist"
+    },
+    "agents/agency-marketing-zhihu-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-zhihu-strategist.md",
+     "hash": "c495fdca9a3761d96eeaa455cb055fcfaeb9ad04237c0b9a04abc7cd86f038b3",
+     "loai": "agents",
+     "slug": "agency-marketing-zhihu-strategist"
+    },
+    "agents/agency-medical-billing-coding-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-medical-billing-coding-specialist.md",
+     "hash": "830b417596b801e06d5a333203402d8db747f62533b8ba56f81205bc1c0965a0",
+     "loai": "agents",
+     "slug": "agency-medical-billing-coding-specialist"
+    },
+    "agents/agency-narrative-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-narrative-designer.md",
+     "hash": "15a4cd45abb08426c6836c69732ff19ebf5f5aa7e53b7ef3997cddc5f3cab6ad",
+     "loai": "agents",
+     "slug": "agency-narrative-designer"
+    },
+    "agents/agency-operations-manager": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-operations-manager.md",
+     "hash": "3387ae65dfbc21e0200e1ec3ac817253e6ab46184042bc6da9a380a136154bdf",
+     "loai": "agents",
+     "slug": "agency-operations-manager"
+    },
+    "agents/agency-organizational-psychologist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-organizational-psychologist.md",
+     "hash": "b532318f61ba1d3d0b27784d0b61bb345ba352d7c9aba3157975c0b229fd7355",
+     "loai": "agents",
+     "slug": "agency-organizational-psychologist"
+    },
+    "agents/agency-paid-media-auditor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-auditor.md",
+     "hash": "1a3803b54e9dde1d04c8b50b7d8d58c90cdb8f87009accc8c1d6482230c7ef9a",
+     "loai": "agents",
+     "slug": "agency-paid-media-auditor"
+    },
+    "agents/agency-paid-media-creative-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-creative-strategist.md",
+     "hash": "dbdd904a533bfa335ea709226d05fc1c6ad55f5ac9fcbc0b44cd0b2fee1ccfb8",
+     "loai": "agents",
+     "slug": "agency-paid-media-creative-strategist"
+    },
+    "agents/agency-paid-media-paid-social-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-paid-social-strategist.md",
+     "hash": "9a16032e1c4f706a8b76b08ee38ae1ea9f20afb624a76d15a51452bb5e7e9d9e",
+     "loai": "agents",
+     "slug": "agency-paid-media-paid-social-strategist"
+    },
+    "agents/agency-paid-media-ppc-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-ppc-strategist.md",
+     "hash": "9d91f5275151548b2f7940b5339512d9f8a59137c82fcb92fd4d0e89448fd78c",
+     "loai": "agents",
+     "slug": "agency-paid-media-ppc-strategist"
+    },
+    "agents/agency-paid-media-programmatic-buyer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-programmatic-buyer.md",
+     "hash": "73e3a24e5375dd1d2846f68d739eb4e3badd331028cd0d236f522a178d3e9ef0",
+     "loai": "agents",
+     "slug": "agency-paid-media-programmatic-buyer"
+    },
+    "agents/agency-paid-media-search-query-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-search-query-analyst.md",
+     "hash": "a31677a9ce395e64b6bf08c97c5cd3121446b73b6c1e62c9b57ea8a99b47f40f",
+     "loai": "agents",
+     "slug": "agency-paid-media-search-query-analyst"
+    },
+    "agents/agency-paid-media-tracking-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-tracking-specialist.md",
+     "hash": "f0f3b50835038040c17fe44f515a2d55c83da63dff80dfa58f882af62366d461",
+     "loai": "agents",
+     "slug": "agency-paid-media-tracking-specialist"
+    },
+    "agents/agency-personal-growth-mentor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-personal-growth-mentor.md",
+     "hash": "74a9164a0c0dcc7f91fded1fdac734374d218393921b3cfead4bf4744024723a",
+     "loai": "agents",
+     "slug": "agency-personal-growth-mentor"
+    },
+    "agents/agency-product-behavioral-nudge-engine": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-behavioral-nudge-engine.md",
+     "hash": "cf4fe49ee868dc0b66ec564d053e396751b418c248fe8464d93fb407b7c1b890",
+     "loai": "agents",
+     "slug": "agency-product-behavioral-nudge-engine"
+    },
+    "agents/agency-product-dx-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-dx-engineer.md",
+     "hash": "44f6ec09f7e8c0ae413cdf41c8ac40ff01fe40301341a2ef03253955448c6187",
+     "loai": "agents",
+     "slug": "agency-product-dx-engineer"
+    },
+    "agents/agency-product-feedback-synthesizer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-feedback-synthesizer.md",
+     "hash": "0563438356a4c5aa906a055ad8c36bd71080a400bb89259923aa94ec53fc0ad5",
+     "loai": "agents",
+     "slug": "agency-product-feedback-synthesizer"
+    },
+    "agents/agency-product-manager": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-manager.md",
+     "hash": "58812cf8fcefe3adefbee0c6b91110f36fd5a9d3a68962be4a9421722a917df2",
+     "loai": "agents",
+     "slug": "agency-product-manager"
+    },
+    "agents/agency-product-sprint-prioritizer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-sprint-prioritizer.md",
+     "hash": "30e68646d3463df0c071aeb27fc380d8f23e0269d0f4b182c4055fb0ed2509f8",
+     "loai": "agents",
+     "slug": "agency-product-sprint-prioritizer"
+    },
+    "agents/agency-product-trend-researcher": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-trend-researcher.md",
+     "hash": "38eff9694e878aceb572845cb0e482224267d0d441271b57afccb8e8aa552133",
+     "loai": "agents",
+     "slug": "agency-product-trend-researcher"
+    },
+    "agents/agency-project-management-experiment-tracker": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-experiment-tracker.md",
+     "hash": "ad9f3fb3377394db3e7de6b5a71e4f4e0b24059f95197f79d764739c74cce915",
+     "loai": "agents",
+     "slug": "agency-project-management-experiment-tracker"
+    },
+    "agents/agency-project-management-jira-workflow-steward": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-jira-workflow-steward.md",
+     "hash": "56ec7bfdec6d232353fd7f8d58e41fe6e26e47059f9b1ce4a2cc5fc5681e2825",
+     "loai": "agents",
+     "slug": "agency-project-management-jira-workflow-steward"
+    },
+    "agents/agency-project-management-meeting-notes-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-meeting-notes-specialist.md",
+     "hash": "abcde4103f971560e5d886e855567fd71df4a63ebb7f02002dc195fa9574b2e4",
+     "loai": "agents",
+     "slug": "agency-project-management-meeting-notes-specialist"
+    },
+    "agents/agency-project-management-project-shepherd": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-project-shepherd.md",
+     "hash": "290cc59a8e8b811dfb3d50e51d447bd9a502a1295190272c22d03a34114b7459",
+     "loai": "agents",
+     "slug": "agency-project-management-project-shepherd"
+    },
+    "agents/agency-project-management-studio-operations": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-studio-operations.md",
+     "hash": "5bc58d6983c27375cbc892fe685a3ce236e0725bdf7badd6d3c6debe175ac790",
+     "loai": "agents",
+     "slug": "agency-project-management-studio-operations"
+    },
+    "agents/agency-project-management-studio-producer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-studio-producer.md",
+     "hash": "964b8fb6f91e0d0c77e8809865b13a8c8421bfd5ccb822ce5aef243cd1b120c7",
+     "loai": "agents",
+     "slug": "agency-project-management-studio-producer"
+    },
+    "agents/agency-project-manager-senior": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-manager-senior.md",
+     "hash": "e91610cf241c804b334f4eb3d03dafbf10c2ca4d82dd736e68c91cb4d09c50a6",
+     "loai": "agents",
+     "slug": "agency-project-manager-senior"
+    },
+    "agents/agency-real-estate-buyer-seller": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-real-estate-buyer-seller.md",
+     "hash": "0d1319b77c07a922a2329d935385f1ef5a805aec165db5fe0261c5985ac0e103",
+     "loai": "agents",
+     "slug": "agency-real-estate-buyer-seller"
+    },
+    "agents/agency-recruitment-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-recruitment-specialist.md",
+     "hash": "3713b7dc48dced79f137829af116acd360d25090b557c9953708d9e6b785db47",
+     "loai": "agents",
+     "slug": "agency-recruitment-specialist"
+    },
+    "agents/agency-report-distribution-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-report-distribution-agent.md",
+     "hash": "ce07b9f83479fee5d8b70b585ab405cf5937d479155eab8c8133e6ada3bd5654",
+     "loai": "agents",
+     "slug": "agency-report-distribution-agent"
+    },
+    "agents/agency-research-synthesist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-research-synthesist.md",
+     "hash": "5e7d7d636f1aa66bb44fb52c57957a48094af8856f590effbc7134b59ebfb1b3",
+     "loai": "agents",
+     "slug": "agency-research-synthesist"
+    },
+    "agents/agency-resume-tailor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-resume-tailor.md",
+     "hash": "252ebc2b8720e43ac57f382da811ade82a92f472691f300f9cbc2e4f7733e231",
+     "loai": "agents",
+     "slug": "agency-resume-tailor"
+    },
+    "agents/agency-retail-customer-returns": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-retail-customer-returns.md",
+     "hash": "2dee4d1d4ac6afab62e679da2a0f07acfcb7562dc63e2c55de20732987c00fbd",
+     "loai": "agents",
+     "slug": "agency-retail-customer-returns"
+    },
+    "agents/agency-roblox-avatar-creator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-roblox-avatar-creator.md",
+     "hash": "df2609fb62946829387f97229fc4f495ab1b9de38b26a882cbeab8ee72c00ec3",
+     "loai": "agents",
+     "slug": "agency-roblox-avatar-creator"
+    },
+    "agents/agency-roblox-experience-designer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-roblox-experience-designer.md",
+     "hash": "93fe9b1e6cb9ec7dc205e521b24d061523f0fc9a4e18b61d97960497eb469294",
+     "loai": "agents",
+     "slug": "agency-roblox-experience-designer"
+    },
+    "agents/agency-roblox-systems-scripter": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-roblox-systems-scripter.md",
+     "hash": "794838c060d381d64a30eb54e970b98621bd3068c4575788a583399317cf6021",
+     "loai": "agents",
+     "slug": "agency-roblox-systems-scripter"
+    },
+    "agents/agency-sales-account-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-account-strategist.md",
+     "hash": "4853cf88b1d2b318908a538c0772c807e643601e4851eedae1d5c2fe1ccc7820",
+     "loai": "agents",
+     "slug": "agency-sales-account-strategist"
+    },
+    "agents/agency-sales-coach": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-coach.md",
+     "hash": "17bf367132a3bee9be10d334c4646c1170d7f0879869b52a392394763d35b17b",
+     "loai": "agents",
+     "slug": "agency-sales-coach"
+    },
+    "agents/agency-sales-data-extraction-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-data-extraction-agent.md",
+     "hash": "3a6975c07f3ec7911802dbee4e85ac20e1f2d01cb156fe3b4e369e1f457e004d",
+     "loai": "agents",
+     "slug": "agency-sales-data-extraction-agent"
+    },
+    "agents/agency-sales-deal-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-deal-strategist.md",
+     "hash": "da27ffdf7f60c4082fc9b7c5b6b5f4bf9ef33f2ba703ce19374caadbe950b30e",
+     "loai": "agents",
+     "slug": "agency-sales-deal-strategist"
+    },
+    "agents/agency-sales-discovery-coach": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-discovery-coach.md",
+     "hash": "8e3c02befaf0a3e0f37374a8770190b7f319125b4d985f20aa00d54f6ece1e58",
+     "loai": "agents",
+     "slug": "agency-sales-discovery-coach"
+    },
+    "agents/agency-sales-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-engineer.md",
+     "hash": "70eba284fa65f88a436eabddc785f40d658166944a96a02d77811afb3d065cb1",
+     "loai": "agents",
+     "slug": "agency-sales-engineer"
+    },
+    "agents/agency-sales-offer-lead-gen-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-offer-lead-gen-strategist.md",
+     "hash": "ddacdfe180ff476eeb2c069bbef407c43ed1ee6884e294925a7fcd219727ee87",
+     "loai": "agents",
+     "slug": "agency-sales-offer-lead-gen-strategist"
+    },
+    "agents/agency-sales-outbound-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-outbound-strategist.md",
+     "hash": "fa099b88d50b92ca2c5f483930b6f629f7ed4ef348068f76cc78da513fe5d8b7",
+     "loai": "agents",
+     "slug": "agency-sales-outbound-strategist"
+    },
+    "agents/agency-sales-outreach": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-outreach.md",
+     "hash": "2a84b8cf9e068a949639d1f7d34e2edc8d7a2b71aaa1d8e224115457459589e1",
+     "loai": "agents",
+     "slug": "agency-sales-outreach"
+    },
+    "agents/agency-sales-pipeline-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-pipeline-analyst.md",
+     "hash": "99b421fc91ec02424919d52209bbb48f8cbbfc6681bc63786e1952d99c11ef5e",
+     "loai": "agents",
+     "slug": "agency-sales-pipeline-analyst"
+    },
+    "agents/agency-sales-proposal-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-proposal-strategist.md",
+     "hash": "ca95cafb43c424453eb4c3d9417a10de945c2fd0ef050e71843c6c4a55a71d6a",
+     "loai": "agents",
+     "slug": "agency-sales-proposal-strategist"
+    },
+    "agents/agency-security-ai-generated-code-auditor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-ai-generated-code-auditor.md",
+     "hash": "3c19a8541fb0900e3f7bf3a9a8d7ed766dd142be12593b7b0f354c25ad7463ae",
+     "loai": "agents",
+     "slug": "agency-security-ai-generated-code-auditor"
+    },
+    "agents/agency-security-appsec-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-appsec-engineer.md",
+     "hash": "eddd3ecaa1a82e12d91648fd59180992e4a2cadd1e4655739a9f96d9bf7dd8cf",
+     "loai": "agents",
+     "slug": "agency-security-appsec-engineer"
+    },
+    "agents/agency-security-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-architect.md",
+     "hash": "4e1b142f03c51eda59b92e4e73cc49a9ea9f12684f3ab32c8ac4a5315f3f5f60",
+     "loai": "agents",
+     "slug": "agency-security-architect"
+    },
+    "agents/agency-security-blockchain-security-auditor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-blockchain-security-auditor.md",
+     "hash": "b11427bd49d6557b37fbf78cfbeb7ecc628f6d7497648d6d3ff775822d8842d0",
+     "loai": "agents",
+     "slug": "agency-security-blockchain-security-auditor"
+    },
+    "agents/agency-security-cloud-security-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-cloud-security-architect.md",
+     "hash": "67f9e99b6c2b1cf1e0ecf33dd7c13595530d4576737c0e8b5b2aa8b7b44b6bab",
+     "loai": "agents",
+     "slug": "agency-security-cloud-security-architect"
+    },
+    "agents/agency-security-compliance-auditor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-compliance-auditor.md",
+     "hash": "8a81a8222592b0b89c74ad708c39603acba36df20ae490aafd23a4ee4f814b18",
+     "loai": "agents",
+     "slug": "agency-security-compliance-auditor"
+    },
+    "agents/agency-security-incident-responder": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-incident-responder.md",
+     "hash": "6e12c590f96867cb8c6ed07eb865da42ce41f9352fe1d5bd392dc4f73bb9c0ff",
+     "loai": "agents",
+     "slug": "agency-security-incident-responder"
+    },
+    "agents/agency-security-penetration-tester": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-penetration-tester.md",
+     "hash": "ee5670c7cb986587578d23d14ee5d1bac179c36eea56d53d29c2c479001beeee",
+     "loai": "agents",
+     "slug": "agency-security-penetration-tester"
+    },
+    "agents/agency-security-secrets-credential-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-secrets-credential-engineer.md",
+     "hash": "6570944ecd2447b3fdffcadf19ec230fa19ea1a6631b63d0a329d51f5e6f6352",
+     "loai": "agents",
+     "slug": "agency-security-secrets-credential-engineer"
+    },
+    "agents/agency-security-senior-secops": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-senior-secops.md",
+     "hash": "20dfb1c9c7d46d911a4b0c4d45d4e246db55e1d39a52e0d0218ccf4c8e6d7561",
+     "loai": "agents",
+     "slug": "agency-security-senior-secops"
+    },
+    "agents/agency-security-threat-detection-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-threat-detection-engineer.md",
+     "hash": "27b8966374165c859d433796b74f96fad462cf55222522d736e5780d34a5d1eb",
+     "loai": "agents",
+     "slug": "agency-security-threat-detection-engineer"
+    },
+    "agents/agency-security-threat-intelligence-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-threat-intelligence-analyst.md",
+     "hash": "1eb55b6c1da5557b964dd0b4a5bfea3fc49f95ad738b587e7793c5fc03c719a1",
+     "loai": "agents",
+     "slug": "agency-security-threat-intelligence-analyst"
+    },
+    "agents/agency-specialized-chief-of-staff": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-chief-of-staff.md",
+     "hash": "c0c8fd95a471c237eb2f23b57a7a2d0baf92ab235e7da35308b4ef893e5a1485",
+     "loai": "agents",
+     "slug": "agency-specialized-chief-of-staff"
+    },
+    "agents/agency-specialized-civil-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-civil-engineer.md",
+     "hash": "06bb6e156d3b604dd816a94abf940874e74da18c6f4e7dca5a53609a7405f1fe",
+     "loai": "agents",
+     "slug": "agency-specialized-civil-engineer"
+    },
+    "agents/agency-specialized-codebase-archaeologist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-codebase-archaeologist.md",
+     "hash": "2a73335a1b8397bd10f62bdb56e65f71737e102ce4da083e71c70f9cb8915446",
+     "loai": "agents",
+     "slug": "agency-specialized-codebase-archaeologist"
+    },
+    "agents/agency-specialized-cultural-intelligence-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-cultural-intelligence-strategist.md",
+     "hash": "c305902cc56e204098079e87926be3f6449d3cc8b1d6e6aee1f25697f3a6fb84",
+     "loai": "agents",
+     "slug": "agency-specialized-cultural-intelligence-strategist"
+    },
+    "agents/agency-specialized-developer-advocate": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-developer-advocate.md",
+     "hash": "5a9d55ad6fadcf8cfa20266e319aaa69fb2d35d3735afffc7c6df8bfdaea2b1f",
+     "loai": "agents",
+     "slug": "agency-specialized-developer-advocate"
+    },
+    "agents/agency-specialized-document-generator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-document-generator.md",
+     "hash": "2a78b595be25e00c5bf6e6db4496e791151b330fca59ebdf7c133667cb1976c0",
+     "loai": "agents",
+     "slug": "agency-specialized-document-generator"
+    },
+    "agents/agency-specialized-fedramp-rmf-compliance": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-fedramp-rmf-compliance.md",
+     "hash": "435f856c4258b8e585a47d75e4cf68f7843d8d3c2bbacaeb63d65c44870d071d",
+     "loai": "agents",
+     "slug": "agency-specialized-fedramp-rmf-compliance"
+    },
+    "agents/agency-specialized-focus-music-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-focus-music-architect.md",
+     "hash": "c3aeffa5a78489bfe8abac85590749acb3ee7ee1d9549cee852a9630fa5e08dd",
+     "loai": "agents",
+     "slug": "agency-specialized-focus-music-architect"
+    },
+    "agents/agency-specialized-french-consulting-market": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-french-consulting-market.md",
+     "hash": "619d40dd8d3c27af07bcce5a9c1f5fe0d67e0e43d9e9145f6c5bb539241d9279",
+     "loai": "agents",
+     "slug": "agency-specialized-french-consulting-market"
+    },
+    "agents/agency-specialized-korean-business-navigator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-korean-business-navigator.md",
+     "hash": "42b820449e1b7da30d85a226d86d958bb3a0a5972f69808ff3b0b26514382ed8",
+     "loai": "agents",
+     "slug": "agency-specialized-korean-business-navigator"
+    },
+    "agents/agency-specialized-master-plan-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-master-plan-architect.md",
+     "hash": "e343c2b7eba597cd779fc534ce0d272f73da37e2ecf2baa8df84849bb8cb1870",
+     "loai": "agents",
+     "slug": "agency-specialized-master-plan-architect"
+    },
+    "agents/agency-specialized-mcp-builder": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-mcp-builder.md",
+     "hash": "6f5f8960055c9f52c0c7e28c7e0902a7ffa83c739b0f15a9ca984ca9f28a530e",
+     "loai": "agents",
+     "slug": "agency-specialized-mcp-builder"
+    },
+    "agents/agency-specialized-model-qa": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-model-qa.md",
+     "hash": "cac2351672a7088873ee96a3f0bcaeb2664f2bb1e2c4565ad8805731900fb615",
+     "loai": "agents",
+     "slug": "agency-specialized-model-qa"
+    },
+    "agents/agency-specialized-pricing-analyst": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-pricing-analyst.md",
+     "hash": "d3b910476697422750fbb541d395b1b1f8c280906ab01d2f28b98a5a73bd7142",
+     "loai": "agents",
+     "slug": "agency-specialized-pricing-analyst"
+    },
+    "agents/agency-specialized-salesforce-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-salesforce-architect.md",
+     "hash": "3709b88adbe490398a66cd72ba8904c0156831ae2b9ba637d3a1565859c1e9ea",
+     "loai": "agents",
+     "slug": "agency-specialized-salesforce-architect"
+    },
+    "agents/agency-specialized-strategy-duel-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-strategy-duel-agent.md",
+     "hash": "2b33251c22969ac84c13a3b303f95638aa85e553946eaa5dfe7cdfb4bd5d5283",
+     "loai": "agents",
+     "slug": "agency-specialized-strategy-duel-agent"
+    },
+    "agents/agency-specialized-workflow-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-workflow-architect.md",
+     "hash": "836f4e56836a478306cd6c017ffab7857100f42330736514f96ab25b212e5acf",
+     "loai": "agents",
+     "slug": "agency-specialized-workflow-architect"
+    },
+    "agents/agency-study-abroad-advisor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-study-abroad-advisor.md",
+     "hash": "446d37c9134a109c38cdb57d9de1eaf146e1033c05a5b0ce6aafcb64a5750a0a",
+     "loai": "agents",
+     "slug": "agency-study-abroad-advisor"
+    },
+    "agents/agency-supply-chain-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-supply-chain-strategist.md",
+     "hash": "b3898758b228d714738924fa0d443954591972eb3187234c47dc9ceeff475424",
+     "loai": "agents",
+     "slug": "agency-supply-chain-strategist"
+    },
+    "agents/agency-support-analytics-reporter": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-analytics-reporter.md",
+     "hash": "fcc3a5a4c4856393c54210422f53a8c59f3dfcfbaac32f329356f51e94953994",
+     "loai": "agents",
+     "slug": "agency-support-analytics-reporter"
+    },
+    "agents/agency-support-executive-summary-generator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-executive-summary-generator.md",
+     "hash": "a008dd97455b83551af89db2e3db8080af461bef7985748a99f6150c8bd4596c",
+     "loai": "agents",
+     "slug": "agency-support-executive-summary-generator"
+    },
+    "agents/agency-support-finance-tracker": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-finance-tracker.md",
+     "hash": "1c3a06eac8e9c92449d86e4d35cefc394f77363e5d6e5f96e7ebe8357a4fd881",
+     "loai": "agents",
+     "slug": "agency-support-finance-tracker"
+    },
+    "agents/agency-support-infrastructure-maintainer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-infrastructure-maintainer.md",
+     "hash": "5b47dadab4f6cf5e7f97c1bb658ed5d6f136af7ef0d1105ae756e12725fb1b35",
+     "loai": "agents",
+     "slug": "agency-support-infrastructure-maintainer"
+    },
+    "agents/agency-support-legal-compliance-checker": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-legal-compliance-checker.md",
+     "hash": "d3a29636e15aa26eef2d06c1b142f6c5617891bfd5d0d57850c677b404d0d484",
+     "loai": "agents",
+     "slug": "agency-support-legal-compliance-checker"
+    },
+    "agents/agency-support-support-responder": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-support-responder.md",
+     "hash": "13a941eea3a65ea039a1fa6db74d795c376e718c592cb40c30437b125071b9f5",
+     "loai": "agents",
+     "slug": "agency-support-support-responder"
+    },
+    "agents/agency-technical-artist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-technical-artist.md",
+     "hash": "2fd90408bb2617ab10fc40bc755c4bf4b5137573973b36b6af963dc3b4fd7e48",
+     "loai": "agents",
+     "slug": "agency-technical-artist"
+    },
+    "agents/agency-terminal-integration-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-terminal-integration-specialist.md",
+     "hash": "1e7b8c565bda3b8a24f6cad88515967b18c09cfa79907cedd2855d3a472657bd",
+     "loai": "agents",
+     "slug": "agency-terminal-integration-specialist"
+    },
+    "agents/agency-testing-accessibility-auditor": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-accessibility-auditor.md",
+     "hash": "0176044ef257ed104f10be6bc5ad7b3f4a8ee20b0f90f75dd8014b95d9459359",
+     "loai": "agents",
+     "slug": "agency-testing-accessibility-auditor"
+    },
+    "agents/agency-testing-api-tester": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-api-tester.md",
+     "hash": "74ade9513eb765e06866e7bec2d2871e3aaee3fec2a57144cf2e7c1dc5272132",
+     "loai": "agents",
+     "slug": "agency-testing-api-tester"
+    },
+    "agents/agency-testing-evidence-collector": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-evidence-collector.md",
+     "hash": "222c7661e825f12fb8af04571bccf22b54489ffc9d10104cb2351770c0623daf",
+     "loai": "agents",
+     "slug": "agency-testing-evidence-collector"
+    },
+    "agents/agency-testing-performance-benchmarker": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-performance-benchmarker.md",
+     "hash": "2d0b18de89c96f98644f71e487e0e33be24d0d86d39de018c952b7aca23a7fe3",
+     "loai": "agents",
+     "slug": "agency-testing-performance-benchmarker"
+    },
+    "agents/agency-testing-reality-checker": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-reality-checker.md",
+     "hash": "a662be7857da703a301f5bcacce1f35f405a5d870f74de16de9147562ede9cdd",
+     "loai": "agents",
+     "slug": "agency-testing-reality-checker"
+    },
+    "agents/agency-testing-test-automation-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-test-automation-engineer.md",
+     "hash": "f08c62295a94570fbf6d8bb5cbae5f0047217d3aa90fbde70704e4cce930d5d7",
+     "loai": "agents",
+     "slug": "agency-testing-test-automation-engineer"
+    },
+    "agents/agency-testing-test-results-analyzer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-test-results-analyzer.md",
+     "hash": "c4d4045c2763c02495712d2920a1c97f2ccde270ef47dd4fa3a20a0177b2137d",
+     "loai": "agents",
+     "slug": "agency-testing-test-results-analyzer"
+    },
+    "agents/agency-testing-tool-evaluator": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-tool-evaluator.md",
+     "hash": "bbfcdaa4837b58509cefd3d40a4425e7c137bfa5c1161855bdab980a8f88b18f",
+     "loai": "agents",
+     "slug": "agency-testing-tool-evaluator"
+    },
+    "agents/agency-testing-workflow-optimizer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-workflow-optimizer.md",
+     "hash": "052513764080f771a2d4566eeeefacaf4110bc76fe2d260d32b82952f85ea8ab",
+     "loai": "agents",
+     "slug": "agency-testing-workflow-optimizer"
+    },
+    "agents/agency-unity-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-architect.md",
+     "hash": "669cd78c4564e172a6e5e9fc62720e32913d3a8b2a1dc3acc35145bc959f6339",
+     "loai": "agents",
+     "slug": "agency-unity-architect"
+    },
+    "agents/agency-unity-editor-tool-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-editor-tool-developer.md",
+     "hash": "9422a1d0c5a4a6eb90ca6632e243b518a248a01e3d49b109535f55a3b05188da",
+     "loai": "agents",
+     "slug": "agency-unity-editor-tool-developer"
+    },
+    "agents/agency-unity-multiplayer-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-multiplayer-engineer.md",
+     "hash": "906d4968f9148781f33fbe4d0970436dc58ffc4aa49a416c071527b4144fff6c",
+     "loai": "agents",
+     "slug": "agency-unity-multiplayer-engineer"
+    },
+    "agents/agency-unity-shader-graph-artist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-shader-graph-artist.md",
+     "hash": "b853d1d5c37befca8d624aad6502fd6718fe67b268903a0911516e95207c5a25",
+     "loai": "agents",
+     "slug": "agency-unity-shader-graph-artist"
+    },
+    "agents/agency-unreal-multiplayer-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-multiplayer-architect.md",
+     "hash": "9fafdcadfa216ea5de07074ff276dfc544285d8b990b381434e24a70201ca63b",
+     "loai": "agents",
+     "slug": "agency-unreal-multiplayer-architect"
+    },
+    "agents/agency-unreal-systems-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-systems-engineer.md",
+     "hash": "69ce2945ca799734c1f9e88e0913ed6ce35b9e451b12882533bba636f4446c70",
+     "loai": "agents",
+     "slug": "agency-unreal-systems-engineer"
+    },
+    "agents/agency-unreal-technical-artist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-technical-artist.md",
+     "hash": "421e918613ed15d82f2af2acfd5d8eac7c2af2b6070f8e57ff267336e9766b6a",
+     "loai": "agents",
+     "slug": "agency-unreal-technical-artist"
+    },
+    "agents/agency-unreal-world-builder": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-world-builder.md",
+     "hash": "da0ded4ac3e5067e62f8a6dc8ba3fcf068ff7f7faf71048b34e1266700b95950",
+     "loai": "agents",
+     "slug": "agency-unreal-world-builder"
+    },
+    "agents/agency-visionos-spatial-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-visionos-spatial-engineer.md",
+     "hash": "cf031935f269ed1a04d26723aca6a3b9b393f493d3b8bf15aa400e994def7e34",
+     "loai": "agents",
+     "slug": "agency-visionos-spatial-engineer"
+    },
+    "agents/agency-xr-cockpit-interaction-specialist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-xr-cockpit-interaction-specialist.md",
+     "hash": "466bc83b30a75756c72bc11070a73ca7347703c0b322236b9ea6ced7253407fe",
+     "loai": "agents",
+     "slug": "agency-xr-cockpit-interaction-specialist"
+    },
+    "agents/agency-xr-immersive-developer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-xr-immersive-developer.md",
+     "hash": "2728102d92ff9dbd4c12401fc2b13d18a46eb5b4d08e700b7ee3e5cda5340df7",
+     "loai": "agents",
+     "slug": "agency-xr-immersive-developer"
+    },
+    "agents/agency-xr-interface-architect": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-xr-interface-architect.md",
+     "hash": "38500438cdb4a5da8893a5c11e6074b72d3bd15db916909fff12a907934422b2",
+     "loai": "agents",
+     "slug": "agency-xr-interface-architect"
+    },
+    "agents/agency-zk-steward": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-zk-steward.md",
+     "hash": "fada009c279696e511604926f95898e34baafbdd62a19cf6c7e2a8b1eb19ee28",
+     "loai": "agents",
+     "slug": "agency-zk-steward"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/agency-academic-anthropologist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-anthropologist.md",
+   "hash": "803121a06850aea1e515b77987d4694524e40f714085d3a77e6ba4ea75c9620c",
+   "loai": "agents",
+   "slug": "agency-academic-anthropologist"
+  },
+  "agents/agency-academic-geographer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-geographer.md",
+   "hash": "054c880a295f24e54c02998a216e27886372e9d55f2ab6c97050a79e899f0ea2",
+   "loai": "agents",
+   "slug": "agency-academic-geographer"
+  },
+  "agents/agency-academic-historian": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-historian.md",
+   "hash": "54dd0edaadd1cea9174d5f38a10d3d31b542741374121fe4d1f181b1dfe44e03",
+   "loai": "agents",
+   "slug": "agency-academic-historian"
+  },
+  "agents/agency-academic-narratologist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-narratologist.md",
+   "hash": "98bd2f7200e021d531b422023e3dd80ecec5f0c1fc1100c695c46e00c3dead6b",
+   "loai": "agents",
+   "slug": "agency-academic-narratologist"
+  },
+  "agents/agency-academic-psychologist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-psychologist.md",
+   "hash": "c16824ecf5d1601386cc8d004a5f1bcfec53c789fd9fd1ddd6bbbd7e64adc75b",
+   "loai": "agents",
+   "slug": "agency-academic-psychologist"
+  },
+  "agents/agency-academic-statistician": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-academic-statistician.md",
+   "hash": "d0be126da41869fe663ff05966cf642a209f89b65c365888d0d51eb0cacee0e0",
+   "loai": "agents",
+   "slug": "agency-academic-statistician"
+  },
+  "agents/agency-accounts-payable-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-accounts-payable-agent.md",
+   "hash": "38e36ceed66413f9f1601c143821b7fce878f39b669b2981712357b6ddf24f1f",
+   "loai": "agents",
+   "slug": "agency-accounts-payable-agent"
+  },
+  "agents/agency-agentic-identity-trust": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-agentic-identity-trust.md",
+   "hash": "2444181c163b13f8525c7394f5eb1470cb23c7746e6dccfbae4f3f3029ea3e65",
+   "loai": "agents",
+   "slug": "agency-agentic-identity-trust"
+  },
+  "agents/agency-agents-orchestrator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-agents-orchestrator.md",
+   "hash": "88c2f15350ef5c56f03cba9eecbe08f4f15da66e164714302384958f52ec485b",
+   "loai": "agents",
+   "slug": "agency-agents-orchestrator"
+  },
+  "agents/agency-automation-governance-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-automation-governance-architect.md",
+   "hash": "4cd8d85466e05a60997e757767bb42f5f8c73ec1567f43979b04d16b2e9bd889",
+   "loai": "agents",
+   "slug": "agency-automation-governance-architect"
+  },
+  "agents/agency-blender-addon-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-blender-addon-engineer.md",
+   "hash": "b376446a972ec1cd126c10a2d66a3b77fc21fdd463edebdc3463f1422fd5ccba",
+   "loai": "agents",
+   "slug": "agency-blender-addon-engineer"
+  },
+  "agents/agency-business-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-business-strategist.md",
+   "hash": "fcd1941d88b3af8ff5b4822e9eff1762ff40fb48425e4f71e875d242681aeeec",
+   "loai": "agents",
+   "slug": "agency-business-strategist"
+  },
+  "agents/agency-change-management-consultant": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-change-management-consultant.md",
+   "hash": "f1ec3126874ad77973985b42b02d28d5a580a13f17c4e724932c22fc16b61a8b",
+   "loai": "agents",
+   "slug": "agency-change-management-consultant"
+  },
+  "agents/agency-chief-financial-officer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-chief-financial-officer.md",
+   "hash": "1cf01837f2594411eefd9fa283f9f21813557b85d5d157c5dd6d7d0f90e354ec",
+   "loai": "agents",
+   "slug": "agency-chief-financial-officer"
+  },
+  "agents/agency-corporate-training-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-corporate-training-designer.md",
+   "hash": "18fa2a15a9ecb9c32efaa9c094082cf232f257bbcca3760e5b1c16efe6cb4b6b",
+   "loai": "agents",
+   "slug": "agency-corporate-training-designer"
+  },
+  "agents/agency-customer-service": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-customer-service.md",
+   "hash": "5cd54417583aadcba1fcfc8fee9e3e405ff893ea5afc587d72d5fc9efcea9682",
+   "loai": "agents",
+   "slug": "agency-customer-service"
+  },
+  "agents/agency-customer-success-manager": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-customer-success-manager.md",
+   "hash": "30bf0ff4606cc8066917db9faaa023c2ac0f6e32480406a79630a493ce59edce",
+   "loai": "agents",
+   "slug": "agency-customer-success-manager"
+  },
+  "agents/agency-data-consolidation-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-data-consolidation-agent.md",
+   "hash": "36462bdda318e1f8e40778c16f5b8e9f751aa7f37d9769383c58677d37728440",
+   "loai": "agents",
+   "slug": "agency-data-consolidation-agent"
+  },
+  "agents/agency-data-privacy-officer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-data-privacy-officer.md",
+   "hash": "aeab5cedb7812b4afda33a4b6a8cf598b8900fa1ff1a08c305fd530aaa05d259",
+   "loai": "agents",
+   "slug": "agency-data-privacy-officer"
+  },
+  "agents/agency-design-brand-guardian": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-brand-guardian.md",
+   "hash": "14105741c88052a10a53c667077fef1b0da7ff1663f8da7e5035d2f736f31e4b",
+   "loai": "agents",
+   "slug": "agency-design-brand-guardian"
+  },
+  "agents/agency-design-image-prompt-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-image-prompt-engineer.md",
+   "hash": "1a3d9da696de136dba0f8056b7f60e45a5b10c872259ccfc105ad0e3f9137660",
+   "loai": "agents",
+   "slug": "agency-design-image-prompt-engineer"
+  },
+  "agents/agency-design-inclusive-visuals-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-inclusive-visuals-specialist.md",
+   "hash": "52490a4a4ddceb2945f626b4738145dc867047c091c8f43dc334e72b94012f69",
+   "loai": "agents",
+   "slug": "agency-design-inclusive-visuals-specialist"
+  },
+  "agents/agency-design-persona-walkthrough": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-persona-walkthrough.md",
+   "hash": "56a6fa3118fdf342038a0f76ef90533080806ac581dbf1520efca695fb148776",
+   "loai": "agents",
+   "slug": "agency-design-persona-walkthrough"
+  },
+  "agents/agency-design-ui-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ui-designer.md",
+   "hash": "ebe4abf207e3c3ae48f02ff6cdc64283091d2daa9733ee871fe61efc248b8cb5",
+   "loai": "agents",
+   "slug": "agency-design-ui-designer"
+  },
+  "agents/agency-design-ui-finish-gate-reviewer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ui-finish-gate-reviewer.md",
+   "hash": "2e8ba7e3215f5d3b1c1bc3e2f38726f051ed1be63138e828a5a022c11a0ff348",
+   "loai": "agents",
+   "slug": "agency-design-ui-finish-gate-reviewer"
+  },
+  "agents/agency-design-ux-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ux-architect.md",
+   "hash": "7217226725a5789ebd8d9056e64d2ab1beece23b3a76b0cab9451a13b92360f3",
+   "loai": "agents",
+   "slug": "agency-design-ux-architect"
+  },
+  "agents/agency-design-ux-researcher": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-ux-researcher.md",
+   "hash": "69356475682496fa05fcb08cddd721c58e5ee86ee81b03b56e68581c46b98cfa",
+   "loai": "agents",
+   "slug": "agency-design-ux-researcher"
+  },
+  "agents/agency-design-visual-storyteller": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-visual-storyteller.md",
+   "hash": "7a9ce352a5692d296468d6c831905a054cd3a4f265195c7f787e181b5213a5d5",
+   "loai": "agents",
+   "slug": "agency-design-visual-storyteller"
+  },
+  "agents/agency-design-whimsy-injector": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-whimsy-injector.md",
+   "hash": "5d15324a12f774d3774a925d8f69790fbb92d8507cd3b1abf93134f696091b8c",
+   "loai": "agents",
+   "slug": "agency-design-whimsy-injector"
+  },
+  "agents/agency-economy-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-economy-designer.md",
+   "hash": "503e53e9c7d45227ccc42cd08d4befa8d10d1fefb1644d7d4c2c09a1f5c5765e",
+   "loai": "agents",
+   "slug": "agency-economy-designer"
+  },
+  "agents/agency-engineering-ai-data-remediation-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-ai-data-remediation-engineer.md",
+   "hash": "193918adf5d9dce0edf3434bbd6b3d6626d51acf1c43c763d42faf50e21f91b7",
+   "loai": "agents",
+   "slug": "agency-engineering-ai-data-remediation-engineer"
+  },
+  "agents/agency-engineering-ai-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-ai-engineer.md",
+   "hash": "cfb98a42d0037307aef61f76635460a7bba2ab6f808017554239b6b7017eb7ab",
+   "loai": "agents",
+   "slug": "agency-engineering-ai-engineer"
+  },
+  "agents/agency-engineering-api-platform-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-api-platform-engineer.md",
+   "hash": "339a19a5f38914d4395cb0b3d387a20e95397090cc632f3ab17720eaa697e04f",
+   "loai": "agents",
+   "slug": "agency-engineering-api-platform-engineer"
+  },
+  "agents/agency-engineering-ats-validator-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-ats-validator-architect.md",
+   "hash": "d2e94b004d2fafb75342533b2a4f5aa46ae2b344bb940da94f83155176f9fd25",
+   "loai": "agents",
+   "slug": "agency-engineering-ats-validator-architect"
+  },
+  "agents/agency-engineering-autonomous-optimization-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-autonomous-optimization-architect.md",
+   "hash": "9a631c2d505be1ced5ea38221051d8cb74021794e1d90f581cc5f0dcb4a97f5d",
+   "loai": "agents",
+   "slug": "agency-engineering-autonomous-optimization-architect"
+  },
+  "agents/agency-engineering-backend-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-backend-architect.md",
+   "hash": "1735cfc4bea75421d6638c50d8588e264c2fcdddcbc0dbc49ca934c1aa6bd840",
+   "loai": "agents",
+   "slug": "agency-engineering-backend-architect"
+  },
+  "agents/agency-engineering-china-network-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-china-network-engineer.md",
+   "hash": "981a45057a9768c70f427443b3f4f64174201cd34ae417c8a8ee3990eb34a174",
+   "loai": "agents",
+   "slug": "agency-engineering-china-network-engineer"
+  },
+  "agents/agency-engineering-cms-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-cms-developer.md",
+   "hash": "eef8972831345976d914c5ee9dc6ee87fc4d7b2be38c43fd62b85f4c80da7f8d",
+   "loai": "agents",
+   "slug": "agency-engineering-cms-developer"
+  },
+  "agents/agency-engineering-code-reviewer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-code-reviewer.md",
+   "hash": "cd7643598594b1e55bb0e0b77864729fdf54d38357d46a731a9f19fb55f105dd",
+   "loai": "agents",
+   "slug": "agency-engineering-code-reviewer"
+  },
+  "agents/agency-engineering-codebase-onboarding-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-codebase-onboarding-engineer.md",
+   "hash": "051d77272c5d87f751fccdf014aa104083d61f6e3e2572091d1c2cc4106a2d7a",
+   "loai": "agents",
+   "slug": "agency-engineering-codebase-onboarding-engineer"
+  },
+  "agents/agency-engineering-data-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-data-engineer.md",
+   "hash": "f0b5a1d48c2f563822b744647492d5efe51c76aff9d78cf7422f718fbac0df92",
+   "loai": "agents",
+   "slug": "agency-engineering-data-engineer"
+  },
+  "agents/agency-engineering-data-visualization-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-data-visualization-engineer.md",
+   "hash": "d0e0f69cd0498b33588264514a08f7bffc233656d5ed454f0c24e1624b9b2126",
+   "loai": "agents",
+   "slug": "agency-engineering-data-visualization-engineer"
+  },
+  "agents/agency-engineering-database-optimizer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-database-optimizer.md",
+   "hash": "421f844dd41763108008447c13d59c66ce85909ca5a5fb94ed0f6f8e410f347c",
+   "loai": "agents",
+   "slug": "agency-engineering-database-optimizer"
+  },
+  "agents/agency-engineering-database-reliability-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-database-reliability-engineer.md",
+   "hash": "87816af9f1777cbc2dd51a7409b12520d35f9d5dfbe39d24560f8c3230ed8aa5",
+   "loai": "agents",
+   "slug": "agency-engineering-database-reliability-engineer"
+  },
+  "agents/agency-engineering-desktop-app-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-desktop-app-engineer.md",
+   "hash": "cc4d77145454b8d7d0bce94681a3c50d0bf90f0154d317b44af1935434220db4",
+   "loai": "agents",
+   "slug": "agency-engineering-desktop-app-engineer"
+  },
+  "agents/agency-engineering-developer-tooling-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-developer-tooling-engineer.md",
+   "hash": "07ce13dc6236ddf53409d2b9de74c2cac71819a3513b27a9e54afb985414a1b5",
+   "loai": "agents",
+   "slug": "agency-engineering-developer-tooling-engineer"
+  },
+  "agents/agency-engineering-devops-automator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-devops-automator.md",
+   "hash": "a88cff4ed38f38b39d2076fba3bb45fcc2ef1ae80c4f013600c8ee8339eb5487",
+   "loai": "agents",
+   "slug": "agency-engineering-devops-automator"
+  },
+  "agents/agency-engineering-drupal-performance": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-drupal-performance.md",
+   "hash": "99a256d268eb70a3374842ffc893f8368d404d384adb053e8de68b2440fa64e2",
+   "loai": "agents",
+   "slug": "agency-engineering-drupal-performance"
+  },
+  "agents/agency-engineering-drupal-shopping-cart": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-drupal-shopping-cart.md",
+   "hash": "2be5946efdbd379aa807cce2a36544e3af06348ab24a12cb981084d3b5950637",
+   "loai": "agents",
+   "slug": "agency-engineering-drupal-shopping-cart"
+  },
+  "agents/agency-engineering-electrical-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-electrical-engineer.md",
+   "hash": "5d664ee3ba5c5cbb86d130d215c6589fdd6b3aca40175b48e9d5c73c0f3e44f2",
+   "loai": "agents",
+   "slug": "agency-engineering-electrical-engineer"
+  },
+  "agents/agency-engineering-email-intelligence-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-email-intelligence-engineer.md",
+   "hash": "ff3ba4bc2a84f7746c02017bb1c0acb18b0e0164f9411ad5d176f732f47d3efa",
+   "loai": "agents",
+   "slug": "agency-engineering-email-intelligence-engineer"
+  },
+  "agents/agency-engineering-embedded-firmware-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-embedded-firmware-engineer.md",
+   "hash": "631b8c0ea904b8bafa8de89582e0298069a4020287a89d29ba0290af2b0142bc",
+   "loai": "agents",
+   "slug": "agency-engineering-embedded-firmware-engineer"
+  },
+  "agents/agency-engineering-feishu-integration-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-feishu-integration-developer.md",
+   "hash": "73667af5bf711720bb0897e2c895c3ca15b1e3eee7546e899acdcdbc2d9c4283",
+   "loai": "agents",
+   "slug": "agency-engineering-feishu-integration-developer"
+  },
+  "agents/agency-engineering-filament-optimization-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-filament-optimization-specialist.md",
+   "hash": "92779fc7e01bd6bfb62590c78dae652ae69369f57329455dfeaac30d6758c7bf",
+   "loai": "agents",
+   "slug": "agency-engineering-filament-optimization-specialist"
+  },
+  "agents/agency-engineering-finops-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-finops-engineer.md",
+   "hash": "91c9a86142434fee174a8ddbe8a9a9bef965956274567c0205aa78b57d12f4d3",
+   "loai": "agents",
+   "slug": "agency-engineering-finops-engineer"
+  },
+  "agents/agency-engineering-frontend-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-frontend-developer.md",
+   "hash": "e51e85aa994a5569a73b7c0d744e944af316e64f49d1192676423755781f04d4",
+   "loai": "agents",
+   "slug": "agency-engineering-frontend-developer"
+  },
+  "agents/agency-engineering-gaussdb-expert": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-gaussdb-expert.md",
+   "hash": "4c9c96d4ea930958ea3571bd3159a5acfc3727d549073ec3d4ef14cec2fd29f5",
+   "loai": "agents",
+   "slug": "agency-engineering-gaussdb-expert"
+  },
+  "agents/agency-engineering-git-workflow-master": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-git-workflow-master.md",
+   "hash": "d18dcd11459c419162446877713107e79be3c8df054b3cedea333e391582546b",
+   "loai": "agents",
+   "slug": "agency-engineering-git-workflow-master"
+  },
+  "agents/agency-engineering-i18n-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-i18n-engineer.md",
+   "hash": "c3ff0f923db8b0d042a33732b0cc8694fc4eac760562468eb97a4a4e3c54e3cf",
+   "loai": "agents",
+   "slug": "agency-engineering-i18n-engineer"
+  },
+  "agents/agency-engineering-identity-access-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-identity-access-engineer.md",
+   "hash": "f217e24376612fc2722f36997a59484b396916054d4b4d581743abedd815d534",
+   "loai": "agents",
+   "slug": "agency-engineering-identity-access-engineer"
+  },
+  "agents/agency-engineering-incident-response-commander": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-incident-response-commander.md",
+   "hash": "600b121518135882906219f7f3c76d7e8193b5205b34095682d283490472709e",
+   "loai": "agents",
+   "slug": "agency-engineering-incident-response-commander"
+  },
+  "agents/agency-engineering-iot-fleet-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-iot-fleet-engineer.md",
+   "hash": "94653144807beba220f87b996e4ae974a9ec6f9ca761452e7e39dc118fa8f326",
+   "loai": "agents",
+   "slug": "agency-engineering-iot-fleet-engineer"
+  },
+  "agents/agency-engineering-it-service-manager": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-it-service-manager.md",
+   "hash": "7d7bf83c3ad098e4fa3d28578d3a9ff81b3c64c40e882225710360691fad3edf",
+   "loai": "agents",
+   "slug": "agency-engineering-it-service-manager"
+  },
+  "agents/agency-engineering-knowledge-graph-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-knowledge-graph-engineer.md",
+   "hash": "c2163a0c90411b3fcc182ebe8965d9b8ee28f20ff2180df385b851a4d50ae66c",
+   "loai": "agents",
+   "slug": "agency-engineering-knowledge-graph-engineer"
+  },
+  "agents/agency-engineering-llm-post-training-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-llm-post-training-engineer.md",
+   "hash": "7b683aba1b57f0d2a4124e67900115e54eb99fae805b87279dc4f7493fa21e0c",
+   "loai": "agents",
+   "slug": "agency-engineering-llm-post-training-engineer"
+  },
+  "agents/agency-engineering-minimal-change-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-minimal-change-engineer.md",
+   "hash": "d156d732c7cfcb02ce113a63d9eb1d8f5af172fd7b969c8cf1fbb48d7d544c1e",
+   "loai": "agents",
+   "slug": "agency-engineering-minimal-change-engineer"
+  },
+  "agents/agency-engineering-mobile-app-builder": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-mobile-app-builder.md",
+   "hash": "fcfee8c97b7e6bab0104aa4ebb4560dfed3745fee22aaa9ac9e226573c309587",
+   "loai": "agents",
+   "slug": "agency-engineering-mobile-app-builder"
+  },
+  "agents/agency-engineering-mobile-release-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-mobile-release-engineer.md",
+   "hash": "629094542f5b763c42aec29578fcd5a117211d217368b2ea14b8a1d4722834e0",
+   "loai": "agents",
+   "slug": "agency-engineering-mobile-release-engineer"
+  },
+  "agents/agency-engineering-multi-agent-systems-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-multi-agent-systems-architect.md",
+   "hash": "c4d029abe7e214b1d9e0e7c56b077f72faea02c025935b3ff417f69136fe368b",
+   "loai": "agents",
+   "slug": "agency-engineering-multi-agent-systems-architect"
+  },
+  "agents/agency-engineering-network-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-network-engineer.md",
+   "hash": "9b8d21674f3c81ad089fb1a7538f99c2a9704431a74841fe40b6b824db290cac",
+   "loai": "agents",
+   "slug": "agency-engineering-network-engineer"
+  },
+  "agents/agency-engineering-orgscript-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-orgscript-engineer.md",
+   "hash": "a7587a6341b5148adb9a44d19679fcfe67d5838099b9d1659dd5ce356ecc6a7f",
+   "loai": "agents",
+   "slug": "agency-engineering-orgscript-engineer"
+  },
+  "agents/agency-engineering-payments-billing-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-payments-billing-engineer.md",
+   "hash": "3b6e6234f97b2f410dd64d84d1267e47bb844ba7a5117c31884ae85aea2da9b9",
+   "loai": "agents",
+   "slug": "agency-engineering-payments-billing-engineer"
+  },
+  "agents/agency-engineering-pdf-engine-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-pdf-engine-architect.md",
+   "hash": "840925f78ad4d3bd633128564f8a0a247f5f52efc5c035cc435704051d7ecfcc",
+   "loai": "agents",
+   "slug": "agency-engineering-pdf-engine-architect"
+  },
+  "agents/agency-engineering-platform-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-platform-engineer.md",
+   "hash": "379acb8007e5e98f29b7b7bdf8eca62994746225c1dc817e835036f831d8a6e4",
+   "loai": "agents",
+   "slug": "agency-engineering-platform-engineer"
+  },
+  "agents/agency-engineering-privacy-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-privacy-engineer.md",
+   "hash": "f1e3ff058a35af4091290ca47af0d0a78f2adbee77036bf829e6bb6713fe63ff",
+   "loai": "agents",
+   "slug": "agency-engineering-privacy-engineer"
+  },
+  "agents/agency-engineering-prompt-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-prompt-engineer.md",
+   "hash": "c9743b24cb5f4d974507ee5f800fdc16991d7062b1135dc26803385aa5587646",
+   "loai": "agents",
+   "slug": "agency-engineering-prompt-engineer"
+  },
+  "agents/agency-engineering-rag-pipeline-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-rag-pipeline-engineer.md",
+   "hash": "328127c960c611c8fa5d6bb1e3e2ac8dc18372416aac5445f1065cf020c24fe6",
+   "loai": "agents",
+   "slug": "agency-engineering-rag-pipeline-engineer"
+  },
+  "agents/agency-engineering-rapid-prototyper": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-rapid-prototyper.md",
+   "hash": "e7718556dde8ca515a9307b2ae8465566385df77c920b8e088d46cdb9fcfe977",
+   "loai": "agents",
+   "slug": "agency-engineering-rapid-prototyper"
+  },
+  "agents/agency-engineering-realtime-collaboration-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-realtime-collaboration-engineer.md",
+   "hash": "654d51d334db9ce0f73185c3bf1a249184698e64ed69b43b56a84d84599188ce",
+   "loai": "agents",
+   "slug": "agency-engineering-realtime-collaboration-engineer"
+  },
+  "agents/agency-engineering-rust-refactoring-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-rust-refactoring-specialist.md",
+   "hash": "0bd42933e18734c951f1ec90ec5c4d0ca734785ff3948a4c6e1a2c420b0e6289",
+   "loai": "agents",
+   "slug": "agency-engineering-rust-refactoring-specialist"
+  },
+  "agents/agency-engineering-search-relevance-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-search-relevance-engineer.md",
+   "hash": "dd68234a632def658b53fa235b036b6dc4ef6ebff33e5ba3e4696aa1b7c42a03",
+   "loai": "agents",
+   "slug": "agency-engineering-search-relevance-engineer"
+  },
+  "agents/agency-engineering-section-508-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-section-508-specialist.md",
+   "hash": "6b4b68dd12a62903b81e44d479298f2ee28b02fe499d182d3c34c6c29195d894",
+   "loai": "agents",
+   "slug": "agency-engineering-section-508-specialist"
+  },
+  "agents/agency-engineering-senior-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-senior-developer.md",
+   "hash": "8a1ada39a281a6bb6955fab18b8734560829a35cf419e54aa3693b2294aedefe",
+   "loai": "agents",
+   "slug": "agency-engineering-senior-developer"
+  },
+  "agents/agency-engineering-servicenow-developer-mentor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-servicenow-developer-mentor.md",
+   "hash": "2717811b8a6d6bc9fe89a8686a535bf32680743b9d4dc2f072a643e389d42aa6",
+   "loai": "agents",
+   "slug": "agency-engineering-servicenow-developer-mentor"
+  },
+  "agents/agency-engineering-software-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-software-architect.md",
+   "hash": "4dedafd4c870c458f03be939c7cd48ef5f7fb322e3e828387708254f568f3c34",
+   "loai": "agents",
+   "slug": "agency-engineering-software-architect"
+  },
+  "agents/agency-engineering-solidity-smart-contract-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-solidity-smart-contract-engineer.md",
+   "hash": "6e1b806a9a3edd77971b0ca69b4444fc0bbc37136912b1eb1ea9f6b90844992a",
+   "loai": "agents",
+   "slug": "agency-engineering-solidity-smart-contract-engineer"
+  },
+  "agents/agency-engineering-sre": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-sre.md",
+   "hash": "8e93501230b3720768090e224286229844397b5cc06ef115bf02c96bcd2cc324",
+   "loai": "agents",
+   "slug": "agency-engineering-sre"
+  },
+  "agents/agency-engineering-technical-writer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-technical-writer.md",
+   "hash": "ddd6d938e9ef99d19950191a77ec18738c5db0d9feebfac4c1e319209e12a7d0",
+   "loai": "agents",
+   "slug": "agency-engineering-technical-writer"
+  },
+  "agents/agency-engineering-universal-document-compiler": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-universal-document-compiler.md",
+   "hash": "c475ed9c0892babf4214645a678be3190f280214379fda045ff8fa40e19f1197",
+   "loai": "agents",
+   "slug": "agency-engineering-universal-document-compiler"
+  },
+  "agents/agency-engineering-uswds-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-uswds-developer.md",
+   "hash": "34ac25b6b6fdffe80b084aae8199f5d573f40f10c911d79860ccc906f1db1236",
+   "loai": "agents",
+   "slug": "agency-engineering-uswds-developer"
+  },
+  "agents/agency-engineering-video-streaming-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-video-streaming-engineer.md",
+   "hash": "bff15a0edc2472b88fc6f498bbdfb0cf01f10932cdb9c8b51cd5db67d1bbe358",
+   "loai": "agents",
+   "slug": "agency-engineering-video-streaming-engineer"
+  },
+  "agents/agency-engineering-voice-ai-integration-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-voice-ai-integration-engineer.md",
+   "hash": "1ea0dde8686ea4c36f89edda448f955f563c0c042208b7156865ee1de8a1aa62",
+   "loai": "agents",
+   "slug": "agency-engineering-voice-ai-integration-engineer"
+  },
+  "agents/agency-engineering-webassembly-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-webassembly-engineer.md",
+   "hash": "f42c3cb9c12faae24f57c32350e7d9c514e4e1ad0abdec523c8128897820ed7c",
+   "loai": "agents",
+   "slug": "agency-engineering-webassembly-engineer"
+  },
+  "agents/agency-engineering-wechat-mini-program-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-wechat-mini-program-developer.md",
+   "hash": "ce9d834dcfb7923d954277b02c11847e8c7de57de096e952aa88409c431f3ee0",
+   "loai": "agents",
+   "slug": "agency-engineering-wechat-mini-program-developer"
+  },
+  "agents/agency-engineering-wordpress-performance": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-wordpress-performance.md",
+   "hash": "e0f1e0e3564e19c7ccc41cb79981eb254d7921c1fce4a5ab0a82cbd242a32ab0",
+   "loai": "agents",
+   "slug": "agency-engineering-wordpress-performance"
+  },
+  "agents/agency-engineering-wordpress-shopping-cart": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-engineering-wordpress-shopping-cart.md",
+   "hash": "68a5c82d4463c350cd2e2c06a68ab90df3189234d76931c30407deb6fbec2195",
+   "loai": "agents",
+   "slug": "agency-engineering-wordpress-shopping-cart"
+  },
+  "agents/agency-esg-sustainability-officer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-esg-sustainability-officer.md",
+   "hash": "00097f1f27f7cddb9bd3f465ee17fdf5e2b0fd50529bb87de91776ff4f795e6f",
+   "loai": "agents",
+   "slug": "agency-esg-sustainability-officer"
+  },
+  "agents/agency-finance-bookkeeper-controller": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-bookkeeper-controller.md",
+   "hash": "709a67056a70a6cb07b1eb655dd19297ca081a89ce50d498674e28d6cff27e74",
+   "loai": "agents",
+   "slug": "agency-finance-bookkeeper-controller"
+  },
+  "agents/agency-finance-financial-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-financial-analyst.md",
+   "hash": "4ce7846c074c8d3ade95097fd03be6b93f1bdb51ae627a8e3719b557e9a3d582",
+   "loai": "agents",
+   "slug": "agency-finance-financial-analyst"
+  },
+  "agents/agency-finance-fpa-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-fpa-analyst.md",
+   "hash": "f50ebb877bf1851dd384c533f45a27938ec13c9e8d0a15a55ff333f8a972ba58",
+   "loai": "agents",
+   "slug": "agency-finance-fpa-analyst"
+  },
+  "agents/agency-finance-investment-researcher": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-investment-researcher.md",
+   "hash": "b82239cfdfd9a0785c7a4b60f97ec9a9bf5ef0e283ec53832a3ec745155675f5",
+   "loai": "agents",
+   "slug": "agency-finance-investment-researcher"
+  },
+  "agents/agency-finance-tax-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-finance-tax-strategist.md",
+   "hash": "fdb4baaf354dcd269a389fe0b63a757bf47a1dabd270f2b5829ab6fc3ac79f1f",
+   "loai": "agents",
+   "slug": "agency-finance-tax-strategist"
+  },
+  "agents/agency-game-audio-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-game-audio-engineer.md",
+   "hash": "4d6e8a5d4ef4e86554f6f074dc116d93bb0061d5f2059259694262adb09f0661",
+   "loai": "agents",
+   "slug": "agency-game-audio-engineer"
+  },
+  "agents/agency-game-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-game-designer.md",
+   "hash": "20c91a83e49fa6f5903980f5bb94514ee4444b10a33a3d614d8389e4fc2cf7ce",
+   "loai": "agents",
+   "slug": "agency-game-designer"
+  },
+  "agents/agency-gis-3d-scene-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-3d-scene-developer.md",
+   "hash": "6855dd3f846cbceb865fc815a9f3d099951ead42a3c759b66efd04adf884e937",
+   "loai": "agents",
+   "slug": "agency-gis-3d-scene-developer"
+  },
+  "agents/agency-gis-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-analyst.md",
+   "hash": "41dba53a40f90a3143c4b6561dc92f7833a6625f8f3f2925422e6a0c30cee177",
+   "loai": "agents",
+   "slug": "agency-gis-analyst"
+  },
+  "agents/agency-gis-bim-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-bim-specialist.md",
+   "hash": "aaad1ae5442cdce3040a7e9169f38973df9c9ee15b6f599d543f95046ee7ecff",
+   "loai": "agents",
+   "slug": "agency-gis-bim-specialist"
+  },
+  "agents/agency-gis-cartography-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-cartography-designer.md",
+   "hash": "1413e4e3b707593140569e976c8855e2504b165a2a487e0862cd1dd650a41a48",
+   "loai": "agents",
+   "slug": "agency-gis-cartography-designer"
+  },
+  "agents/agency-gis-drone-reality-mapping": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-drone-reality-mapping.md",
+   "hash": "28d2b30b989de1a4d63f2d1af5b59bc56524d263b99c9b79f1cbbd6fa98be2e6",
+   "loai": "agents",
+   "slug": "agency-gis-drone-reality-mapping"
+  },
+  "agents/agency-gis-geoai-ml-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-geoai-ml-engineer.md",
+   "hash": "33ab350a4b26171857a26ff6c80d536dd349d478d61381628bedbe4dd5afa3bd",
+   "loai": "agents",
+   "slug": "agency-gis-geoai-ml-engineer"
+  },
+  "agents/agency-gis-geoprocessing-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-geoprocessing-specialist.md",
+   "hash": "0050f2ded06e110960ff48df62b1458798588d3ff6a26ab6ce8209920161cd3c",
+   "loai": "agents",
+   "slug": "agency-gis-geoprocessing-specialist"
+  },
+  "agents/agency-gis-qa-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-qa-engineer.md",
+   "hash": "92230872ea15fe5aa4fea1f82b4755f2af8a1fa4b08cbcb59fa8b5f81f6a2d24",
+   "loai": "agents",
+   "slug": "agency-gis-qa-engineer"
+  },
+  "agents/agency-gis-solution-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-solution-engineer.md",
+   "hash": "78e46945c275c31bb786d9a7e6722ffdbbbfb5b988eb8687489b4e71a9cba11a",
+   "loai": "agents",
+   "slug": "agency-gis-solution-engineer"
+  },
+  "agents/agency-gis-spatial-data-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-spatial-data-engineer.md",
+   "hash": "0fcffb1cb122ada3e244003a1714a046f1d782a26038a2eb208762a9604d0de8",
+   "loai": "agents",
+   "slug": "agency-gis-spatial-data-engineer"
+  },
+  "agents/agency-gis-spatial-data-scientist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-spatial-data-scientist.md",
+   "hash": "7f872a56412f01e499bb613ac3a20faf976ac11100b4f6593eedc2db210d318e",
+   "loai": "agents",
+   "slug": "agency-gis-spatial-data-scientist"
+  },
+  "agents/agency-gis-technical-consultant": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-technical-consultant.md",
+   "hash": "1653ae5bbb3ff7bfd830eb16256b477e32b1af552f8305d4312f47ada0b95ea2",
+   "loai": "agents",
+   "slug": "agency-gis-technical-consultant"
+  },
+  "agents/agency-gis-web-gis-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-gis-web-gis-developer.md",
+   "hash": "487889087bdcb1f87e9adf34ae8f9d1fea5f8a6eeb1c49d14c42585c55ae58f6",
+   "loai": "agents",
+   "slug": "agency-gis-web-gis-developer"
+  },
+  "agents/agency-godot-gameplay-scripter": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-godot-gameplay-scripter.md",
+   "hash": "ffb2706c74a6a185a9c5ae6c91d67cca71363317968c99bfbe81cbefe304d162",
+   "loai": "agents",
+   "slug": "agency-godot-gameplay-scripter"
+  },
+  "agents/agency-godot-multiplayer-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-godot-multiplayer-engineer.md",
+   "hash": "0e21212abf2e8680e279bc27319229a4b82797098c0687f7d8ba5e2a5834d4c9",
+   "loai": "agents",
+   "slug": "agency-godot-multiplayer-engineer"
+  },
+  "agents/agency-godot-shader-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-godot-shader-developer.md",
+   "hash": "8de26279753719244be4220450731b190a1eb631055ea897f14b49880d775285",
+   "loai": "agents",
+   "slug": "agency-godot-shader-developer"
+  },
+  "agents/agency-government-digital-presales-consultant": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-government-digital-presales-consultant.md",
+   "hash": "5d308021ac5f790db1f944fab8ac974c1b006545930dfda7e097ab35bace8743",
+   "loai": "agents",
+   "slug": "agency-government-digital-presales-consultant"
+  },
+  "agents/agency-grant-writer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-grant-writer.md",
+   "hash": "da4f7bd505270a104e99e1f91760d30bc0548f195db91dfe6a39f4d23a25bc4e",
+   "loai": "agents",
+   "slug": "agency-grant-writer"
+  },
+  "agents/agency-healthcare-aging-parent-care-companion": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-aging-parent-care-companion.md",
+   "hash": "88dbf1fd3a15bdb6dd46c2243375c7c8652c11672cae6f0b363a54aa7fa8ed92",
+   "loai": "agents",
+   "slug": "agency-healthcare-aging-parent-care-companion"
+  },
+  "agents/agency-healthcare-clinical-evidence-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-clinical-evidence-agent.md",
+   "hash": "3c9831fc2467ee5a3a624035f4ade5e65a2febf3e8f3ac68da91b7a027edf856",
+   "loai": "agents",
+   "slug": "agency-healthcare-clinical-evidence-agent"
+  },
+  "agents/agency-healthcare-customer-service": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-customer-service.md",
+   "hash": "079054b6c75dcc367d30006ec1f0ebba8482dbc8300a03935e12daea67cdad2b",
+   "loai": "agents",
+   "slug": "agency-healthcare-customer-service"
+  },
+  "agents/agency-healthcare-innovation-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-innovation-strategist.md",
+   "hash": "0f1b61ee60e1a29b3f59194a83cfd553c593a77ecb331c0ba9b0c2df18a640a5",
+   "loai": "agents",
+   "slug": "agency-healthcare-innovation-strategist"
+  },
+  "agents/agency-healthcare-marketing-compliance": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-marketing-compliance.md",
+   "hash": "7f6a2d8f57860beb54b7349bb99fa41c7a6fae9049e24e64bc12c0ae07bc2f7b",
+   "loai": "agents",
+   "slug": "agency-healthcare-marketing-compliance"
+  },
+  "agents/agency-healthcare-sovereign-health-systems-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-healthcare-sovereign-health-systems-agent.md",
+   "hash": "d80d676711ce5573735eefcb0aea1ed7cdcacf15cc196fc7d103802d37cdb18c",
+   "loai": "agents",
+   "slug": "agency-healthcare-sovereign-health-systems-agent"
+  },
+  "agents/agency-hospitality-guest-services": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-hospitality-guest-services.md",
+   "hash": "ede7d8902da64724688c01fe2a21691b1f2e4d1d8eed66f2e5cd17d9585d8725",
+   "loai": "agents",
+   "slug": "agency-hospitality-guest-services"
+  },
+  "agents/agency-hr-onboarding": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-hr-onboarding.md",
+   "hash": "ee56347230c6b9c7c0b57e066108df2cea6d1a6f73a1ed045b87bccd1ef884d3",
+   "loai": "agents",
+   "slug": "agency-hr-onboarding"
+  },
+  "agents/agency-identity-graph-operator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-identity-graph-operator.md",
+   "hash": "b2ad2a7d1b594b5e668a0520c9a6c06ff01f3c4abe74740e780f435a3bfe2633",
+   "loai": "agents",
+   "slug": "agency-identity-graph-operator"
+  },
+  "agents/agency-language-translator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-language-translator.md",
+   "hash": "3d9129704dac12f0df40c29411fb25a2dea801788d801d28d20ee932af2c6334",
+   "loai": "agents",
+   "slug": "agency-language-translator"
+  },
+  "agents/agency-legal-billing-time-tracking": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-legal-billing-time-tracking.md",
+   "hash": "66de3bd4527cf91ba613bc0ae1e01e6dc41bf28279c7a815c7b412843f31abbc",
+   "loai": "agents",
+   "slug": "agency-legal-billing-time-tracking"
+  },
+  "agents/agency-legal-client-intake": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-legal-client-intake.md",
+   "hash": "7c664b57c879b78bb22d1791b1e4fa99d178dec33d5701fb3964b2b2fa58ab5e",
+   "loai": "agents",
+   "slug": "agency-legal-client-intake"
+  },
+  "agents/agency-legal-document-review": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-legal-document-review.md",
+   "hash": "7186e2f66d920216c4c1e3951025ae4f6cd363bea1c8b296731fdb2c1cbecb88",
+   "loai": "agents",
+   "slug": "agency-legal-document-review"
+  },
+  "agents/agency-level-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-level-designer.md",
+   "hash": "b5b3056c1a894dece726812fe35abe99b17c25fd94549fd1f122f142815a2c50",
+   "loai": "agents",
+   "slug": "agency-level-designer"
+  },
+  "agents/agency-loan-officer-assistant": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-loan-officer-assistant.md",
+   "hash": "1271720a05d63e1ed91091eb2b9afe9e7f5e9dc5eae879ecffe9e276b509707d",
+   "loai": "agents",
+   "slug": "agency-loan-officer-assistant"
+  },
+  "agents/agency-lsp-index-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-lsp-index-engineer.md",
+   "hash": "04c59871aece1702c0369219ec4eb76e88312ae99873284de270b11ba5f82ffa",
+   "loai": "agents",
+   "slug": "agency-lsp-index-engineer"
+  },
+  "agents/agency-ma-integration-manager": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-ma-integration-manager.md",
+   "hash": "9257c6e1b7b25c7d42c76ab444fe2272771903ab191c38f40b8d39646c92a74e",
+   "loai": "agents",
+   "slug": "agency-ma-integration-manager"
+  },
+  "agents/agency-macos-spatial-metal-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-macos-spatial-metal-engineer.md",
+   "hash": "ca057273e5d431c99575d40bf3eb473bba6553d0b9dc787d9f0e72d79e01c4d8",
+   "loai": "agents",
+   "slug": "agency-macos-spatial-metal-engineer"
+  },
+  "agents/agency-marketing-aeo-foundations": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-aeo-foundations.md",
+   "hash": "307a20ab3393ec5701e9d22802149756a4ee51d4e69290a27999641d17a1512f",
+   "loai": "agents",
+   "slug": "agency-marketing-aeo-foundations"
+  },
+  "agents/agency-marketing-agentic-search-optimizer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-agentic-search-optimizer.md",
+   "hash": "646cd3529f9808441855e5ffe329a997c35afca1fc8e9cb66520457305982d91",
+   "loai": "agents",
+   "slug": "agency-marketing-agentic-search-optimizer"
+  },
+  "agents/agency-marketing-ai-citation-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-ai-citation-strategist.md",
+   "hash": "0c97173e5cacb5cc44d4ce80b80660e09b9868092d305a00a51f073b5f950c44",
+   "loai": "agents",
+   "slug": "agency-marketing-ai-citation-strategist"
+  },
+  "agents/agency-marketing-app-store-optimizer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-app-store-optimizer.md",
+   "hash": "d07fe10596f251c32cad68ba4d17ad26173ac582567e0328126ee2a60d07a9b5",
+   "loai": "agents",
+   "slug": "agency-marketing-app-store-optimizer"
+  },
+  "agents/agency-marketing-baidu-seo-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-baidu-seo-specialist.md",
+   "hash": "768d5cd59d7346fdb852e06391633ab1babd72b0092a35e101efacb46354a533",
+   "loai": "agents",
+   "slug": "agency-marketing-baidu-seo-specialist"
+  },
+  "agents/agency-marketing-bilibili-content-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-bilibili-content-strategist.md",
+   "hash": "e66da2666acedec74cd466db1bfd009a58c26ae63ee91c761bf1469d9baad5c2",
+   "loai": "agents",
+   "slug": "agency-marketing-bilibili-content-strategist"
+  },
+  "agents/agency-marketing-book-co-author": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-book-co-author.md",
+   "hash": "169ff4a7c0a17a23f8b0c71a6e687decfe27509d8a904ccde9952f9356c01b81",
+   "loai": "agents",
+   "slug": "agency-marketing-book-co-author"
+  },
+  "agents/agency-marketing-carousel-growth-engine": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-carousel-growth-engine.md",
+   "hash": "da90d5a2e7de99f24b577f9889b0480b1d42112ceb506f96797752301593520b",
+   "loai": "agents",
+   "slug": "agency-marketing-carousel-growth-engine"
+  },
+  "agents/agency-marketing-china-ecommerce-operator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-china-ecommerce-operator.md",
+   "hash": "ac76b4263e4d845f1d817142f9f9c1ca688e4aee4b3d454d4e17cb752af0d1e6",
+   "loai": "agents",
+   "slug": "agency-marketing-china-ecommerce-operator"
+  },
+  "agents/agency-marketing-china-market-localization-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-china-market-localization-strategist.md",
+   "hash": "673bdd1c089a6742cb2b335a806251634e57ff4390859f6aa6a4f9ea8d2e912c",
+   "loai": "agents",
+   "slug": "agency-marketing-china-market-localization-strategist"
+  },
+  "agents/agency-marketing-content-creator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-content-creator.md",
+   "hash": "2f0e5bd4f785ba694de74a830730391b27c6c4bd31fa6c5f28cb687f5ce91d3f",
+   "loai": "agents",
+   "slug": "agency-marketing-content-creator"
+  },
+  "agents/agency-marketing-cross-border-ecommerce": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-cross-border-ecommerce.md",
+   "hash": "c901d98fce86c3e4b5c2cda448270ac3446ab50405648c90cc0290b56a410db3",
+   "loai": "agents",
+   "slug": "agency-marketing-cross-border-ecommerce"
+  },
+  "agents/agency-marketing-developer-community-builder": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-developer-community-builder.md",
+   "hash": "9421437a4b9a483554e660a3c28f68a8cb28e4a59a7558220ce0b7158095097d",
+   "loai": "agents",
+   "slug": "agency-marketing-developer-community-builder"
+  },
+  "agents/agency-marketing-douyin-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-douyin-strategist.md",
+   "hash": "11910b2b965c1a68b9a87086df0b9b0e97be93aed2dd05646396912e06726faf",
+   "loai": "agents",
+   "slug": "agency-marketing-douyin-strategist"
+  },
+  "agents/agency-marketing-email-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-email-strategist.md",
+   "hash": "4bbbb67b83fcbc73c70595ec56b7cb888aea182d7f7d43770d90b4781ef23e4e",
+   "loai": "agents",
+   "slug": "agency-marketing-email-strategist"
+  },
+  "agents/agency-marketing-global-podcast-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-global-podcast-strategist.md",
+   "hash": "323a8680e66b58bc7f1e6307cfdba2bffc2f82b9fe90c117d4bf73f9e3b0a78c",
+   "loai": "agents",
+   "slug": "agency-marketing-global-podcast-strategist"
+  },
+  "agents/agency-marketing-growth-hacker": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-growth-hacker.md",
+   "hash": "8bf55945c1b98ab671207d857a04eddd0a7be39bf43e0e7deb76a3a321388847",
+   "loai": "agents",
+   "slug": "agency-marketing-growth-hacker"
+  },
+  "agents/agency-marketing-instagram-curator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-instagram-curator.md",
+   "hash": "08f781d5932b882894590313327d5fe582d7d77b8bf6d489a01fa59db0d1895e",
+   "loai": "agents",
+   "slug": "agency-marketing-instagram-curator"
+  },
+  "agents/agency-marketing-kuaishou-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-kuaishou-strategist.md",
+   "hash": "814b4923b1b4045ec330fb18a04961fb10e1703e01bf2ff2001e1f45016823bf",
+   "loai": "agents",
+   "slug": "agency-marketing-kuaishou-strategist"
+  },
+  "agents/agency-marketing-linkedin-content-creator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-linkedin-content-creator.md",
+   "hash": "1f64861b68a162f25704f30ad5306aca7fee7495eecde58ceefa9663670c8961",
+   "loai": "agents",
+   "slug": "agency-marketing-linkedin-content-creator"
+  },
+  "agents/agency-marketing-livestream-commerce-coach": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-livestream-commerce-coach.md",
+   "hash": "e9ad9f147aceae13e8858b81b59c60aa36acbf29dd6019bc3fca5807be6c4acb",
+   "loai": "agents",
+   "slug": "agency-marketing-livestream-commerce-coach"
+  },
+  "agents/agency-marketing-multi-platform-publisher": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-multi-platform-publisher.md",
+   "hash": "e59caf0f380f21c106d3b2dea5c26e2059ded7f183fe94cc0f8fde9753917736",
+   "loai": "agents",
+   "slug": "agency-marketing-multi-platform-publisher"
+  },
+  "agents/agency-marketing-podcast-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-podcast-strategist.md",
+   "hash": "f2ac44324d6748b91ef3fe11bc57cd4437937e968dfe295a0fca389541e7b8c4",
+   "loai": "agents",
+   "slug": "agency-marketing-podcast-strategist"
+  },
+  "agents/agency-marketing-pr-communications-manager": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-pr-communications-manager.md",
+   "hash": "3fc12458872f531eefc739b5046b8641c00028a096fe1054d56d6ba896bf1e82",
+   "loai": "agents",
+   "slug": "agency-marketing-pr-communications-manager"
+  },
+  "agents/agency-marketing-private-domain-operator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-private-domain-operator.md",
+   "hash": "8a8327bdcafba93fe638bd3b0a378b032d0ffc37d90ef3c99dc8cd64e198d461",
+   "loai": "agents",
+   "slug": "agency-marketing-private-domain-operator"
+  },
+  "agents/agency-marketing-reddit-community-builder": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-reddit-community-builder.md",
+   "hash": "313498341cd55a010366700f98ac3530d499500ef9fa0a868bac3d8c4b6f1622",
+   "loai": "agents",
+   "slug": "agency-marketing-reddit-community-builder"
+  },
+  "agents/agency-marketing-seo-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-seo-specialist.md",
+   "hash": "60f19c555fe7243f628394b110844d06a92bae92190cdd5d7c1d7d3fc627d5c5",
+   "loai": "agents",
+   "slug": "agency-marketing-seo-specialist"
+  },
+  "agents/agency-marketing-short-video-editing-coach": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-short-video-editing-coach.md",
+   "hash": "c35d3462a7a1d9307a4fe59faa388eb4b7c93b163531c4566fa89c7e72136d6d",
+   "loai": "agents",
+   "slug": "agency-marketing-short-video-editing-coach"
+  },
+  "agents/agency-marketing-social-media-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-social-media-strategist.md",
+   "hash": "af98189692e02c22c2a2ddaa3ae7c6e5cada5034322484c976dc21fdfe58bba8",
+   "loai": "agents",
+   "slug": "agency-marketing-social-media-strategist"
+  },
+  "agents/agency-marketing-tiktok-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-tiktok-strategist.md",
+   "hash": "fca5e561bc1914f7609853e312e1f1980a286482ad59779f72c22eb3d98fae8d",
+   "loai": "agents",
+   "slug": "agency-marketing-tiktok-strategist"
+  },
+  "agents/agency-marketing-twitter-engager": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-twitter-engager.md",
+   "hash": "73fcf98fdd03e28502e4352accf1542e6d09b198ff317296a3b6ceb944058c77",
+   "loai": "agents",
+   "slug": "agency-marketing-twitter-engager"
+  },
+  "agents/agency-marketing-video-optimization-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-video-optimization-specialist.md",
+   "hash": "1b2368974ff352d04daf1618c813f372cb2e44123a439039fcc58ca569572985",
+   "loai": "agents",
+   "slug": "agency-marketing-video-optimization-specialist"
+  },
+  "agents/agency-marketing-wechat-official-account": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-wechat-official-account.md",
+   "hash": "afa026d7e17873fb0fbe9d5f6552d3f99ac973f130111761cb4752a38e781d51",
+   "loai": "agents",
+   "slug": "agency-marketing-wechat-official-account"
+  },
+  "agents/agency-marketing-weibo-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-weibo-strategist.md",
+   "hash": "40dc2f915daa5c4a312ed62c44245278e8fe66755eb5a24db6da57333b77ae36",
+   "loai": "agents",
+   "slug": "agency-marketing-weibo-strategist"
+  },
+  "agents/agency-marketing-x-twitter-intelligence-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-x-twitter-intelligence-analyst.md",
+   "hash": "980ea883d6be92fabc59b06122c5e21a188edd31d90af56d256395e14c468582",
+   "loai": "agents",
+   "slug": "agency-marketing-x-twitter-intelligence-analyst"
+  },
+  "agents/agency-marketing-xiaohongshu-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-xiaohongshu-specialist.md",
+   "hash": "f726065c50631990e944dabfedd30627861ce36ada362c04a336b4dd521a8b8a",
+   "loai": "agents",
+   "slug": "agency-marketing-xiaohongshu-specialist"
+  },
+  "agents/agency-marketing-zhihu-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-marketing-zhihu-strategist.md",
+   "hash": "c495fdca9a3761d96eeaa455cb055fcfaeb9ad04237c0b9a04abc7cd86f038b3",
+   "loai": "agents",
+   "slug": "agency-marketing-zhihu-strategist"
+  },
+  "agents/agency-medical-billing-coding-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-medical-billing-coding-specialist.md",
+   "hash": "830b417596b801e06d5a333203402d8db747f62533b8ba56f81205bc1c0965a0",
+   "loai": "agents",
+   "slug": "agency-medical-billing-coding-specialist"
+  },
+  "agents/agency-narrative-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-narrative-designer.md",
+   "hash": "15a4cd45abb08426c6836c69732ff19ebf5f5aa7e53b7ef3997cddc5f3cab6ad",
+   "loai": "agents",
+   "slug": "agency-narrative-designer"
+  },
+  "agents/agency-operations-manager": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-operations-manager.md",
+   "hash": "3387ae65dfbc21e0200e1ec3ac817253e6ab46184042bc6da9a380a136154bdf",
+   "loai": "agents",
+   "slug": "agency-operations-manager"
+  },
+  "agents/agency-organizational-psychologist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-organizational-psychologist.md",
+   "hash": "b532318f61ba1d3d0b27784d0b61bb345ba352d7c9aba3157975c0b229fd7355",
+   "loai": "agents",
+   "slug": "agency-organizational-psychologist"
+  },
+  "agents/agency-paid-media-auditor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-auditor.md",
+   "hash": "1a3803b54e9dde1d04c8b50b7d8d58c90cdb8f87009accc8c1d6482230c7ef9a",
+   "loai": "agents",
+   "slug": "agency-paid-media-auditor"
+  },
+  "agents/agency-paid-media-creative-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-creative-strategist.md",
+   "hash": "dbdd904a533bfa335ea709226d05fc1c6ad55f5ac9fcbc0b44cd0b2fee1ccfb8",
+   "loai": "agents",
+   "slug": "agency-paid-media-creative-strategist"
+  },
+  "agents/agency-paid-media-paid-social-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-paid-social-strategist.md",
+   "hash": "9a16032e1c4f706a8b76b08ee38ae1ea9f20afb624a76d15a51452bb5e7e9d9e",
+   "loai": "agents",
+   "slug": "agency-paid-media-paid-social-strategist"
+  },
+  "agents/agency-paid-media-ppc-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-ppc-strategist.md",
+   "hash": "9d91f5275151548b2f7940b5339512d9f8a59137c82fcb92fd4d0e89448fd78c",
+   "loai": "agents",
+   "slug": "agency-paid-media-ppc-strategist"
+  },
+  "agents/agency-paid-media-programmatic-buyer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-programmatic-buyer.md",
+   "hash": "73e3a24e5375dd1d2846f68d739eb4e3badd331028cd0d236f522a178d3e9ef0",
+   "loai": "agents",
+   "slug": "agency-paid-media-programmatic-buyer"
+  },
+  "agents/agency-paid-media-search-query-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-search-query-analyst.md",
+   "hash": "a31677a9ce395e64b6bf08c97c5cd3121446b73b6c1e62c9b57ea8a99b47f40f",
+   "loai": "agents",
+   "slug": "agency-paid-media-search-query-analyst"
+  },
+  "agents/agency-paid-media-tracking-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-paid-media-tracking-specialist.md",
+   "hash": "f0f3b50835038040c17fe44f515a2d55c83da63dff80dfa58f882af62366d461",
+   "loai": "agents",
+   "slug": "agency-paid-media-tracking-specialist"
+  },
+  "agents/agency-personal-growth-mentor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-personal-growth-mentor.md",
+   "hash": "74a9164a0c0dcc7f91fded1fdac734374d218393921b3cfead4bf4744024723a",
+   "loai": "agents",
+   "slug": "agency-personal-growth-mentor"
+  },
+  "agents/agency-product-behavioral-nudge-engine": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-behavioral-nudge-engine.md",
+   "hash": "cf4fe49ee868dc0b66ec564d053e396751b418c248fe8464d93fb407b7c1b890",
+   "loai": "agents",
+   "slug": "agency-product-behavioral-nudge-engine"
+  },
+  "agents/agency-product-dx-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-dx-engineer.md",
+   "hash": "44f6ec09f7e8c0ae413cdf41c8ac40ff01fe40301341a2ef03253955448c6187",
+   "loai": "agents",
+   "slug": "agency-product-dx-engineer"
+  },
+  "agents/agency-product-feedback-synthesizer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-feedback-synthesizer.md",
+   "hash": "0563438356a4c5aa906a055ad8c36bd71080a400bb89259923aa94ec53fc0ad5",
+   "loai": "agents",
+   "slug": "agency-product-feedback-synthesizer"
+  },
+  "agents/agency-product-manager": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-manager.md",
+   "hash": "58812cf8fcefe3adefbee0c6b91110f36fd5a9d3a68962be4a9421722a917df2",
+   "loai": "agents",
+   "slug": "agency-product-manager"
+  },
+  "agents/agency-product-sprint-prioritizer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-sprint-prioritizer.md",
+   "hash": "30e68646d3463df0c071aeb27fc380d8f23e0269d0f4b182c4055fb0ed2509f8",
+   "loai": "agents",
+   "slug": "agency-product-sprint-prioritizer"
+  },
+  "agents/agency-product-trend-researcher": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-product-trend-researcher.md",
+   "hash": "38eff9694e878aceb572845cb0e482224267d0d441271b57afccb8e8aa552133",
+   "loai": "agents",
+   "slug": "agency-product-trend-researcher"
+  },
+  "agents/agency-project-management-experiment-tracker": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-experiment-tracker.md",
+   "hash": "ad9f3fb3377394db3e7de6b5a71e4f4e0b24059f95197f79d764739c74cce915",
+   "loai": "agents",
+   "slug": "agency-project-management-experiment-tracker"
+  },
+  "agents/agency-project-management-jira-workflow-steward": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-jira-workflow-steward.md",
+   "hash": "56ec7bfdec6d232353fd7f8d58e41fe6e26e47059f9b1ce4a2cc5fc5681e2825",
+   "loai": "agents",
+   "slug": "agency-project-management-jira-workflow-steward"
+  },
+  "agents/agency-project-management-meeting-notes-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-meeting-notes-specialist.md",
+   "hash": "abcde4103f971560e5d886e855567fd71df4a63ebb7f02002dc195fa9574b2e4",
+   "loai": "agents",
+   "slug": "agency-project-management-meeting-notes-specialist"
+  },
+  "agents/agency-project-management-project-shepherd": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-project-shepherd.md",
+   "hash": "290cc59a8e8b811dfb3d50e51d447bd9a502a1295190272c22d03a34114b7459",
+   "loai": "agents",
+   "slug": "agency-project-management-project-shepherd"
+  },
+  "agents/agency-project-management-studio-operations": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-studio-operations.md",
+   "hash": "5bc58d6983c27375cbc892fe685a3ce236e0725bdf7badd6d3c6debe175ac790",
+   "loai": "agents",
+   "slug": "agency-project-management-studio-operations"
+  },
+  "agents/agency-project-management-studio-producer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-management-studio-producer.md",
+   "hash": "964b8fb6f91e0d0c77e8809865b13a8c8421bfd5ccb822ce5aef243cd1b120c7",
+   "loai": "agents",
+   "slug": "agency-project-management-studio-producer"
+  },
+  "agents/agency-project-manager-senior": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-project-manager-senior.md",
+   "hash": "e91610cf241c804b334f4eb3d03dafbf10c2ca4d82dd736e68c91cb4d09c50a6",
+   "loai": "agents",
+   "slug": "agency-project-manager-senior"
+  },
+  "agents/agency-real-estate-buyer-seller": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-real-estate-buyer-seller.md",
+   "hash": "0d1319b77c07a922a2329d935385f1ef5a805aec165db5fe0261c5985ac0e103",
+   "loai": "agents",
+   "slug": "agency-real-estate-buyer-seller"
+  },
+  "agents/agency-recruitment-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-recruitment-specialist.md",
+   "hash": "3713b7dc48dced79f137829af116acd360d25090b557c9953708d9e6b785db47",
+   "loai": "agents",
+   "slug": "agency-recruitment-specialist"
+  },
+  "agents/agency-report-distribution-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-report-distribution-agent.md",
+   "hash": "ce07b9f83479fee5d8b70b585ab405cf5937d479155eab8c8133e6ada3bd5654",
+   "loai": "agents",
+   "slug": "agency-report-distribution-agent"
+  },
+  "agents/agency-research-synthesist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-research-synthesist.md",
+   "hash": "5e7d7d636f1aa66bb44fb52c57957a48094af8856f590effbc7134b59ebfb1b3",
+   "loai": "agents",
+   "slug": "agency-research-synthesist"
+  },
+  "agents/agency-resume-tailor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-resume-tailor.md",
+   "hash": "252ebc2b8720e43ac57f382da811ade82a92f472691f300f9cbc2e4f7733e231",
+   "loai": "agents",
+   "slug": "agency-resume-tailor"
+  },
+  "agents/agency-retail-customer-returns": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-retail-customer-returns.md",
+   "hash": "2dee4d1d4ac6afab62e679da2a0f07acfcb7562dc63e2c55de20732987c00fbd",
+   "loai": "agents",
+   "slug": "agency-retail-customer-returns"
+  },
+  "agents/agency-roblox-avatar-creator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-roblox-avatar-creator.md",
+   "hash": "df2609fb62946829387f97229fc4f495ab1b9de38b26a882cbeab8ee72c00ec3",
+   "loai": "agents",
+   "slug": "agency-roblox-avatar-creator"
+  },
+  "agents/agency-roblox-experience-designer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-roblox-experience-designer.md",
+   "hash": "93fe9b1e6cb9ec7dc205e521b24d061523f0fc9a4e18b61d97960497eb469294",
+   "loai": "agents",
+   "slug": "agency-roblox-experience-designer"
+  },
+  "agents/agency-roblox-systems-scripter": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-roblox-systems-scripter.md",
+   "hash": "794838c060d381d64a30eb54e970b98621bd3068c4575788a583399317cf6021",
+   "loai": "agents",
+   "slug": "agency-roblox-systems-scripter"
+  },
+  "agents/agency-sales-account-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-account-strategist.md",
+   "hash": "4853cf88b1d2b318908a538c0772c807e643601e4851eedae1d5c2fe1ccc7820",
+   "loai": "agents",
+   "slug": "agency-sales-account-strategist"
+  },
+  "agents/agency-sales-coach": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-coach.md",
+   "hash": "17bf367132a3bee9be10d334c4646c1170d7f0879869b52a392394763d35b17b",
+   "loai": "agents",
+   "slug": "agency-sales-coach"
+  },
+  "agents/agency-sales-data-extraction-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-data-extraction-agent.md",
+   "hash": "3a6975c07f3ec7911802dbee4e85ac20e1f2d01cb156fe3b4e369e1f457e004d",
+   "loai": "agents",
+   "slug": "agency-sales-data-extraction-agent"
+  },
+  "agents/agency-sales-deal-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-deal-strategist.md",
+   "hash": "da27ffdf7f60c4082fc9b7c5b6b5f4bf9ef33f2ba703ce19374caadbe950b30e",
+   "loai": "agents",
+   "slug": "agency-sales-deal-strategist"
+  },
+  "agents/agency-sales-discovery-coach": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-discovery-coach.md",
+   "hash": "8e3c02befaf0a3e0f37374a8770190b7f319125b4d985f20aa00d54f6ece1e58",
+   "loai": "agents",
+   "slug": "agency-sales-discovery-coach"
+  },
+  "agents/agency-sales-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-engineer.md",
+   "hash": "70eba284fa65f88a436eabddc785f40d658166944a96a02d77811afb3d065cb1",
+   "loai": "agents",
+   "slug": "agency-sales-engineer"
+  },
+  "agents/agency-sales-offer-lead-gen-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-offer-lead-gen-strategist.md",
+   "hash": "ddacdfe180ff476eeb2c069bbef407c43ed1ee6884e294925a7fcd219727ee87",
+   "loai": "agents",
+   "slug": "agency-sales-offer-lead-gen-strategist"
+  },
+  "agents/agency-sales-outbound-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-outbound-strategist.md",
+   "hash": "fa099b88d50b92ca2c5f483930b6f629f7ed4ef348068f76cc78da513fe5d8b7",
+   "loai": "agents",
+   "slug": "agency-sales-outbound-strategist"
+  },
+  "agents/agency-sales-outreach": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-outreach.md",
+   "hash": "2a84b8cf9e068a949639d1f7d34e2edc8d7a2b71aaa1d8e224115457459589e1",
+   "loai": "agents",
+   "slug": "agency-sales-outreach"
+  },
+  "agents/agency-sales-pipeline-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-pipeline-analyst.md",
+   "hash": "99b421fc91ec02424919d52209bbb48f8cbbfc6681bc63786e1952d99c11ef5e",
+   "loai": "agents",
+   "slug": "agency-sales-pipeline-analyst"
+  },
+  "agents/agency-sales-proposal-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-sales-proposal-strategist.md",
+   "hash": "ca95cafb43c424453eb4c3d9417a10de945c2fd0ef050e71843c6c4a55a71d6a",
+   "loai": "agents",
+   "slug": "agency-sales-proposal-strategist"
+  },
+  "agents/agency-security-ai-generated-code-auditor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-ai-generated-code-auditor.md",
+   "hash": "3c19a8541fb0900e3f7bf3a9a8d7ed766dd142be12593b7b0f354c25ad7463ae",
+   "loai": "agents",
+   "slug": "agency-security-ai-generated-code-auditor"
+  },
+  "agents/agency-security-appsec-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-appsec-engineer.md",
+   "hash": "eddd3ecaa1a82e12d91648fd59180992e4a2cadd1e4655739a9f96d9bf7dd8cf",
+   "loai": "agents",
+   "slug": "agency-security-appsec-engineer"
+  },
+  "agents/agency-security-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-architect.md",
+   "hash": "4e1b142f03c51eda59b92e4e73cc49a9ea9f12684f3ab32c8ac4a5315f3f5f60",
+   "loai": "agents",
+   "slug": "agency-security-architect"
+  },
+  "agents/agency-security-blockchain-security-auditor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-blockchain-security-auditor.md",
+   "hash": "b11427bd49d6557b37fbf78cfbeb7ecc628f6d7497648d6d3ff775822d8842d0",
+   "loai": "agents",
+   "slug": "agency-security-blockchain-security-auditor"
+  },
+  "agents/agency-security-cloud-security-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-cloud-security-architect.md",
+   "hash": "67f9e99b6c2b1cf1e0ecf33dd7c13595530d4576737c0e8b5b2aa8b7b44b6bab",
+   "loai": "agents",
+   "slug": "agency-security-cloud-security-architect"
+  },
+  "agents/agency-security-compliance-auditor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-compliance-auditor.md",
+   "hash": "8a81a8222592b0b89c74ad708c39603acba36df20ae490aafd23a4ee4f814b18",
+   "loai": "agents",
+   "slug": "agency-security-compliance-auditor"
+  },
+  "agents/agency-security-incident-responder": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-incident-responder.md",
+   "hash": "6e12c590f96867cb8c6ed07eb865da42ce41f9352fe1d5bd392dc4f73bb9c0ff",
+   "loai": "agents",
+   "slug": "agency-security-incident-responder"
+  },
+  "agents/agency-security-penetration-tester": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-penetration-tester.md",
+   "hash": "ee5670c7cb986587578d23d14ee5d1bac179c36eea56d53d29c2c479001beeee",
+   "loai": "agents",
+   "slug": "agency-security-penetration-tester"
+  },
+  "agents/agency-security-secrets-credential-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-secrets-credential-engineer.md",
+   "hash": "6570944ecd2447b3fdffcadf19ec230fa19ea1a6631b63d0a329d51f5e6f6352",
+   "loai": "agents",
+   "slug": "agency-security-secrets-credential-engineer"
+  },
+  "agents/agency-security-senior-secops": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-senior-secops.md",
+   "hash": "20dfb1c9c7d46d911a4b0c4d45d4e246db55e1d39a52e0d0218ccf4c8e6d7561",
+   "loai": "agents",
+   "slug": "agency-security-senior-secops"
+  },
+  "agents/agency-security-threat-detection-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-threat-detection-engineer.md",
+   "hash": "27b8966374165c859d433796b74f96fad462cf55222522d736e5780d34a5d1eb",
+   "loai": "agents",
+   "slug": "agency-security-threat-detection-engineer"
+  },
+  "agents/agency-security-threat-intelligence-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-security-threat-intelligence-analyst.md",
+   "hash": "1eb55b6c1da5557b964dd0b4a5bfea3fc49f95ad738b587e7793c5fc03c719a1",
+   "loai": "agents",
+   "slug": "agency-security-threat-intelligence-analyst"
+  },
+  "agents/agency-specialized-chief-of-staff": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-chief-of-staff.md",
+   "hash": "c0c8fd95a471c237eb2f23b57a7a2d0baf92ab235e7da35308b4ef893e5a1485",
+   "loai": "agents",
+   "slug": "agency-specialized-chief-of-staff"
+  },
+  "agents/agency-specialized-civil-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-civil-engineer.md",
+   "hash": "06bb6e156d3b604dd816a94abf940874e74da18c6f4e7dca5a53609a7405f1fe",
+   "loai": "agents",
+   "slug": "agency-specialized-civil-engineer"
+  },
+  "agents/agency-specialized-codebase-archaeologist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-codebase-archaeologist.md",
+   "hash": "2a73335a1b8397bd10f62bdb56e65f71737e102ce4da083e71c70f9cb8915446",
+   "loai": "agents",
+   "slug": "agency-specialized-codebase-archaeologist"
+  },
+  "agents/agency-specialized-cultural-intelligence-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-cultural-intelligence-strategist.md",
+   "hash": "c305902cc56e204098079e87926be3f6449d3cc8b1d6e6aee1f25697f3a6fb84",
+   "loai": "agents",
+   "slug": "agency-specialized-cultural-intelligence-strategist"
+  },
+  "agents/agency-specialized-developer-advocate": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-developer-advocate.md",
+   "hash": "5a9d55ad6fadcf8cfa20266e319aaa69fb2d35d3735afffc7c6df8bfdaea2b1f",
+   "loai": "agents",
+   "slug": "agency-specialized-developer-advocate"
+  },
+  "agents/agency-specialized-document-generator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-document-generator.md",
+   "hash": "2a78b595be25e00c5bf6e6db4496e791151b330fca59ebdf7c133667cb1976c0",
+   "loai": "agents",
+   "slug": "agency-specialized-document-generator"
+  },
+  "agents/agency-specialized-fedramp-rmf-compliance": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-fedramp-rmf-compliance.md",
+   "hash": "435f856c4258b8e585a47d75e4cf68f7843d8d3c2bbacaeb63d65c44870d071d",
+   "loai": "agents",
+   "slug": "agency-specialized-fedramp-rmf-compliance"
+  },
+  "agents/agency-specialized-focus-music-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-focus-music-architect.md",
+   "hash": "c3aeffa5a78489bfe8abac85590749acb3ee7ee1d9549cee852a9630fa5e08dd",
+   "loai": "agents",
+   "slug": "agency-specialized-focus-music-architect"
+  },
+  "agents/agency-specialized-french-consulting-market": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-french-consulting-market.md",
+   "hash": "619d40dd8d3c27af07bcce5a9c1f5fe0d67e0e43d9e9145f6c5bb539241d9279",
+   "loai": "agents",
+   "slug": "agency-specialized-french-consulting-market"
+  },
+  "agents/agency-specialized-korean-business-navigator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-korean-business-navigator.md",
+   "hash": "42b820449e1b7da30d85a226d86d958bb3a0a5972f69808ff3b0b26514382ed8",
+   "loai": "agents",
+   "slug": "agency-specialized-korean-business-navigator"
+  },
+  "agents/agency-specialized-master-plan-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-master-plan-architect.md",
+   "hash": "e343c2b7eba597cd779fc534ce0d272f73da37e2ecf2baa8df84849bb8cb1870",
+   "loai": "agents",
+   "slug": "agency-specialized-master-plan-architect"
+  },
+  "agents/agency-specialized-mcp-builder": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-mcp-builder.md",
+   "hash": "6f5f8960055c9f52c0c7e28c7e0902a7ffa83c739b0f15a9ca984ca9f28a530e",
+   "loai": "agents",
+   "slug": "agency-specialized-mcp-builder"
+  },
+  "agents/agency-specialized-model-qa": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-model-qa.md",
+   "hash": "cac2351672a7088873ee96a3f0bcaeb2664f2bb1e2c4565ad8805731900fb615",
+   "loai": "agents",
+   "slug": "agency-specialized-model-qa"
+  },
+  "agents/agency-specialized-pricing-analyst": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-pricing-analyst.md",
+   "hash": "d3b910476697422750fbb541d395b1b1f8c280906ab01d2f28b98a5a73bd7142",
+   "loai": "agents",
+   "slug": "agency-specialized-pricing-analyst"
+  },
+  "agents/agency-specialized-salesforce-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-salesforce-architect.md",
+   "hash": "3709b88adbe490398a66cd72ba8904c0156831ae2b9ba637d3a1565859c1e9ea",
+   "loai": "agents",
+   "slug": "agency-specialized-salesforce-architect"
+  },
+  "agents/agency-specialized-strategy-duel-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-strategy-duel-agent.md",
+   "hash": "2b33251c22969ac84c13a3b303f95638aa85e553946eaa5dfe7cdfb4bd5d5283",
+   "loai": "agents",
+   "slug": "agency-specialized-strategy-duel-agent"
+  },
+  "agents/agency-specialized-workflow-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-specialized-workflow-architect.md",
+   "hash": "836f4e56836a478306cd6c017ffab7857100f42330736514f96ab25b212e5acf",
+   "loai": "agents",
+   "slug": "agency-specialized-workflow-architect"
+  },
+  "agents/agency-study-abroad-advisor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-study-abroad-advisor.md",
+   "hash": "446d37c9134a109c38cdb57d9de1eaf146e1033c05a5b0ce6aafcb64a5750a0a",
+   "loai": "agents",
+   "slug": "agency-study-abroad-advisor"
+  },
+  "agents/agency-supply-chain-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-supply-chain-strategist.md",
+   "hash": "b3898758b228d714738924fa0d443954591972eb3187234c47dc9ceeff475424",
+   "loai": "agents",
+   "slug": "agency-supply-chain-strategist"
+  },
+  "agents/agency-support-analytics-reporter": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-analytics-reporter.md",
+   "hash": "fcc3a5a4c4856393c54210422f53a8c59f3dfcfbaac32f329356f51e94953994",
+   "loai": "agents",
+   "slug": "agency-support-analytics-reporter"
+  },
+  "agents/agency-support-executive-summary-generator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-executive-summary-generator.md",
+   "hash": "a008dd97455b83551af89db2e3db8080af461bef7985748a99f6150c8bd4596c",
+   "loai": "agents",
+   "slug": "agency-support-executive-summary-generator"
+  },
+  "agents/agency-support-finance-tracker": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-finance-tracker.md",
+   "hash": "1c3a06eac8e9c92449d86e4d35cefc394f77363e5d6e5f96e7ebe8357a4fd881",
+   "loai": "agents",
+   "slug": "agency-support-finance-tracker"
+  },
+  "agents/agency-support-infrastructure-maintainer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-infrastructure-maintainer.md",
+   "hash": "5b47dadab4f6cf5e7f97c1bb658ed5d6f136af7ef0d1105ae756e12725fb1b35",
+   "loai": "agents",
+   "slug": "agency-support-infrastructure-maintainer"
+  },
+  "agents/agency-support-legal-compliance-checker": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-legal-compliance-checker.md",
+   "hash": "d3a29636e15aa26eef2d06c1b142f6c5617891bfd5d0d57850c677b404d0d484",
+   "loai": "agents",
+   "slug": "agency-support-legal-compliance-checker"
+  },
+  "agents/agency-support-support-responder": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-support-support-responder.md",
+   "hash": "13a941eea3a65ea039a1fa6db74d795c376e718c592cb40c30437b125071b9f5",
+   "loai": "agents",
+   "slug": "agency-support-support-responder"
+  },
+  "agents/agency-technical-artist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-technical-artist.md",
+   "hash": "2fd90408bb2617ab10fc40bc755c4bf4b5137573973b36b6af963dc3b4fd7e48",
+   "loai": "agents",
+   "slug": "agency-technical-artist"
+  },
+  "agents/agency-terminal-integration-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-terminal-integration-specialist.md",
+   "hash": "1e7b8c565bda3b8a24f6cad88515967b18c09cfa79907cedd2855d3a472657bd",
+   "loai": "agents",
+   "slug": "agency-terminal-integration-specialist"
+  },
+  "agents/agency-testing-accessibility-auditor": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-accessibility-auditor.md",
+   "hash": "0176044ef257ed104f10be6bc5ad7b3f4a8ee20b0f90f75dd8014b95d9459359",
+   "loai": "agents",
+   "slug": "agency-testing-accessibility-auditor"
+  },
+  "agents/agency-testing-api-tester": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-api-tester.md",
+   "hash": "74ade9513eb765e06866e7bec2d2871e3aaee3fec2a57144cf2e7c1dc5272132",
+   "loai": "agents",
+   "slug": "agency-testing-api-tester"
+  },
+  "agents/agency-testing-evidence-collector": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-evidence-collector.md",
+   "hash": "222c7661e825f12fb8af04571bccf22b54489ffc9d10104cb2351770c0623daf",
+   "loai": "agents",
+   "slug": "agency-testing-evidence-collector"
+  },
+  "agents/agency-testing-performance-benchmarker": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-performance-benchmarker.md",
+   "hash": "2d0b18de89c96f98644f71e487e0e33be24d0d86d39de018c952b7aca23a7fe3",
+   "loai": "agents",
+   "slug": "agency-testing-performance-benchmarker"
+  },
+  "agents/agency-testing-reality-checker": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-reality-checker.md",
+   "hash": "a662be7857da703a301f5bcacce1f35f405a5d870f74de16de9147562ede9cdd",
+   "loai": "agents",
+   "slug": "agency-testing-reality-checker"
+  },
+  "agents/agency-testing-test-automation-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-test-automation-engineer.md",
+   "hash": "f08c62295a94570fbf6d8bb5cbae5f0047217d3aa90fbde70704e4cce930d5d7",
+   "loai": "agents",
+   "slug": "agency-testing-test-automation-engineer"
+  },
+  "agents/agency-testing-test-results-analyzer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-test-results-analyzer.md",
+   "hash": "c4d4045c2763c02495712d2920a1c97f2ccde270ef47dd4fa3a20a0177b2137d",
+   "loai": "agents",
+   "slug": "agency-testing-test-results-analyzer"
+  },
+  "agents/agency-testing-tool-evaluator": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-tool-evaluator.md",
+   "hash": "bbfcdaa4837b58509cefd3d40a4425e7c137bfa5c1161855bdab980a8f88b18f",
+   "loai": "agents",
+   "slug": "agency-testing-tool-evaluator"
+  },
+  "agents/agency-testing-workflow-optimizer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-testing-workflow-optimizer.md",
+   "hash": "052513764080f771a2d4566eeeefacaf4110bc76fe2d260d32b82952f85ea8ab",
+   "loai": "agents",
+   "slug": "agency-testing-workflow-optimizer"
+  },
+  "agents/agency-unity-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-architect.md",
+   "hash": "669cd78c4564e172a6e5e9fc62720e32913d3a8b2a1dc3acc35145bc959f6339",
+   "loai": "agents",
+   "slug": "agency-unity-architect"
+  },
+  "agents/agency-unity-editor-tool-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-editor-tool-developer.md",
+   "hash": "9422a1d0c5a4a6eb90ca6632e243b518a248a01e3d49b109535f55a3b05188da",
+   "loai": "agents",
+   "slug": "agency-unity-editor-tool-developer"
+  },
+  "agents/agency-unity-multiplayer-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-multiplayer-engineer.md",
+   "hash": "906d4968f9148781f33fbe4d0970436dc58ffc4aa49a416c071527b4144fff6c",
+   "loai": "agents",
+   "slug": "agency-unity-multiplayer-engineer"
+  },
+  "agents/agency-unity-shader-graph-artist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unity-shader-graph-artist.md",
+   "hash": "b853d1d5c37befca8d624aad6502fd6718fe67b268903a0911516e95207c5a25",
+   "loai": "agents",
+   "slug": "agency-unity-shader-graph-artist"
+  },
+  "agents/agency-unreal-multiplayer-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-multiplayer-architect.md",
+   "hash": "9fafdcadfa216ea5de07074ff276dfc544285d8b990b381434e24a70201ca63b",
+   "loai": "agents",
+   "slug": "agency-unreal-multiplayer-architect"
+  },
+  "agents/agency-unreal-systems-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-systems-engineer.md",
+   "hash": "69ce2945ca799734c1f9e88e0913ed6ce35b9e451b12882533bba636f4446c70",
+   "loai": "agents",
+   "slug": "agency-unreal-systems-engineer"
+  },
+  "agents/agency-unreal-technical-artist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-technical-artist.md",
+   "hash": "421e918613ed15d82f2af2acfd5d8eac7c2af2b6070f8e57ff267336e9766b6a",
+   "loai": "agents",
+   "slug": "agency-unreal-technical-artist"
+  },
+  "agents/agency-unreal-world-builder": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-unreal-world-builder.md",
+   "hash": "da0ded4ac3e5067e62f8a6dc8ba3fcf068ff7f7faf71048b34e1266700b95950",
+   "loai": "agents",
+   "slug": "agency-unreal-world-builder"
+  },
+  "agents/agency-visionos-spatial-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-visionos-spatial-engineer.md",
+   "hash": "cf031935f269ed1a04d26723aca6a3b9b393f493d3b8bf15aa400e994def7e34",
+   "loai": "agents",
+   "slug": "agency-visionos-spatial-engineer"
+  },
+  "agents/agency-xr-cockpit-interaction-specialist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-xr-cockpit-interaction-specialist.md",
+   "hash": "466bc83b30a75756c72bc11070a73ca7347703c0b322236b9ea6ced7253407fe",
+   "loai": "agents",
+   "slug": "agency-xr-cockpit-interaction-specialist"
+  },
+  "agents/agency-xr-immersive-developer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-xr-immersive-developer.md",
+   "hash": "2728102d92ff9dbd4c12401fc2b13d18a46eb5b4d08e700b7ee3e5cda5340df7",
+   "loai": "agents",
+   "slug": "agency-xr-immersive-developer"
+  },
+  "agents/agency-xr-interface-architect": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-xr-interface-architect.md",
+   "hash": "38500438cdb4a5da8893a5c11e6074b72d3bd15db916909fff12a907934422b2",
+   "loai": "agents",
+   "slug": "agency-xr-interface-architect"
+  },
+  "agents/agency-zk-steward": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-zk-steward.md",
+   "hash": "fada009c279696e511604926f95898e34baafbdd62a19cf6c7e2a8b1eb19ee28",
+   "loai": "agents",
+   "slug": "agency-zk-steward"
+  }
+ }
+}

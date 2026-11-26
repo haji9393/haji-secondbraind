@@ -1,0 +1,155 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "skills/benchmark-methodology": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/benchmark-methodology",
+     "hash": "11966c5c6c7e1fcb3617d294817669a79c9dc1bebdaab90515175a86c80e940c",
+     "loai": "skills",
+     "slug": "benchmark-methodology"
+    },
+    "skills/competitive-platform-analysis": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/competitive-platform-analysis",
+     "hash": "172c9c4f03f41999e3d04f6a95cd75c4c8516dc32b9e482bc0fd53b1e474b6a8",
+     "loai": "skills",
+     "slug": "competitive-platform-analysis"
+    },
+    "skills/competitive-report-structure": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/competitive-report-structure",
+     "hash": "35f3b4ea20f33a5397e044276d9e90490c0fce8f61817fbbb3586e8b950d87c2",
+     "loai": "skills",
+     "slug": "competitive-report-structure"
+    },
+    "skills/council": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/council",
+     "hash": "19cd75f1a455703cf981e2088aaaf6486a31ced3e3bf7bb6e145113f3e7e02f9",
+     "loai": "skills",
+     "slug": "council"
+    },
+    "skills/customer-billing-ops": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/customer-billing-ops",
+     "hash": "ea783c14a483a065c47f6bc0d107e5ab12d1134ffcac57458bb0874095e4094d",
+     "loai": "skills",
+     "slug": "customer-billing-ops"
+    },
+    "skills/inventory-demand-planning": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/inventory-demand-planning",
+     "hash": "f286af6fbfe66b0ae79596035b03112974d35d96e9c6bacf63cda9ab71d30b8c",
+     "loai": "skills",
+     "slug": "inventory-demand-planning"
+    },
+    "skills/investor-materials": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/investor-materials",
+     "hash": "168312e69ada81aae3584d79b7995687ac38f115f64b9a57552f9049705e5647",
+     "loai": "skills",
+     "slug": "investor-materials"
+    },
+    "skills/investor-outreach": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/investor-outreach",
+     "hash": "24c7ccbc7247bb471012e3a5366001ec3f272164d1fbaab24eb54576d4c469c0",
+     "loai": "skills",
+     "slug": "investor-outreach"
+    },
+    "skills/lead-intelligence": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/lead-intelligence",
+     "hash": "18808fdb6e47587b2ce2d004a3b25b35c1af41a7f0881b6566fffee4e8ba7744",
+     "loai": "skills",
+     "slug": "lead-intelligence"
+    },
+    "skills/market-research": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/market-research",
+     "hash": "dc0feef2981853782e12d19ddd5c325b94ec11700e1275ecab1a55b7be4bdb6e",
+     "loai": "skills",
+     "slug": "market-research"
+    },
+    "skills/product-lens": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/product-lens",
+     "hash": "c6c2f4a759c813eab63f364651d350c925043f7487848c88094598544606f3c1",
+     "loai": "skills",
+     "slug": "product-lens"
+    },
+    "skills/returns-reverse-logistics": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/returns-reverse-logistics",
+     "hash": "6f5cf1e44d65a5bf498f38ced183dec2b3f2dd35c160070adbaa7f01ad736707",
+     "loai": "skills",
+     "slug": "returns-reverse-logistics"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "skills/benchmark-methodology": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/benchmark-methodology",
+   "hash": "11966c5c6c7e1fcb3617d294817669a79c9dc1bebdaab90515175a86c80e940c",
+   "loai": "skills",
+   "slug": "benchmark-methodology"
+  },
+  "skills/competitive-platform-analysis": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/competitive-platform-analysis",
+   "hash": "172c9c4f03f41999e3d04f6a95cd75c4c8516dc32b9e482bc0fd53b1e474b6a8",
+   "loai": "skills",
+   "slug": "competitive-platform-analysis"
+  },
+  "skills/competitive-report-structure": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/competitive-report-structure",
+   "hash": "35f3b4ea20f33a5397e044276d9e90490c0fce8f61817fbbb3586e8b950d87c2",
+   "loai": "skills",
+   "slug": "competitive-report-structure"
+  },
+  "skills/council": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/council",
+   "hash": "19cd75f1a455703cf981e2088aaaf6486a31ced3e3bf7bb6e145113f3e7e02f9",
+   "loai": "skills",
+   "slug": "council"
+  },
+  "skills/customer-billing-ops": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/customer-billing-ops",
+   "hash": "ea783c14a483a065c47f6bc0d107e5ab12d1134ffcac57458bb0874095e4094d",
+   "loai": "skills",
+   "slug": "customer-billing-ops"
+  },
+  "skills/inventory-demand-planning": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/inventory-demand-planning",
+   "hash": "f286af6fbfe66b0ae79596035b03112974d35d96e9c6bacf63cda9ab71d30b8c",
+   "loai": "skills",
+   "slug": "inventory-demand-planning"
+  },
+  "skills/investor-materials": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/investor-materials",
+   "hash": "168312e69ada81aae3584d79b7995687ac38f115f64b9a57552f9049705e5647",
+   "loai": "skills",
+   "slug": "investor-materials"
+  },
+  "skills/investor-outreach": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/investor-outreach",
+   "hash": "24c7ccbc7247bb471012e3a5366001ec3f272164d1fbaab24eb54576d4c469c0",
+   "loai": "skills",
+   "slug": "investor-outreach"
+  },
+  "skills/lead-intelligence": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/lead-intelligence",
+   "hash": "18808fdb6e47587b2ce2d004a3b25b35c1af41a7f0881b6566fffee4e8ba7744",
+   "loai": "skills",
+   "slug": "lead-intelligence"
+  },
+  "skills/market-research": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/market-research",
+   "hash": "dc0feef2981853782e12d19ddd5c325b94ec11700e1275ecab1a55b7be4bdb6e",
+   "loai": "skills",
+   "slug": "market-research"
+  },
+  "skills/product-lens": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/product-lens",
+   "hash": "c6c2f4a759c813eab63f364651d350c925043f7487848c88094598544606f3c1",
+   "loai": "skills",
+   "slug": "product-lens"
+  },
+  "skills/returns-reverse-logistics": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/returns-reverse-logistics",
+   "hash": "6f5cf1e44d65a5bf498f38ced183dec2b3f2dd35c160070adbaa7f01ad736707",
+   "loai": "skills",
+   "slug": "returns-reverse-logistics"
+  }
+ }
+}

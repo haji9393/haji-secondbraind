@@ -6,7 +6,7 @@ status: 'off'
 group: Marketing
 description: "Quét tín hiệu định vị CX/CRM/AI trên LinkedIn và Substack từ bộ từ khóa và phản hồi độc giả."
 steps:
-- agent: agency-product-trend-researcher
+- agent: agency-research-synthesist
   task: "Dùng market-research và deep-research. Đọc marketing/linkedin/research/nguon-theo-doi.md, radar trước và phản hồi cuối các bản đã đăng trong drafts/. Quét 7 ngày trên cả LinkedIn và Substack theo sổ nguồn, theo tranh luận của người làm nghề và lãnh đạo vận hành. Từng nguồn ghi URL gốc, tác giả, ngày bài và ngày sự kiện, luận điểm, dẫn chứng, phản biện, cách tác giả triển khai bài. Ghi riêng kết quả mỗi nền tảng kể cả khi paywall, đăng nhập hay không tìm được; chỉ nêu phần đọc được. Ghi chú: {{input}}. Đọc marketing/linkedin/research/chu-de-va-tu-khoa.md và câu hỏi CMO ghi trong briefs/. Áp dụng mục Cách mở rộng từ một câu hỏi: thử cách gọi của khách, tuyến đầu và lãnh đạo; truy tiếp thuật ngữ gặp trong bài gốc và một phản ví dụ. Ghi đường từ truy vấn đến nguồn và góc mới. Tra hai ngôn ngữ, ghi cụm từ, trụ, tín hiệu trái chiều và trả nguồn về brief đã đặt câu hỏi."
   tools: [WebSearch, WebFetch]
 - agent: agency-research-synthesist

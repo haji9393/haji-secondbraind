@@ -1,0 +1,23 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/agency-business-strategist": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-business-strategist.md",
+     "hash": "fcd1941d88b3af8ff5b4822e9eff1762ff40fb48425e4f71e875d242681aeeec",
+     "loai": "agents",
+     "slug": "agency-business-strategist"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/agency-business-strategist": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-business-strategist.md",
+   "hash": "fcd1941d88b3af8ff5b4822e9eff1762ff40fb48425e4f71e875d242681aeeec",
+   "loai": "agents",
+   "slug": "agency-business-strategist"
+  }
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/nd-bien-tap": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-bien-tap.md",
+     "hash": "f63e744a74884892b5a85cc123ac8a748cbbff66c88ccf92bc584de7aae1d79c",
+     "loai": "agents",
+     "slug": "nd-bien-tap"
+    },
+    "agents/nd-goc-nhin": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-goc-nhin.md",
+     "hash": "eef9c3ef629aec8b32a11a0334f715ecf7804d3c2a689e6db7ed8d9ae465a34a",
+     "loai": "agents",
+     "slug": "nd-goc-nhin"
+    },
+    "agents/nd-kiem-chung": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-kiem-chung.md",
+     "hash": "a452f7240c4b2203f102a37acf04921362ee49e1d204786725e53a36acef52b3",
+     "loai": "agents",
+     "slug": "nd-kiem-chung"
+    },
+    "agents/nd-viet-bai": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-viet-bai.md",
+     "hash": "945caf4a9203ee7c1ca200d1d9c9583936225ae733c5fefbd4f6b49d79953094",
+     "loai": "agents",
+     "slug": "nd-viet-bai"
+    },
+    "workflows/bai-dai-thanh-chuoi-post": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/workflows/bai-dai-thanh-chuoi-post.md",
+     "hash": "362d0074b4263df35d35a2f24319b2168ac56e41d2393983a94082ce153e5dff",
+     "loai": "workflows",
+     "slug": "bai-dai-thanh-chuoi-post"
+    },
+    "workflows/lich-noi-dung-thang": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/workflows/lich-noi-dung-thang.md",
+     "hash": "308518e59ca6323b9a1c59e58e303ead535998a4ce6fed591c5bf0d244a1641a",
+     "loai": "workflows",
+     "slug": "lich-noi-dung-thang"
+    },
+    "workflows/y-tuong-thanh-bai-dang": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/workflows/y-tuong-thanh-bai-dang.md",
+     "hash": "932302a48b1209912e0ab0094a39d2b7332ea3018f42f6533de390fd4be6e7c3",
+     "loai": "workflows",
+     "slug": "y-tuong-thanh-bai-dang"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/nd-bien-tap": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-bien-tap.md",
+   "hash": "f63e744a74884892b5a85cc123ac8a748cbbff66c88ccf92bc584de7aae1d79c",
+   "loai": "agents",
+   "slug": "nd-bien-tap"
+  },
+  "agents/nd-goc-nhin": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-goc-nhin.md",
+   "hash": "eef9c3ef629aec8b32a11a0334f715ecf7804d3c2a689e6db7ed8d9ae465a34a",
+   "loai": "agents",
+   "slug": "nd-goc-nhin"
+  },
+  "agents/nd-kiem-chung": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-kiem-chung.md",
+   "hash": "a452f7240c4b2203f102a37acf04921362ee49e1d204786725e53a36acef52b3",
+   "loai": "agents",
+   "slug": "nd-kiem-chung"
+  },
+  "agents/nd-viet-bai": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/nd-viet-bai.md",
+   "hash": "945caf4a9203ee7c1ca200d1d9c9583936225ae733c5fefbd4f6b49d79953094",
+   "loai": "agents",
+   "slug": "nd-viet-bai"
+  },
+  "workflows/bai-dai-thanh-chuoi-post": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/workflows/bai-dai-thanh-chuoi-post.md",
+   "hash": "362d0074b4263df35d35a2f24319b2168ac56e41d2393983a94082ce153e5dff",
+   "loai": "workflows",
+   "slug": "bai-dai-thanh-chuoi-post"
+  },
+  "workflows/lich-noi-dung-thang": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/workflows/lich-noi-dung-thang.md",
+   "hash": "308518e59ca6323b9a1c59e58e303ead535998a4ce6fed591c5bf0d244a1641a",
+   "loai": "workflows",
+   "slug": "lich-noi-dung-thang"
+  },
+  "workflows/y-tuong-thanh-bai-dang": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/workflows/y-tuong-thanh-bai-dang.md",
+   "hash": "932302a48b1209912e0ab0094a39d2b7332ea3018f42f6533de390fd4be6e7c3",
+   "loai": "workflows",
+   "slug": "y-tuong-thanh-bai-dang"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "skills/humanizer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/humanizer",
+     "hash": "da638924f98ca5085dd4cc8aa97be6b8760be0657da9dc495433bd0043b93b2f",
+     "loai": "skills",
+     "slug": "humanizer"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "skills/humanizer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/humanizer",
+   "hash": "da638924f98ca5085dd4cc8aa97be6b8760be0657da9dc495433bd0043b93b2f",
+   "loai": "skills",
+   "slug": "humanizer"
+  }
+ }
+}

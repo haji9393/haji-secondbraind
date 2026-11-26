@@ -1,0 +1,23 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/agency-agentic-identity-trust": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-agentic-identity-trust.md",
+     "hash": "2444181c163b13f8525c7394f5eb1470cb23c7746e6dccfbae4f3f3029ea3e65",
+     "loai": "agents",
+     "slug": "agency-agentic-identity-trust"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/agency-agentic-identity-trust": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-agentic-identity-trust.md",
+   "hash": "2444181c163b13f8525c7394f5eb1470cb23c7746e6dccfbae4f3f3029ea3e65",
+   "loai": "agents",
+   "slug": "agency-agentic-identity-trust"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "skills/data-scraper-agent": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/data-scraper-agent",
+     "hash": "1e26c76412a8ab2f8e71fc47d5735cc93471bc079f83114f2bfa21faef06db46",
+     "loai": "skills",
+     "slug": "data-scraper-agent"
+    },
+    "skills/deep-research": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/deep-research",
+     "hash": "1c05adae560ec5d753b3c235a050144d5db0682f101f6c30a65f5ead22d73481",
+     "loai": "skills",
+     "slug": "deep-research"
+    },
+    "skills/exa-search": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/exa-search",
+     "hash": "2e8cbd16725a1ddcb524dcd56f194ed2de11271e8c3cd5977a2edd93ba4f9145",
+     "loai": "skills",
+     "slug": "exa-search"
+    },
+    "skills/regex-vs-llm-structured-text": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/regex-vs-llm-structured-text",
+     "hash": "1f9b9a1cb6a4ccdd982e6201c26da8f1ac48268866fc3787b9c0103648b34780",
+     "loai": "skills",
+     "slug": "regex-vs-llm-structured-text"
+    },
+    "skills/scientific-thinking-literature-review": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/scientific-thinking-literature-review",
+     "hash": "6c4fc2d97934576127fefb85a8db761e83bc8cb0a476e6ec834d5590e5f6603e",
+     "loai": "skills",
+     "slug": "scientific-thinking-literature-review"
+    },
+    "skills/scientific-thinking-scholar-evaluation": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/scientific-thinking-scholar-evaluation",
+     "hash": "4319b0d6ae876970876717dca1a9ce36fe7be0c7e3b35ab24f34f134f35056a8",
+     "loai": "skills",
+     "slug": "scientific-thinking-scholar-evaluation"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "skills/data-scraper-agent": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/data-scraper-agent",
+   "hash": "1e26c76412a8ab2f8e71fc47d5735cc93471bc079f83114f2bfa21faef06db46",
+   "loai": "skills",
+   "slug": "data-scraper-agent"
+  },
+  "skills/deep-research": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/deep-research",
+   "hash": "1c05adae560ec5d753b3c235a050144d5db0682f101f6c30a65f5ead22d73481",
+   "loai": "skills",
+   "slug": "deep-research"
+  },
+  "skills/exa-search": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/exa-search",
+   "hash": "2e8cbd16725a1ddcb524dcd56f194ed2de11271e8c3cd5977a2edd93ba4f9145",
+   "loai": "skills",
+   "slug": "exa-search"
+  },
+  "skills/regex-vs-llm-structured-text": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/regex-vs-llm-structured-text",
+   "hash": "1f9b9a1cb6a4ccdd982e6201c26da8f1ac48268866fc3787b9c0103648b34780",
+   "loai": "skills",
+   "slug": "regex-vs-llm-structured-text"
+  },
+  "skills/scientific-thinking-literature-review": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/scientific-thinking-literature-review",
+   "hash": "6c4fc2d97934576127fefb85a8db761e83bc8cb0a476e6ec834d5590e5f6603e",
+   "loai": "skills",
+   "slug": "scientific-thinking-literature-review"
+  },
+  "skills/scientific-thinking-scholar-evaluation": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/skills/scientific-thinking-scholar-evaluation",
+   "hash": "4319b0d6ae876970876717dca1a9ce36fe7be0c7e3b35ab24f34f134f35056a8",
+   "loai": "skills",
+   "slug": "scientific-thinking-scholar-evaluation"
+  }
+ }
+}

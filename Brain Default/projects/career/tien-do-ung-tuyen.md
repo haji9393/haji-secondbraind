@@ -6,7 +6,7 @@ Cập nhật theo Haji ngày 25/11/2026. Mọi giờ theo Việt Nam.
 
 | Công ty | Vị trí | Trạng thái và lần trao đổi gần nhất | Việc tiếp theo | Mốc |
 |---|---|---|---|---|
-| NAB | Chưa ghi nhận | Đã có lịch phỏng vấn | Kiểm tra thư mời và chuẩn bị ví dụ theo JD trong thư | **09:00, 26/11** (lịch đã chốt) |
+| NAB | Consultant, Channel Personalisation | Đã phỏng vấn HR sáng 26/11. HR nêu: lương tối đa 80tr gross/tháng, lương tháng 13 chắc chắn, performance bonus 2-5 tháng lương. | Haji phản hồi có đi tiếp hay không trong chiều 26/11. | **Chiều 26/11** (hẹn với HR) |
 | Masterise | Chưa ghi nhận | Đã phỏng vấn với Tim chiều 25/11. Đầu mối tuyển dụng qua Zalo là Phượng. | Duyệt lời cảm ơn và gửi qua Zalo. Nếu hết thời hạn mà chưa có tin, hỏi Phượng về tiến độ vào ngày làm việc kế tiếp. | Gửi lời cảm ơn trong 25 hoặc 26/11. Hết hai tuần vào **09/12**. |
 | Billease | Chưa ghi nhận | Đã qua vòng sàng lọc với HR và nộp bài đánh giá sáng 25/11. Quy trình gồm 4 vòng, đang chờ kết quả bài. | Kiểm tra phản hồi khi Javis nhắc. Nếu chưa có tin, hỏi thời điểm trả kết quả và bước kế tiếp. | **10:00, 02/12** (mốc theo dõi nội bộ, đã đặt nhắc một lần trong Javis, mã `r_b20fe0e8a2`) |
 | YouNet Media | Vice Business Head | Đã gặp quản lý tuyển dụng. Haji ghi nhận tin tuyển dụng mở lại và đã gửi tin nhắc cho chị Linh. Mốc liên hệ ghi nhận là 24/11, việc đã gửi được xác nhận ngày 25/11. | Chờ chị Linh phản hồi. | 01/12 (mốc rà lại đề xuất) |

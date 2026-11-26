@@ -6,14 +6,14 @@ status: active
 description: Từ chủ đề và sản phẩm đang bán, lên lịch nội dung một tháng có nhịp bán
   xen nhịp cho đi.
 steps:
-- agent: nd-goc-nhin
+- agent: cmo
   task: 'Lên khung nội dung một tháng cho: {{input}}
 
 
     Chia theo tuần. Mỗi tuần một chủ đề lớn. Trong tuần, phân bổ theo nhịp 3 bài cho
     đi giá trị, 1 bài kể chuyện, 1 bài bán. Với mỗi bài ghi tiêu đề nháp, người đọc,
     lời hứa và góc tiếp cận.'
-- agent: nd-bien-tap
+- agent: nd-kiem-chung
   task: 'Soát lại lịch nội dung dưới đây:
 
 

@@ -1,0 +1,23 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/agency-design-image-prompt-engineer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-image-prompt-engineer.md",
+     "hash": "1a3d9da696de136dba0f8056b7f60e45a5b10c872259ccfc105ad0e3f9137660",
+     "loai": "agents",
+     "slug": "agency-design-image-prompt-engineer"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/agency-design-image-prompt-engineer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-design-image-prompt-engineer.md",
+   "hash": "1a3d9da696de136dba0f8056b7f60e45a5b10c872259ccfc105ad0e3f9137660",
+   "loai": "agents",
+   "slug": "agency-design-image-prompt-engineer"
+  }
+ }
+}

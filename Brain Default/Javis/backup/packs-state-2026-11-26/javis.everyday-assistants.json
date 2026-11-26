@@ -1,0 +1,47 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/tl-phan-bien": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/tl-phan-bien.md",
+     "hash": "b8ce60c524efc089a9f169d1bf1092f14b66373ea2e1a780f151ae949340dee5",
+     "loai": "agents",
+     "slug": "tl-phan-bien"
+    },
+    "agents/tl-thu-ky": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/tl-thu-ky.md",
+     "hash": "42e81218f17f2b92bec131856d5b16537a262e7494c3af805d0b12922cab5da9",
+     "loai": "agents",
+     "slug": "tl-thu-ky"
+    },
+    "agents/tl-tom-tat": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/tl-tom-tat.md",
+     "hash": "d1ea324b510cb6f91a827c7cd9712284a9771b4e0ff787b5ceea92681f03ee70",
+     "loai": "agents",
+     "slug": "tl-tom-tat"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/tl-phan-bien": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/tl-phan-bien.md",
+   "hash": "b8ce60c524efc089a9f169d1bf1092f14b66373ea2e1a780f151ae949340dee5",
+   "loai": "agents",
+   "slug": "tl-phan-bien"
+  },
+  "agents/tl-thu-ky": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/tl-thu-ky.md",
+   "hash": "42e81218f17f2b92bec131856d5b16537a262e7494c3af805d0b12922cab5da9",
+   "loai": "agents",
+   "slug": "tl-thu-ky"
+  },
+  "agents/tl-tom-tat": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/tl-tom-tat.md",
+   "hash": "d1ea324b510cb6f91a827c7cd9712284a9771b4e0ff787b5ceea92681f03ee70",
+   "loai": "agents",
+   "slug": "tl-tom-tat"
+  }
+ }
+}

@@ -31,6 +31,6 @@ Skill gộp 2 skill cũ: viết đúng giọng, rồi gọt cho hết mùi AI.
 | Giọng | Theo brand guideline của thương hiệu đó | Theo [chuẩn giọng Haji](skills/haji-writing/references/haji-writing-style.md) |
 | CTA | Mua, đăng ký, liên hệ | Mời thảo luận, chia sẻ góc nhìn; không xin việc trực tiếp |
 | Skill | `marketing-content` | `haji-writing` |
-| Agent | `copywriter` | `nd-viet-bai` |
+| Agent | `copywriter` | `copywriter` |
 
 Đề bài lẫn cả hai (vd Haji viết case study cho một khách hàng) thì hỏi trước: bài đăng dưới tên ai? Tên ai thì giọng người đó.

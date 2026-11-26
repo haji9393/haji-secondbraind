@@ -1,0 +1,23 @@
+{
+ "brains": {
+  "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default": {
+   "items": {
+    "agents/agency-chief-financial-officer": {
+     "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-chief-financial-officer.md",
+     "hash": "1cf01837f2594411eefd9fa283f9f21813557b85d5d157c5dd6d7d0f90e354ec",
+     "loai": "agents",
+     "slug": "agency-chief-financial-officer"
+    }
+   }
+  }
+ },
+ "brain": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+ "items": {
+  "agents/agency-chief-financial-officer": {
+   "duong": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default/agents/agency-chief-financial-officer.md",
+   "hash": "1cf01837f2594411eefd9fa283f9f21813557b85d5d157c5dd6d7d0f90e354ec",
+   "loai": "agents",
+   "slug": "agency-chief-financial-officer"
+  }
+ }
+}
