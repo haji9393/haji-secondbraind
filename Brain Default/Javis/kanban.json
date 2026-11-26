@@ -98,7 +98,412 @@
           "msg": "done"
         }
       ]
+    },
+    {
+      "id": "t_860c7c863cba",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Viết lại CV Zalo Head of Business, Open Platform",
+      "intent": "Viết lại từ đầu CV tiếng Anh 2 trang cho vị trí Zalo Head of Business, Open Platform, không sửa vụn bản v2 mà Haji đã chê là hiểu sai bản chất công việc, cách highlight sản phẩm, giọng văn và font chữ quá rập khuôn. Trước khi viết, đọc lại hồ sơ cơ hội projects/career/co-hoi/zalo-head-of-business-open-platform.md (JD, chấm điểm, brief CV, mục Phiên bản CV), skills/haji-career/references/haji-cv-evidence-bank.md, haji-job-targeting.md, haji-cv-builder.md và các CV gốc trong Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026, rồi so cách hiểu bản chất công việc trong brief với các nguồn này. Nhánh A: nếu brief hiểu sai bản chất công việc, dừng lại, không viết tiếp theo góc cũ, trả 'CẦN CHỐT LẠI BRIEF' gồm một đoạn đề xuất góc định vị mới và 2-3 điểm khác biệt so với v2, đồng thời ghi đề xuất này vào hồ sơ cơ hội. Nhánh B: nếu brief đúng, sao chép deck CV gần nhất trong thư mục CV trên Drive thành một bản mới, không sửa đè bản v2 (https://docs.google.com/presentation/d/1ltZtcHKG98mxtYUaUsdJcOStd5VX7651Bs3obyPpxfA/edit). Viết lại định vị, cách highlight sản phẩm và giọng văn, đổi kiểu chữ và bố cục cho hợp vai platform/ecosystem. Chỉ dùng dữ kiện đã chốt: headline 'PLATFORM GROWTH & ECOSYSTEM LEADER | VALUE FOR MERCHANTS & USERS' (được đề xuất lại nếu đổi góc); Insider tăng từ 2 lên 40+ sản phẩm toàn cầu trong thời gian Haji làm, Việt Nam thường áp dụng đầu tiên; Smart Recommendation chỉ viết định tính, không có số; Haji chịu trách nhiệm cuối ở tái ký. Hai điểm chưa chốt (có nêu tên Golf House không, dòng dẫn 3 CSM đặt ở đâu) phải nêu thành câu hỏi, không tự quyết. Không xuất PDF, không dùng em dash. Gửi link Drive của deck mới trong chat và ghi bản mới vào mục Phiên bản CV của hồ sơ cơ hội.",
+      "route": "wf:career-viet-va-phan-bien-ho-so",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "done",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:82c2c1bba4b04312b9c02843b70d4491",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795680179.531446,
+      "current_run_id": "",
+      "result": "=> Theo có điều kiện. Capability 7/10, Direction 7,5/10. Điều kiện vẫn như lượt trước: bạn chốt lại brief rồi mình mới làm v3. Next: bạn trả lời 6 câu cuối bài, sau đó mình sao chép deck sang bản v3 mới. Bản v2 giữ nguyên.\n\n**CẦN CHỐT LẠI BRIEF**\n\n**Góc định vị đề xuất (giữ như lượt trước).** Bạn làm business cho một nền tảng đa sản phẩm, ở thị trường thường dùng sản phẩm mới đầu tiên. Bạn đọc xem từng ngành cần gì, biến nhu cầu chung thành sản phẩm hoặc tính năng mới, đưa sản phẩm đó vào Việt Nam và chịu trách nhiệm cuối ở tái ký. Chức danh vẫn ghi đúng là Customer Success Lead. Mỗi khối mở bằng một sản phẩm, tên khách hàng đứng bên dưới làm bằng chứng. Smart Recommendation chỉ viết định tính. Con số 2 lên 40+ ghi rõ là danh mục toàn cầu của Insider.\n\n**Khác v2 ở 3 điểm:**\n1. Cách xếp: v2 xếp theo client và chiến dịch, v3 xếp theo sản phẩm.\n2. Số dẫn: v3 ghi rõ số đó của ai. 40+ là danh mục toàn cầu, 4,3x là ARR của Insider Việt Nam, renewal là trên tài khoản doanh nghiệp. Số của client chỉ giữ 1-2 cái.\n3. Giọng văn và bố cục: bỏ khung Mandate/Approach/Impact và đổi mẫu trình bày. Ba CV gốc đang dùng cùng một mẫu.\n\n**Nguồn mình đã mở lại trong lượt này và điều rút ra từ mỗi nguồn** (chữ trong ngoặc kép là nguyên văn):\n\n| Nguồn | Nguyên văn | Điều rút ra |\n|---|---|---|\n| `haji-job-targeting.md` mục 1 | Đích là \"Head of Customer Experience / Head of Digital Transformation\". Có 3 hướng nộp: CS, Transformation, CRM | Chưa có hướng Platform, nên vai Zalo là lane mới cần bạn duyệt |\n| `haji-job-targeting.md` mục 2 và mục 3 bước 5 | \"Head / Director / Senior Manager in-house → referral trước\". Bảng nghĩa kép: \"growth / account ARR / nêu chủ thể\" | Vẫn ưu tiên referral. Số tăng trưởng nào cũng phải ghi chủ thể |\n| `haji-cv-builder.md` mục 4 | Chỉ có khung cho CS, CX, CRM, Transformation, BFSI | Không có khung Platform, nên v2 rơi về khung CS/CRM. Đây là gốc của lỗi \"hiểu sai bản chất công việc\" |\n| `haji-cv-builder.md` mục 1-3 | Bản nền \"MoMo User Growth & B2B2C\". Mandate/Approach/Impact là tuỳ chọn. Lane không phải CS thì headline không mở bằng \"Customer Success Lead\" | Bản nền MoMo kéo theo cách kể theo client. v3 bỏ được khung Mandate. Headline đã chốt vẫn hợp lệ |\n| `CV_Phuong Hoang_Apply for Zalo.pdf` (v1, 26/11) | \"The Vietnam business grew 4.3x while the platform expanded from 2 to 40+ products\". \"Mandate: accountable for adoption, value and renewal\". Dòng Zalo ZNS ghi \"deployed Zalo ZNS and Mini App\" | Câu ghép hai số dễ khiến người đọc hiểu 40+ là của Việt Nam. Mandate vẫn là giọng CS. Ngoài Smart Recommendation, chưa sản phẩm nào có tên |\n| `CV_..._MoMo Senior Manager (User Growth & B2B2C).pdf` (17/11) | \"Mandate: owned user growth and lifecycle results ... team of 3 senior Customer Success Managers\", \"06/2022\" | Zalo v1 chép đúng mẫu và bố cục của bản này |\n| `CV_..._Head of Merchant Partnership.pdf` (03/11) | \"Mandate: owned partner growth and retention ... team of 3 Customer Success Managers\", \"03/2022\" | Ba vai khác nhau dùng chung một khung, nên bạn thấy rập khuôn. Tháng lên Lead ghi lệch nhau giữa các bản |\n| `haji-cv-evidence-bank.md` mục B, C, D, E8, G | Mục B ghi Lead từ \"2022 - 06/2026\". Mục C: \"hỏi lại Haji có đưa tên Golf House\". Mục G1 còn để ngỏ dòng 3 CSM. Mục E8: \"often the first market\" | Mốc lên Lead tạm ghi theo năm. Golf House và dòng 3 CSM để bạn quyết |\n\nLượt này mình đã ghi bảng trích nguyên văn này và một dòng lịch sử vào [hồ sơ cơ hội Zalo](projects/career/co-hoi/zalo-head-of-business-open-platform.md). [Tiến độ ứng tuyển](projects/career/tien-do-ung-tuyen.md) đã có dòng Zalo nên mình không thêm. Mình chưa tạo deck v3, chưa xuất PDF, chưa nộp gì.\n\n**Cần bạn chốt:**\n1. Bạn duyệt góc kể theo sản phẩm, hay muốn sửa?\n2. Ngoài Smart Recommendation và Zalo ZNS + Mini App, có 3-5 sản phẩm Insider nào bạn trực tiếp đưa tới doanh nghiệp Việt Nam? Ở mỗi sản phẩm bạn làm phần nào?\n3. Headline giữ `PLATFORM GROWTH & ECOSYSTEM LEADER | VALUE FOR MERCHANTS & USERS`, hay đổi sang `PLATFORM BUSINESS & ECOSYSTEM GROWTH | NEW PRODUCTS MERCHANTS ADOPT, USERS VALUE`?\n4. CV gửi Zalo có nêu tên Golf House không?\n5. Dòng dẫn đội 3 CSM đặt ở trang 1, trang 2, hay bỏ?\n6. Bạn lên Lead tháng 03 hay 06/2022? Nếu chưa chắc, mình ghi năm 2022.",
+      "created_at": 1795679655.188909,
+      "updated_at": 1795680179.531446,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance": [
+          "Đầu ra cho thấy đã đọc haji-cv-evidence-bank.md, haji-job-targeting.md, haji-cv-builder.md và ít nhất một CV gốc trong Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026, kèm một đoạn nêu bản chất công việc của Haji được hiểu lại thế nào so với v2",
+          "Nhánh A: có mục 'CẦN CHỐT LẠI BRIEF' gồm đúng một đoạn góc định vị mới và 2-3 điểm khác biệt so với v2, được ghi vào projects/career/co-hoi/zalo-head-of-business-open-platform.md, và không tạo deck mới theo góc cũ",
+          "Nhánh B: có một Google Slides mới trong thư mục CV trên Drive, ID khác bản v2 1ltZtcHKG98mxtYUaUsdJcOStd5VX7651Bs3obyPpxfA, bản v2 không bị sửa, và link Drive của bản mới được gửi trong chat",
+          "Nhánh B: CV bằng tiếng Anh, dài tối đa 2 trang, kiểu chữ và bố cục khác v2, có phần trình bày sản phẩm theo góc platform/ecosystem",
+          "Nhánh B: CV chỉ dùng dữ kiện đã chốt (2 lên 40+ sản phẩm, Việt Nam thường áp dụng đầu tiên, Smart Recommendation không có số, trách nhiệm cuối ở tái ký) và không có số liệu nào bịa thêm",
+          "Nhánh B: mục Phiên bản CV trong hồ sơ cơ hội có thêm dòng cho bản mới kèm link và ngày 26/11/2026",
+          "Hai điểm chưa chốt (tên Golf House, vị trí dòng dẫn 3 CSM) được nêu thành câu hỏi cho Haji, không tự quyết",
+          "Không có file PDF nào được xuất, không có ký tự em dash trong mọi nội dung đã viết"
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "tro-ly-su-nghiep",
+          "name": "Trợ lý sự nghiệp",
+          "key": ""
+        },
+        "route": "wf:career-viet-va-phan-bien-ho-so",
+        "capability": "external-write",
+        "run_seconds": 264,
+        "acceptance_from": "done",
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Điều kiện 1 chưa đạt: báo cáo chỉ dẫn kho dữ kiện (mục E8) và Evidence Bank D, E3, E8, không cho thấy đã đọc haji-job-targeting.md, haji-cv-builder.md hay CV gốc nào trong Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026. Các điều kiện khác của nhánh A đã đạt: mục đề xuất có trong hồ sơ, chưa tạo deck, không xuất PDF và đã hỏi Haji về Golf House cùng dòng dẫn 3 CSM.",
+            "a": "Điều kiện 1 chưa đạt: báo cáo chỉ dẫn kho dữ kiện (mục E8) và Evidence Bank D, E3, E8, không cho thấy đã đọc haji-job-targeting.md, haji-cv-builder.md hay CV gốc nào trong Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026. Các điều kiện khác của nhánh A đã đạt: mục đề xuất có trong hồ sơ, chưa tạo deck, không xuất PDF và đã hỏi Haji về Golf House cùng dòng dẫn 3 CSM.",
+            "by": "checker",
+            "asked_at": 1795679915.402167,
+            "answered_at": 1795679915.402168,
+            "progress": "=> Theo có điều kiện. Capability 7/10, Direction 7,5/10. Điều kiện là Haji chốt lại brief trước, vì v2 kể công việc của bạn sai bản chất. Next: bạn trả lời 5 câu bên dưới, rồi mình mới sao chép deck sang bản v3. Bản v2 giữ nguyên, không sửa đè.\n\n**CẦN CHỐT LẠI BRIEF**\n\n**Lỗi của v2.** v2 đọc JD đúng theo từng việc. Nhưng nó vẫn kể việc của bạn như một CV Customer Success/CRM: mỗi phần đứng tên một client hoặc một chiến dịch, số dẫn là ROI chương trình và MAU app của client, khung văn *Mandate/Approach/Impact*. Còn bạn tả việc của mình (chat 14:29 ngày 26/11) theo kiểu người làm business cho một nền tảng. Bạn đọc xem mỗi ngành cần gì, tìm chỗ có thể làm sản phẩm mới, rồi đưa sản phẩm đó đến khách. Vì vậy phải đổi cách kể từ gốc, sửa câu chữ không đủ.\n\n**Góc đề xuất.** Giữ đúng chức danh Customer Success Lead. Mỗi phần mở bằng một sản phẩm của Insider và cách nó đến với doanh nghiệp Việt Nam:\n- Ngành đó cần gì.\n- Sản phẩm nào đáp ứng.\n- Bạn trực tiếp làm gì.\n- Cuối cùng mới đến tên khách hàng, để chứng minh.\n\nSmart Recommendation chỉ viết định tính: từ nhu cầu đo lường, bạn viết yêu cầu tính năng, bảo vệ với Product và theo đến khi khách triển khai. Con số 2 lên 40+ sản phẩm ghi rõ là toàn cầu, Việt Nam thường áp dụng đầu tiên. Ở tái ký, bạn điều phối Sales, Onboarding, vận hành và chịu trách nhiệm cuối (kho dữ kiện, mục E8).\n\n**Ba điểm khác v2:**\n1. Cách sắp xếp: v2 xếp theo client và chiến dịch. v3 xếp theo sản phẩm, client đứng bên dưới làm bằng chứng.\n2. Số dẫn: dùng số của"
+          }
+        ],
+        "acceptance_fixes": 1,
+        "acceptance_check": "ai"
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-26 14:54",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-26 14:54",
+          "msg": "claimed by worker:865:f7e0b70a"
+        },
+        {
+          "ts": "2026-11-26 14:54",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-11-26 14:54",
+          "msg": "claimed by worker:865:a379578f"
+        },
+        {
+          "ts": "2026-11-26 14:58",
+          "msg": "Điều kiện 1 chưa đạt: báo cáo chỉ dẫn kho dữ kiện (mục E8) và Evidence Bank D, E3, E8, không cho thấy đã đọc haji-job-targeting.md, haji-cv-builder.md hay CV gốc nào trong Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026. Các điều kiện khác của nhánh A đã đạt: mục đề xuất có trong hồ sơ, chưa tạo deck, không xuất PDF và đã hỏi Haji về Golf House cùng dòng dẫn 3 CSM."
+        },
+        {
+          "ts": "2026-11-26 14:58",
+          "msg": "claimed by worker:865:83d4de90"
+        },
+        {
+          "ts": "2026-11-26 15:02",
+          "msg": "done"
+        }
+      ]
+    },
+    {
+      "id": "t_9373ddfe8062",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "CV Zalo v3 theo góc kể sản phẩm đã duyệt",
+      "intent": "Tiếp nối việc t_860c7c863cba (CV Zalo Head of Business, Open Platform). Haji đã trả lời brief lúc 15:53 ngày 26/11, nguyên văn: \"Góc trên ổn hơn đó, K để tên golf house, Trong cv mới nhất thông tin là đúng r\". Như vậy brief đã chốt, đi Nhánh B, làm v3 ngay:\n1. Góc định vị: DUYỆT góc kể theo sản phẩm đã đề xuất trong kết quả t_860c7c863cba và ghi trong projects/career/co-hoi/zalo-head-of-business-open-platform.md. Mỗi khối mở bằng một sản phẩm, tên khách hàng làm bằng chứng. Số dẫn ghi rõ chủ thể: 2 lên 40+ là danh mục toàn cầu Insider, 4,3x là ARR Insider Việt Nam. Smart Recommendation chỉ viết định tính. Haji chịu trách nhiệm cuối ở tái ký. Bỏ khung Mandate/Approach/Impact, đổi giọng văn, font và bố cục cho bớt rập khuôn.\n2. KHÔNG nêu tên Golf House ở bất kỳ đâu trong CV.\n3. Các dữ kiện còn lại (sản phẩm Insider đã đưa vào VN, dòng dẫn đội 3 CSM và vị trí của nó, mốc lên Lead) lấy đúng như CV mới nhất: deck Google Slides v2 https://docs.google.com/presentation/d/1ltZtcHKG98mxtYUaUsdJcOStd5VX7651Bs3obyPpxfA/edit, đối chiếu với Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026/CV_Phuong Hoang_Apply for Zalo.pdf. Không bịa sản phẩm hay số mới. Nếu hai bản lệch nhau ở một dữ kiện, theo deck v2 và ghi chỗ lệch trong báo cáo.\n4. Headline: Haji chưa trả lời. Chọn một trong hai phương án đã đề xuất, ghi lý do, để Haji đổi sau nếu muốn.\n5. Sao chép deck v2 thành deck v3 MỚI trong cùng thư mục CV trên Google Drive, không sửa đè v2. Làm trên Google Slides, KHÔNG xuất PDF, không nộp gì. Chụp lại 2 trang để kiểm chữ không tràn.\n6. Cập nhật mục Phiên bản CV trong hồ sơ cơ hội Zalo, ghi quyết định của Haji (duyệt góc, bỏ Golf House).\nBáo cáo về Telegram: link Google Slides của deck v3, 3-5 điểm đã đổi so với v2, headline đã chọn, và ghi rõ chưa xuất PDF. Xưng \"mình\", gọi \"bạn\", không dùng dấu gạch dài.",
+      "route": "wf:career-viet-va-phan-bien-ho-so",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "blocked",
+      "needs_approval": false,
+      "block_kind": "transient",
+      "block_reason": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 2 giờ 56 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models.",
+      "created_by": "chat",
+      "chat_id": "609887335",
+      "idempotency_key": "",
+      "attempts": 3,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795684384.715169,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795683248.447606,
+      "updated_at": 1795684384.715169,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có link Google Slides của deck v3 mới, khác link deck v2 1ltZtcHKG98mxtYUaUsdJcOStd5VX7651Bs3obyPpxfA",
+          "Deck v3 không có chữ Golf House",
+          "Deck v3 kể theo sản phẩm và ghi rõ chủ thể của số 40+ và 4,3x",
+          "Không xuất PDF, không nộp hồ sơ",
+          "Hồ sơ cơ hội Zalo đã cập nhật mục Phiên bản CV với quyết định của Haji"
+        ],
+        "acceptance": [
+          "Có link Google Slides của deck v3 mới, khác link deck v2 1ltZtcHKG98mxtYUaUsdJcOStd5VX7651Bs3obyPpxfA",
+          "Deck v3 không có chữ Golf House",
+          "Deck v3 kể theo sản phẩm và ghi rõ chủ thể của số 40+ và 4,3x",
+          "Không xuất PDF, không nộp hồ sơ",
+          "Hồ sơ cơ hội Zalo đã cập nhật mục Phiên bản CV với quyết định của Haji"
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "tro-ly-su-nghiep",
+          "name": "Trợ lý sự nghiệp",
+          "key": ""
+        }
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-26 15:54",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-26 15:54",
+          "msg": "claimed by worker:865:22a67c8e"
+        },
+        {
+          "ts": "2026-11-26 15:54",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-11-26 15:54",
+          "msg": "claimed by worker:865:37d301be"
+        },
+        {
+          "ts": "2026-11-26 16:13",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 2 giờ 56 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-26 16:13",
+          "msg": "claimed by worker:865:f33fd077"
+        },
+        {
+          "ts": "2026-11-26 16:13",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 2 giờ 56 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-26 16:13",
+          "msg": "claimed by worker:865:dc57631b"
+        },
+        {
+          "ts": "2026-11-26 16:13",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 2 giờ 56 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        }
+      ]
+    },
+    {
+      "id": "t_34f01d8a7d0f",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Hoàn thiện CV Zalo Head of Business v5",
+      "intent": "Haji yêu cầu chạy lại workflow vừa sửa để hoàn thiện CV Zalo Head of Business, Open Platform. Hồ sơ projects/career/co-hoi/zalo-head-of-business-open-platform.md, dùng chân dung Insider và các dữ kiện đã được Haji xác nhận trong hồ sơ, cùng phản hồi v4 mới nhất. Chỉ đạo hiện tại của Haji là triển khai bản v5 từ CV gốc; phản hồi v4 thay cách thực thi, không cần hỏi lại các dữ kiện đã chốt. Đọc trực tiếp hai CV gốc MKC và MoMo Senior Manager (User Growth & B2B2C) trong Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026 hoặc bản Drive tương ứng. Chọn đoạn và ví dụ nguyên gốc có sức nặng, chỉnh có lý do, không dùng v4 làm bản nền. Tập trung làm rõ công việc thật qua nhu cầu nhiều ngành, tác động lên quyết định sản phẩm, đưa vào sử dụng và trách nhiệm tái ký. Smart Recommendation chỉ định tính; nếu dùng MBS, giữ mục tiêu lãnh đạo, dashboard hỗ trợ đổi KPI và khả năng đội tự vận hành. Giữ nguyên chủ thể các số tăng trưởng. Không nêu Golf House. Dùng mẫu hai cột sẵn có trên Drive cho bản duyệt, sao chép thành Google Slides v5 riêng trong thư mục CV_ Phương Hoàng. Giữ timeline đã xác nhận, kiểm cả chữ và ảnh render sau khi chỉnh, không xuất PDF hoặc nộp. Hoàn thiện trong ngày, tối đa 30 phút theo yêu cầu Haji; trả link qua đúng chat.",
+      "route": "wf:career-viet-va-phan-bien-ho-so",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "blocked",
+      "needs_approval": false,
+      "block_kind": "transient",
+      "block_reason": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 1 giờ 22 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models.",
+      "created_by": "chat",
+      "chat_id": "web:82c2c1bba4b04312b9c02843b70d4491",
+      "idempotency_key": "",
+      "attempts": 3,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795690035.19871,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795690007.166782,
+      "updated_at": 1795690035.19871,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Trả link Google Slides v5 riêng trong thư mục CV trên Drive, có nội dung đầy đủ và đã kiểm hiển thị cả hai trang.",
+          "Nêu rõ CV gốc đã đọc, những đoạn chính giữ hoặc sửa và kiểm không làm mất chi tiết quyết định, triển khai, trách nhiệm và kết quả.",
+          "Giữ giọng CV gốc khi câu đã tốt, bỏ Golf House, Smart Recommendation định tính, không xuất PDF, không nộp hồ sơ."
+        ],
+        "acceptance": [
+          "Trả link Google Slides v5 riêng trong thư mục CV trên Drive, có nội dung đầy đủ và đã kiểm hiển thị cả hai trang.",
+          "Nêu rõ CV gốc đã đọc, những đoạn chính giữ hoặc sửa và kiểm không làm mất chi tiết quyết định, triển khai, trách nhiệm và kết quả.",
+          "Giữ giọng CV gốc khi câu đã tốt, bỏ Golf House, Smart Recommendation định tính, không xuất PDF, không nộp hồ sơ."
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "tro-ly-su-nghiep",
+          "name": "Trợ lý sự nghiệp",
+          "key": ""
+        }
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-26 17:46",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-26 17:46",
+          "msg": "claimed by worker:865:d47b9184"
+        },
+        {
+          "ts": "2026-11-26 17:47",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-11-26 17:47",
+          "msg": "claimed by worker:865:46fb8d23"
+        },
+        {
+          "ts": "2026-11-26 17:47",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 1 giờ 22 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-26 17:47",
+          "msg": "claimed by worker:865:4e33fd86"
+        },
+        {
+          "ts": "2026-11-26 17:47",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 1 giờ 22 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-26 17:47",
+          "msg": "claimed by worker:865:925303bc"
+        },
+        {
+          "ts": "2026-11-26 17:47",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 1 giờ 22 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        }
+      ]
+    },
+    {
+      "id": "t_2036260e2cb5",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Hoàn thiện CV Zalo v5 (chạy lại sau khi đổi model)",
+      "intent": "Chạy lại t_34f01d8a7d0f sau khi agent đổi model. Hồ sơ projects/career/co-hoi/zalo-head-of-business-open-platform.md. Haji đã yêu cầu triển khai v5 từ dữ kiện đã chốt và phản hồi mới nhất; không hỏi lại dữ kiện hoặc xin duyệt lại chỉ vì đổi phương pháp viết. Đọc trực tiếp CV gốc MKC và MoMo Senior Manager (User Growth & B2B2C) trong Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026 hoặc bản Drive. Biên tập từ đoạn gốc có nghiệp vụ, không dùng v4 làm nền. Giữ rõ quyết định sản phẩm, hiểu nhu cầu theo ngành, triển khai và trách nhiệm cuối tái ký; Smart Recommendation chỉ định tính, không nêu Golf House, giữ nguyên chủ thể các số và mốc Lead đã chốt. Nếu dùng MBS, giữ mục tiêu lãnh đạo, dashboard đổi KPI và đội tự vận hành. Sao chép mẫu hai cột có sẵn trên Drive thành bản Google Slides v5 riêng trong thư mục CV_ Phương Hoàng, dùng kết nối Google Workspace của Javis nếu cần, kiểm nội dung và ảnh cả hai trang. Không xuất PDF, không nộp. Trả link duyệt về chat trong ngày, tối đa 30 phút.",
+      "route": "wf:career-viet-va-phan-bien-ho-so",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "blocked",
+      "needs_approval": false,
+      "block_kind": "transient",
+      "block_reason": "Hết lượt gói ChatGPT (Codex). Khoảng 1 giờ 34 phút nữa mới lại dùng được (tầm 19:36, nhà cung cấp nói: try again at 7:36 PM.). Đang chờ thì đổi tạm sang Claude Code, Google Gemini (API) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Copywriter\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models.",
+      "created_by": "chat",
+      "chat_id": "web:82c2c1bba4b04312b9c02843b70d4491",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795690861.64563,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795690204.955848,
+      "updated_at": 1795690861.64563,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Google Slides v5 riêng trong đúng thư mục Drive, nội dung đầy đủ và đã kiểm hiển thị cả hai trang.",
+          "Nêu CV gốc đã đọc, phần giữ hoặc sửa; giữ chi tiết nghiệp vụ và giọng của bản gốc.",
+          "Bỏ Golf House, Smart Recommendation định tính, không xuất PDF và không nộp."
+        ],
+        "acceptance": [
+          "Google Slides v5 riêng trong đúng thư mục Drive, nội dung đầy đủ và đã kiểm hiển thị cả hai trang.",
+          "Nêu CV gốc đã đọc, phần giữ hoặc sửa; giữ chi tiết nghiệp vụ và giọng của bản gốc.",
+          "Bỏ Golf House, Smart Recommendation định tính, không xuất PDF và không nộp."
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "tro-ly-su-nghiep",
+          "name": "Trợ lý sự nghiệp",
+          "key": ""
+        },
+        "route": "wf:career-viet-va-phan-bien-ho-so",
+        "capability": "external-write",
+        "run_seconds": 535,
+        "acceptance_from": "done",
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Không kiểm độc lập được v5 nằm đúng thư mục Google Drive, vì vault chỉ có link và ảnh render, không có dữ liệu Drive xác nhận vị trí.",
+            "a": "Không kiểm độc lập được v5 nằm đúng thư mục Google Drive, vì vault chỉ có link và ảnh render, không có dữ liệu Drive xác nhận vị trí.",
+            "by": "checker",
+            "asked_at": 1795690758.840512,
+            "answered_at": 1795690758.840512,
+            "progress": "**Theo Zalo, ưu tiên referral sau khi Haji duyệt. Capability 7/10, Direction 7,5/10.**\n\n[Mở CV tiếng Anh v5 để duyệt referral Zalo](https://docs.google.com/presentation/d/12981AuqFxJtl-B3HfvArYT1ceyAweF2JNShl2Oh-8XY/edit)\n\nMình đã đối chiếu với CV gốc MKC, MoMo Senior Manager, brief đã chốt và JD, rồi kiểm chữ và bố cục cả hai trang Slides. V5 đưa Smart Recommendation lên đầu khối Insider để cho thấy Haji đã bảo vệ đề xuất với Product, theo đến phát hành và triển khai cho khách hàng. Ca MBS giữ rõ mục tiêu lãnh đạo, dashboard dùng để chỉnh KPI và việc đội tiếp quản vận hành. Dòng FPT Shop tách phần Haji góp sức giữ tái ký khỏi mức tăng MRR của tài khoản.\n\nKhoảng trống còn lại là sở hữu KPI toàn nền tảng và quản lý trực tiếp đội lớn hơn. Khi được hỏi, dùng MBS và Sacombank để giải thích phạm vi KPI chương trình, cùng kinh nghiệm dẫn trực tiếp 3 CSM và điều phối liên phòng.\n\n**Bước tiếp theo trước cuối 26/11:** Haji duyệt nội dung và headline *Platform Business & Ecosystem Growth*, rồi ưu tiên referral. Tin tuyển vẫn mở và chưa thấy hạn công bố. CV đang chờ duyệt, chưa xuất PDF hay nộp. [Hồ sơ và kết quả phản biện](projects/career/co-hoi/zalo-head-of-business-open-platform.md) · [Tiến độ ứng tuyển](projects/career/tien-do-ung-tuyen.md)"
+          }
+        ],
+        "acceptance_fixes": 1
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-26 17:50",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-26 17:50",
+          "msg": "claimed by worker:865:2235c147"
+        },
+        {
+          "ts": "2026-11-26 17:50",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-11-26 17:50",
+          "msg": "claimed by worker:865:1f850586"
+        },
+        {
+          "ts": "2026-11-26 17:59",
+          "msg": "Không kiểm độc lập được v5 nằm đúng thư mục Google Drive, vì vault chỉ có link và ảnh render, không có dữ liệu Drive xác nhận vị trí."
+        },
+        {
+          "ts": "2026-11-26 17:59",
+          "msg": "claimed by worker:865:52212cd4"
+        },
+        {
+          "ts": "2026-11-26 18:01",
+          "msg": "Hết lượt gói ChatGPT (Codex). Khoảng 1 giờ 34 phút nữa mới lại dùng được (tầm 19:36, nhà cung cấp nói: try again at 7:36 PM.). Đang chờ thì đổi tạm sang Claude Code, Google Gemini (API) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Copywriter\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        }
+      ]
     }
   ],
-  "updated": 1795617158.532105
+  "updated": 1795690861.664437
 }

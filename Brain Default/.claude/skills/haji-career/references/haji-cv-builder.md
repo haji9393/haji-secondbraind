@@ -18,9 +18,9 @@ CV là một lập luận tuyển dụng được xây từ dữ kiện đã ki�
    - Vị trí Head / Director / Senior Manager in-house: tìm referral trước. Kiểm tra trong mạng lưới 70+ tổ chức cũ, Insider alumni, người quen ở công ty đích. Đề xuất 1-3 người có thể đưa CV vào.
    - Portal ATS: chỉ khi khoảng cách chức danh nhỏ, hoặc không có đường referral. Trước khi nộp, soạn sẵn câu trả lời knockout.
    - LinkedIn: nộp kèm message cho recruiter/hiring manager trong 24 giờ.
-3. **Đọc JD hai lần.** Lần 1 lấy trách nhiệm. Lần 2 lấy requirement cứng (Minimum, Required, Must, firm).
-4. **Chốt brief CV và phản biện định hướng.** Ghi thông điệp chính, yêu cầu được ưu tiên, bằng chứng mạnh nhất cho từng yêu cầu, mức đóng góp, khoảng trống và định dạng theo kênh. So với góc phù hợp khác nếu có. Viết ra lý do người tuyển dụng có thể loại và điều chứng minh được để xử lý. Trình Haji chốt nếu đây là định vị mới hoặc có đánh đổi lớn. Chỉ nêu Golf House khi Haji đã xác nhận cho CV đó.
-5. **Chọn bản nền** theo kết quả mà vị trí chịu trách nhiệm. Đọc bản thực tế trước khi lấy cấu trúc hoặc câu chữ. Tra thư mục CV trên máy (`Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026`) hoặc thư mục tương ứng trên Drive. Dùng thế hệ từ 19/10/2026 trở đi, áp dụng Evidence Bank hiện hành trước khi tái sử dụng bất kỳ bản nào:
+3. **Dựng chân dung trước khi đối chiếu JD.** Đọc CV gốc, kho dữ kiện và cách Haji mô tả công việc. Viết một đoạn có thể đứng riêng: bài toán lặp lại, cách nghiệp vụ vận hành, quyết định Haji tác động, việc trực tiếp dẫn và kết quả chịu trách nhiệm. Chỉ nối các ca khi nguồn cho thấy quan hệ thật. Sau đó đọc JD để xác định trách nhiệm, điều kiện cứng và trọng tâm cần ưu tiên.
+4. **Chốt brief CV và phản biện định hướng.** Ghi chân dung, điều người đọc cần hiểu, mạch kinh nghiệm, các ca đáng giữ, mức đóng góp, khoảng trống và định dạng theo kênh. Dùng bảng đối chiếu JD để kiểm độ phủ trong brief. So với góc phù hợp khác nếu có. Trình Haji chốt nếu đây là định vị mới hoặc có đánh đổi lớn. Chỉ nêu Golf House khi Haji đã xác nhận cho CV đó.
+5. **Chọn và đọc bản nền nội dung** theo công việc cần chứng minh. Ưu tiên bản Haji chỉ định. Ghi đoạn có thể giữ nguyên, đoạn cần chuyển hoặc chỉnh và lý do. Mẫu hai cột hoặc ATS đã có được chọn riêng theo kênh. Tra thư mục CV trên máy (`Downloads/02_Sự nghiệp/CV & Ứng tuyển 2026`) hoặc thư mục tương ứng trên Drive. Dùng thế hệ từ 19/10/2026 trở đi, áp dụng Evidence Bank hiện hành trước khi tái sử dụng bất kỳ bản nào:
    - CS: `CV_Phuong Hoang_Apply for Younet Media` (benchmark văn phong experience). Trước khi dùng phải sửa: "kept NPS above 90" → "90%+ client satisfaction rate"; bỏ "2 to 6 months"; "Account & Project Executive" → "Senior Project Management Specialist".
    - CX: `CV_Phuong Hoang_Apply for ILA`
    - CRM / CVM: `CV_Phuong Hoang_Apply for Home Credit`
@@ -29,16 +29,13 @@ CV là một lập luận tuyển dụng được xây từ dữ kiện đã ki�
    - Chọn bản tháng 11 khi sát nhiệm vụ: Billease (giao dịch lại và dùng thêm sản phẩm tài chính), NAB (cá nhân hóa đa kênh, một cột), STERRY (email/SMS và mua lại), WinCommerce WinX (membership và loyalty), MoMo User Growth & B2B2C (người dùng và đối tác), GBIA (CX, điểm chạm và RFP), Merap (CX governance, một cột), Carlsberg (PMO và theo dõi giá trị), MKC (tư vấn giải pháp MarTech), Freestar (quản trị khách hàng SaaS).
    - **Không dùng làm nền:** `CV_Phuong Hoang_Apply for Chubb Vietnam`, `CV_Phuong Hoang_Apply for AIA Vietnam`, `Phuong Hoang_CV_ Apply for AIA` và mọi bản trước 19/10. Các bản này chạm Red List và trái quy tắc hiện tại.
    - Mọi bản nền: rà lại số Sacombank theo mục E3 evidence bank (bản ILA và Home Credit trước 29/10 còn ghi "digital transactions 65%" như tăng trưởng).
-6. **Ráp theo 3 layer.**
-   - Layer 1: dữ kiện bất biến (timeline, số đã khoá).
-   - Layer 2: khung của lane (mục 4).
-   - Layer 3: 4 chỉnh sửa theo JD: (a) headline, (b) summary, (c) thứ tự nhóm năng lực và client example, (d) At a Glance + Top Skills + nhóm Portfolio.
-7. **Viết** theo mục 3, 5, 6. Mỗi nhóm bằng chứng phải làm rõ một yêu cầu có thật của vị trí. Với chuyển ngành hoặc chuyển từ đối tác vào in-house, viết thẳng phạm vi có thể chuyển giao và tránh ngụ ý đã giữ chức danh đích.
-8. **Phản biện bản nháp rồi kiểm bản xuất.** Đọc như người tuyển dụng để xem phần đầu đã chứng minh đúng nhiệm vụ chính chưa. Sau đó kiểm như người phỏng vấn: vai trò thực của Haji, số, kỳ và mẫu số, kết quả của khách so với kết quả account, công lao và Red List. Sửa phần trọng yếu và kiểm lại theo mục 8.
-9. **Xuất file.** Mặc định Google Slides 2 cột, tên `CV_Phuong Hoang_Apply for [Company]`. Nộp qua portal ATS (Workday, Taleo, SuccessFactors...) thì làm thêm bản ATS 1 cột.
+6. **Biên tập từ bản gốc.** Giữ câu hoặc đoạn đã có chiều sâu. Chuyển thứ tự, sửa phần cần đổi theo vai hoặc bổ sung bằng nguồn đã xác nhận. Khi rút một ca, giữ chi tiết cho thấy Haji đã phán đoán, trực tiếp làm hoặc chịu trách nhiệm gì và kết quả đi đến đâu. Dùng [Humanizer](../../haji-writing/references/humanizer.md) để rà câu có vấn đề, đối chiếu với giọng và nghĩa nghiệp vụ của bản gốc.
+7. **Đặt nội dung vào mẫu có sẵn.** Giữ đường đọc dễ quét của mẫu đã chọn. Dành phần đầu cho phạm vi thật và bằng chứng mạnh, đưa chi tiết bổ trợ xuống sau.
+8. **Phản biện bản nháp rồi kiểm Slides.** Vòng một đọc CV riêng khỏi JD và diễn giải công việc, quyết định và trách nhiệm của Haji. Vòng hai đặt đoạn mới cạnh đoạn gốc để tìm chi tiết bị mất, rồi đối chiếu JD, nguồn, vai trò, số, kỳ, mẫu số, chủ thể kết quả và Red List. Sửa câu bị làm chung hoặc làm mỏng rồi kiểm trên bản Slides thật.
+9. **Giao bản duyệt trong ngày, tối đa 30 phút mỗi CV.** Sao chép deck CV gần nhất trong thư mục CV trên Drive, chỉnh trên Google Slides và gửi link. Chỉ xuất PDF khi Haji xác nhận. Dùng bản một cột khi kênh ATS yêu cầu.
 10. **Sau khi xong:** ghi phiên bản và trạng thái nháp hoặc đã duyệt vào hồ sơ cơ hội. Ghi đã nộp trong [bảng tiến độ](projects/career/tien-do-ung-tuyen.md) khi có xác nhận nộp, kèm kênh và ngày. Khi có phản hồi, ghi điều quan sát được và bài học có thể kiểm trước khi đề xuất thay đổi định hướng. Nêu các dữ kiện mới cần Haji xác nhận để bổ sung kho bằng chứng.
 
-## 2. Cấu trúc CV 2 trang, 2 cột
+## 2. Gợi ý cấu trúc CV 2 trang, 2 cột
 
 **Trang 1**
 - Phần đầu dùng chung: TÊN (dòng riêng) → Headline (dòng riêng) → Contact (1 dòng) → Summary (3-4 câu).
@@ -57,7 +54,7 @@ Nhóm năng lực khớp JD nhất và client example mạnh nhất phải nằm
 
 ## 3. Từng khối, công thức viết
 
-**Headline:** `[DIRECTION] | [VISION của direction đó]`, viết hoa, khớp tên vị trí đang tuyển. Vision không được nghe như tự xưng. Với lane không phải CS, headline không mở bằng "Customer Success Lead". Headline hứa gì (ví dụ "built to scale") thì thân CV phải có bằng chứng cho điều đó (scale = growth, xem evidence bank mục D). Đã dùng:
+**Headline:** Mô tả chuyên môn có bằng chứng trong CV. Có thể dùng một dòng mô tả hoặc bỏ nếu chức danh và phần mở đầu đủ rõ. Dùng các ví dụ dưới đây để tham khảo độ dài:
 - CUSTOMER SUCCESS | SUSTAINABLE CLIENT GROWTH & BUSINESS IMPACT
 - CUSTOMER EXPERIENCE | CONSISTENT, MEASURABLE, BUILT TO SCALE
 - CVM & LIFECYCLE | RIGHT CUSTOMER, RIGHT CHANNEL, RIGHT COST
@@ -69,7 +66,7 @@ Nhóm năng lực khớp JD nhất và client example mạnh nhất phải nằm
 - USER GROWTH & B2B2C | GROWTH THAT COMPOUNDS ACROSS MERCHANTS & USERS (MoMo)
 - STRATEGY & TRANSFORMATION PMO | FROM PLAN TO MEASURED VALUE (Carlsberg)
 
-**Cách chọn headline:** Trích từ JD đối tượng cần tác động, hành vi hoặc kết quả cần thay đổi, và chỉ số tuyển dụng chịu trách nhiệm. Vế đầu gọi đúng mảng công việc; vế sau viết kết quả cho đúng đối tượng. Billease nhấn doanh thu từ khách hiện hữu, STERRY nhấn lần mua thứ hai, WinX nhấn giá trị hội viên. Thử đổi tên công ty hoặc lane: nếu câu vẫn khớp mọi vị trí, cụ thể hóa đối tượng hoặc kết quả. Nếu JD chuyên sâu và tên mảng đã đủ rõ, bản một cột có thể dùng headline mô tả trực tiếp như `Channel Personalisation & Lifecycle Marketing` của NAB.
+**Cách chọn headline:** Nếu dùng, lấy chuyên môn thực sự có từ chân dung và chọn cách gọi mà người tuyển dụng hiểu. Ưu tiên một dòng mô tả trực tiếp như `Channel Personalisation & Lifecycle Marketing` của NAB. Dùng JD để kiểm mức liên quan của cách gọi.
 
 **Contact:** `+84 81 222 6707 · hoangphuong9393@gmail.com · linkedin.com/in/haji9393 · Ho Chi Minh City`. Requirement cứng trả lời được bằng 1 dòng (onsite, múi giờ, travel, ngày bắt đầu) thì thêm ngay dưới contact.
 
@@ -88,9 +85,9 @@ Cấm trong summary: chữ "I", tên client, chữ "clients", giọng agency/ven
 - `Global CDP and customer engagement platform, Gartner Magic Quadrant Leader 5 years running`
 - `Customer Success Lead, 2022 – 06/2026 · promoted from Customer Success Manager (2019 – 2022)`
 - Dòng Scope theo lane, ví dụ: `Scope: accountable for [strategy, implementation, adoption and results] across a 70+ organization portfolio in Vietnam, Laos and Myanmar, from the first workshop to renewal.`
-- 5-7 nhóm năng lực, mỗi nhóm 1-3 bullet năng lực + 1-3 client example.
+- Chọn đoạn văn hoặc bullet theo mạch nghiệp vụ. Nhóm các ca theo quyết định hoặc trách nhiệm khi cách nhóm giúp đọc nhanh.
 
-**Bullet năng lực:** làm được gì → ở đâu/với ai → kết quả/KPI. Động từ quá khứ mở đầu. **Tối đa 2 dòng (~30 chữ).** Mô tả đúng độ sâu chiến lược và thực thi, không chung chung, không giọng tư vấn giảng giải.
+**Bullet năng lực:** nói rõ hành động, phạm vi và kết quả nếu đã có bằng chứng. Ưu tiên câu ngắn. Thêm ngữ cảnh khi người đọc cần biết vì sao Haji chọn cách làm đó hoặc nhóm nào có quyền quyết.
 
 **Client example:** 1 dòng ngắn `[Client]: [đã làm X], [kết quả]`. Kết quả kinh doanh của client dùng `contributing to`. Không rải tên client vào bullet năng lực. Số phải đúng phép so sánh gốc (ví dụ Sacombank: "players made 65% more digital transactions than non-players", không phải "grew 65%").
 
@@ -106,7 +103,7 @@ Cấm trong summary: chữ "I", tên client, chữ "clients", giọng agency/ven
 
 **Portfolio:** tên client nhóm theo ngành, tên nhóm theo góc JD (vd CX: Multi-site service brands, High-consideration purchases, Trust & compliance-sensitive, Membership & lifecycle).
 
-## 4. Khung nhóm năng lực theo lane (Layer 2)
+## 4. Gợi ý nhóm năng lực theo lane
 
 Nhóm phải tách bạch, không trùng tên hay nội dung.
 
@@ -164,8 +161,8 @@ JD có scope thực thi thấp hơn trần (PMO, báo cáo SteerCo, Senior Manag
 **Kênh:** đã thử tìm referral cho vị trí Head? Nếu nộp portal, đã soạn câu trả lời knockout?
 **Sự thật:** mọi số có trong evidence bank? Không chạm Red List? Không dùng mục "cần chốt" khi chưa hỏi? Số Sacombank đúng phép so sánh? Đã hỏi Haji về tên Golf House?
 **Summary:** 3-4 câu, ngôi thứ ba, giữ đúng phạm vi 11 năm sự nghiệp và 7 năm chuyên môn? Có cách làm cụ thể và thước đo khớp JD? Nêu bước chuyển nếu cần? Không tên client, không "clients", không "SaaS", không giọng vendor?
-**Headline:** đúng format, khớp tên vị trí, không tự xưng, không mở bằng "Customer Success Lead" khi lane không phải CS? Tên và headline ở hai dòng riêng? Lời hứa trong headline có bằng chứng trong thân CV?
-**Cấu trúc:** nhóm năng lực tách bạch? Mỗi nhóm có client example riêng? Bullet ≤ 2 dòng? Example mạnh nhất trọn trang 1? Cột phụ ưu tiên Portfolio hay Tools theo tiêu chí tuyển? Số lặp có giúp quét nhanh? Channel deployment, quản trị rủi ro, product, playbook, đào tạo có mặt rõ theo lane?
+**Headline:** nếu dùng, có gọi đúng chuyên môn và có bằng chứng trong thân CV? Với ATS, tên và chức danh ở hai dòng riêng?
+**Cấu trúc:** người chưa đọc JD có nói lại đúng công việc của Haji? Ca mạnh nhất có dễ tìm? Đoạn văn, bullet và cột phụ có giúp đọc đúng thứ tự? Mỗi số có chủ thể rõ?
 **Quy kết:** kết quả client dùng contributing to? Không có từ tuyệt đối về kết quả? Operating model viết championed?
 **Từ vựng:** đã quét nghĩa kép (retention, churn, conversion, growth, portfolio, account)? Không có ngôn ngữ account manager ở lane CX/Transformation/CRM?
 **Framing bắt buộc:** VNA = first marketing automation channels on the path to personalization at scale; Generali among the first; 90%+ client satisfaction rate (không NPS); Vinpearl 2.75x; không Salesforce migration; không go-live "2 to 6 months" như chuẩn; chẩn đoán ba phía.

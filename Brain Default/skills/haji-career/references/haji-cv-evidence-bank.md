@@ -130,6 +130,12 @@ Insider One: `Global CDP and customer engagement platform, Gartner Magic Quadran
 - ✅ Vinpearl & VinWonders: ROI chương trình 8–15x trong vòng 3 năm, theo dõi cùng OKR năm với Digital và Operations. Đây là chỉ số của chương trình; tăng trưởng ARR account 2.75x trong 6 năm dùng cho luận điểm thương mại riêng. Nguồn: CV WinX, Carlsberg, Galaxy Joy và MKC.
 - Haji xác nhận các dữ kiện ROI trên ngày 25/11/2026. Chỉ mô tả kết quả được đo bằng nhóm đối chứng khi có căn cứ ở cấp chương trình.
 
+### E8. Platform / Ecosystem (thêm 26/11/2026)
+- ✅ Insider One toàn cầu tăng từ 2 lên 40+ sản phẩm trong 7 năm Haji làm (2019-2026). Việt Nam thường là thị trường áp dụng đầu tiên cho sản phẩm mới. Viết "often the first market", không viết "always". Nguồn: Haji xác nhận 26/11/2026.
+- ✅ Smart Recommendation: từ nhu cầu đo lường hiệu quả recommendation của client, Haji viết request, bảo vệ quan điểm với product, theo đến khi tính năng ra mắt và triển khai cho client. Chưa có client cụ thể và kết quả, cần chốt trước khi gắn số. Nguồn: Haji xác nhận 26/11/2026.
+- ✅ Dẫn đa chức năng: điều phối sale, onboarding và vận hành theo kế hoạch của account; ở giai đoạn tái ký, Haji là người chịu trách nhiệm cuối. Viết "accountable for renewal outcomes, coordinating sales, onboarding and operations", không viết "managed" các phòng đó. Nguồn: Haji xác nhận 26/11/2026.
+- ✅ Dùng cho JD platform, ecosystem, super app: đọc JD theo chức năng từng dòng, không theo chức danh hay vị trí vendor/chủ nền tảng.
+
 ## F. Framing bắt buộc và Red List
 
 **Framing bắt buộc**

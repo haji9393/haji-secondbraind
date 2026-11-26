@@ -17,7 +17,7 @@
 - [Hồ sơ cá nhân Haji (Haji tự gửi 17/11/2026)](facts/haji-ho-so-ca-nhan.md) - Insider One tới 15/07/2026, nay tư vấn độc lập và GM Golf House, hướng Head of CX/Transformation hoặc PM tài chính
 - [Dự án đang chạy của Haji (11/2026)](facts/haji-du-an-dang-chay-2026-11.md) - Ruby 201-205 Boutique Phú Quốc, VLF2026, giáo trình AI, vibecode; Krystack đã dừng
 - [Ưu tiên: sự nghiệp trước, doanh thu thụ động sau](facts/haji-uu-tien-su-nghiep-truoc-doanh-thu-thu-dong.md) - Haji chốt 17/11/2026
-- [Luật phối hợp Ban điều hành](facts/ban-dieu-hanh-luat-phoi-hop.md) - CMO đề xuất, CFO phản biện, trợ lý CEO tổng hợp báo Haji, rồi Copywriter, Designer
+- [Luật phối hợp Ban điều hành (đã thay 26/11)](facts/ban-dieu-hanh-luat-phoi-hop.md) - Lịch sử; cách phối hợp hiện hành xem đội 10 agent
 - [Văn phong Haji yêu cầu](facts/haji-van-phong-yeu-cau.md) - Không em dash; email "=>" và "Next:"; tài liệu dự án ngôi thứ ba, thuật ngữ kèm công thức
 - [Ruby Bãi Kem: Haji vẫn phụ trách chính](facts/ruby-bai-kem-haji-van-phu-trach-chinh.md) - Phần 'Haji rời dự án' trong hồ sơ bàn giao là sai; hồ sơ dự án ở projects/ruby-bai-kem/
 - [Ruby Bãi Kem: Haji chỉnh giả định tiền thuê PA2 và lương GĐ PA3/PA4](facts/ruby-bai-kem-sua-mo-hinh-pa2-pa3-pa4.md) - Tiền thuê PA2 không phải 85tr x 3 căn; PA3 và PA4 cùng có lương GM nền, nhân công như nhau
@@ -37,3 +37,4 @@
 - [Haji xác định bốn dự án đang làm song song](facts/haji-danh-muc-bon-du-an-2026-11.md) - Ưu tiên Career trước, Second Brain kế tiếp, Solo Expert và Ruby Bãi Kem cùng mức sau đó.
 - [Đội 10 agent](facts/haji-doi-agent-10-vai-2026-11.md) - 4 đầu mối dự án và 6 vai chuyên môn, chốt 26/11/2026
 - [Lương gần nhất ở Insider: 92-95tr gross/tháng](facts/haji-luong-gan-nhat-insider.md) - Haji xác nhận 26/11/2026, dùng làm mốc khi đàm phán lương
+- [CV làm bằng Google Slides, chưa xuất PDF](facts/cv-lam-bang-google-slides.md) - Copy deck CV mới nhất trên Drive, gửi link, chỉ xuất PDF khi Haji xác nhận, tối đa 30 phút.

@@ -1,3 +1,11 @@
 ## Bài học (tự học)
 - Với tin trên Lever, xem ngày tạo tin (trường createdAt) qua api.lever.co/v0/postings/<công ty>?mode=json để biết đơn cũ đã vào mã tin nào, trước khi đề xuất nộp lại.
 - Khi sửa một suy luận vượt bằng chứng, rà mọi câu phụ thuộc vào nó, kể cả điều kiện loại và câu hỏi cần chủ chốt, chứ không chỉ chỗ bị chấm.
+- Khi Haji chê CV "hiểu sai bản chất công việc của tôi", đọc lại nguyên văn chat để tách lỗi đọc JD khỏi lỗi kể việc của chính Haji. Lỗi thứ hai nằm ở trục kể của brief nên phải chốt lại brief, không chỉ sửa câu chữ.
+- Khi kết quả lượt trước là "cần chốt lại brief", kiểm đề xuất đã ghi vào hồ sơ cơ hội và cơ hội đã có dòng trong tiến độ ứng tuyển chưa, vì cơ hội chưa nộp dễ bị sót khỏi bảng.
+- Khi báo kết luận về brief CV, liệt kê rõ từng nguồn đã đọc (job-targeting, cv-builder, tên CV gốc kèm ngày) và điều rút ra từ mỗi nguồn, vì nghiệm thu chấm theo bằng chứng đã đọc chứ không theo kết luận.
+- Với vai không khớp lane nào trong haji-cv-builder (vd platform/ecosystem), nêu rõ đây là khung mới cần Haji duyệt, nếu không brief sẽ tự rơi về khung CS/CRM của bản nền.
+- Khi nghiệm thu chê thiếu bằng chứng đọc nguồn, trích nguyên văn từng nguồn kèm vị trí trong file vào cả hồ sơ lẫn chat, vì ghi "đã đọc" hay chỉ dẫn mục vẫn bị chấm chưa đạt.
+- Máy Haji không có pdftotext hay pypdf. Để đọc CV PDF, dùng `swift -e` với PDFKit (PDFDocument.string).
+- Khi Haji trả lời gộp kiểu "thông tin trong CV mới nhất là đúng", gán câu đó cho từng điểm còn treo trong hồ sơ và nêu rủi ro thiếu chất liệu nếu điểm đó vốn cần dữ kiện mới.
+- Khi nghiệm thu vị trí tệp Drive, lưu ID tệp, trường Parents, tên và ID thư mục, rồi đối chiếu bằng danh sách tệp trong thư mục đích.

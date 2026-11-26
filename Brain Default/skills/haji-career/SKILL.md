@@ -22,3 +22,7 @@ Mở đúng tài liệu theo việc cần làm. Với Career của Haji, xem [lu
 3. Mở [kho dữ kiện](skills/haji-career/references/haji-cv-evidence-bank.md) và [hướng dẫn viết CV](skills/haji-career/references/haji-cv-builder.md). Nối yêu cầu với bằng chứng, dựng brief CV, viết rồi phản biện bản nháp trước khi xuất. Ghi bước tiếp theo và cập nhật đã xác nhận vào [bảng tiến độ](projects/career/tien-do-ung-tuyen.md).
 
 Viết message hay post LinkedIn theo giọng Haji thì kết hợp skill `haji-writing`.
+
+## Lưu ý khi tư vấn lương
+
+- Tra mốc lương Haji đã xác nhận và đọc luồng trao đổi liên quan trước khi đề xuất mức nói với HR. Phân biệt lương gần nhất, mức sàn cá nhân, kỳ vọng theo từng vai và ngân sách nhà tuyển dụng. Khi chuẩn bị vòng sàng lọc, ưu tiên xác nhận khung, cấp bậc và tổng gói. Quy đổi phần bảo đảm theo năm và ghi rõ giả định về tháng 13 và thưởng.

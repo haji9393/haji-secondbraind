@@ -14,7 +14,7 @@
 - **Javis Core** (`javis-core`) - Trợ lý hệ thống nhận báo cáo và hỗ trợ công việc trong brain này.
 - **Người phản biện độc lập** (`nd-kiem-chung`) - Đọc brief và nguồn trước, rồi soi bản nháp, kế hoạch hay hồ sơ để tìm chỗ sai, chỗ thiếu bằng chứng và chỗ sẽ hỏng. · model claude-sonnet-5-5 · skills: haji-work-standards, deep-research, haji-writing · tags: Chuyên môn, Phản biện
 - **Trưởng dự án Ruby** (`tro-ly-ceo`) - Đầu mối dự án Ruby Bãi Kem: giữ phạm vi đã duyệt, lập kế hoạch triển khai, điều phối CFO và trình Haji điểm cần chốt · model claude-opus-5-5 · skills: trien-khai-du-an, tai-chinh-ke-toan, haji-work-standards, business-strategy-presentation · tags: Đầu mối, Ruby Bãi Kem, Dự án
-- **Trợ lý sự nghiệp** (`tro-ly-su-nghiep`) - Giúp Haji chọn cơ hội, chuẩn bị hồ sơ, phỏng vấn và bài tập tuyển dụng, rồi chốt bước tiếp theo cho từng vị trí. · model claude-opus-5-5 · skills: haji-career, haji-work-standards, deep-research, business-strategy-presentation, data-analytics · tags: Sự nghiệp, Cá nhân
+- **Trợ lý sự nghiệp** (`tro-ly-su-nghiep`) - Giúp Haji chọn cơ hội, chuẩn bị hồ sơ, phỏng vấn và bài tập tuyển dụng, rồi chốt bước tiếp theo cho từng vị trí. · model gpt-6.2-sol · skills: haji-career, haji-work-standards, deep-research, business-strategy-presentation, data-analytics · tags: Sự nghiệp, Cá nhân
 
 ## Skills
 ### AI
