@@ -289,3 +289,7 @@ Bản chữ `projects/career/cv/zalo/v4-copy.md` và bản PPTX nguồn đã lư
 | [Thư mục đích](https://drive.google.com/drive/folders/1emwRP-9SgJMTQtqGWSMRyknXT2wW7aZA) | CV_ Phương Hoàng | `1emwRP-9SgJMTQtqGWSMRyknXT2wW7aZA` | `application/vnd.google-apps.folder` | `1P7Vj1njIkDvzUsQu--CCyzXpG6Agzjju` |
 
 Kiểm tra từ phía thư mục bằng `list_drive_items` với `folder_id=1emwRP-9SgJMTQtqGWSMRyknXT2wW7aZA` và `file_type=presentation`. Drive liệt kê đúng tên và ID của v5 trong thư mục. Drive trả `Trashed: False` cho v5 và thư mục. Brief v3 Haji duyệt lúc 15:53 vẫn là brief hiệu lực cho CV v5. Bản Slides đang chờ Haji duyệt để đi referral.
+
+### v6 · Viết lại nội dung trên mẫu v5 (26/11/2026 19:20)
+
+[Google Slides v6](https://docs.google.com/presentation/d/1Y_F_XQYxrKJD-64enJ-xftjAR5KVVIMtO9ZctTbXEKc/edit), bản sao riêng cùng thư mục `CV_ Phương Hoàng`, v5 giữ nguyên. Giữ bố cục và dữ kiện v5, viết lại câu chữ theo mạch công việc thật của Haji: hiểu từng ngành dùng kênh số ra sao, lọc nhu cầu lặp lại thành yêu cầu sản phẩm, đưa sản phẩm vào vận hành của client, chịu trách nhiệm cuối ở tái ký. Bỏ các tiêu đề nhại JD (Vertical strategy, From product gap to rollout) và cụm sáo (championed, at scale). Smart Recommendation mở bằng câu hỏi của client. Đã kiểm ảnh hai trang, không tràn chữ. Chưa xuất PDF, chưa nộp.

@@ -13,8 +13,8 @@ skills:
 - deep-research
 - business-strategy-presentation
 - data-analytics
-model: gpt-6.2-sol
-model_provider: openai-oauth
+model: opus
+model_provider: anthropic-cli
 updated: '2026-11-26'
 assets:
   files:
