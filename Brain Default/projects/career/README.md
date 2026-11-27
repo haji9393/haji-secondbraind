@@ -27,8 +27,8 @@ Với vị trí cần theo sâu, lưu ba bản đầu ra thành các mục có t
 
 ## Quy trình trong Javis
 
-- [Career - Đánh giá cơ hội](workflows/career-danh-gia-co-hoi.md) dùng khi có JD cần theo sâu. Gửi JD gốc, công ty, vị trí và hạn nếu biết. Gemini tìm bằng chứng ngoài thị trường. Trợ lý sự nghiệp lưu đánh giá, nghiên cứu, mức phù hợp và phản biện hướng vào cùng hồ sơ cơ hội. Nếu đề xuất theo tiếp, Haji chốt phiên bản brief trước khi chuyển sang viết.
-- [Career - Viết và phản biện hồ sơ](workflows/career-viet-va-phan-bien-ho-so.md) dùng khi đã chốt hướng. Gửi đường dẫn hồ sơ, xác nhận duyệt góc hoặc phiên bản brief cụ thể và đầu ra cần viết. Copywriter viết từ bằng chứng gốc. Trợ lý sự nghiệp phản biện và trình bản nháp cho Haji duyệt. Nếu phát hiện vấn đề làm đổi định vị hoặc bằng chứng chính, quay về bước đánh giá và chốt lại brief.
+- [Career - Đánh giá cơ hội](workflows/career-danh-gia-co-hoi.md) dùng khi có JD cần theo sâu. Gửi JD gốc, công ty, vị trí và hạn nếu biết. Người nghiên cứu dùng Gemini 2.5 Pro để kiểm công việc, công ty, đội và lương, rồi bàn giao nguồn cho Trợ lý sự nghiệp. Trợ lý đối chiếu kinh nghiệm thật, chấm Capability và Direction, lưu đề xuất vào hồ sơ cơ hội và dừng để Haji chốt phiên bản brief.
+- [Career - Viết và phản biện hồ sơ](workflows/career-viet-va-phan-bien-ho-so.md) dùng khi Haji đã chốt. Trợ lý kiểm phiên bản brief, Copywriter dùng ChatGPT viết trên bản sao Drive, rồi Trợ lý kiểm nội dung, nguồn và bản hiển thị. Nếu chưa đạt, Copywriter nhận phản hồi và sửa trên cùng file, tối đa hai lần sửa tự động. Trợ lý chỉ gửi link khi đạt. Lỗi làm đổi định vị hoặc bằng chứng chính đưa hồ sơ về chờ Haji chốt lại brief.
 - Các việc ngắn như lọc JD nhanh, follow-up hoặc tập phỏng vấn tiếp tục giao trực tiếp cho Trợ lý sự nghiệp. Với bài tập có số ảnh hưởng đến kết luận, đầu mối có thể gọi CFO để kiểm. Khi có phản hồi thật, cập nhật hồ sơ cơ hội và bảng tiến độ để biết hướng nào đáng tiếp tục.
 
 ## Theo dõi ứng tuyển

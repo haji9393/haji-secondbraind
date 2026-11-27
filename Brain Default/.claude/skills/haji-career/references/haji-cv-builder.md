@@ -19,10 +19,14 @@ Chuẩn đo là ca TNEX: v1 chỉ cần 1 vòng sửa lớn và 2-3 câu nhỏ. 
 - **Nếu không lane nào khớp**, dựng khung nhóm năng lực theo chuỗi giá trị của chính JD, ghi rõ là khung mới, viết 1 khối Insider mẫu để Haji duyệt trước khi viết cả CV.
 - **Nghĩ như Haji kể việc của mình**: câu chữ phải là việc Haji nhận ra mình đã làm. Nếu Haji phải giải thích lại bản chất công việc, lỗi nằm ở trục kể, chốt lại trục chứ không vá câu.
 
-## 1. Quy trình (2 nhịp, làm trực tiếp trong chat)
+## 1. Quy trình (2 nhịp)
+
+Với cơ hội cần theo sâu, dùng hai workflow trong [brief Career](../../../projects/career/README.md).
+Người nghiên cứu bàn giao trước khi Trợ lý sự nghiệp chấm. Sau khi Haji duyệt brief, Copywriter thực hiện
+các bước viết và sửa trên Drive. Trợ lý sự nghiệp nghiệm thu nội dung và hiển thị trước khi giao link.
 
 **Nhịp 1, một lượt trả lời, rồi DỪNG:**
-1. **Nhận đầu vào.** JD (text, link hoặc ảnh), công ty, kênh dự kiến. Chỉ nhờ nghiên cứu thêm khi JD hoặc công ty chưa rõ. Với CV đang chỉnh, mở đúng bản hiện hành (link Slides trong hồ sơ cơ hội).
+1. **Nhận đầu vào.** JD (text, link hoặc ảnh), công ty, kênh dự kiến. Với workflow, đọc bàn giao nghiên cứu trước khi chấm. Khi lọc nhanh trong chat, tra thêm phần có thể đổi kết luận. Với CV đang chỉnh, mở đúng bản hiện hành (link Slides trong hồ sơ cơ hội).
 2. **Chọn kênh trước khi viết** (theo mục Kênh nộp trong `haji-job-targeting`):
    - Vị trí Head / Director / Senior Manager in-house: tìm referral trước. Kiểm tra trong mạng lưới 70+ tổ chức cũ, Insider alumni, người quen ở công ty đích. Đề xuất 1-3 người có thể đưa CV vào.
    - Portal ATS: chỉ khi khoảng cách chức danh nhỏ, hoặc không có đường referral. Trước khi nộp, soạn sẵn câu trả lời knockout.
@@ -44,7 +48,8 @@ Chuẩn đo là ca TNEX: v1 chỉ cần 1 vòng sửa lớn và 2-3 câu nhỏ. 
    - Mọi bản nền: rà lại số Sacombank theo mục E3 evidence bank (bản ILA và Home Credit trước 29/10 còn ghi "digital transactions 65%" như tăng trưởng).
 6. **Biên tập từ bản gốc.** Giữ câu hoặc đoạn đã có chiều sâu. Chuyển thứ tự, sửa phần cần đổi theo vai hoặc bổ sung bằng nguồn đã xác nhận. Khi rút một ca, giữ chi tiết cho thấy Haji đã phán đoán, trực tiếp làm hoặc chịu trách nhiệm gì và kết quả đi đến đâu. Dùng [Humanizer](../../haji-writing/references/humanizer.md) để rà câu có vấn đề, đối chiếu với giọng và nghĩa nghiệp vụ của bản gốc.
 7. **Đặt nội dung vào mẫu có sẵn.** Giữ đường đọc dễ quét của mẫu đã chọn. Dành phần đầu cho phạm vi thật và bằng chứng mạnh, đưa chi tiết bổ trợ xuống sau.
-8. **Tự phản biện trong đầu rồi kiểm Slides.** Vòng một đọc CV riêng khỏi JD: người lạ có kể lại đúng việc Haji làm không. Vòng hai đối chiếu JD, số, kỳ, mẫu số, chủ thể kết quả và Red List. Sửa xong mới giao; không đưa bảng phản biện dài vào chat.
+8. **Tự phản biện trong đầu rồi kiểm Slides.** Vòng một đọc CV riêng khỏi JD: người lạ có kể lại đúng việc Haji làm không. Vòng hai đối chiếu JD, số, kỳ, mẫu số, chủ thể kết quả và Red List. Sửa xong mới giao; không đưa bảng phản biện dài vào chat. Trong workflow, hai vòng phản biện chạy theo [thước đo phản biện CV](skills/haji-career/references/haji-cv-review-rubric.md).
+9. **Bản nền là sàn, không phải gợi ý.** JD cùng lane với một CV đã gửi (vd ShopBack và BillEase): sao chép đúng bản đó, giữ nguyên mọi dòng, chỉ sửa phần lệch (headline, câu cuối summary, dòng chạm Red List hay luật mới). Mỗi dòng cắt hoặc thay phải ghi lý do trong hồ sơ cơ hội. Phản biện vòng 2 đối chiếu từng dòng với bản nền; độ dài hụt quá ~10% là lỗi Chặn. (Haji chỉ ra 27/11/2026: bản ShopBack viết lại từ đầu hụt 1/3 nội dung, mất ROI 4-6x, playbook khu vực, FPT Shop/CellphoneS.)
 9. **Giao bản duyệt trong ngày, tối đa 30 phút mỗi CV.** Sao chép deck CV nền trong thư mục CV trên Drive, viết thẳng trên bản sao Google Slides, kiểm hiển thị (tràn chữ, 2 trang) rồi gửi link. Chỉ xuất PDF khi Haji xác nhận. Dùng bản một cột khi kênh ATS yêu cầu.
 10. **Vòng sửa: sửa tại chỗ.** Haji góp ý câu nào sửa câu đó trên cùng file, giữ nguyên link. Không tạo phiên bản mới mỗi vòng, không viết lại phần Haji không chê. Khi một headline hoặc câu bị chê, chẩn đoán lỗi tư duy (mục 3) và neo vào câu đã duyệt trước khi đưa phương án mới.
 11. **Sau khi xong:** ghi phiên bản và trạng thái nháp hoặc đã duyệt vào hồ sơ cơ hội. Ghi đã nộp trong [bảng tiến độ](projects/career/tien-do-ung-tuyen.md) khi có xác nhận nộp, kèm kênh và ngày. Khi có phản hồi, ghi điều quan sát được và bài học có thể kiểm trước khi đề xuất thay đổi định hướng. Nêu các dữ kiện mới cần Haji xác nhận để bổ sung kho bằng chứng.

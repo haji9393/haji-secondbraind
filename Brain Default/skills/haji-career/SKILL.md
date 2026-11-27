@@ -15,17 +15,17 @@ Mở đúng tài liệu theo việc cần làm. Với Career của Haji, xem [lu
 | Tra số liệu, timeline, framing bắt buộc, Red List | [references/haji-cv-evidence-bank.md](skills/haji-career/references/haji-cv-evidence-bank.md) |
 | Xây bộ thu thập JD từ nguồn công khai: giữ URL và ngày đăng, lọc trùng, đẩy từng JD sang bước chấm độ phù hợp | [references/data-scraper-agent.md](skills/haji-career/references/data-scraper-agent.md) |
 
-## Thứ tự chuẩn khi có JD mới (2 nhịp, làm thẳng trong chat)
+## Thứ tự chuẩn khi có JD mới (2 nhịp)
 
-Lõi: bản v1 phải sát ngay. Hiểu đúng việc thật của Haji theo từng chức năng JD trước khi chọn lane, headline hay câu chữ. Một người làm từ đầu đến cuối, không chuyền qua nhiều agent.
+Lõi: bản v1 phải sát ngay. Hiểu đúng việc thật của Haji theo từng chức năng JD trước khi chọn lane, headline hay câu chữ. Trợ lý sự nghiệp là đầu mối xuyên suốt. Với cơ hội cần theo sâu, dùng hai workflow trong [brief Career](projects/career/README.md).
 
 **Nhịp 1 - đối chiếu và kế hoạch, rồi DỪNG.**
-1. Đọc JD (Haji dán hoặc link). Chỉ nghiên cứu thêm khi JD thiếu hoặc công ty chưa rõ; dùng deep-research gọn, không lập bảng trích nguồn dài.
+1. Đọc JD (Haji dán hoặc link). Trong workflow, Người nghiên cứu bàn giao công việc, công ty, lương, nguồn và khoảng trống trước khi Trợ lý chấm. Khi lọc nhanh trong chat, chỉ tra thêm phần có thể đổi kết luận.
 2. Mở [kho dữ kiện](skills/haji-career/references/haji-cv-evidence-bank.md) và [hướng dẫn chọn việc](skills/haji-career/references/haji-job-targeting.md). Lập bảng ngắn: chức năng JD -> việc thật Haji đã làm (client, kết quả) -> mức khớp. Bắt đầu từ chỗ mạnh.
 3. Gửi trong 1 lượt: điểm Capability/Direction, khoảng trống, lane (nếu không khớp lane nào thì dựng khung mới từ chuỗi giá trị JD, ghi rõ là khung mới và viết mẫu 1 khối Insider), 2-3 headline neo theo headline đã duyệt, luận điểm, 3 client đầu, bản nền, register, Consultant/Golf House giữ hay bỏ. Tối đa 3-4 câu hỏi. Lưu tóm tắt vào `projects/career/co-hoi/<cong-ty-vi-tri>.md`.
 
 **Nhịp 2 - viết, sau khi Haji chốt.**
-4. Theo [hướng dẫn viết CV](skills/haji-career/references/haji-cv-builder.md): copy bản nền trên Drive, viết, kiểm render, gửi link.
+4. Theo [hướng dẫn viết CV](skills/haji-career/references/haji-cv-builder.md). Trong workflow, Copywriter viết trên bản sao Drive, Trợ lý sự nghiệp nghiệm thu và chỉ gửi link khi đạt.
 5. Phản hồi của Haji: sửa tại chỗ trên cùng link, không tạo bản mới mỗi vòng. Tự chạy checklist trong đầu, không in bảng kiểm dài.
 6. Ghi link, phiên bản và bước tiếp theo vào hồ sơ cơ hội và [bảng tiến độ](projects/career/tien-do-ung-tuyen.md). Chỉ ghi đã nộp khi Haji xác nhận.
 

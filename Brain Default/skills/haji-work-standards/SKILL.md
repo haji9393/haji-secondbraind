@@ -38,6 +38,8 @@ Không nhảy thẳng vào execute. Phần lớn lần sửa đi sửa lại đ�
 
 ### Bước 3. Phản biện ít nhất 2 vòng
 
+Mỗi vòng mở đầu bằng 3 dòng: **Góc nhìn** (đọc bằng vai ai, gắn với người đọc hay người quyết thật), **Quan điểm** (luận điểm hoặc tiêu chí đạt đã chốt mà kết quả phải chứng minh, ghi phiên bản), **Cơ sở** (nguồn dùng để chấm). Nhận xét không chỉ ra cơ sở thì loại. Hai vòng phải soi hai loại lỗi khác nhau, không lặp một checklist. Mỗi nhận xét ghi mức Chặn, Nên sửa hoặc Ghi chú; chỉ lỗi Chặn mới trả bản làm lại. So với đề bài và tiêu chí đã chốt, không so với lời bàn giao của người làm. Với CV, dùng [thước đo phản biện CV](skills/haji-career/references/haji-cv-review-rubric.md).
+
 Vòng 1, góc nhìn reviewer khó tính:
 - Đã trả lời đúng và đủ câu hỏi chưa? Có làm thừa ngoài phạm vi không?
 - Logic có lỗ hổng không? Số liệu có kiểm được không? Có khẳng định vượt bằng chứng không?

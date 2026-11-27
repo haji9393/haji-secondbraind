@@ -1,20 +1,285 @@
 ---
 type: career-opportunity
 company: ShopBack
-role: Regional CRM Manager
+role: Lifecycle Marketing Manager
 location: Ho Chi Minh City (on-site)
 posting_id: efc922d8-8f50-4059-8da3-4b8efadb4b0d
-status: xac-minh-them-chua-lap-brief
+status: cho-haji-duyet-cv
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-27
 note_rejection: "Thư Lever 05/11 không nêu vị trí, mã tin hay lý do; chưa gắn được với đơn nào"
 workflow: career-danh-gia-co-hoi
 ---
 
-# ShopBack · Regional CRM Manager · TP.HCM
+# ShopBack · Lifecycle Marketing Manager · TP.HCM
+
+## Nhịp 1 và brief v5 | 27/11/2026 20:31 ICT | Lượt chạy lại tự động, trùng nội dung v4, không thay brief đã chốt
+
+**Theo có điều kiện. Capability 8/10, Direction 7/10. Độ tin cậy vừa.** Ngày 25/11 chấm 6 / 6,5 và giữ ở bước xác minh. Điểm hiện tại giữ mức v4 vì Haji xác nhận lúc 20:02 rằng bốn chức năng lõi đã làm lặp lại trên nhiều client và thị trường. Case minh họa cách làm và phần đóng góp. Chênh lệch còn lại là bằng chứng chịu KPI engagement/retention chung và có quyền chọn pilot, ưu tiên hoặc nhân rộng giữa các thị trường. Direction 7 nếu vai có quyền quyết thực tế để làm bước đệm đến Head of CX / Head of Transformation. Nếu vai chủ yếu nhận lịch campaign để triển khai, chấm lại Direction. [[skills/haji-career/references/haji-job-targeting|Job Targeting, mục 1 và 3]]
+
+### Công việc và tình trạng theo mã
+
+- Bản Haji dán thiếu mã, khớp chức năng với tin Lifecycle Marketing Manager, đội Regional CRM, full-time on-site TP.HCM, mã `efc922d8-8f50-4059-8da3-4b8efadb4b0d`. JD yêu cầu 5-8 năm, tự chạy CRM và có tác động B2C đo được trên nhiều thị trường, dùng nền tảng tương đương và chứng minh ứng dụng AI vào workflow. API tạo bản ghi 18/09/2026 lúc 15:46 ICT. JD, form và API còn truy cập được khi kiểm. Hạn tuyển, suất thực tế TP.HCM và điều kiện tiếp cận lại chưa xác nhận. [JD Lever](https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d) [API Lever](https://api.lever.co/v0/postings/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d?mode=json)
+- Job Targeting mục 5 ghi đơn Regional CRM Manager tháng 10, chưa rõ kênh và kết quả. Mã lịch sử `e77ed437` hiện trả 404. Ngày tạo mã hiện hành và các CV trong Downloads chưa nối được đơn với mã nào. Ảnh gốc thư 05/11 chỉ xác nhận ShopBack dừng một hồ sơ, thiếu vị trí, mã và lý do. Kết luận xác minh thêm ngày 25/11 vẫn chi phối bước tiếp cận. [[skills/haji-career/references/haji-job-targeting|Job Targeting, mục 5]] [Đối chiếu nguồn và timestamp](projects/career/research/shopback-efc922d8-2026-11-27.md)
+
+### Chức năng JD và việc thật
+
+Mức khớp dưới đây là ước lượng chức năng. Bốn chức năng lõi là cách làm lặp lại trong 7 năm CRM/lifecycle, minh họa bằng case có thể kể sâu. Nguồn số và quy kết theo kho dữ kiện hiện hành.
+
+| Chức năng JD | Haji trực tiếp làm và kết quả | Mức khớp |
+|---|---|---|
+| Chạy campaign, phân khúc và tối ưu flow | Thiết kế trigger, segment, tần suất và trực tiếp triển khai trên 9 kênh. Sacombank: Haji phụ trách phân khúc 4 tầng từ 350.000+ bản ghi cho chương trình gamification. MAU app tăng 35% so với trước chương trình. Taptap: dùng điểm và voucher để kéo người dùng quay lại sau install. [CV Evidence, D và E3](skills/haji-career/references/haji-cv-evidence-bank.md) | Mạnh, 95% |
+| Cohort review, thử nghiệm, chọn tối ưu | Đọc funnel/cohort, chạy A/B và holdout, dùng kết quả để chọn bước tiếp theo. SonKim Fashion: test nội dung theo segment, tỷ lệ chuyển đổi email từ 2,4% lên hơn 3,0%. Kết quả theo chương trình của SonKim. [CV Evidence, E3 và H](skills/haji-career/references/haji-cv-evidence-bank.md) | Mạnh, 90% |
+| Tooling và automation với Product, Data, Tech | Bamboo Airways: dựng schema/naming/event logic và thống nhất data ownership giữa Marketing, IT và Data. Thời gian setup giảm khoảng 40%. Smart Recommendation: Haji đưa yêu cầu đo lường qua Product đến khi tính năng ra mắt và triển khai. [CV Evidence, E4 và E8](skills/haji-career/references/haji-cv-evidence-bank.md) | Mạnh, 90% |
+| Playbook B2C đa thị trường | Wavemoney, U-money và Unitel: Haji dựng cấu trúc mẫu và khung nội dung duyệt trước để đội Myanmar/Lào tự mở rộng campaign. Chưa có số kết quả rollout theo từng thị trường. [CV Evidence, E3 và E5](skills/haji-career/references/haji-cv-evidence-bank.md) | Mạnh về phương pháp, 85% |
+| Mentor junior | Dẫn 3 CSM, một người lên Enterprise CS. Đào tạo 300+ người nhiều cấp, có workshop về journey. Đây là bằng chứng coaching và chuyển giao kỹ năng, với nhóm trực tiếp là CSM có kinh nghiệm. [CV Evidence, D và E4](skills/haji-career/references/haji-cv-evidence-bank.md) | Khá mạnh, 85% |
+| Ảnh hưởng Marketing, Product, Commercial | Generali: đưa workflow lead qua Marketing Director và nhóm Marketing/IT/Compliance, chương trình đạt 78% qualified lead rate. Smart Recommendation chứng minh ảnh hưởng Product. Độ sâu quyền quyết ngân sách ưu đãi và trade-off với Commercial tại ShopBack cần kiểm. [CV Evidence, E3 và E8](skills/haji-career/references/haji-cv-evidence-bank.md) | Khá mạnh, 85% |
+| AI workflow có thể trình bày | Chuẩn hóa bước báo cáo lặp lại, để AI hỗ trợ tổng hợp và giữ khâu con người kiểm số. Ví dụ chu kỳ 4 ngày xuống 1 ngày dành cho phỏng vấn. Chuẩn bị demo đã ẩn dữ liệu nếu được hỏi. [CV Evidence, C, D và H](skills/haji-career/references/haji-cv-evidence-bank.md) | Khá mạnh, 85% |
+| Sở hữu chiến lược và thực thi CRM khu vực | Thiết kế, triển khai và đo CRM cho nhiều tổ chức trong danh mục 70+ tại Việt Nam, Lào, Myanmar. Chưa có case rõ về KPI engagement/retention chung, quyền phân bổ thử nghiệm và quyết rollout giữa các thị trường của cùng doanh nghiệp. [CV Evidence, D, E3](skills/haji-career/references/haji-cv-evidence-bank.md) | Khớp một phần, 70%. Đây là khoảng trống sàng lọc lớn nhất |
+
+### Cơ chế BillEase có thể chuyển
+
+Giữ cách chọn cohort theo hành vi và giá trị, kích hoạt giao dịch đầu, nhận diện khách bị khựng, chọn trigger/ưu đãi để kéo giao dịch tiếp, rồi kiểm tác động tăng thêm bằng cohort và holdout. BillEase là CV ứng tuyển, các kết quả đến từ chương trình Haji làm tại Insider One. PDF trang 1 ghi “TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE”, trang 2 ghi “A/B tests and holdout control groups”. BillEase có hạn mức và lịch trả góp. Với ShopBack, cần đo trạng thái từ click qua merchant, đặt hàng, ghi nhận cashback, đối tác xác nhận đến lần mua tiếp. Giả thuyết cần kiểm là hiệu quả ưu đãi theo merchant/thị trường, sau khi tính chi phí và độ trễ xác nhận. [BillEase](https://info.billease.ph/) [ShopBack Care](https://support.goshopback.vn/hc/vi/articles/360034029793)
+
+### Kế hoạch CV v5
+
+- Lane hiện có **CRM / CVM / Lifecycle**, trọng tâm Lifecycle B2C. Luận điểm: Haji nhiều lần trực tiếp thiết kế phân khúc, đưa journey vào vận hành và đo để tăng giao dịch tiếp theo, rồi chuyển cách làm thành playbook cho đội địa phương. Trục đọc: giao dịch đầu và quay lại -> thử nghiệm đo tác động -> tooling -> chuyển giao. [[skills/haji-career/references/haji-cv-builder|CV Builder, mục 0-1 và 4]]
+- Headline 1, ưu tiên và giữ nguyên PA2 Haji đã duyệt ở v4: `CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS`. Headline 2, neo vào BillEase nhưng mở rộng ra thanh toán/giao dịch: `CRM & LIFECYCLE | TURNING FIRST TRANSACTIONS INTO REPEAT BUSINESS`.
+- Ba ví dụ đầu: Taptap cho cơ chế quay lại bằng điểm/voucher, SonKim Fashion cho A/B có số, Wavemoney làm case chính trong cụm Wavemoney/U-money/Unitel cho playbook địa phương. Sau đó dùng Sacombank cho quy mô và Bamboo cho tooling. Giữ phần Haji trực tiếp làm và chủ thể kết quả trong từng case.
+- Nền nội dung là PDF BillEase 17/11 (bản Downloads ngày 24/11 trùng SHA-256), nền trình bày là deck BillEase đã dùng trong v4. Register CRM Manager thực chiến, 11 năm sự nghiệp, 7 năm CRM/lifecycle, American English, cụ thể về hành động và thước đo B2C. Giữ Consultant ngắn cho CRM/automation/AI, bỏ Golf House trong phương án v5. Rà lại bản nền theo Red List, đặc biệt SQL trong Skills, số AI dành cho phỏng vấn và diễn đạt Scope. [[skills/haji-career/references/haji-cv-builder|CV Builder, mục 0-1 và 5]] [[skills/haji-career/references/haji-cv-evidence-bank|CV Evidence, C, D và F]]
+- Kênh đang chờ mã biên nhận và xác minh suất. Nếu có căn cứ tiếp cận, ưu tiên người giới thiệu có thể xác nhận tình trạng mã và chuyển bằng chứng mới. Nếu chọn portal sau khi có cơ sở nộp, dùng ATS một cột cùng câu trả lời knockout. CV v1.2 dựa trên v4 đã nghiệm thu ở lượt trước, vẫn chờ Haji duyệt và chưa gửi. Brief v5 ghi quyết định Nhịp 1 hiện tại, chờ duyệt riêng. [[skills/haji-career/references/haji-job-targeting|Job Targeting, mục 2 và 4]]
+
+### Lương và bước chốt
+
+Adecco 2026 ghi Digital Marketing Manager 5+ năm tại TP.HCM ở mức 50-90 triệu VND gross/tháng trong Professional Services (tr. 45) và 60-120 triệu trong FMCG (tr. 53). Tin cậy vừa cho so sánh chức danh gần, thấp khi suy ra ngân sách ShopBack. Dải base gross, thưởng mục tiêu, tháng 13 và equity của ShopBack chưa xác minh. Chưa chốt kỳ vọng cho vai này. [Adecco Vietnam Salary Guide 2026](https://www.adecco.com/-/jssmedia/project/adecco/adeccovn/pdf/adecco-vietnam-salary-guide-2026.pdf)
+
+Mốc nội bộ **18:00 ICT ngày 28/11/2026**. Đối chiếu biên nhận và chốt v5 trước khi quyết định kênh. Nếu biên nhận khớp mã, xác minh trạng thái đơn và khả năng được xem lại. Nếu mã khác, vẫn xác minh tình trạng suất và điều kiện nộp trước khi quyết định. Nếu thiếu biên nhận, giữ ở bước xác minh. Khi Haji chọn kênh, dữ kiện cần hỏi là headcount/hạn, KPI 90 ngày và quyền Regional/local, rồi đến cấu phần đãi ngộ.
+
+1. Mã hoặc URL nào xuất hiện trên biên nhận Lever tháng 10?
+2. Có case Haji trực tiếp chọn thị trường pilot và quyết định nhân rộng, kèm KPI, tiêu chí và kết quả theo thị trường?
+3. Haji chốt brief v5 với headline 1 và thứ tự case trên?
+
+## Dấu chạy Nhịp 1 đã xác minh | 27/11/2026 20:34 ICT
+
+Bổ sung theo nghiệm thu chưa đạt, không đổi kết luận, điểm, bảng đối chiếu hay câu hỏi ở trên. Nguồn là bảng `workflow_runs` của Javis, đọc ở chế độ chỉ đọc lúc 20:33 ICT, cùng nhật ký lệnh của lượt chạy 20:32.
+
+| Run | Bước | Ai chạy | Thời gian | Kết quả |
+|---|---|---|---|---|
+| `a2d88612ba2845a581ddbd1a95cf20d5`, kanban | 1. Nghiên cứu | Người nghiên cứu, `agency-research-synthesist`, key `ag_7080659084f57372` | Bắt đầu 20:26:21. Bàn giao lúc 20:28 theo tiêu đề mục bên dưới. Hệ thống không ghi giờ kết thúc từng bước | Trả 2.237 ký tự, viết mục "Bàn giao Nhịp 1" trong hồ sơ và bản nghiên cứu |
+| như trên | 2. Đối chiếu và brief | Trợ lý sự nghiệp, `tro-ly-su-nghiep`, key `ag_3af3e2ec72d49c55` | Từ sau bàn giao đến 20:31:49. Mục "Kiểm nguồn" ghi curl lúc 20:29 | Nhận nguyên văn đầu ra bước 1 qua `{{prev}}`, trả 4.000 ký tự, viết brief v5 và dòng tiến độ |
+| `57762bcbb87740e38e325566dc4661e2`, kanban | 1. Kiểm lại lượt này | Người nghiên cứu | 20:32:02 đến 20:34 | Kiểm lại Lever, PDF và nhật ký run; viết mục này |
+
+Kết luận về cách chạy: hai agent riêng, chạy nối tiếp trong cùng một run, tổng 5 phút 28 giây. Không phải một agent tự làm cả hai vai. Nhật ký cũng cho thấy hai lỗi bàn giao cần sửa ở lần sau. Bước nghiên cứu đã tự sửa hồ sơ và dòng tiến độ, trong khi workflow giao việc này cho Trợ lý sự nghiệp. Câu "hoàn tất Nhịp 1 trực tiếp" và nhãn "Lượt Codex trực tiếp" trong bản nghiên cứu cũng làm vai trò bị hiểu lầm. Hôm nay có 6 run lỗi trước đó do hết hạn mức Claude Code (18:51-19:11), một run xong 19:21-19:27, rồi đến run này.
+
+Bước thực chạy trong lượt kiểm 20:32 (giờ ICT):
+1. 20:32:45-20:32:53. Curl JD, form, API mã `efc922d8` trả 200, mã cũ `e77ed437` trả 404. API ghi Lifecycle Marketing Manager, Regional CRM, TP.HCM, Full-time, tạo 18/09/2026 15:46, có "13" và "AI" trong nội dung. Bảng Lever vẫn có ba mã cùng chức danh: `efc922d8` TP.HCM, `f483ce61` Jakarta, `fa83e8ff` Singapore.
+2. 20:33:01-20:33:02. PDFKit đọc hai PDF BillEase trong Downloads, mỗi file 2 trang, 7.627 ký tự, có "TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE", "A/B" và "holdout". Hai file cùng SHA-256 `23fe9bf0...918ed7`.
+3. 20:33:06-20:33:35. Đọc `workflow_runs` để xác định ai chạy bước nào và đầu ra bước 1 có được chuyển sang bước 2 hay không.
+
+Còn cần Haji xác nhận: giữ nguyên ba câu hỏi ở mục brief v5 (mã biên nhận tháng 10, case quyết rollout đa thị trường, chốt v5). Muốn so được tốc độ với ngày 25/11 thì cần thêm giờ kết thúc từng bước vào `steps_json`. Hiện chỉ có giờ cả run.
+
+## Bàn giao Nhịp 1 của Người nghiên cứu | 27/11/2026 20:28 ICT
+
+**Xác minh thêm trước khi quyết định tiếp cận lại.** Đối chiếu với quyết định 25/11: giao dịch đầu đến giao dịch lại là cơ chế chuyển được từ BillEase. Taptap, SonKim Fashion và Wavemoney/U-money/Unitel lần lượt minh họa ưu đãi kéo khách quay lại, thử nghiệm định lượng và chuyển giao playbook địa phương. Chưa có bằng chứng Haji chịu KPI CRM regional chung hoặc có quyền quyết rollout giữa các thị trường.
+
+Đã đọc PDF BillEase bằng PDFKit và kiểm trực tiếp JD, form, API Lever cùng mã. Tiêu đề Lifecycle Marketing Manager, Regional CRM, TP.HCM on-site. Bản ghi tạo 18/09 và còn hiển thị khi kiểm. Hạn, headcount, ngân sách và quyền quyết Regional/local chưa rõ. Đơn tháng 10 chờ biên nhận, thư 05/11 chưa gắn với vai hoặc mã. Headline tham chiếu là phương án 2 đã duyệt trong brief v4.
+
+[Phát hiện, nguồn, bằng chứng và bốn câu hỏi quyết định](projects/career/research/shopback-efc922d8-2026-11-27.md)
+
+## Tiêu chí đạt của Brief v4 | 27/11/2026 21:05 | Trợ lý soạn, Haji chưa duyệt
+
+Soạn từ luận điểm Brief v4 và [thước đo phản biện CV](skills/haji-career/references/haji-cv-review-rubric.md), dùng cho hai vòng phản biện. Haji sửa ở đây nếu khác ý.
+
+**Người đọc phải kể lại được sau 30 giây:**
+1. Haji thiết kế và vận hành CRM, lifecycle cho nhiều thương hiệu B2C ở Việt Nam, Lào, Myanmar, đưa người dùng từ giao dịch đầu đến quay lại.
+2. Haji dùng cohort, A/B test và holdout để quyết chiến thuật nào được mở rộng, có kết quả đo được.
+3. Haji chuẩn hóa cách làm đã chứng minh thành playbook cho đội local và làm cùng Product, Data, Tech về tooling.
+
+**Không được mắc:**
+1. Viết mỗi chức năng như một case đơn lẻ; client phải là ví dụ của năng lực lặp lại.
+2. Đọc ra vai account manager hay người bán hàng thay vì người làm CRM trực tiếp triển khai. Khung Insider (vai CS Lead ở vendor CDP, triển khai cho nhiều client) giữ như BillEase, không tính là lỗi (Haji chốt 27/11/2026 21:03).
+3. Số không có trong kho dữ kiện, sai kỳ hoặc sai chủ thể kết quả.
+
+**CV mẫu để so:** BillEase 17/11/2026 (Lifecycle Management).
+
+## CV v1.3 | 27/11/2026 21:10 | Chờ Haji duyệt thành phẩm
+
+Javis sửa 4 lỗi Nên sửa của vòng 1 bằng Claude (Codex hết lượt), chỉ dùng dữ kiện trong kho, giữ khung Insider theo quyết định "Không chặn". Đã xem bản hiển thị cả hai trang, không tràn chữ.
+- Sacombank: thêm 45% người dùng app tham gia và người chơi có giao dịch số cao hơn 65% so với người không chơi (kho dòng 104-109).
+- Thêm TP Bank: cross-sell trong onboarding, tỷ lệ dùng 2+ sản phẩm cao hơn 68% so với mở thẻ thông thường (dòng 110).
+- Review hằng tuần thêm "recommend budget allocation" (dòng 126). Thêm MBS: CEO dashboard 5 giai đoạn x 7 dòng sản phẩm, CEO dùng để đặt lại KPI và dồn nguồn lực (E4), làm ví dụ cho review hiệu quả.
+- SonKim: nói rõ A/B content theo phân khúc, bỏ "contributing to".
+- Wavemoney: pre-approved content framework, client tự mở rộng (dòng 118). Bamboo: thêm 7 lên 20+ automation scenario trong 2 tháng.
+
+## Chạy thử 2 vòng phản biện mới trên CV v1.2 | 27/11/2026 21:15
+
+Revision KYSOHj3D07oxgQ. Thước đo [haji-cv-review-rubric](skills/haji-career/references/haji-cv-review-rubric.md), Tiêu chí đạt ở mục trên (chưa duyệt).
+
+**Vòng 1, Người phản biện độc lập (Sonnet), góc hiring manager ShopBack: pass=false, 1 Chặn.**
+- Chặn: người đọc 30 giây kể lại Haji là "Customer Success Lead của vendor CDP triển khai cho khách", không phải người trực tiếp làm CRM. Câu gây ra: dòng Scope "led CRM design and implementation across a 70+ organization portfolio", cùng Consultant ở đầu, "Trained 300+ people across client teams", 3rd Shareholder. Chức danh giữ nguyên theo kho dữ kiện; phần sửa là cách kể Scope và bullet đầu.
+- Nên sửa: thử nghiệm chưa có ca nào kể quyết định mở rộng kèm lift; SonKim chưa nói test và đối chứng; playbook Wavemoney không có kết quả; chưa thấy performance review khu vực.
+- Ghi chú (bị loại theo luật mới): đề xuất đổi headline phương án 2 đã chốt.
+
+**Vòng 2, Trợ lý, kiểm sự thật: pass=true, 0 Chặn.** Mọi số khớp kho dữ kiện: 350,000+ và MAU +35% (dòng 104-105), 2.4% lên 3.0%+ (115), khoảng 40% (134), 9 kênh (64), 70+ tổ chức (51), 11 ngành (65), 300+ (58), 3 CSM (59), 15+ dự án (150), descriptor Gartner (35), 3rd Shareholder cuối khối Insider (62). Không chạm Red List.
+- Chất liệu có sẵn để lấp các lỗi Nên sửa của vòng 1: Sacombank 45% người dùng app tham gia (dòng 109); Bamboo từ 7 lên 20+ automation scenario trong 2 tháng (134); CellphoneS conversion +35%, engagement 74% lên 86%, doanh thu kênh 2x (114, nhãn tài liệu, cần Haji xác nhận dùng).
+
+**Cần Haji quyết:** có coi "đọc ra vai vendor" là lỗi Chặn không (CV BillEase đã đạt dùng cùng khung Insider), và duyệt Tiêu chí đạt. CV chưa sửa; bước sửa thuộc Copywriter.
+
+**Haji quyết 27/11/2026 21:03: "Không chặn".** Khung Insider giữ như CV BillEase đã đạt. Lỗi Chặn duy nhất của vòng 1 hạ xuống Ghi chú, nên vòng 1 thành pass=true, 0 Chặn. Còn 4 lỗi Nên sửa (thử nghiệm kèm quyết định mở rộng, SonKim test và đối chứng, kết quả playbook Wavemoney, performance review khu vực) chờ Copywriter xử lý bằng chất liệu vòng 2 đã chỉ ra. Tiêu chí đạt vẫn chờ Haji duyệt.
+
+## CV v1 | 27/11/2026 20:48 | Chờ Haji duyệt
+
+Link: https://docs.google.com/presentation/d/1nqTBVv4G-oaf2UgO5iZngdAN46qyHaIBN9RlBoMAsLY/edit (revision KYSOHj3D07oxgQ). Bản do Trợ lý viết ở bước 1 lượt 20:03 (lỗi vai, đã chặn trong workflow). Nghiệm thu chỉ bắt một lỗi: Sacombank (phân khúc) nằm dưới CRM tooling. Javis chuyển bullet Sacombank lên mục Campaigns, segmentation & lifecycle flows ngay sau Taptap, render lại cả hai trang: không tràn chữ, headline PA2, thứ tự Taptap, Sacombank, SonKim, Wavemoney, Bamboo. Chưa qua Copywriter ChatGPT vì Codex hết lượt đến 23:15.
+
+## Brief v4 | 27/11/2026 20:02 | ĐÃ CHỐT, Haji duyệt để bàn giao viết
+
+**Xác nhận của Haji (chat web, 20:02 27/11/2026):** "Cách bạn tư duy đang bị quá sát, cả 4 chức năng của bạn thì phải hiểu là làm nhiều, các ví dụ chỉ là one of the sample thôi. Headline theo phương án 2. Giờ bàn giao viết đi." JD: https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d
+
+**Thay đổi so với v3:**
+- Bốn chức năng cốt lõi của JD (campaign/segmentation/flows; cohort review và thử nghiệm; tooling và automation với Product/Data/Tech; playbook đa thị trường) là việc Haji làm **lặp lại trên nhiều client và thị trường** trong 7 năm CRM/lifecycle. Taptap, SonKim, Sacombank, Bamboo, Wavemoney/U-money/Unitel chỉ là ví dụ minh họa, không phải giới hạn phạm vi. Bỏ cách chấm "mỗi chức năng = một case" và bỏ các mức 60-75% gắn vào việc thiếu một case đơn lẻ.
+- Capability nâng từ 7 lên **8/10** theo xác nhận này. Direction giữ 7/10.
+- Headline chốt: `CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS`.
+
+**Hướng viết cho Copywriter:**
+- Bản nền: deck CV BillEase tháng 11 trong thư mục CV trên Drive (format đã chốt, không đổi hình, màu, font). Tên bản sao `CV_Phuong Hoang_Apply for ShopBack`. Không xuất PDF.
+- Summary và phần Insider viết theo **năng lực lặp lại ở quy mô danh mục**: Haji thiết kế phân khúc, journey kích hoạt đến mua lại, chạy thử nghiệm và đọc cohort, chuẩn hóa playbook cho đội local, trên nhiều client B2C ở Việt Nam, Lào, Myanmar. Mỗi bullet nêu năng lực chung trước, rồi một ví dụ có số làm bằng chứng. Không viết bullet chỉ kể một case như thể đó là toàn bộ kinh nghiệm.
+- Thứ tự ví dụ ưu tiên: Taptap, SonKim Fashion, Wavemoney (cùng U-money, Unitel), rồi Sacombank. Chỉ dùng số đã có trong kho dữ kiện CV (MAU +35%, chuyển đổi email 2,4% lên 3,0%+, 350.000+ bản ghi, khoảng 40% thời gian setup, 9 kênh). Ghi đúng chủ thể kết quả là chương trình/client.
+- Giọng CRM Manager trực tiếp triển khai, động từ cụ thể. Mở bằng 11 năm digital, 7 năm CRM/lifecycle, viết số bằng chữ số. Retention theo nghĩa người dùng quay lại, không theo nghĩa account management.
+- Giữ Consultant ngắn cho CRM, automation và AI. Bỏ Golf House (đề xuất v3, Haji không phản đối khi duyệt; nêu lại ở bước duyệt CV).
+- Có một bullet AI workflow (báo cáo lặp lại chuyển sang luồng có AI hỗ trợ, giữ kiểm số), không ghi mốc 4 ngày xuống 1 ngày.
+
+**Chưa chốt, không chặn bước viết:** mã đơn tháng 10, kênh nộp (referral hay portal), hạn tuyển, lương kỳ vọng. Nếu đi portal, cần thêm bản ATS 1 cột sau khi Haji duyệt bản 2 cột.
+
+## Bản Drive hiện hành | CV v1.2 theo Brief v4
+
+**Đã nghiệm thu nội dung và hiển thị ngày 27/11/2026. Chờ Haji duyệt CV.** [CV_Phuong Hoang_Apply for ShopBack](https://docs.google.com/presentation/d/1nqTBVv4G-oaf2UgO5iZngdAN46qyHaIBN9RlBoMAsLY/edit)
+
+- Tệp `1nqTBVv4G-oaf2UgO5iZngdAN46qyHaIBN9RlBoMAsLY`, revision đã kiểm `JVgK-_7ej4ayAw`. Bản nền [CV BillEase (Lifecycle Management), 17/11/2026](https://docs.google.com/presentation/d/1fUwTBor6kXxZXUccA1dV-CP_w2BX7VfqbzwMZ4JqEFI/edit). Xác minh bản sao trong thư mục CV_ Phương Hoàng, parent ID `1emwRP-9SgJMTQtqGWSMRyknXT2wW7aZA`, và danh sách thư mục trả đúng một file mang tên ShopBack đã chốt.
+- Mẫu Google Slides 2 trang, 2 cột, dùng để duyệt và chuyển tay nếu chốt referral. Đã mở cả hai trang trên Drive và xem ảnh render, kiểm ảnh, màu, font, thứ tự đọc, tràn chữ và dấu gạch. Portal cần bản ATS một cột sau khi chốt kênh và duyệt bản này.
+- Thứ tự ví dụ trong Experience sau sửa: Taptap, SonKim Fashion, Wavemoney/U-money/Unitel, Sacombank, Bamboo Airways. Headline theo phương án 2.
+- Đã kiểm số và chủ thể theo Kho dữ kiện CV mục D, E3, E4 và F. SonKim email conversion từ 2.4% lên 3.0%+; Sacombank 350,000+ bản ghi và MAU ứng dụng Sacombank tăng 35% so với giai đoạn trước chương trình; Bamboo giảm khoảng 40% thời gian setup. Giữ Consultant ngắn, bỏ Golf House, bỏ mốc thời gian báo cáo AI và các số chờ xác nhận.
+- Đối chiếu nguồn trước khi viết. Job Targeting mục 2 ghi “Bắt buộc soạn sẵn câu trả lời knockout (mục 4) và dùng bản ATS 1 cột” cho portal. CV Builder mục 2 ghi “Nhóm năng lực khớp JD nhất và client example mạnh nhất phải nằm trọn trên trang 1”. BillEase ngày 17/11, trang 1, dùng “TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE” và bố cục 2 cột. Brief v4 thay headline và mở trục từ giao dịch đầu đến quay lại. [Job Targeting](skills/haji-career/references/haji-job-targeting.md) [CV Builder](skills/haji-career/references/haji-cv-builder.md) [Kho dữ kiện CV](skills/haji-career/references/haji-cv-evidence-bank.md)
+- CV v1.2, Brief v4 chốt lúc 20:02 ngày 27/11/2026, pass=true. Trang 1 ghi rõ mức tăng MAU của ứng dụng Sacombank. Bullet trang 2 vừa hai dòng, nêu phân khúc khách hàng 4 tầng từ 350.000+ bản ghi cho chương trình gamification và kỳ so sánh trước chương trình. [Ảnh trang 1](attachments/tool-images/render_page_to_image-20261127-201518-fd2286.png) · [Ảnh trang 2](attachments/tool-images/render_page_to_image-20261127-201520-433e0a.png)
+- Bước tiếp theo trước 18:00 ngày 28/11, mốc nội bộ. Haji duyệt nội dung CV và đối chiếu biên nhận đơn tháng 10 trước khi chốt kênh. Hạn tuyển chưa xác nhận. Bản CV đang chờ duyệt, chưa gửi.
+
+## Brief đánh giá v3 | 27/11/2026 | Lịch sử, thay bằng v4
+
+**Theo có điều kiện. Capability 7/10, Direction 7/10.** Giữ phương án CRM / Lifecycle và các điểm của lượt kiểm thử 27/11. Độ tin cậy chung vừa. Haji có 7 năm làm CRM/lifecycle, trực tiếp thiết kế và triển khai chương trình, đọc cohort và kiểm tác động. Yêu cầu có kết quả engagement/retention đa thị trường là điểm sàng lọc lớn nhất. Vai trò là bước đệm từ vận hành CRM sang chịu KPI B2C trong một công ty nếu Regional có quyền đặt ưu tiên và triển khai cùng các đội local. Đích dài hạn của Haji là Head of CX / Head of Digital Transformation. [[skills/haji-career/references/haji-job-targeting|Job Targeting, mục 1 và 3]] [[skills/haji-career/references/haji-cv-evidence-bank|Kho dữ kiện CV, mục D và E3]]
+
+### JD, phạm vi và lịch sử theo mã
+
+- Kiểm trực tiếp 27/11, API, JD và form trả HTTP 200 cùng mã `efc922d8-8f50-4059-8da3-4b8efadb4b0d`. Tên hiện hành Lifecycle Marketing Manager, đội Regional CRM, full-time, on-site tại TP.HCM. `createdAt` là 18/09/2026, trước tháng nộp đơn cũ. Chưa có hạn nhận, số suất TP.HCM hay ngân sách công khai. JD giao chiến lược và thực thi CRM 13 thị trường, yêu cầu 5-8 năm, tác động engagement/retention đo được ở nhiều thị trường, CRM platform tương đương, khả năng phân tích và ứng dụng AI vào workflow. [Lever API](https://api.lever.co/v0/postings/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d?mode=json) [Form](https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d/apply)
+- Job Targeting mục 5 ghi đơn tháng 10 theo tên Regional CRM Manager, kênh và kết quả đều “?”. Chưa có biên nhận để nối đơn với mã này, mã cũ `e77ed437` hoặc bản CV cụ thể. Tên hiện hành và ngày tạo tin không đủ để đối chiếu, mã `e77ed437` là dấu vết lịch sử. Thư 05/11 chỉ xác nhận ShopBack dừng một hồ sơ, thiếu vị trí, mã và lý do. Các giả thuyết cũ phía dưới thuộc lịch sử, không dùng để chấm điểm hoặc gắn trạng thái cho mã này. [[skills/haji-career/references/haji-job-targeting|Job Targeting, mục 5]] [Bàn giao nghiên cứu](projects/career/research/shopback-efc922d8-2026-11-27.md)
+- Nếu cùng mã, ưu tiên xác minh tình trạng đơn qua người giới thiệu trước khi cân nhắc nộp lại, với luận điểm hoặc chứng cứ mới. Nếu khác mã và TP.HCM còn tuyển, ưu tiên referral nếu có đầu mối phù hợp. Portal là phương án sau, dùng bản ATS một cột. Nếu chưa xác minh mã, giữ bước chờ. KPI 90 ngày, quyền quyết rollout/ưu đãi, stack và nhân sự trực tiếp cần xác nhận khi có kênh được Haji duyệt. [[skills/haji-career/references/haji-job-targeting|Job Targeting, mục 2 và 4]]
+
+### Chức năng JD và bằng chứng
+
+| Chức năng JD | Việc thật Haji đã làm | Mức khớp |
+|---|---|---|
+| Campaign, segmentation, flows | Sacombank: Haji phụ trách phân khúc 4 tầng từ 350.000+ bản ghi cho chương trình kích hoạt hành vi ngân hàng số. MAU chương trình tăng 35% so với trước. Taptap: thiết kế coverage sau app install bằng điểm, voucher và ưu đãi. | 90%. Khớp segmentation và activation, chưa có số mua lại của Taptap. |
+| Review cohort, thử nghiệm và nhân rộng | SonKim Fashion: xây email từ đầu và A/B nội dung theo phân khúc, tỷ lệ chuyển đổi email từ 2,4% lên 3,0%+. Haji dùng baseline, holdout và đọc phễu/cohort hằng tuần cùng đội CRM trong các chương trình có dữ kiện. | 85%. Khớp đo và tối ưu, cần một ví dụ quyết định rollout sang thị trường khác. |
+| Tooling và automation với Product/Data/Tech | Bamboo Airways: Haji xây master data framework, thống nhất data ownership giữa Marketing/IT/Data, góp phần giảm khoảng 40% thời gian setup. Đã triển khai 9 kênh ở Insider One và viết đề xuất sản phẩm cho Product/Dev. | 85%. Năng lực nền tảng tương đương, stack ShopBack cần xác nhận. |
+| Playbook B2C đa thị trường | Wavemoney, U-money và Unitel: Haji xây template và khung nội dung duyệt trước để các đội tự mở rộng. | 75%. Có bằng chứng chuyển giao, cần KPI chung và quyền lựa chọn thị trường rollout. |
+| Mentor junior | Dẫn 3 CSM, một người lên Enterprise Customer Success. Đào tạo 300+ người ở nhiều cấp, có nhóm Journey Makers ở MBS. | 80%. Có coaching và chuyển giao nghiệp vụ. |
+| Dùng AI cải thiện workflow | Haji chuyển phần báo cáo lặp lại sang luồng có AI hỗ trợ, giữ kiểm số và diễn giải cho người phụ trách. | 80%. Có cách làm cụ thể. Mốc 4 ngày xuống 1 ngày chỉ dùng ở phỏng vấn. |
+| Ảnh hưởng Marketing, Product và Commercial | MBS: Haji thiết kế dashboard được CEO dùng điều chỉnh KPI và tập trung nguồn lực. Cùng Marketing/CRM theo dõi ROI và đề xuất phân bổ ngân sách ở các chương trình như SonKim. | 70%. Có ảnh hưởng quyết định về CRM, cần ví dụ chốt ưu đãi và ngân sách với Commercial theo thị trường. |
+| Sở hữu chiến lược lifecycle 13 thị trường và KPI retention | Dẫn chương trình cho các tổ chức tại Việt Nam, Lào và Myanmar. Bằng chứng gồm phân khúc theo hành vi, luồng giao dịch đầu, tái kích hoạt và dùng thêm sản phẩm. | 60%. Đã làm nhiều thị trường, còn thiếu ví dụ sở hữu một KPI B2C xuyên thị trường. |
+
+Điểm từng chức năng là ước lượng theo bằng chứng. Capability ưu tiên tiêu chí sàng lọc đa thị trường, nên không lấy trung bình các dòng. Dữ kiện đối chiếu ở kho CV mục D, E3, E4, E5 và H, gồm câu Haji đã duyệt “Reviewed reports and data before they reached leadership” về phần Haji trực tiếp kiểm và chuyển thành tối ưu. [[skills/haji-career/references/haji-cv-evidence-bank|Kho dữ kiện CV]] [JD chính thức](https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d)
+
+**Từ BillEase sang ShopBack.** Giữ cách phân cohort theo hành vi, phân biệt khách chưa giao dịch và đã ngừng hoạt động, kích hoạt giao dịch đầu rồi đo tác động lên giao dịch lại. BillEase có hạn mức tín dụng và lịch trả góp. ShopBack thêm các sự kiện click sang merchant, ghi nhận giao dịch, chờ đối tác xác nhận cashback và mua lại. Cần biết ai chốt điều kiện và chi phí ưu đãi theo thị trường. Đây là giả thuyết ứng dụng cho ShopBack, KPI nội bộ chưa xác minh. [BillEase](https://info.billease.ph/) [ShopBack Care](https://support.goshopback.vn/hc/vi/articles/360034029793) [Nghiên cứu và nguồn](projects/career/research/shopback-efc922d8-2026-11-27.md)
+
+### Kế hoạch CV v3
+
+- Lane có sẵn CRM / Lifecycle. Luận điểm là Haji dùng tín hiệu hành vi để chọn phân khúc, thiết kế journey từ kích hoạt đến quay lại, dùng cohort và thử nghiệm để quyết định tối ưu, rồi chuẩn hóa phần local có thể tự triển khai.
+- Headline ưu tiên, đã dùng ở BillEase: `CRM & LIFECYCLE | TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE`. Phương án bám trục giao dịch lại, neo BillEase và STERRY: `CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS`.
+- Ba client mở đầu theo đúng thứ tự: Taptap (cơ chế loyalty sau install), SonKim Fashion (A/B và số chuyển đổi), Wavemoney (minh họa playbook, trong cùng case với U-money và Unitel). Sacombank ngay sau để chứng minh quy mô phân khúc và kết quả MAU.
+- Nền nội dung là PDF BillEase tháng 11. Mở Insider bằng việc Haji trực tiếp thiết kế, triển khai, đo và hướng dẫn đội tiếp quản. Register CRM Manager thực chiến, 11 năm sự nghiệp và 7 năm CRM/lifecycle, động từ cụ thể, kết quả client ghi rõ phần đóng góp. Giữ Consultant ngắn cho CRM/automation và AI, đề xuất bỏ Golf House, chờ Haji chốt. Dùng 2 cột cho referral, 1 cột ATS cho portal.
+- Phản biện như người lọc: nếu chỉ có template chung, case chưa chứng minh được tác động retention đa thị trường. Bổ sung một quyết định có địa điểm, phần Haji quyết, phần local điều chỉnh và kết quả theo cohort. Nếu chưa có ví dụ đã xác nhận, giới hạn claim ở phạm vi đã làm. Rà các cụm có thể đọc như account management trong bản ShopBack cũ, giữ retention ở nghĩa người dùng quay lại, nêu đúng nghĩa conversion từng case.
+- Nguồn đã mở: Job Targeting mục 3 và 5 xác định thang “7-8 bước đệm” và lịch sử đơn tháng 10. CV Builder mục 0-1 yêu cầu “Đối chiếu việc thật trước, chọn lane sau”; mục 3 xác nhận headline BillEase và STERRY. PDF `CV_Phuong Hoang_Apply for Billease (Lifecycle Management).pdf` (sửa 17/11/2026) mở bằng “TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE”, phần đo có A/B, holdout và cohort. PDF `CV_Phuong Hoang_Apply for ShopBack_Nov.26.pdf` (sửa 01/11/2026) mở bằng “TURNING RELATIONSHIPS INTO RECURRING REVENUE”, dễ đọc theo hướng doanh thu account. Chưa biết bản ShopBack thực tế đã nộp. [[skills/haji-career/references/haji-cv-builder|CV Builder]] [[skills/haji-career/references/haji-job-targeting|Job Targeting]]
+
+### Lương và mốc chốt
+
+Ngân sách ShopBack chưa biết. Adecco 2026, Digital Marketing Manager 5+ năm tại TP.HCM, ghi 50-90 triệu VND gross/tháng ở **Professional Services** (tr. 45) và 60-120 triệu ở FMCG (tr. 53). Lượt trước gán nhầm 50-90 cho Industrials. Đây là tham chiếu gián tiếp theo cấp bậc và địa điểm. Nghiên cứu lưu Jobstore 60-100 triệu VND/tháng với nhãn ước tính. Trang Jobstore bị chặn trong lượt này, mã tin và cấu phần gross/net, base/thưởng chưa rõ. Chưa chốt mức kỳ vọng từ các số này. [Adecco 2026](https://www.adecco.com/-/jssmedia/project/adecco/adeccovn/pdf/adecco-vietnam-salary-guide-2026.pdf) [Bàn giao nghiên cứu](projects/career/research/shopback-efc922d8-2026-11-27.md)
+
+Đề xuất Haji chốt brief v3 và rà biên nhận đến **18:00 ngày 28/11/2026, giờ Việt Nam**. Đây là mốc nội bộ, hạn ShopBack chưa xác nhận. Hai câu cho Haji và hai câu để dành khi có kênh được duyệt:
+
+1. Biên nhận Lever tháng 10 ghi mã hoặc URL nào?
+2. Haji chốt v3 theo lane, headline ưu tiên và cách xử lý Consultant/Golf House ở trên chứ? Nếu có một case rollout đa thị trường mạnh hơn Wavemoney, cho mình phần Haji quyết và kết quả đo được.
+3. TP.HCM còn suất đến ngày nào, KPI 90 ngày là gì và Regional/local ai chốt ưu đãi, thử nghiệm và rollout?
+4. Dải lương cố định gross/tháng và thưởng mục tiêu tại TP.HCM là bao nhiêu?
+
+### Bàn giao nghiên cứu trước khi tổng hợp
+
+Người nghiên cứu đề xuất giữ v3, với bốn điểm cần xác minh: mã đơn tháng 10, hạn và suất TP.HCM, KPI/quyền quyết Regional và local, lương cố định gross/thưởng. Tin LinkedIn do ShopBack đăng khớp phạm vi, mốc tương đối chưa xác định ngày mở ATS. Các ghi chép v1/v2 bên dưới giữ theo lịch sử, nhãn ngành của mốc Adecco xem phần lương v3. [Bàn giao nghiên cứu](projects/career/research/shopback-efc922d8-2026-11-27.md)
+
+## Brief đánh giá v2 | 27/11/2026 | Lịch sử
+
+Đề xuất giữ cơ hội ở bước xác minh, độ tin cậy vừa. JD và form Lever cùng mã `efc922d8-8f50-4059-8da3-4b8efadb4b0d` mở được khi kiểm trực tiếp ngày 27/11. Bản ghi tạo 18/09/2026, Regional CRM, full-time, tại văn phòng TP.HCM. Hạn nhận và số suất chưa xác minh. [JD chính thức](https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d)
+
+- Phần giống BillEase là kích hoạt giao dịch đầu, phân khúc hành vi, nuôi giao dịch lại bằng flow và đo tác động qua cohort/thử nghiệm. BillEase có điều kiện tín dụng và lịch trả góp. Với ShopBack, thiết kế flow phụ thuộc tracking, xác nhận cashback từ merchant và cách phối hợp ưu đãi với Commercial theo thị trường. KPI cụ thể là phần cần kiểm.
+- JD giao chiến lược và triển khai CRM cho 13 thị trường, từ campaign, segmentation, automation đến playbook, review cohort và mentor junior. Cần biết ai chốt KPI 90 ngày, roadmap, ngân sách ưu đãi và rollout giữa Regional và local. Ba tin cùng tên ở ba thành phố chưa cho biết tuyển mở rộng, thay người hay linh hoạt địa điểm.
+- Ngân sách ShopBack chưa công bố. Adecco 2026 cho mốc Digital Marketing Manager 5+ năm tại TP.HCM là 50-90 triệu VND gross/tháng ở Industrials và 60-120 triệu ở FMCG. Tin TVHs sát chức năng hơn, công bố 35-100 triệu VND gồm lương và bonus, nhưng yêu cầu 2+ năm, chưa rõ kỳ trả và gross/net.
+- Mã đơn tháng 10 chưa xác minh. Thư 05/11 thiếu chức danh, mã và lý do, lưu riêng trong lịch sử. Biên nhận tháng 10, headcount/hạn TP.HCM, quyền quyết và base gross/thưởng mục tiêu là các dữ kiện có thể đổi quyết định.
+
+[Bản nghiên cứu và nguồn](projects/career/research/shopback-efc922d8-2026-11-27.md)
+
+## Brief đánh giá v1 | 27/11/2026 | Lịch sử
+
+Đề xuất giữ cơ hội để đánh giá có điều kiện. Lever xác nhận Lifecycle Marketing Manager tại TP.HCM, full-time, on-site, đội Regional CRM, cùng mã `efc922d8-8f50-4059-8da3-4b8efadb4b0d` tạo 18/09/2026. Tin và form đang hiển thị khi kiểm 27/11. Hạn tuyển, headcount và ngân sách chưa xác minh. [JD chính thức](https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d)
+
+- Trọng tâm đánh giá là quyền đặt ưu tiên CRM khu vực, thực thi lifecycle và đo tăng trưởng bằng cohort, cùng khả năng nhân rộng playbook với đội địa phương. JD giao sở hữu chiến lược 13 thị trường. Quyền quyết ngân sách, KPI và rollout cần xác minh.
+- Điểm chuyển được từ BillEase là kích hoạt giao dịch đầu, phân khúc hành vi, tăng giao dịch lại và thử nghiệm. ShopBack cần xử lý thêm tracking và xác nhận cashback của merchant, kinh tế ưu đãi và triển khai đa thị trường. [Bản nghiên cứu](projects/career/research/shopback-efc922d8-2026-11-27.md)
+- Mốc gián tiếp tại TP.HCM là 50-90 triệu VND gross/tháng cho Digital Marketing Manager 5+ năm ở Industrials và 60-120 triệu ở FMCG. Cấu phần cố định và thưởng chưa xác minh. Ngân sách ShopBack chưa công bố. [Adecco Vietnam Salary Guide 2026](https://www.adecco.com/-/jssmedia/project/adecco/adeccovn/pdf/adecco-vietnam-salary-guide-2026.pdf)
+- Mã đơn tháng 10 chưa xác minh. Thư 05/11 thiếu vị trí, mã và lý do, nên giữ riêng trong lịch sử. Các nhận định ở mục kiểm thử bên dưới thuộc các lượt trước.
+
+Bốn dữ kiện có thể đổi quyết định là mã trên biên nhận tháng 10, headcount/hạn mở tại TP.HCM, KPI 90 ngày và quyền quyết giữa Regional với local, cùng dải base gross và thưởng mục tiêu. Chờ Haji chốt brief v1.
+
+## Kiểm thử Nhịp 1 ngày 27/11/2026
+
+**Xác minh trước khi tiếp cận lại. Capability 7/10, Direction 7/10.** Đây là đánh giá của Javis Core theo quy trình hiện hành. Phần việc cốt lõi khớp lane CRM / Lifecycle. Chênh lệch chính là bằng chứng về quyền quyết và KPI B2C chung giữa các thị trường. Direction 7 vì đây là bước đệm để sở hữu CRM B2C in-house, với điều kiện vai trò thực sự có quyền đặt ưu tiên và triển khai cùng các đội địa phương. Điểm 25/11 được giữ trong lịch sử.
+
+### Chức danh, mã tin và trạng thái
+
+- Lever API ngày 27/11 trả chức danh **Lifecycle Marketing Manager**, đội Regional CRM, TP.HCM, cùng mã `efc922d8-8f50-4059-8da3-4b8efadb4b0d`, tạo ngày 18/09. Các nhiệm vụ và tiêu chí khớp bản Haji dán. Phạm vi đơn tháng 10 và thư 05/11 vẫn chưa xác minh. [Bản ghi chính thức trên Lever](https://api.lever.co/v0/postings/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d?mode=json)
+- Đã thử tìm thư xác nhận đơn. Kết nối Google Workspace trả lỗi Gmail API chưa được bật cho dự án. Email 05/11 được giữ làm dữ kiện lịch sử chưa gắn với mã tuyển, tách khỏi căn cứ chấm điểm.
+
+### Điều chuyển được từ Billease
+
+CV Billease đã gửi mở bằng “CRM & LIFECYCLE | TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE”. Bản PDF đọc cho lượt kiểm thử là `CV_Phuong Hoang_Apply for Billease (Lifecycle Management).pdf`. Trục dùng lại là chọn cohort từ hành vi, kích hoạt giao dịch đầu, kéo khách quay lại và đo tác động tăng thêm bằng nhóm đối chứng. Với ShopBack, giả thuyết ứng dụng là chuyển từ giao dịch đầu sang mua lại qua ưu đãi đối tác và phần thưởng, thử theo cohort rồi chuẩn hóa cách làm cho đội địa phương. KPI thực tế, ngân sách ưu đãi và quyền phân bổ theo thị trường cần hỏi ShopBack. [[skills/haji-career/references/haji-cv-evidence-bank|Kho dữ kiện CV, mục D và E3]]
+
+| Việc ShopBack cần | Việc Haji đã làm | Mức khớp |
+|---|---|---|
+| Ưu đãi và phần thưởng để kéo khách quay lại | Taptap dùng điểm, voucher và ưu đãi sau đợt thu hút lượt cài app. | Khớp cơ chế. Chưa có số retention được duyệt cho case này. |
+| Thiết kế phân khúc, chiến dịch, hành trình | Sacombank: Haji phụ trách phân khúc 4 tầng từ hơn 350.000 bản ghi. MAU chương trình tăng 35% so với trước. Bằng chứng bổ trợ là triển khai 9 kênh ở Insider One. | Mạnh ở thiết kế và thực thi. Mức tăng MAU là kết quả chương trình của ngân hàng. |
+| Thử nghiệm, đọc cohort và quyết định mở rộng | SonKim Fashion làm thử nghiệm nội dung theo phân khúc, tỷ lệ chuyển đổi email từ 2,4% lên hơn 3,0%. Haji thiết lập baseline và holdout phù hợp, đọc phễu và cohort hằng tuần với đội CRM. | Mạnh ở cách thử và đọc số. Chưa có ví dụ chọn thị trường để mở rộng dựa trên kết quả. |
+| Chuẩn hóa playbook và hướng dẫn đội địa phương | Khung nội dung duyệt trước cho Wavemoney, U-money, Unitel để đội địa phương tự mở rộng. Haji từng dẫn 3 CSM, 1 người lên Enterprise CS. | Có bằng chứng chuyển giao và coaching. Khung được dùng ở nhiều đội, chưa xác nhận một KPI CRM khu vực do Haji sở hữu. |
+| CRM tooling và phối hợp Product, Data, Tech, Commercial | Insider One và kinh nghiệm phối hợp 9 kênh. Bamboo Airways: dựng master data, thống nhất data ownership giữa Marketing, IT và Data, giảm khoảng 40% thời gian setup. Có kinh nghiệm mang đề xuất sản phẩm lên đội global. | Mạnh ở CRM tooling và quyết định kỹ thuật. Cần ví dụ về quyền quyết ưu tiên với lãnh đạo Commercial theo từng thị trường. |
+| AI để cải thiện cách làm | Chuyển phần lặp lại của báo cáo sang luồng AI, giữ phần kiểm số và diễn giải cho người phụ trách. | Có ví dụ để giải thích cách làm. Số 4 ngày xuống 1 ngày dành cho phỏng vấn theo kho dữ kiện. |
+
+Nguồn đối chiếu: CV Billease đã gửi, [[skills/haji-career/references/haji-cv-evidence-bank|Kho dữ kiện CV, mục D, E1, E3, E4]], [[skills/haji-career/references/haji-job-targeting|Định hướng và lịch sử ứng tuyển]], [[skills/haji-career/references/haji-cv-builder|Quy ước viết CV]].
+
+### Định vị nếu quyết định theo
+
+- Lane CRM / Lifecycle, dùng Billease làm nền nội dung. Mở bằng 11 năm làm digital, trong đó 7 năm CRM/lifecycle. Luận điểm là biến hành vi khách mua thành các chương trình giao dịch lại có thể thử, đo và triển khai ở nhiều đội. Giọng trực tiếp và cụ thể về phần Haji quyết, làm và đo.
+- Headline ưu tiên từ Billease: **CRM & LIFECYCLE | TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE**. Phương án bám sát ShopBack: **CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS**.
+- Mở Experience bằng Taptap, SonKim Fashion và cụm Wavemoney/U-money/Unitel. Dùng Sacombank ngay sau đó để chứng minh quy mô và kết quả. Ưu tiên 2 cột nếu có người giới thiệu, 1 cột nếu cần ATS. Giữ Consultant ngắn để giải thích công việc hiện tại và bổ trợ cách dùng AI. Bỏ Golf House khỏi bản dành cho vai này.
+- Phản biện như người tuyển: ví dụ nhiều nước phải cho thấy Haji quyết phần nào, đội địa phương sửa phần nào, và tiêu chí nào quyết định mở rộng. CV Billease là nguồn định vị và case. Các cụm “working inside each team as its own CRM lead”, G2 ranking, 73% gia hạn và ví dụ AI 4 ngày xuống 1 ngày cần rà theo giới hạn công bố trước khi dùng lại. Phân biệt retention của người mua với gia hạn chương trình của doanh nghiệp.
+- Haji cần chốt hai dữ kiện có thể đổi bước tiếp theo: mã trong xác nhận Lever của đơn tháng 10, và một ví dụ Haji trực tiếp quyết cách nhân rộng CRM giữa các thị trường, với chỉ số hoặc tiêu chí đã dùng. Nếu xác nhận đây là mã của đơn cũ, ưu tiên hỏi qua người giới thiệu khi có luận điểm hoặc bằng chứng mới đủ mạnh. Chưa có hạn tuyển xác nhận. Chờ Haji chốt trước khi viết hay liên hệ.
+
+### Kết quả kiểm thử vận hành
+
+| Hạng mục | 25/11 | 27/11 |
+|---|---|---|
+| Phân công thực tế | Người tổng hợp nghiên cứu → Trợ lý sự nghiệp. Run `75556f9c439a4212b568783b5a843330` chạy 21:21–21:28. | Một bước, Trợ lý sự nghiệp. Run `bbe2471062244978afa8caca298edf91`, việc `t_23539c1af51d`. |
+| Kết quả | Có hồ sơ. Nghiệm thu yêu cầu sửa suy luận thư 05/11. Run sửa `08becff1f353400c9c91303d643d1440` chạy 21:29–21:31. | Lần đầu và hai lần chạy lại cùng dừng lúc 18:51 vì hết hạn mức Claude Code. Hai run sau là `1c63a7a100a94e49bc3a4e21b91e1e31` và `0ce7a1c20b5347b1ba8540f5136ae434`. Javis Core hoàn tất Nhịp 1 ngay trong lượt kiểm thử. |
+| Kết luận kiểm thử | Có mốc so sánh về số bước và vòng sửa. | Đã giảm một bước định tuyến và không cần bàn giao nghiên cứu trong thiết kế. Chưa đo được thời gian hoặc số vòng sửa của workflow mới. Danh sách Team của brain không có Team Career, nên lượt này đo workflow và vai trò đầu mối. Nhịp 2 chờ duyệt. |
+
+Tệp thực thi hiện giao cả hai nhịp cho Trợ lý sự nghiệp. Mục “Quy trình trong Javis” của brief Career vẫn mô tả phân công Gemini/Copywriter theo thiết kế cũ. Cần đồng bộ mô tả khi chốt cấu hình vận hành. [[projects/career/README|Brief Career]]
 
 ## Lịch sử hồ sơ
 
+- 2026-11-27 · Chạy lại Nhịp 1 theo yêu cầu Haji. Hoàn tất đối chiếu và kế hoạch CV trong brief v3, giữ điểm 7 / 7 của lượt kiểm thử. Sửa nhãn ngành của mốc Adecco 50-90. Chờ duyệt v3.
 - 2026-11-25 · Bước 1 (Research Synthesist): gói bằng chứng, giả thuyết và điểm sơ bộ. Chưa có brief. Bước 2 (Trợ lý sự nghiệp) chấm chính thức và quyết định có lập brief.
 - 2026-11-25 · Bước 2 (Trợ lý sự nghiệp): kiểm lại ngày tạo tin qua Lever API, chấm chính thức Capability 6 / Direction 6,5, kết luận **xác minh thêm**, chưa lập brief. Không liên hệ, không nộp. Xem mục "Bước 2" cuối file.
 - 2026-11-25 · Sửa sau nghiệm thu: bỏ chỗ bước 2 coi thư 05/11 là lần bị dừng ở đúng vai này và suy ra người lọc đã thấy khoảng trống. Thư không nêu vị trí, mã tin hay lý do. Điểm giữ nguyên, căn cứ hạ điểm chuyển sang JD và bảng đối chiếu. Xem mục "Phạm vi bằng chứng của thư 05/11" trong bước 2.
@@ -252,3 +517,32 @@ Căn cứ: (1) Capability 6 và Direction 6,5 đặt cơ hội ở ô trung bìn
 2. Có người quen đang hoặc từng làm ở ShopBack không. Nếu không, đồng ý dừng ShopBack ở đây?
 3. Có chấp nhận một vai Manager hands-on in-house (không quản đội) nếu lane đích chậm không, và mức lương tối thiểu.
 4. Trong tháng 10-11/2026 Haji có nộp đơn ShopBack nào khác ngoài Regional CRM Manager không. Chỉ khi chắc chỉ có một đơn (hoặc email xác nhận Lever khớp mã) mới ghi "dừng 05/11" vào ô kết quả của đơn này trong lịch sử nộp và bảng tiến độ; trước đó ô kết quả giữ "?".
+
+## CV v2 (27/11/2026 21:30): khôi phục từ BillEase
+
+Haji chỉ ra v1.3 hụt khoảng 1/3 nội dung so với BillEase dù JD cùng lane. v1.3 (`1nqTBVv4G-oaf2UgO5iZngdAN46qyHaIBN9RlBoMAsLY`) bỏ, không dùng. Bản mới [CV_Phuong Hoang_Apply for ShopBack](https://docs.google.com/presentation/d/1ii4EiB-fzUCdVx4u1Tge1fNjrlHgf-bjKJhkBvP3Bao/edit) sao chép nguyên deck BillEase 17/11, chỉ sửa 5 chỗ:
+- Headline theo phương án 2 Haji chốt.
+- Câu cuối summary: "consumer credit product, remotely" thành "regional CRM for a consumer rewards platform across markets".
+- Bỏ số AI 4 ngày còn 1 (kho dữ kiện: chỉ dùng khi phỏng vấn).
+- Skills "SQL & cohort review" thành "Lifecycle performance reviews" (Red List: SQL trong skills).
+- Bullet Viettel thay bằng TP Bank cross-sell 68% (Red List: Viettel example).
+Đã xem bản hiển thị 2 trang, không tràn chữ.
+
+## CV v2.1 (27/11/2026 21:40): summary, bỏ Consultant, nhóm việc theo JD ShopBack
+
+Haji chê v2: summary đọc bị hạ cấp, còn mục Consultant, tên nhóm việc giữ nguyên của BillEase nên đọc như trả bài. Đã sửa trên `1ii4EiB-fzUCdVx4u1Tge1fNjrlHgf-bjKJhkBvP3Bao`:
+- Summary bỏ công thức "[Lane] professional with an 11-year career", viết ở tầm người sở hữu chiến lược lifecycle cho 70+ tổ chức và trực tiếp triển khai, kết bằng regional CRM 13 thị trường.
+- Bỏ toàn bộ mục Consultant.
+- 7 tên nhóm việc đổi theo chức năng JD ShopBack: Lifecycle campaigns, segmentation and flows; Engagement and retention; Playbooks and content standards across markets; Experimentation and performance reviews; CRM data, tooling and automation; Product partnership and AI workflows; Team capability and influence. Bullet "Advised banks..." bỏ phần sản phẩm tín dụng. Top Skills thay 2 mục đặc thù BillEase bằng Loyalty & rewards mechanics, Activation & repeat purchase.
+- Bài học: bản nền là sàn về nội dung, nhưng tên nhóm việc và summary phải viết lại theo chức năng của JD mới, không thừa kế từ JD cũ.
+
+## CV ATS v1 (27/11/2026 22:02): nộp portal ShopBack
+
+- File: [CV_Phuong Hoang_Apply for ShopBack (ATS).docx](https://drive.google.com/file/d/1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD/view), format ATS 1 cột theo bản NAB (Calibri, heading đỏ 980000, bullet numPr). Nội dung nền là v2.1, không cắt nhóm việc nào.
+- Summary viết lại quanh năng lực nổi bật: kéo Marketing, Product, Tech, Data, Compliance của client và sales, onboarding, product, operations của Insider về một mục tiêu là doanh thu của client.
+- Gap 1 (vendor): thêm dòng "Cross-functional leadership" ngay dưới Scope.
+- Gap 2 (3 vs 13 thị trường): dòng "Markets" ghi playbook, concept và planning dùng chung trên mạng lưới 13 thị trường của Insider. Bỏ dòng "3 markets" trong Highlights.
+- Gap 3 (Braze/SFMC): nhóm "CRM platforms, data and migration" có migration từ CleverTap, Salesforce, Klaviyo và dòng nắm sâu Insider One, CleverTap, MoEngage. Salesforce đã vào Tools.
+- 35%: chỉ còn ở Highlights và case Sacombank (MAU). CellphoneS đổi sang engagement 74% lên 86% và 2x doanh thu kênh. Summary không còn 35%.
+- Gap 4 (quy mô user): chưa có số được phép dùng, đang chờ Haji.
+- Chờ Haji: client nào ứng với migration CleverTap và Salesforce; một con số quy mô user hoặc tần suất gửi được phép đưa lên CV.

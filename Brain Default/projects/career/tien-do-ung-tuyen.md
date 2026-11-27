@@ -33,6 +33,18 @@ Lịch sử còn ghi AIA Vietnam (Senior Manager, Customer Solutions & Business 
 
 [[skills/haji-career/references/haji-job-targeting|Lịch sử ứng tuyển]]
 
+## Cơ hội cần xác minh trước khi tiếp cận lại
+
+| Công ty | Vị trí | Trạng thái | Việc tiếp theo | Mốc |
+|---|---|---|---|---|
+| ShopBack | Lifecycle Marketing Manager, Regional CRM, TP.HCM | Kiểm 27/11: Lever còn hiển thị JD và form mã `efc922d8`, bản ghi tạo 18/09. Đơn tháng 10 chưa rõ mã. Thư 05/11 thiếu vị trí, mã và lý do. | Theo có điều kiện, Capability 8 / Direction 7. Brief v5 chờ duyệt. CV v1.2 theo brief v4 đã nghiệm thu ở lượt trước, vẫn chờ Haji duyệt và chưa gửi. Đối chiếu biên nhận, chốt v5 rồi quyết định kênh và xác minh suất. [Hồ sơ ShopBack](projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md) | 18:00 ICT ngày 28/11 (mốc nội bộ). Hạn tuyển chưa xác nhận. [Nghiên cứu](projects/career/research/shopback-efc922d8-2026-11-27.md) |
+
+## Cơ hội chờ duyệt trước khi nộp
+
+| Công ty | Vị trí | Trạng thái | Việc tiếp theo | Mốc |
+|---|---|---|---|---|
+| Zalo | Head of Business, Zalo Open Platform | Theo, Capability 7 / Direction 7,5. Brief v3 duyệt ngày 26/11 lúc 15:53. [Deck v3](https://docs.google.com/presentation/d/14e42TO7hSaA0zaDHoIeIUbOYI_B28PZkEtRVo2rcEfY/edit) đã kiểm hai trang, chờ Haji duyệt, chưa xuất PDF, chưa nộp. Bản cấp Head ngày 27/11 đang chờ duyệt riêng. | Haji chọn và duyệt bản gửi cho portal zalo.careers. [Hồ sơ cơ hội](projects/career/co-hoi/zalo-head-of-business-open-platform.md) | 18:00 ngày 28/11 (mốc nội bộ đề xuất). Chưa thấy hạn tuyển công bố. |
+
 ## Bản nháp Zalo gửi Phượng
 
 Trạng thái: chờ Haji duyệt. Chưa gửi qua Zalo.

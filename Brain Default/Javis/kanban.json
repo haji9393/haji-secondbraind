@@ -213,23 +213,23 @@
       "capability": "external-write",
       "execution_mode": "full",
       "priority": 2,
-      "status": "blocked",
+      "status": "cancelled",
       "needs_approval": false,
-      "block_kind": "transient",
-      "block_reason": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 2 giờ 56 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models.",
+      "block_kind": "cancelled",
+      "block_reason": "worker cancelled",
       "created_by": "chat",
       "chat_id": "609887335",
       "idempotency_key": "",
-      "attempts": 3,
+      "attempts": 4,
       "max_attempts": 3,
       "claimed_by": "",
       "claim_expires_at": 0.0,
       "not_before": 0.0,
-      "last_heartbeat_at": 1795684384.715169,
+      "last_heartbeat_at": 1795785941.7972732,
       "current_run_id": "",
       "result": "",
       "created_at": 1795683248.447606,
-      "updated_at": 1795684384.715169,
+      "updated_at": 1795785953.419402,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -301,6 +301,18 @@
         {
           "ts": "2026-11-26 16:13",
           "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 2 giờ 56 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 20:25",
+          "msg": "blocked -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-27 20:25",
+          "msg": "claimed by worker:865:c9db69fa"
+        },
+        {
+          "ts": "2026-11-27 20:25",
+          "msg": "worker cancelled"
         }
       ]
     },
@@ -313,10 +325,10 @@
       "capability": "external-write",
       "execution_mode": "full",
       "priority": 2,
-      "status": "blocked",
+      "status": "cancelled",
       "needs_approval": false,
-      "block_kind": "transient",
-      "block_reason": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 1 giờ 22 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models.",
+      "block_kind": "",
+      "block_reason": "",
       "created_by": "chat",
       "chat_id": "web:82c2c1bba4b04312b9c02843b70d4491",
       "idempotency_key": "",
@@ -329,7 +341,7 @@
       "current_run_id": "",
       "result": "",
       "created_at": 1795690007.166782,
-      "updated_at": 1795690035.19871,
+      "updated_at": 1795790276.5164301,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -397,6 +409,10 @@
         {
           "ts": "2026-11-26 17:47",
           "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 1 giờ 22 phút nữa mới lại dùng được (tầm 19:10, nhà cung cấp nói: resets 7:10pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 21:37",
+          "msg": "blocked -> cancelled: operator cancel (chat): Haji yêu cầu huỷ"
         }
       ]
     },
@@ -409,10 +425,10 @@
       "capability": "external-write",
       "execution_mode": "full",
       "priority": 2,
-      "status": "blocked",
+      "status": "cancelled",
       "needs_approval": false,
-      "block_kind": "transient",
-      "block_reason": "Hết lượt gói ChatGPT (Codex). Khoảng 1 giờ 34 phút nữa mới lại dùng được (tầm 19:36, nhà cung cấp nói: try again at 7:36 PM.). Đang chờ thì đổi tạm sang Claude Code, Google Gemini (API) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Copywriter\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models.",
+      "block_kind": "",
+      "block_reason": "",
       "created_by": "chat",
       "chat_id": "web:82c2c1bba4b04312b9c02843b70d4491",
       "idempotency_key": "",
@@ -425,7 +441,7 @@
       "current_run_id": "",
       "result": "",
       "created_at": 1795690204.955848,
-      "updated_at": 1795690861.64563,
+      "updated_at": 1795790277.2096472,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -501,9 +517,441 @@
         {
           "ts": "2026-11-26 18:01",
           "msg": "Hết lượt gói ChatGPT (Codex). Khoảng 1 giờ 34 phút nữa mới lại dùng được (tầm 19:36, nhà cung cấp nói: try again at 7:36 PM.). Đang chờ thì đổi tạm sang Claude Code, Google Gemini (API) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Copywriter\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 21:37",
+          "msg": "blocked -> cancelled: operator cancel (chat): Haji yêu cầu huỷ"
+        }
+      ]
+    },
+    {
+      "id": "t_23539c1af51d",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Kiểm thử workflow Career với ShopBack Regional CRM Manager",
+      "intent": "Haji yêu cầu chứng minh workflow và team đã được tối ưu qua JD ShopBack Regional CRM Manager, nhận xét rất giống Billease. Chạy Nhịp 1 thực tế theo workflow hiện hành. JD Haji dán khớp các chức năng trong hồ sơ projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md (mã trong bản dán chưa có). Yêu cầu JD: sở hữu chiến lược và thực thi lifecycle 13 thị trường; trực tiếp chạy campaign, segmentation, flows; playbook B2C đa thị trường; tooling/automation với Product, Data, Tech; cohort review và thực nghiệm; mentor junior; ảnh hưởng marketing/product/commercial; demonstrable AI workflow. Đọc CV Billease bản PDF đã gửi trong Downloads bằng PDFKit, kho dữ kiện, lịch sử và hồ sơ ShopBack. Cập nhật hồ sơ ShopBack hiện có và dòng tiến độ nếu phù hợp, giữ lịch sử. Đối chiếu quyết định cũ ngày 25/11; không gán thư 05/11 vào vai/mã cụ thể, không tự giả định đây là tin mới hoặc đủ điều kiện nộp lại. Nêu rõ cơ chế repeat business chuyển giao từ Billease, điểm ShopBack khác, bằng chứng định lượng và hạn chế về ownership regional; đề xuất headline và case có thể dùng, kể cả khi kết luận xác minh thêm; ghi dấu đầu vào, đầu ra, thời gian và phần còn cần Haji xác nhận. Dừng ở Nhịp 1, không viết CV hoặc liên hệ.",
+      "route": "wf:career-danh-gia-co-hoi",
+      "capability": "files",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "cancelled",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:27b0b6907b8c4a1c9a53f30cc535f090",
+      "idempotency_key": "",
+      "attempts": 5,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795786884.961884,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795780270.1536121,
+      "updated_at": 1795790156.113462,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Một hồ sơ cơ hội hiện có, cập nhật có ngày và không làm mất lịch sử hay ghi lặp dòng tiến độ.",
+          "Đối chiếu theo chức năng, có bằng chứng từ bản Billease và kho dữ kiện, phân biệt trách nhiệm và kết quả khách hàng.",
+          "Nêu Capability/Direction có căn cứ, điểm khác với Billease và bước tiếp theo có điều kiện, hỏi tối đa 3 câu.",
+          "Dừng trước CV và liên hệ. Báo thời gian và các bước thực chạy, không khẳng định team chạy nếu chỉ có một agent."
+        ],
+        "acceptance": [
+          "Một hồ sơ cơ hội hiện có, cập nhật có ngày và không làm mất lịch sử hay ghi lặp dòng tiến độ.",
+          "Đối chiếu theo chức năng, có bằng chứng từ bản Billease và kho dữ kiện, phân biệt trách nhiệm và kết quả khách hàng.",
+          "Nêu Capability/Direction có căn cứ, điểm khác với Billease và bước tiếp theo có điều kiện, hỏi tối đa 3 câu.",
+          "Dừng trước CV và liên hệ. Báo thời gian và các bước thực chạy, không khẳng định team chạy nếu chỉ có một agent."
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "tro-ly-su-nghiep",
+          "name": "Trợ lý sự nghiệp",
+          "key": "ag_3af3e2ec72d49c55"
+        },
+        "route": "wf:career-danh-gia-co-hoi",
+        "capability": "files",
+        "run_seconds": 341,
+        "acceptance_from": "done",
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Báo cáo không nêu thời gian chạy và các bước đã thực chạy, cũng không nói rõ phần 'Bàn giao của Người nghiên cứu' lúc 20:28 là do một agent khác chạy thật hay chỉ một agent tự làm. Vì vậy điều kiện báo thời gian và bước thực chạy chưa đạt, dù hồ sơ, dòng tiến độ, bảng đối chiếu, điểm Capability/Direction và 3 câu hỏi đều đạt.",
+            "a": "Báo cáo không nêu thời gian chạy và các bước đã thực chạy, cũng không nói rõ phần 'Bàn giao của Người nghiên cứu' lúc 20:28 là do một agent khác chạy thật hay chỉ một agent tự làm. Vì vậy điều kiện báo thời gian và bước thực chạy chưa đạt, dù hồ sơ, dòng tiến độ, bảng đối chiếu, điểm Capability/Direction và 3 câu hỏi đều đạt.",
+            "by": "checker",
+            "asked_at": 1795786322.592779,
+            "answered_at": 1795786322.592779,
+            "progress": "**Theo có điều kiện. Capability 8/10, Direction 7/10, độ tin cậy vừa.** Giữ kết luận ngày 25/11 là xác minh trước khi tiếp cận lại ShopBack. Điểm tăng từ 6 / 6,5 sau khi Haji xác nhận đã lặp lại bốn nhóm việc CRM cốt lõi trên nhiều khách hàng và thị trường. Direction 7 nếu vai có quyền đặt ưu tiên, chọn thử nghiệm và quyết định nhân rộng cùng các đội địa phương.\n\nLever vẫn hiển thị JD và form cho **Lifecycle Marketing Manager, Regional CRM, on-site TP.HCM**, mã `efc922d8`, bản ghi tạo ngày 18/09. Bản Haji dán khớp chức năng và thiếu mã. Đơn tháng 10 vẫn chờ biên nhận. Thư 05/11 chỉ xác nhận ShopBack dừng một hồ sơ và thiếu vị trí, mã, lý do. Hạn tuyển, suất thực tế và điều kiện nộp lại đều chưa xác minh. [JD Lever](https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d) · [Đối chiếu nguồn và lịch sử](projects/career/research/shopback-efc922d8-2026-11-27.md)\n\n| Chức năng JD | Việc Haji đã làm | Mức khớp |\n|---|---|---|\n| Campaign, segmentation, flows | Triển khai trên 9 kênh. Với Sacombank, phụ trách phân khúc 4 tầng từ 350.000+ bản ghi. MAU app tăng 35% so với trước chương trình. | Mạnh |\n| Cohort và thử nghiệm | Đọc cohort, chạy A/B và holdout. Với SonKim Fashion, thử nội dung theo phân khúc, tỷ lệ chuyển đổi email từ 2,4% lên hơn 3,0%. | Mạnh |\n| Tooling và automation | Với Bamboo Airways, dựng khung dữ liệu và thống nhất trách nhiệm giữa Marketing, IT và Data. Thời gian setup giảm khoảng 40%. | Mạnh |\n| Playbook đa thị trường | Dựng khung nội dung duyệt trướ"
+          }
+        ],
+        "acceptance_fixes": 1
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "claimed by worker:865:c6158aa4"
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "capability=files"
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "claimed by worker:865:e1a84109"
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 48 phút nữa mới lại dùng được (tầm 19:40, nhà cung cấp nói: resets 7:40pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "claimed by worker:865:bdf90bbb"
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 48 phút nữa mới lại dùng được (tầm 19:40, nhà cung cấp nói: resets 7:40pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "claimed by worker:865:f92a3fe7"
+        },
+        {
+          "ts": "2026-11-27 18:51",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 48 phút nữa mới lại dùng được (tầm 19:40, nhà cung cấp nói: resets 7:40pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 20:26",
+          "msg": "blocked -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-27 20:26",
+          "msg": "claimed by worker:865:d1ebbf49"
+        },
+        {
+          "ts": "2026-11-27 20:32",
+          "msg": "Báo cáo không nêu thời gian chạy và các bước đã thực chạy, cũng không nói rõ phần 'Bàn giao của Người nghiên cứu' lúc 20:28 là do một agent khác chạy thật hay chỉ một agent tự làm. Vì vậy điều kiện báo thời gian và bước thực chạy chưa đạt, dù hồ sơ, dòng tiến độ, bảng đối chiếu, điểm Capability/Direction và 3 câu hỏi đều đạt."
+        },
+        {
+          "ts": "2026-11-27 20:32",
+          "msg": "claimed by worker:865:762741f6"
+        },
+        {
+          "ts": "2026-11-27 20:34",
+          "msg": "Hết lượt gói ChatGPT (Codex). Khoảng 2 giờ 40 phút nữa mới lại dùng được (tầm 23:15, nhà cung cấp nói: try again at 11:15 PM.). Đang chờ thì đổi tạm sang Claude Code, Google Gemini (API) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 20:39",
+          "msg": "blocked -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-27 20:39",
+          "msg": "claimed by worker:865:0b0cbcf6"
+        },
+        {
+          "ts": "2026-11-27 20:41",
+          "msg": "Hết lượt gói ChatGPT (Codex). Khoảng 2 giờ 33 phút nữa mới lại dùng được (tầm 23:15, nhà cung cấp nói: try again at 11:15 PM.). Đang chờ thì đổi tạm sang Claude Code, Google Gemini (API) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 21:35",
+          "msg": "blocked -> cancelled: operator cancel (chat): Haji yêu cầu huỷ để không tự chạy lại và sửa đè CV ShopBack"
+        }
+      ]
+    },
+    {
+      "id": "t_3d72f30bb369",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Career - Đánh giá cơ hội ShopBack",
+      "intent": "Chạy workflow đánh giá mới cho JD ShopBack, Lifecycle Marketing Manager (tên cũ Regional CRM Manager), TP.HCM, đội Regional CRM. JD chính thức theo mã: https://api.lever.co/v0/postings/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d?mode=json. Hạn chưa biết. Trọng tâm JD Haji gửi: sở hữu CRM lifecycle 13 thị trường, triển khai campaign/segmentation/flows, playbook B2C đa thị trường, tooling và automation với Product/Data/Tech, cohort và thử nghiệm, mentor junior, ảnh hưởng Commercial, AI cải thiện workflow. Haji nhận xét giống Billease; đối chiếu điểm chuyển được và phần khác. Cập nhật đúng hồ sơ projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md và dòng ShopBack có sẵn trong bảng tiến độ, giữ lịch sử. Mã đơn tháng 10 chưa xác minh; thư 05/11 không nêu vị trí, mã hay lý do. Dừng ở đề xuất đánh giá và phiên bản brief chờ Haji chốt; không viết CV, liên hệ hay nộp.",
+      "route": "wf:career-danh-gia-co-hoi",
+      "capability": "research",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "cancelled",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:27b0b6907b8c4a1c9a53f30cc535f090",
+      "idempotency_key": "",
+      "attempts": 3,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795781511.775755,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795781151.221526,
+      "updated_at": 1795790157.06193,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Người nghiên cứu bàn giao kết quả về việc, công ty, đội và lương, có nguồn, ngày kiểm và ghi rõ phần chưa xác minh.",
+          "Trợ lý sự nghiệp đối chiếu JD với bằng chứng nghề nghiệp, nêu điểm Capability/Direction, so sánh với Billease, bước kế tiếp và brief có phiên bản chờ Haji chốt.",
+          "Cập nhật hồ sơ ShopBack và dòng tiến độ hiện có, không gán thư 05/11 vào một mã tin khi thiếu bằng chứng. Dừng trước viết CV và liên hệ."
+        ],
+        "acceptance": [
+          "Người nghiên cứu bàn giao kết quả về việc, công ty, đội và lương, có nguồn, ngày kiểm và ghi rõ phần chưa xác minh.",
+          "Trợ lý sự nghiệp đối chiếu JD với bằng chứng nghề nghiệp, nêu điểm Capability/Direction, so sánh với Billease, bước kế tiếp và brief có phiên bản chờ Haji chốt.",
+          "Cập nhật hồ sơ ShopBack và dòng tiến độ hiện có, không gán thư 05/11 vào một mã tin khi thiếu bằng chứng. Dừng trước viết CV và liên hệ."
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "tro-ly-su-nghiep",
+          "name": "Trợ lý sự nghiệp",
+          "key": "ag_3af3e2ec72d49c55"
+        }
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-27 19:05",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-27 19:05",
+          "msg": "claimed by worker:865:2ec9d0f3"
+        },
+        {
+          "ts": "2026-11-27 19:06",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-27 19:06",
+          "msg": "claimed by worker:865:a85e8b15"
+        },
+        {
+          "ts": "2026-11-27 19:08",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 31 phút nữa mới lại dùng được (tầm 19:40, nhà cung cấp nói: resets 7:40pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 19:08",
+          "msg": "claimed by worker:865:2537d2d0"
+        },
+        {
+          "ts": "2026-11-27 19:10",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 29 phút nữa mới lại dùng được (tầm 19:40, nhà cung cấp nói: resets 7:40pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 19:10",
+          "msg": "claimed by worker:865:da66a784"
+        },
+        {
+          "ts": "2026-11-27 19:11",
+          "msg": "Hết lượt gói Claude (Claude Code) trong cửa sổ 5 giờ. Khoảng 28 phút nữa mới lại dùng được (tầm 19:40, nhà cung cấp nói: resets 7:40pm (Asia/Saigon)). Đang chờ thì đổi tạm sang Google Gemini (API), OpenAI OAuth (ChatGPT) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Trợ lý sự nghiệp\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 21:35",
+          "msg": "blocked -> cancelled: operator cancel (chat): Haji yêu cầu huỷ để không tự chạy lại và sửa đè CV ShopBack"
+        }
+      ]
+    },
+    {
+      "id": "t_f96c336f8e1e",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Chạy lại Career - Đánh giá cơ hội ShopBack",
+      "intent": "Chạy workflow đánh giá mới cho JD ShopBack, Lifecycle Marketing Manager (tên cũ Regional CRM Manager), TP.HCM, đội Regional CRM. JD chính thức theo mã: https://api.lever.co/v0/postings/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d?mode=json. Hạn chưa biết. Trọng tâm JD Haji gửi: sở hữu CRM lifecycle 13 thị trường, triển khai campaign/segmentation/flows, playbook B2C đa thị trường, tooling và automation với Product/Data/Tech, cohort và thử nghiệm, mentor junior, ảnh hưởng Commercial, AI cải thiện workflow. Haji nhận xét giống Billease; đối chiếu điểm chuyển được và phần khác. Cập nhật đúng hồ sơ projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md và dòng ShopBack có sẵn trong bảng tiến độ, giữ lịch sử. Mã đơn tháng 10 chưa xác minh; thư 05/11 không nêu vị trí, mã hay lý do. Dừng ở đề xuất đánh giá và phiên bản brief chờ Haji chốt; không viết CV, liên hệ hay nộp. Đây là lượt chạy lại theo yêu cầu của Haji. Tận dụng và xác minh nghiên cứu đã có tại projects/career/research/shopback-efc922d8-2026-11-27.md. Người nghiên cứu chỉ bàn giao chứng cứ; Trợ lý sự nghiệp tổng hợp và quyết định, tái dùng phiên bản brief nếu nội dung không đổi.",
+      "route": "wf:career-danh-gia-co-hoi",
+      "capability": "research",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "done",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:27b0b6907b8c4a1c9a53f30cc535f090",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795782449.6348958,
+      "current_run_id": "",
+      "result": "**Theo có điều kiện. Capability 7/10, Direction 7/10.** ShopBack đáng theo nếu Haji xác minh được mã đơn tháng 10 và vai Regional có quyền đặt ưu tiên, thử nghiệm và triển khai cùng các đội địa phương. Lever vẫn mở JD và form mã `efc922d8` khi kiểm ngày 27/11. Hạn tuyển và số suất TP.HCM chưa rõ. Thư 05/11 thiếu vị trí, mã và lý do. [JD chính thức](https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d)\n\n| Chức năng JD | Việc Haji đã làm | Mức khớp |\n|---|---|---|\n| Phân khúc, campaign, flows | Sacombank: phụ trách phân khúc 4 tầng trên 350.000+ bản ghi. MAU chương trình tăng 35% so với trước. | Mạnh |\n| Cohort và thử nghiệm | SonKim Fashion: xây kênh email từ đầu, thử nội dung theo phân khúc. Tỷ lệ chuyển đổi email từ 2,4% lên 3,0%+. | Mạnh |\n| Tooling và automation | Bamboo Airways: xây khung dữ liệu, thống nhất bên chịu trách nhiệm, góp phần giảm khoảng 40% thời gian setup. | Mạnh |\n| Playbook và KPI khu vực | Wavemoney, U-money, Unitel: xây khung nội dung để các đội tự triển khai. | Khớp về chuyển giao. Cần thêm một ví dụ Haji quyết rollout dựa trên KPI đo được ở nhiều thị trường. |\n\nTừ BillEase, phần chuyển được là phân khúc hành vi, kích hoạt giao dịch đầu, thúc đẩy giao dịch lại và đo bằng cohort, thử nghiệm. ShopBack thay ràng buộc hạn mức và kỳ trả góp bằng bài toán ghi nhận đơn, chờ merchant xác nhận cashback và phối hợp ưu đãi với Commercial theo thị trường. [Nghiên cứu](projects/career/research/shopback-efc922d8-2026-11-27.md)\n\n### Brief v3 chờ Haji chốt\n\n- Lane **CRM / Lifecycle**, lấy CV BillEase tháng 11 làm nền. Luận điểm là Haji dùng hành vi khách hàng để thiết kế luồng giao dịch lại, đo hiệu quả rồi chuẩn hóa cách làm cho đội địa phương.\n- Headline ưu tiên `CRM & LIFECYCLE | TURNING EXISTING CUSTOMERS INTO REPEAT REVENUE`. Phương án hai `CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS`.\n- Mở bằng Taptap, SonKim Fashion và Wavemoney, sau đó tới Sacombank. Giọng CRM Manager trực tiếp triển khai, nói rõ Haji quyết gì, làm gì và kết quả thuộc về chương trình nào. Giữ Consultant ngắn cho CRM, automation và AI. Đề xuất bỏ Golf House.\n\n**Lương ShopBack chưa xác minh.** Adecco 2026 ghi 50-90 triệu gross/tháng ở Professional Services và 60-120 triệu ở FMCG cho Digital Marketing Manager 5+ năm tại TP.HCM. Bản bàn giao gán nhầm dải 50-90 cho Industrials, mình đã sửa. Jobstore ước tính 60-100 triệu/tháng, chưa rõ gross/net hay thưởng và chưa mở lại được trong lượt này. Chưa đủ căn cứ chốt mức kỳ vọng. [Adecco 2026](https://www.adecco.com/-/jssmedia/project/adecco/adeccovn/pdf/adecco-vietnam-salary-guide-2026.pdf)\n\nĐề xuất trước **18:00 ngày 28/11, giờ Việt Nam**, Haji chốt brief v3 và đối chiếu mã trên biên nhận tháng 10. Nếu có case rollout mạnh hơn Wavemoney, bổ sung phần Haji trực tiếp quyết và kết quả đo được. Đây là mốc nội bộ. Mình đã cập nhật [hồ sơ ShopBack](projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md) và [dòng tiến độ hiện có](projects/career/tien-do-ung-tuyen.md), giữ lịch sử và dừng ở Nhịp 1.",
+      "created_at": 1795782101.1714401,
+      "updated_at": 1795782449.6348958,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có kết quả từ cả Người nghiên cứu và Trợ lý sự nghiệp theo đúng vai.",
+          "Có kết luận đánh giá, cơ sở về lương, đối chiếu Billease và brief chờ Haji chốt trong hồ sơ hiện có.",
+          "Dừng trước khi viết CV hoặc liên hệ."
+        ],
+        "acceptance": [
+          "Có kết quả từ cả Người nghiên cứu và Trợ lý sự nghiệp theo đúng vai.",
+          "Có kết luận đánh giá, cơ sở về lương, đối chiếu Billease và brief chờ Haji chốt trong hồ sơ hiện có.",
+          "Dừng trước khi viết CV hoặc liên hệ."
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "tro-ly-su-nghiep",
+          "name": "Trợ lý sự nghiệp",
+          "key": "ag_3af3e2ec72d49c55"
+        },
+        "route": "wf:career-danh-gia-co-hoi",
+        "capability": "research",
+        "acceptance_check": "ai",
+        "run_seconds": 330
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-27 19:21",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-27 19:21",
+          "msg": "claimed by worker:865:a1f43954"
+        },
+        {
+          "ts": "2026-11-27 19:21",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-27 19:21",
+          "msg": "claimed by worker:865:ed4b14c1"
+        },
+        {
+          "ts": "2026-11-27 19:27",
+          "msg": "done"
+        }
+      ]
+    },
+    {
+      "id": "t_bf418de1690b",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Career - Viết CV ShopBack Lifecycle Marketing Manager theo brief v4",
+      "intent": "Viết CV ứng tuyển ShopBack Lifecycle Marketing Manager (JD: https://jobs.lever.co/shopback-2/efc922d8-8f50-4059-8da3-4b8efadb4b0d) theo Brief v4 đã chốt ('Brief v4 | 27/11/2026 20:02 | ĐÃ CHỐT') trong hồ sơ cơ hội projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md. Haji duyệt trong chat web lúc 20:02 27/11/2026. Cách làm: sao chép deck CV BillEase tháng 11 trên Google Drive thành bản mới tên 'CV_Phuong Hoang_Apply for ShopBack', giữ nguyên format. Headline dùng phương án 2: 'CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS'. Viết 4 chức năng cốt lõi như năng lực lặp lại trên nhiều client và thị trường, mỗi ví dụ chỉ là một minh họa (one of the samples) chứ không phải toàn bộ phạm vi. Chỉ dùng dữ kiện thật của Haji, không em dash. Gửi link Google Slides, không xuất PDF.",
+      "route": "wf:career-viet-va-phan-bien-ho-so",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "cancelled",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:27b0b6907b8c4a1c9a53f30cc535f090",
+      "idempotency_key": "",
+      "attempts": 2,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795786311.4528902,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795784623.995409,
+      "updated_at": 1795790158.026449,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance": [
+          "Trên Google Drive có file Google Slides mới tên chính xác 'CV_Phuong Hoang_Apply for ShopBack', sao chép từ deck CV BillEase tháng 11; deck BillEase gốc không bị sửa",
+          "Headline trong CV đúng nguyên văn 'CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS'",
+          "CV có đủ 4 chức năng cốt lõi theo Brief v4, mỗi chức năng được viết như năng lực lặp lại trên nhiều client hoặc thị trường, ví dụ được diễn đạt là minh họa",
+          "Format, bố cục, font và màu giữ như deck BillEase gốc; nội dung không có ký tự em dash và không có số liệu ngoài kho dữ kiện của Haji",
+          "Kết quả trả về có link Google Slides của bản mới; không có file PDF nào được xuất",
+          "Hồ sơ cơ hội projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md được cập nhật link CV và trạng thái đã viết CV"
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "copywriter",
+          "name": "Copywriter",
+          "key": "ag_a8ce2244aa126c9d"
+        }
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-27 20:03",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-27 20:03",
+          "msg": "claimed by worker:865:dd862f97"
+        },
+        {
+          "ts": "2026-11-27 20:03",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-11-27 20:03",
+          "msg": "claimed by worker:865:bfcef95c"
+        },
+        {
+          "ts": "2026-11-27 20:17",
+          "msg": "Bước 2 (Copywriter) chưa qua kiểm chứng sau 3 lượt: Đã mở revision JVgK-_7ej4ayAw và xem bản hiển thị cả hai trang. Headline, bố cục và số liệu Sacombank khớp, nhưng bullet Sacombank vẫn nằm dưới CRM tooling & automation ở trang 2. Bàn giao gốc ghi ví dụ này đã được đặt cạnh Taptap để minh họa phân khúc.. Quy trình dừng ở đây, không chạy tiếp các bước sau."
+        },
+        {
+          "ts": "2026-11-27 20:27",
+          "msg": "blocked -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-27 20:27",
+          "msg": "claimed by worker:865:02454977"
+        },
+        {
+          "ts": "2026-11-27 20:31",
+          "msg": "Hết lượt gói ChatGPT (Codex). Khoảng 2 giờ 43 phút nữa mới lại dùng được (tầm 23:15, nhà cung cấp nói: try again at 11:15 PM.). Đang chờ thì đổi tạm sang Claude Code, Google Gemini (API) ở trang Models - hội thoại giữ nguyên. Rút gọn câu hỏi KHÔNG giúp gì ở đây - hạn mức này đếm lượt dùng theo giờ, không đếm độ dài. Bước này chạy bằng trợ lý \"Copywriter\", nên muốn chạy tiếp ngay thì trỏ riêng trợ lý đó sang model khác ở trang Models."
+        },
+        {
+          "ts": "2026-11-27 21:35",
+          "msg": "blocked -> cancelled: operator cancel (chat): Haji yêu cầu huỷ để không tự chạy lại và sửa đè CV ShopBack"
         }
       ]
     }
   ],
-  "updated": 1795690861.664437
+  "updated": 1795790277.215025
 }
