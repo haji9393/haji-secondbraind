@@ -73,16 +73,17 @@
       "cron": "",
       "script": "",
       "label": "Galaxy Joy (SkyJoy) - Kiểm tra kết quả từ HR",
-      "status": "pending",
+      "status": "done",
       "muc_quyen": "full",
       "remember_last": false,
       "speak": false,
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795678702.613118,
-      "fired_at": 0.0,
+      "fired_at": 1795770026.898748,
       "result": "",
-      "error": ""
+      "error": "",
+      "last_slot": 1795770000.0
     },
     {
       "id": "r_87df16c7e1",
@@ -107,5 +108,5 @@
       "last_slot": 1795682650.152728
     }
   ],
-  "updated": 1795682675.381456
+  "updated": 1795770026.898756
 }

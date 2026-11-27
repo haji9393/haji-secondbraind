@@ -2,6 +2,18 @@
 
 Cập nhật 26/11/2026. Gọi HR lúc 11:15 thứ Sáu 27/11, giờ Việt Nam. Haji xác nhận đã ứng tuyển nhánh DTC. CV đối chiếu là `CV_Phuong Hoang_Apply for CHAGEE.pdf` trong Downloads, sửa ngày 05/11, với tiêu đề “DTC & MEMBER OPERATIONS | TURNING MEMBERS INTO RECURRING REVENUE”. Cần HR xác nhận chức danh, mã tuyển và bản CV họ nhận.
 
+
+## Cập nhật sau cuộc gọi HR ngày 27/11/2026
+
+Haji xác nhận đã gọi sàng lọc. HR nêu ngân sách lương ở khoảng 60 triệu đồng/tháng, có thể nới tối đa 20%, cam kết lương tháng 13 và có thưởng theo quý. Nếu lấy 60 triệu làm mốc, mức nới tối đa tương ứng khoảng 72 triệu đồng/tháng. Cần xác nhận gross hay net và cách tính thưởng theo quý.
+
+| Vòng | Người tham gia và hình thức | Mốc và yêu cầu |
+|---|---|---|
+| 1 | GM và HR Manager tại Việt Nam | Đã chốt 14:00 thứ Tư 02/12/2026, giờ Việt Nam. |
+| 2 và 3 | Họp trực tuyến với Head of DTC APAC (Singapore) và Director of User Management | Chưa có lịch hoặc xác nhận ai tham gia vòng nào. Vòng 2 cần thông tin để kiểm tra tham chiếu và phiếu lương 3 tháng gần nhất. |
+
+Việc trước 02/12 là chuẩn bị cho vòng 1. Khi có lịch vòng 2, xác nhận với HR thời điểm và cách nộp giấy tờ.
+
 ## Công ty và bài toán DTC
 
 CHAGEE thành lập năm 2017, định vị trà pha tươi cao cấp, với dòng chủ lực tại Việt Nam là trà sữa tươi nguyên lá. Website Việt Nam liệt kê 22 địa điểm ở TP.HCM, gồm cả một địa điểm gắn nhãn Signing Store. Dùng con số như số mục trên website tại ngày kiểm, chưa xác nhận tình trạng từng địa điểm. [Danh mục sản phẩm](https://vn.chagee.com/vn/vi/product) · [Danh sách cửa hàng](https://vn.chagee.com/vn/vi/stores)

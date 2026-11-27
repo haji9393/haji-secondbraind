@@ -1,23 +1,17 @@
 # Tiến độ ứng tuyển
 
-Cập nhật theo Haji ngày 26/11/2026. Mọi giờ theo Việt Nam.
+Cập nhật theo Haji ngày 27/11/2026. Mọi giờ theo Việt Nam.
 
 ## Cơ hội đang có bước tuyển dụng
 
 | Công ty | Vị trí | Trạng thái và lần trao đổi gần nhất | Việc tiếp theo | Mốc |
 |---|---|---|---|---|
-| CHAGEE | DTC, chờ HR xác nhận chức danh và mã tuyển | Đã ứng tuyển nhánh DTC và có lịch gọi sàng lọc với HR. [Hồ sơ chuẩn bị](projects/career/co-hoi/chagee-vietnam-dtc.md) | Xác nhận KPI, phạm vi vai trò và vòng tiếp theo trong cuộc gọi. | **11:15, thứ Sáu 27/11/2026** (giờ Việt Nam) |
-| Galaxy Joy (làm cho SkyJoy) | Chưa ghi nhận | HR hẹn cập nhật kết quả chậm nhất thứ Sáu 27/11. | Nếu đến 16:00 chưa có tin, nhắn HR hỏi tiến độ. | **16:00, 27/11** (Javis nhắc kiểm tra, mã `r_9604f77b46`) |
+| CHAGEE | DTC, chờ HR xác nhận chức danh và mã tuyển | Đã gọi sàng lọc với HR ngày 27/11. Có 3 vòng sau sàng lọc. Vòng 1 gặp GM và HR Manager tại Việt Nam. | Chuẩn bị vòng 1. Vòng 2 cần thông tin để kiểm tra tham chiếu và phiếu lương 3 tháng gần nhất. [Hồ sơ CHAGEE](projects/career/co-hoi/chagee-vietnam-dtc.md) | **14:00, thứ Tư 02/12/2026** (đã chốt, giờ Việt Nam) |
+| Galaxy Joy (làm cho SkyJoy) | Chưa ghi nhận | Trúc hẹn cập nhật kết quả thứ Sáu 27/11. Haji đã nhắn Trúc hỏi tiến độ ngày 27/11, chưa có phản hồi. | Chờ Trúc phản hồi. | Chưa có mốc phản hồi mới. |
 | NAB | Consultant, Channel Personalisation | Đã phỏng vấn HR sáng 26/11. HR nêu: lương tối đa 80tr gross/tháng, lương tháng 13 chắc chắn, performance bonus 2-5 tháng lương. Cập nhật chiều 26/11: nếu hồ sơ được chọn, còn 2 vòng. Vòng 1 gặp hiring manager ở Úc và quản lý trực tiếp ở VN. Vòng 2 gặp head of department. Cả quy trình dự kiến 2-3 tuần. | Chờ NAB báo có vào vòng 1 hay không. Nếu được, chuẩn bị vòng 1 bằng tiếng Anh, tập trung vào Adobe, thiết kế journey và cách làm việc với đội ở Úc. | **Đầu tuần 30/11** (NAB báo kết quả chọn vòng 1). Nhắc kiểm tra lúc 10:00 01/12, mã `r_d7e24c8c2f` |
 | Masterise | Chưa ghi nhận | Đã phỏng vấn với Tim chiều 25/11. Đầu mối tuyển dụng qua Zalo là Phượng. | Duyệt lời cảm ơn và gửi qua Zalo. Nếu hết thời hạn mà chưa có tin, hỏi Phượng về tiến độ vào ngày làm việc kế tiếp. | Gửi lời cảm ơn trong 25 hoặc 26/11. Hết hai tuần vào **09/12**. Nhắc lúc 10:00 09/12, mã `r_23b3d7164e` |
 | Billease | Chưa ghi nhận | Đã qua vòng sàng lọc với HR và nộp bài đánh giá sáng 25/11. Quy trình gồm 4 vòng, đang chờ kết quả bài. | Kiểm tra phản hồi khi Javis nhắc. Nếu chưa có tin, hỏi thời điểm trả kết quả và bước kế tiếp. | **10:00, 02/12** (mốc theo dõi nội bộ, đã đặt nhắc một lần trong Javis, mã `r_b20fe0e8a2`) |
 | YouNet Media | Vice Business Head | Đã gặp quản lý tuyển dụng. Haji ghi nhận tin tuyển dụng mở lại và đã gửi tin nhắc cho chị Linh. Mốc liên hệ ghi nhận là 24/11, việc đã gửi được xác nhận ngày 25/11. | Chờ chị Linh phản hồi. | 01/12 (mốc rà lại đề xuất) |
-
-## Đang chuẩn bị hồ sơ, chưa nộp
-
-| Công ty | Vị trí | Trạng thái | Việc tiếp theo | Mốc |
-|---|---|---|---|---|
-| Zalo | Head of Business, Zalo Open Platform | Brief v3 đã chốt cho [Slides v5 hai trang](https://docs.google.com/presentation/d/12981AuqFxJtl-B3HfvArYT1ceyAweF2JNShl2Oh-8XY/edit). Đã qua phản biện và xác minh tệp nằm trong [CV_ Phương Hoàng](https://drive.google.com/drive/folders/1emwRP-9SgJMTQtqGWSMRyknXT2wW7aZA). Chờ Haji duyệt, chưa nộp. [Hồ sơ](projects/career/co-hoi/zalo-head-of-business-open-platform.md) | Haji duyệt nội dung và headline Platform Business & Ecosystem Growth, rồi ưu tiên referral. | Đề xuất duyệt trước cuối 26/11. JD còn Apply và Refer A Talent khi kiểm 26/11, chưa thấy hạn tuyển. |
 
 ## Các hồ sơ đã nộp, đang chờ phản hồi
 
@@ -25,6 +19,7 @@ Các hồ sơ dưới đây đã nộp và đang chờ phản hồi. Trạng th�
 
 | Công ty | Vị trí | Ghi chú |
 |---|---|---|
+| Zalo | Vertical Business Manager, Zalo Open Platform | Haji xác nhận đã nộp qua portal zalo.careers ngày 27/11. Chờ phản hồi. [Hồ sơ](projects/career/co-hoi/zalo-vertical-business-manager.md) |
 | Generali Vietnam | Customer Experience Associate Manager | Haji xác nhận đã nộp ngày 24/11. |
 | AIA Vietnam | Agency Growth and Transformation, Senior Lead (JR-64554) | Đã nộp, chưa phản hồi. |
 | EY | Manager, Business Transformation (1724917) | Haji xác nhận đã nộp ngày 24/11. |

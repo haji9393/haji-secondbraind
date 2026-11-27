@@ -13,11 +13,13 @@ Dùng trước khi viết CV, khi đánh giá JD mới, soạn message, chuẩn 
 
 - Đích: Head of Customer Experience / Head of Digital Transformation. BFSI là lane chính.
 - Phụ: digital/business transformation ở startup remote-first, công ty foreign-founded.
-- Nhánh Product Manager (sản phẩm tài chính cá nhân ở VN) mở lại từ 07/10/2026.
-- 3 hướng nộp đang chạy (10/2026):
-  1. **Customer Success:** Head of CS / CS Lead ở SaaS; Client Partnership (YouNet).
-  2. **Transformation:** Vinamilk, VIB, Phuc Long, Chubb, AIA.
-  3. **CRM / CVM / Lifecycle:** ShopBack, The Customization Group, TVHs, Home Credit, Crescent Mall, Be Group.
+- Nhánh Product Manager/Product Owner (sản phẩm tài chính cá nhân, martech, retail digitalization) mở lại từ 07/10/2026.
+- Các lane đang nộp (11/2026):
+  1. **Customer Success / Partnership:** Head of CS, CS Lead, Senior CSM (kể cả remote, ngành mới), Client Partnership, Merchant Partnership.
+  2. **Transformation / Strategy / Product:** Head of Digital Transformation, Strategy & PMO, Product Owner, CX transformation & governance.
+  3. **CRM / CVM / Lifecycle / Growth:** CRM Manager, CRM Team Lead, CVM, Lifecycle Lead, Customer Growth (TNEX), In-App Growth, User Growth & B2B2C.
+  4. **CX:** Head of CX, Senior Expert CX, Channel Personalisation.
+  5. **Platform / Ecosystem** (mới, ca Zalo Open Platform 11/2026): Head of Business cho nền tảng mở, super app, mini app, merchant ecosystem. Khung nhóm năng lực còn chờ Haji duyệt (xem `haji-cv-builder` mục 4).
 - Thư viện thành tích sắp theo: hướng nộp → việc liên quan → bằng chứng (tên client làm proof).
 
 ## 2. Kênh nộp (quyết định trước khi viết CV)
@@ -34,16 +36,17 @@ Dùng trước khi viết CV, khi đánh giá JD mới, soạn message, chuẩn 
 ## 3. Quy trình chấm JD (7 bước)
 
 1. Đọc JD 2 lần: trách nhiệm, rồi requirement cứng.
-2. Chấm từng bullet trách nhiệm 0-100% dựa trên evidence bank. Lập bảng.
+2. Đối chiếu theo chức năng, không theo chức danh: mỗi bullet trách nhiệm ghi việc thật Haji đã làm giống vậy (client, kết quả) và chấm 0-100%. Bắt đầu từ chỗ khớp mạnh. Không đóng khung Haji theo chức danh cũ hay phía vendor/in-house. Lập bảng ngắn.
 3. Phân loại khoảng trống:
-   - Domain (thiếu ngành, đắt): dược, store operations.
-   - Craft (thiếu nghề khác, đắt): media/content planning; vendor-side sang in-house.
-   - Credential (thiếu chứng chỉ, rẻ nhất): PMP, Prosci, Agile.
+   - Domain (thiếu ngành, đắt): dược, store operations, IT services, BPO contact center, risk.
+   - Craft (thiếu nghề khác, đắt): media buying, content planning; vendor-side sang in-house.
+   - Credential (thiếu chứng chỉ, rẻ nhất): PMP, Prosci, Agile cert.
    - Title (làm đúng việc, sai chức danh): Product Manager, Head of X.
 4. Chấm 2 điểm, không gộp:
    - Capability (0-10): 9-10 không gap; 7-8 chỉ Craft/Title, không đòi credential; 5-6 có Domain hoặc Credential gap; <5 Craft gap thật.
    - Direction (0-10): 9-10 đúng chức danh đích; 7-8 bước đệm; 5-6 đi ngang; <5 lùi.
    - Cao/Cao nộp ngay · Cao/Thấp nộp nhưng biết là đánh đổi · Thấp/Cao đáng đầu tư bù gap · Thấp/Thấp bỏ.
+   - Nếu Haji phản biện điểm gap bằng bằng chứng mới: chấm lại công bằng, không giữ điểm cũ chỉ để nhất quán.
 5. Quét nghĩa kép:
    | Từ | Nghĩa JD CRM | Nghĩa trong hồ sơ Haji | Xử lý |
    |---|---|---|---|
@@ -53,8 +56,8 @@ Dùng trước khi viết CV, khi đánh giá JD mới, soạn message, chuẩn 
    | growth | GMV/doanh thu | account ARR | nêu chủ thể |
    | portfolio | danh mục sản phẩm | danh mục client | `client portfolio` |
    | account | tài khoản user | doanh nghiệp | `enterprise account` |
-6. Chọn 1 luận điểm chủ đạo. Đưa client khớp nhất lên đầu: insurance → Generali; bank/BFSI → TP Bank, MBS, Generali (CX strategy thì MBS đầu); hospitality/loyalty → Vinpearl; retail/O2O → FPT Shop, CellphoneS; logistics → Ahamove, GHN; operating model → Vietnam Airlines; e-com A/B → SonKim.
-7. Đối chiếu với nghiên cứu công ty. Thử đọc như người lọc CV và hỏi bằng chứng nào có thể bác luận điểm đầu. Đề xuất cho Haji điểm, khoảng trống, kênh, hướng định vị, headline dự kiến và các ví dụ đáng dùng, kèm định vị khả thi khác khi có. Chờ xác nhận nếu cần chốt hướng mới. Ghi lại dữ kiện làm lần đánh giá sau thay đổi.
+6. Chọn 1 luận điểm chủ đạo. Đưa client khớp nhất lên đầu: insurance → Generali; bank/BFSI → TP Bank, MBS, Generali (CX strategy thì MBS đầu); e-wallet/payment → Sacombank, Wavemoney, U-money, VETC; hospitality/loyalty → Vinpearl; aviation loyalty → Vietnam Airlines, Bamboo Airways, Vinpearl; platform/ecosystem → E8 (2 lên 40+ sản phẩm, Việt Nam thường là thị trường đầu), Taptap, B2B2C; retail/O2O → FPT Shop, CellphoneS; logistics → Ahamove, GHN; operating model → Vietnam Airlines; e-com A/B → SonKim.
+7. Thử đọc như người lọc CV và hỏi bằng chứng nào có thể bác luận điểm đầu. Đề xuất cho Haji trong 1 lượt: điểm, khoảng trống, kênh, lane, 2-3 headline, luận điểm, 3 client đầu, register, bản nền. Tối đa 3-4 câu hỏi. Chờ xác nhận rồi mới viết (nhịp 1 của `haji-cv-builder`).
 
 ## 4. Knockout questions
 
@@ -64,10 +67,11 @@ Dùng trước khi viết CV, khi đánh giá JD mới, soạn message, chuẩn 
 | Years in transformation | 11 |
 | Years in change management | 7+ |
 | Years in CRM / lifecycle / retention | 7 |
-| Years managing people | 4 (Lead 2022-06/2026) |
-| Years in insurance / banking (BFSI) | Trung thực: số năm làm chương trình cho client BFSI, ghi rõ là phía đối tác nếu form có ô giải thích |
+| Years managing people | 4 (Lead 06/2022 – 06/2026) |
+| Years in Financial Services / BFSI | 5+ (làm chương trình cho client BFSI; ghi rõ là phía đối tác nếu form có ô giải thích) |
 | Years in product management | Trung thực, bù bằng message |
-| PMP / Prosci / Agile cert | Không có |
+| Agile | Có kinh nghiệm thực tế, không có chứng chỉ |
+| PMP / Prosci cert | Không có |
 
 ATS chỉ loại tự động qua: knockout questions, hard filter, file không đọc được chữ, thiếu trường bắt buộc, tin đã đóng. Không có ngưỡng % keyword. Sau mỗi đơn portal, ghi lại các câu knockout đã gặp và câu trả lời vào log.
 
@@ -118,15 +122,18 @@ Giới hạn: connection note 300 ký tự; InMail subject 200 / body 1,900; ô 
 
 ## 7. Câu trả lời khoảng trống (phỏng vấn)
 
-- **Toàn bộ sự nghiệp phía vendor:** thừa nhận, rồi: đã làm như người trong nhà ở 70+ tổ chức, biết cái gì chạy được, cái gì chết sau go-live.
+- **Toàn bộ sự nghiệp phía vendor:** thừa nhận, rồi: đã làm như người trong nhà ở 70+ tổ chức, biết cái gì chạy được, cái gì chết sau go-live. Lý do chuyển in-house: muốn mài nghề sâu trong một công ty và sở hữu target gắn P&L.
 - **Chưa làm in-house ngân hàng:** TP Bank (3-5 vòng security/audit) và ACB (1:1 từng người đang chặn).
 - **Không có Prosci/ADKAR:** thực hành theo trình tự ADKAR; ở VN hay hỏng ở Desire vì nhảy thẳng từ Awareness sang Knowledge bằng 1 buổi training.
-- **Agile mỏng:** nói thẳng; không nói từng coach sprint.
-- **Chưa pitch xin ngân sách mới:** mở rộng account 3.75x bằng tự tìm use case và dựng business case.
-- **Team chỉ 3 người:** chất lượng hơn số lượng, 1 người lên Enterprise CS.
+- **Agile:** có làm thực tế, không có chứng chỉ; nói đúng mức, không nói từng là Agile coach.
+- **Chưa pitch xin ngân sách mới:** mở rộng account 3.75x bằng tự tìm use case và dựng business case; client đạt trung bình 4-6x ROI.
+- **Team trực tiếp chỉ 3 người:** 3 Customer Success Managers 5-7 năm kinh nghiệm, 1 người lên Enterprise CS; ngoài ra dẫn công việc qua nhiều phòng ban và cấp bậc.
+- **Chưa hunting khách mới:** không nói thẳng; dẫn bằng account expansion, đề xuất cho sponsor/đối tác ở Golf House và Vietnam Legends Tour.
+- **Paid media:** có sync segment sang Meta/Google/TikTok và orchestrate paid + owned; không có kinh nghiệm trực tiếp mua media. Nói thẳng.
+- **"Tell me about yourself" lane CRM/lifecycle:** mở bằng TP Bank cross-sell 68%, kết bằng mong muốn sở hữu target và KPI gắn P&L in-house.
 - **"Kể lần dự án bị chặn":** phía business/HR → ACB; phía IT/Risk → TP Bank.
-- **Consumer retention KPI:** dẫn bằng CellphoneS, SonKim, Sacombank, không dẫn bằng renewal rate.
-- **Fintech / ví điện tử khu vực:** Wavemoney (Myanmar), U-money (Lào).
+- **Consumer retention KPI:** dẫn bằng CellphoneS, SonKim, Sacombank, TP Bank cross-sell 68%, không dẫn bằng renewal rate.
+- **Fintech / ví điện tử khu vực:** Wavemoney (Myanmar), U-money (Lào), VETC.
 
 ## 8. Việc còn mở
 

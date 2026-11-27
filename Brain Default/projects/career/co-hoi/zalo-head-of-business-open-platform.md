@@ -4,9 +4,9 @@ company: Zalo (VNG)
 role: Head of Business, Zalo Open Platform
 location: Ho Chi Minh City, full-time
 posting_id: glIuMJCHxIEht6TE (bản trùng koivIB8yfaGxBgqu)
-status: cv-v5-cho-duyet
+status: cho-haji-duyet-cv-ban-head
 created: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # Zalo · Head of Business, Zalo Open Platform · TP.HCM
@@ -293,3 +293,113 @@ Kiểm tra từ phía thư mục bằng `list_drive_items` với `folder_id=1emw
 ### v6 · Viết lại nội dung trên mẫu v5 (26/11/2026 19:20)
 
 [Google Slides v6](https://docs.google.com/presentation/d/1Y_F_XQYxrKJD-64enJ-xftjAR5KVVIMtO9ZctTbXEKc/edit), bản sao riêng cùng thư mục `CV_ Phương Hoàng`, v5 giữ nguyên. Giữ bố cục và dữ kiện v5, viết lại câu chữ theo mạch công việc thật của Haji: hiểu từng ngành dùng kênh số ra sao, lọc nhu cầu lặp lại thành yêu cầu sản phẩm, đưa sản phẩm vào vận hành của client, chịu trách nhiệm cuối ở tái ký. Bỏ các tiêu đề nhại JD (Vertical strategy, From product gap to rollout) và cụm sáo (championed, at scale). Smart Recommendation mở bằng câu hỏi của client. Đã kiểm ảnh hai trang, không tràn chữ. Chưa xuất PDF, chưa nộp.
+
+## Chạy lại Nhịp 1 theo luồng mới (27/11/2026)
+
+Chấm lại từ đầu theo chức năng JD, không theo chức danh. Capability 7, Direction 7,5. Kết luận: theo. Kênh: portal zalo.careers (Haji đã chốt, không đi referral).
+
+Trục kể mới: Haji là người làm phía business của một nền tảng đa sản phẩm ở VN. Haji chọn sản phẩm nào cho ngành nào, gom nhu cầu chung thành sản phẩm, đưa sản phẩm mới vào vận hành của doanh nghiệp, đo giá trị ở cả phía doanh nghiệp lẫn người dùng, và chịu trách nhiệm cuối ở tái ký.
+
+| Chức năng JD | Việc thật của Haji (nguồn) | Khớp |
+|---|---|---|
+| GTM tính năng, ngành dọc mới | 2 lên 40+ sản phẩm toàn cầu, VN thường áp dụng đầu tiên; ZNS + Mini App cho FPT Shop, MBS, Vinpearl, Vinamilk (E8, E3) | Mạnh |
+| Nhu cầu hai phía thành sản phẩm | Smart Recommendation; nhu cầu chung thành business case, đại diện VN ở global roadmap (E8, E1) | Mạnh |
+| Chọn ngành dọc, ưu tiên | 70+ tổ chức, 11 ngành; chẩn đoán ba phía, xếp use case theo doanh thu, chuyển đổi, giữ chân (D, MKC) | Mạnh |
+| Giữ và tăng partner | Tái ký 80%+, 73% qua 2-3 chu kỳ; VNA 3.75x; FPT Shop giữ lại, MRR 1.8x; VN 4.3x ARR (D, E1) | Mạnh |
+| KPI MAU, giao dịch, conversion | Sacombank MAU +35%, người chơi giao dịch nhiều hơn 65%; TP Bank 68%; CellphoneS +35% (E3) | Khớp ở cấp chương trình |
+| Concept, journey, requirement | Business request Smart Recommendation; Generali; Bamboo master data (E1, E3, E4) | Khớp |
+| Dẫn đội đa chức năng 4 mảng | 3 CSM trực tiếp; điều phối sale, onboarding, vận hành (D, E8) | Hở về quy mô |
+| Thu hút partner mới | Pitch, POC, đề xuất mở rộng; không có hunting (E1) | Hở một phần |
+
+Khung mới (chờ Haji duyệt): Industry insight and use case selection · Shared needs into new products · Go-to-market and adoption · Value on both sides · Partner retention and growth · Cross-functional leadership.
+
+Đề xuất: headline A `PLATFORM BUSINESS | TURNING PARTNER NEEDS INTO PRODUCTS THAT DRIVE REVENUE`; 3 client đầu FPT Shop, Sacombank, Vietnam Airlines; sửa tại chỗ trên file v6, thay nội dung theo khối mẫu, không tạo bản mới; bỏ khối Consultant. Khối Insider mẫu và 4 câu hỏi ở chat 27/11. Chờ Haji chốt rồi mới chạy Nhịp 2.
+
+### Phản hồi Haji 27/11 11:55 và chỉnh
+
+- "three" phạm luật số viết bằng chữ số (cv-builder mục 5): sửa thành "3 sides", rà mọi số khác.
+- Headline: C gần hướng nhất nhưng câu chưa sang. Đề xuất mới: `PLATFORM & ECOSYSTEM GROWTH | TURNING TWO-SIDED VALUE INTO RECURRING REVENUE`.
+- Nhóm năng lực: tên cũ không phản ánh scope và không chuyên nghiệp. Đổi sang tên theo phạm vi việc: Partner portfolio and vertical strategy · Product requirements and roadmap · Go-to-market and product adoption · Merchant and user outcomes · Partner retention and revenue growth · Cross-functional and team leadership. Chờ Haji duyệt.
+- Bỏ khối Consultant: đã chốt.
+- Kênh: portal, Haji đã chốt trước đó. Nhịp 2 kèm soạn câu trả lời knockout cho form.
+
+## Nhịp 2 · Bản giao duyệt 27/11/2026
+
+Haji đã chốt headline A `PLATFORM & ECOSYSTEM GROWTH | TURNING TWO-SIDED VALUE INTO RECURRING REVENUE`, 6 nhóm năng lực, bỏ Consultant và nộp qua portal. Đã sửa tại chỗ trên [Google Slides v6](https://docs.google.com/presentation/d/1Y_F_XQYxrKJD-64enJ-xftjAR5KVVIMtO9ZctTbXEKc/edit), đọc lại nội dung và kiểm render [trang 1](attachments/tool-images/render_page_to_image-20261127-121116-44cacd.png) và [trang 2](attachments/tool-images/render_page_to_image-20261127-121023-c4fec3.png). Headline lên 1 dòng, nội dung vừa 2 trang. Giữ Smart Recommendation định tính, gắn đúng mức tăng ARR với thị trường và tài khoản, đúng mẫu so sánh Sacombank và phạm vi quản lý trực tiếp 3 CSM. [Kho dữ kiện D, E1, E3, E4, E8 và Red List](skills/haji-career/references/haji-cv-evidence-bank.md)
+
+[Form Zalo](https://zalo.careers/application/head-of-business-zalo-open-platform-n-89ecUOnUbN-U_O4o) mở khi kiểm 27/11. Form yêu cầu PDF, thông tin liên hệ, ngày sinh, nguồn biết đến vị trí và đồng ý xử lý hồ sơ. Mục *Message to us* là tùy chọn. Không thấy câu hỏi sàng lọc chuyên môn trên form đã mở. Haji duyệt bản cuối và tự nộp qua portal. Chưa nộp. Không thấy hạn tuyển công bố.
+
+### Bản nháp Message to us
+
+At Insider One, I worked with businesses across 11 industries to identify where new products could help, build the case for features that addressed shared client needs, and bring them into day-to-day use. That included writing the business request for Smart Recommendation and advising clients on where Zalo ZNS and Mini App fit into their customer journeys. I'd like to bring that experience to Zalo Open Platform and help merchants turn adoption into measurable value for their businesses and customers.
+
+### Cập nhật trạng thái v6 · 27/11/2026
+
+Haji xác nhận CV còn đang chỉnh. V6 bổ sung ca Vinpearl & VinWonders, nêu ROI cấp chương trình 8-15x trong 3 năm để nhóm Merchant and user outcomes có kết quả phía doanh nghiệp bên cạnh chỉ số người dùng của Sacombank. Làm rõ phần chọn vị trí của ZNS và Mini App trong hành trình trước khi đặt trigger, segment và tần suất. Đã [kiểm render lại trang 1](attachments/tool-images/render_page_to_image-20261127-121537-cd2d3d.png). [Kho dữ kiện E3 và E7](skills/haji-career/references/haji-cv-evidence-bank.md)
+
+## Chốt lại trục cấp Head · 27/11/2026
+
+Haji báo đã đưa v6 vào thùng rác và đánh giá CV đọc như specialist. Kết nối Google Workspace vẫn trả `Trashed: False` cho ID v6 và còn liệt kê file trong thư mục CV. Hai nguồn trạng thái đang khác nhau. V6 đã bị Haji loại khỏi luồng ứng tuyển. Dừng dùng và không mở lại để sửa. Chưa có bản CV hiện hành để nộp.
+
+V6 có phạm vi danh mục ở Scope nhưng giấu trách nhiệm kinh doanh và dẫn đội đến trang 2. Phần Product mở bằng yêu cầu tính năng, GTM mở bằng trigger và segment. Đường đọc làm người tuyển dụng nhớ thao tác triển khai trước phần Haji chọn cơ hội thương mại, đại diện thị trường để ảnh hưởng quyết định sản phẩm và chịu trách nhiệm tái ký. Bổ sung thêm một case ROI không sửa được thứ tự lập luận này.
+
+| Trách nhiệm cấp Head trong JD | Bằng chứng đặt lên trước | Ranh giới |
+|---|---|---|
+| Chọn cơ hội kinh doanh | 70+ tổ chức qua 11 ngành, danh mục tương đương khoảng 40% ARR Insider One Việt Nam. Ưu tiên use case theo giá trị thương mại và chọn nhu cầu lặp lại đáng đưa lên Product | Quyền ưu tiên trong phạm vi danh mục và đề xuất ưu tiên cho thị trường |
+| Ảnh hưởng roadmap và đưa sản phẩm ra thị trường | Đại diện Việt Nam ở Global Product. Smart Recommendation minh họa cách bảo vệ business case và theo tới launch, rollout | Quyết định roadmap thuộc Global Product |
+| Chịu trách nhiệm thương mại và dẫn đội | Chịu trách nhiệm cuối về tái ký, 80%+ trong 7 năm. Dẫn trực tiếp 3 CSM, điều phối Sales, Onboarding và Operations. FPT Shop minh họa xử lý churn và giữ tái ký. VNA 3.75x ARR tài khoản | Quy mô đội trực tiếp và ARR ghi đúng chủ thể. Sacombank dùng KPI chương trình |
+ 
+Headline A đã được Haji duyệt trước đó. Dùng 6 nhóm năng lực đã chốt và đưa phạm vi lãnh đạo, thương mại vào khối mở đầu trang 1. Chi tiết ZNS/Mini App và Sacombank dùng làm bằng chứng hỗ trợ. Đề xuất dùng thiết kế từ Slides MKC đã kiểm là file đang hoạt động, lấy chữ từ CV MKC và MoMo theo kho dữ kiện, bỏ Consultant và dùng portal sau khi CV được duyệt. Chưa tạo file mới.
+
+### Khối mở đề xuất
+
+At Insider One, I was accountable for renewals across a portfolio of 70+ businesses in 11 industries, representing approximately 40% of Vietnam ARR. I led 3 Customer Success Managers and coordinated Sales, Onboarding and Operations around account priorities. I identified needs shared across industries, built the commercial case for prioritizing them with Global Product, and led the rollout of new products to clients. The portfolio maintained an 80%+ renewal rate over 7 years.
+
+[Kho dữ kiện D, E1, E3 và E8](skills/haji-career/references/haji-cv-evidence-bank.md)
+
+## Chốt lại trục, lần 2 - 27/11/2026
+
+Haji phản hồi: vị trí này cùng loại với YouNet và MoMo vì Zalo sở hữu nền tảng riêng, Haji không đi sai ngách; các bản gần đây làm mờ năng lực nổi bật. Kết luận của Trợ lý sự nghiệp ngày 26/11, rằng "bản nền MoMo kéo CV sai trục", là sai. Từ giờ bản nền là CV MoMo Senior Manager 17/11 (Mandate/Approach/Impact, 3 vai growth, product, tech) cộng phần giữ chân và tăng trưởng client portfolio của CV YouNet. Các điểm nổi bật phải đưa trở lại: ROI 4-6x (đỉnh 18x, 50x), $2M+ ARR, 25+ enterprise, NRR 95%+, 73% gia hạn 2-3 chu kỳ, 3 khách bán lẻ lớn nhất được giữ nhờ tính năng đã ship, market playbook được các khu vực khác dùng, 3rd Shareholder, 300+ người đã đào tạo, hành trình hai phía Ahamove/GHN. Chờ Haji duyệt khối mở đầu trước khi dựng bản mới.
+
+## Bản CV cấp Head chờ Haji duyệt - 27/11/2026
+
+- File: Google Slides `1WLJ64uYO27c5Kr-K6Og5u7HMjiLStPDkwDoYt-y5CbU`, copy từ CV MoMo Senior Manager. Link: https://docs.google.com/presentation/d/1WLJ64uYO27c5Kr-K6Og5u7HMjiLStPDkwDoYt-y5CbU/edit
+- v6 (`1Y_F_XQYxrKJD-64enJ-xftjAR5KVVIMtO9ZctTbXEKc`) đã bị loại. Haji đã cho vào thùng rác, không dùng lại.
+- Trang 1:
+  - Headline A.
+  - Tóm tắt cấp Head.
+  - AT A GLANCE (11 năm, 4-6x, $2M+, 95%+ NRR, 80%+, 4.3x, 35% MAU).
+  - Khối Mandate / Approach / Impact.
+  - 3 nhóm: Partner portfolio and vertical strategy, Product requirements and roadmap, Go-to-market and product adoption.
+- Trang 2:
+  - 3 nhóm: Merchant and user outcomes, Partner retention and revenue growth, Cross-functional and team leadership.
+  - Dòng 3rd Shareholder.
+  - Khối Digital Agencies.
+  - Portfolio, Education.
+- Đã bỏ khối Consultant.
+- Đã kiểm render cả 2 trang:
+  - Headline nằm 1 dòng.
+  - Không có bullet thừa, không tràn trang.
+  - Đã đổi dấu gạch dài sang "-".
+- Đã đối chiếu từng số với kho dữ kiện (✅/📄) và Red List. Sacombank viết "players made 65% more digital transactions than non-players", đúng câu mẫu.
+- Số 📄 nên xác nhận trước phỏng vấn: CellphoneS, Pearl Members +55%, Ahamove/GHN, VNA 4,584 trang.
+- Kênh nộp: portal zalo.careers (Haji đã chốt). Haji tự tải PDF và nộp.
+
+## Cover letter ngắn - 27/11/2026, bản 2 (chờ Haji duyệt, dùng cho ô Message to us)
+
+Bản 1 bị Haji chê dài và có mùi AI. Bản 2 viết lại theo chuẩn của Copywriter (agents/copywriter.md) và humanizer (skills/haji-writing/references/humanizer.md): bỏ câu dẫn dắt ("The part closest to this role is"), bỏ dấu hai chấm mở ý, bỏ câu kết chung chung, rút từ khoảng 200 xuống khoảng 120 chữ. Chỉ dùng số ✅, đã rà Red List.
+
+Dear Zalo Hiring Team,
+
+I'd like to apply for Head of Business, Zalo Open Platform.
+
+For 7 years at Insider One, I worked on the business side of a multi-product platform in Vietnam. My portfolio was 70+ organizations in 11 industries, about 40% of Vietnam ARR ($2M+), and I was accountable for renewals. Programs returned 4-6x the platform investment on average, with renewal above 80% and NRR above 95%.
+
+Much of my work was spotting needs shared by many clients and making the case for them in global roadmap sessions. One feature that came out of this helped keep the platform's 3 largest retail clients.
+
+I have also rolled out Zalo ZNS and Mini App for FPT Shop, MBS, Vinpearl and Vinamilk, so I have seen the platform from the merchant side.
+
+My CV is attached. Thank you for your time.
+
+Best regards,
+[Họ tên]

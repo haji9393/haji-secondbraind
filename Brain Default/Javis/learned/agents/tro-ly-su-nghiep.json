@@ -1,0 +1,265 @@
+{
+ "agent": {
+  "slug": "tro-ly-su-nghiep"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1795751905.2859032,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Với CV cho một lane mới, viết thử một khối thật (vd Insider) để Haji duyệt giọng và trục kể trước khi dựng cả bản, vì Haji duyệt brief trừu tượng rồi vẫn chê bản hoàn chỉnh."
+  },
+  {
+   "created_at": 1795751905.2891352,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi nghiệm thu đòi bằng chứng đọc nguồn, chỉ ghi ngắn nguồn đã dùng cho từng dữ kiện và dồn công sức vào chất lượng chữ, vì các bảng trích dẫn dài tốn token mà không làm CV tốt hơn."
+  },
+  {
+   "created_at": 1795752144.174711,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Headline CV của Haji phải là cụm danh từ kinh doanh thể hiện quan điểm của Haji về nghề và có kết quả doanh thu hay giá trị, neo vào các headline Haji từng duyệt (vd \"Turning customer data into measurable revenue\"). Không viết slogan có nhịp, không mô tả sản phẩm hay hành vi khách của nhà tuyển dụng"
+  },
+  {
+   "created_at": 1795752144.1779509,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi sửa CV, sửa ngay trên cùng một file theo từng câu Haji chỉ ra và giữ nguyên link, không tạo bản Slides mới cho mỗi vòng."
+  },
+  {
+   "created_at": 1795752461.0146382,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Bản CV đầu tiên phải bắt đầu từ việc đặt việc thật hằng ngày của Haji cạnh từng trách nhiệm trong JD, kèm bằng chứng cụ thể và nhìn từ thế mạnh, như bản TNEX. Không xếp Haji theo chức danh (vd CS Lead phía vendor) hay theo lane có sẵn rồi chấm theo khoảng trống, vì cách đó làm sai toàn bộ bản đầu và"
+  },
+  {
+   "created_at": 1795752804.692524,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi rà một bộ quy trình CV (kit, skill), kiểm trước xem nó có bước đối chiếu việc thật của Haji với chức năng JD trước khi chọn lane, và có lối xử lý JD ngoài các lane sẵn có không, vì đây là lỗ hổng làm hỏng bản đầu như ca Zalo."
+  },
+  {
+   "created_at": 1795753335.0913038,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi Haji muốn \"chỉ làm qua Javis\", gộp workflow nhiều agent về một bước của Trợ lý sự nghiệp, đồng bộ cả SKILL.md, workflow và file vai để các nguồn không mâu thuẫn nhau."
+  },
+  {
+   "created_at": 1795754142.984475,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi chạy lại một cơ hội đã có nhiều bản, Nhịp 1 vẫn làm từ bảng đối chiếu mới và đề xuất sửa tại chỗ trên file mới nhất, không kế thừa brief cũ đã hỏng trục."
+  },
+  {
+   "created_at": 1795755387.0040698,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Tên nhóm năng lực trong CV của Haji phải là cụm danh từ mô tả phạm vi việc (kiểu \"Partner retention and revenue growth\"), không viết thành câu ý tưởng như \"Value on both sides\"."
+  },
+  {
+   "created_at": 1795755387.007678,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi hỏi về kênh nộp, tra lại quyết định kênh Haji đã chốt trong chat và hồ sơ, rồi ghi ngay vào hồ sơ cơ hội để khỏi hỏi lại."
+  },
+  {
+   "created_at": 1795756748.183091,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi sửa hoặc gửi lại CV, kiểm trạng thái Drive theo đúng ID và bỏ khỏi luồng mọi bản Haji đã loại, kể cả khi kết nối vẫn trả `Trashed: False`."
+  },
+  {
+   "created_at": 1795756748.185965,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Với CV cấp Head, kiểm trang 1 có cho thấy phạm vi kinh doanh, quyết định ưu tiên, trách nhiệm về kết quả và quy mô dẫn đội trước khi đưa chi tiết triển khai."
+  },
+  {
+   "created_at": 1795769611.005175,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Với vai ở công ty tự sở hữu nền tảng (MoMo, YouNet, Zalo), lấy CV MoMo Senior Manager cộng phần client portfolio của YouNet làm bản nền, không dựng \"lane mới\" từ đầu, vì làm vậy đánh rơi các điểm nổi bật như ROI 4-6x, NRR 95%+ và 3 khách bán lẻ lớn nhất được giữ nhờ tính năng đã ship."
+  },
+  {
+   "created_at": 1795769611.0074508,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi gửi khung CV, kiểm từng điểm nổi bật có ✅ trong kho dữ kiện xem có trên trang 1 không. Thiếu điểm nào thì phải nói rõ lý do bỏ."
+  },
+  {
+   "created_at": 1795772905.999476,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi sửa CV trên Slides, chạy replaceAllText đổi \" – \" thành \" - \" cho cả file trước khi giao, vì các mốc ngày thừa hưởng từ bản nền thường còn en dash."
+  },
+  {
+   "created_at": 1795774239.240546,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi Haji bảo \"bàn với Copywriter\", mở agents/copywriter.md và humanizer.md, tự áp chuẩn đó ngay trong lượt và nói rõ là chưa có trao đổi trực tiếp giữa hai agent, thay vì giả vờ đã bàn."
+  },
+  {
+   "created_at": 1795774239.245591,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Cover letter của Haji nên dài khoảng 120 chữ, có tối đa 3 số chủ lực, không mở ý bằng dấu hai chấm, không có câu dẫn dắt và không kết bằng câu tầm nhìn chung chung."
+  },
+  {
+   "created_at": 1795775377.747703,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi Haji đưa nhận xét khoảng trống từ nguồn khác, chấm từng ý là đúng, đúng một phần hay đặt sai chủ thể, vì nhận xét kiểu \"chưa làm chủ nền tảng\" lặp lại đúng khung sai mà Haji đã bác."
+  },
+  {
+   "created_at": 1795775377.750635,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi chuyển bản CV cũ sang vai mới, rà lại chính bản đó theo kho dữ kiện, ví dụ số chỉ dùng khi phỏng vấn và các câu sát Red List, trước khi copy làm nền."
+  },
+  {
+   "created_at": 1795775709.360694,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi Haji xác nhận có làm một kênh nhưng không nói cho khách nào (vd Zalo OA), chỉ ghi kênh đó chung chung, không gán vào danh sách client đã có, và hỏi lại nếu câu văn ngầm gán."
+  },
+  {
+   "created_at": 1795776600.870937,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi Haji đổi sang một JD cùng loại vai, giữ nguyên khung nhóm, summary và bullet Haji đã duyệt, chỉ chỉnh thứ tự hoặc thêm dữ kiện thật còn thiếu, không đặt lại tên nhóm hay viết bullet mới để khớp từng dòng scope của JD."
+  },
+  {
+   "created_at": 1795777135.1313128,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi Haji gợi ý \"nhấn mạnh X\", trước hết hiểu là sửa ngay trong khung đã duyệt (summary, thứ tự bullet, At a glance), không đề xuất dựng lại khung CV quanh X."
+  },
+  {
+   "created_at": 1795777599.48112,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Câu chốt summary của Haji không viết thành bộ ba động từ hay khẩu hiệu; viết một câu kể sự thật về cách Haji làm việc, và kiểm luật summary (không tên client) trước khi sửa."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-11-27T11:08:22Z",
+ "version": 1
+}

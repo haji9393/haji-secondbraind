@@ -69,8 +69,8 @@
 ### Marketing Linkedin
 - **LinkedIn - Họp biên tập nhóm Marketing** (`li-ban-bien-tap`) - active · 5 bước [cmo -> agency-research-synthesist -> copywriter -> cmo -> cmo] · Nhóm Marketing Linkedin nhận một đề mở, nghiên cứu LinkedIn và Substack, phát triển luận điểm và trình Haji chọn góc.
 ### Sự nghiệp
-- **Career - Đánh giá cơ hội** (`career-danh-gia-co-hoi`) - active · 2 bước [agency-research-synthesist -> tro-ly-su-nghiep] · Nghiên cứu công ty, đánh giá JD và phản biện hướng ứng tuyển trước khi Haji chốt brief.
-- **Career - Viết và phản biện hồ sơ** (`career-viet-va-phan-bien-ho-so`) - active · 3 bước [tro-ly-su-nghiep -> copywriter -> tro-ly-su-nghiep] · Viết hồ sơ từ brief Career đã duyệt, kiểm bằng chứng và trình Haji bản nháp.
+- **Career - Đánh giá cơ hội** (`career-danh-gia-co-hoi`) - active · 1 bước [tro-ly-su-nghiep] · Nhịp 1: đối chiếu JD với việc thật của Haji, chấm điểm và đưa kế hoạch CV để Haji chốt.
+- **Career - Viết và phản biện hồ sơ** (`career-viet-va-phan-bien-ho-so`) - active · 1 bước [tro-ly-su-nghiep] · Nhịp 2: viết CV trên bản sao Drive theo kế hoạch Haji đã chốt, kiểm render, gửi link và sửa tại chỗ.
 
 ## Loops
 _(chưa có)_
