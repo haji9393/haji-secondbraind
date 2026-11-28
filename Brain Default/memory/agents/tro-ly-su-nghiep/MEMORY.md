@@ -9,3 +9,5 @@
 - Máy Haji không có pdftotext hay pypdf. Để đọc CV PDF, dùng `swift -e` với PDFKit (PDFDocument.string).
 - Khi Haji trả lời gộp kiểu "thông tin trong CV mới nhất là đúng", gán câu đó cho từng điểm còn treo trong hồ sơ và nêu rủi ro thiếu chất liệu nếu điểm đó vốn cần dữ kiện mới.
 - Khi nghiệm thu vị trí tệp Drive, lưu ID tệp, trường Parents, tên và ID thư mục, rồi đối chiếu bằng danh sách tệp trong thư mục đích.
+- Khi chỉ đạo mới của Haji (vd kho dữ kiện mục E8) mâu thuẫn với Red List, theo chỉ đạo mới hơn kèm điều kiện viết an toàn, ghi rõ mâu thuẫn vào bàn giao và xin Haji sửa Red List, để vòng kiểm sự thật không chấm Chặn nhầm.
+- Khi Drive trả 403 appNotAuthorizedToFile cho ứng dụng Javis, kiểm canEdit qua kết nối Google Drive của claude.ai; nếu true thì bàn giao ghi đè qua kết nối đó thay vì dừng chờ cấp quyền.

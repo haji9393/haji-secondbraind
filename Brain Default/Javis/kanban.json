@@ -951,7 +951,112 @@
           "msg": "blocked -> cancelled: operator cancel (chat): Haji yêu cầu huỷ để không tự chạy lại và sửa đè CV ShopBack"
         }
       ]
+    },
+    {
+      "id": "t_20b97c4128e7",
+      "brain_root": "/Users/haji/Optimization/Agent tự động/javis/brains/Brain Default",
+      "title": "Career - Viết CV ATS ShopBack (Copywriter GPT) theo phản hồi Haji 27/11",
+      "intent": "Copywriter viết lại CV ATS 1 cột cho vị trí Regional CRM Manager của ShopBack, sửa ngay trên file ATS v1 đang có trên Google Drive (https://drive.google.com/file/d/1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD/view), không tạo file mới. Trước khi viết phải đọc: hồ sơ cơ hội projects/career/co-hoi/shopback-regional-crm-manager-efc922d8.md, brief v4 với headline phương án 2, chỉ đạo của Haji lúc 22:00 ngày 27/11/2026 (đây là bản hiện hành), CV v2.1 làm nội dung nền (Google Doc 1ii4EiB-fzUCdVx4u1Tge1fNjrlHgf-bjKJhkBvP3Bao), mẫu ATS NAB và skills/haji-career/references/haji-cv-evidence-bank.md. Năm yêu cầu cần xử lý: (1) Viết lại Summary sao cho nổi bật năng lực hiếm, là đứng giữa nhiều phòng ban và dẫn dắt Marketing, Product, Tech, Data, Compliance phía client cùng các team nội bộ về một đích chung là doanh thu của client. Không dùng cách viết mờ nhạt như 'inside each team as its own CRM lead'. (2) Trình bày phạm vi Insider ở 13 quốc gia, với playbook, cách hiểu và concept được đồng bộ chung, là kinh nghiệm tương đương với shared planning across regions của ShopBack, không viết theo hướng tạo ra gap. (3) Làm nổi bật khả năng chuyển nhanh giữa các platform, hiểu sâu CleverTap và MoEngage, đã làm các dự án migration từ CleverTap và Salesforce nên mapping được giữa các platform. (4) Chỉ thêm quy mô người dùng hoặc tần suất gửi nếu kho dữ kiện có số được phép dùng; nếu không có thì không bịa và ghi là chờ Haji. (5) Kiểm từng con số 35% (MAU Sacombank, conversion CellphoneS, MAU chung) theo evidence bank, mỗi số gắn đúng chủ thể, kỳ và mẫu số. Các ràng buộc phải giữ: không coi khung Insider là lỗi Chặn; không dùng công thức '[Lane] professional with an 11-year career'; không có mục Consultant; giữ đủ mọi nhóm việc của bản nền và đặt tên theo chức năng trong JD ShopBack; độ dài không ngắn hơn bản nền quá 10%; không xuất PDF; không đổi quyền chia sẻ. Bản viết phải qua 2 vòng phản biện theo haji-work-standards. Đầu ra gồm link file đã sửa, bảng thay đổi so với ATS v1 và danh sách điểm chờ Haji xác nhận, lưu thành ghi chú trong projects/career/co-hoi/.",
+      "route": "wf:career-viet-va-phan-bien-ho-so",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "blocked",
+      "needs_approval": false,
+      "block_kind": "transient",
+      "block_reason": "Bước 2 (Copywriter) chưa qua kiểm chứng sau 3 lượt: The task is not done. Drive file 1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD still has only one revision, ATS v1 saved 15:02Z on 27/11 (22:02 Vietnam time). That means there is no v2 on Drive, and the two review rounds have not run. The blocker the worker reports is real: the Javis app got a 403, and the clau. Quy trình dừng ở đây, không chạy tiếp các bước sau.",
+      "created_by": "chat",
+      "chat_id": "web:27b0b6907b8c4a1c9a53f30cc535f090",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795833868.696057,
+      "current_run_id": "",
+      "result": "\n[[NEEDS_INPUT]] Bước 2 (Copywriter) chưa qua kiểm chứng sau 3 lượt: The task is not done. Drive file 1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD still has only one revision, ATS v1 saved 15:02Z on 27/11 (22:02 Vietnam time). That means there is no v2 on Drive, and the two review rounds have not run. The blocker the worker reports is real: the Javis app got a 403, and the clau. Quy trình dừng ở đây, không chạy tiếp các bước sau.",
+      "created_at": 1795832809.861835,
+      "updated_at": 1795833868.696057,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance": [
+          "File Drive 1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD đã được sửa trực tiếp, không có file CV mới nào được tạo, quyền chia sẻ giữ nguyên và không có file PDF nào được xuất",
+          "Bố cục 1 cột theo mẫu ATS NAB và giữ đủ mọi nhóm việc của CV v2.1, tên nhóm việc theo chức năng trong JD ShopBack, không có mục Consultant",
+          "Số chữ của bản mới không thấp hơn 90% số chữ của CV v2.1, có ghi cả hai số đếm",
+          "Summary nêu rõ việc dẫn dắt nhiều phòng ban (Marketing, Product, Tech, Data, Compliance của client và các team nội bộ) về mục tiêu doanh thu của client, không chứa 'inside each team as its own CRM lead' và không dùng công thức '[Lane] professional with an 11-year career'",
+          "CV có câu viết về phạm vi 13 quốc gia của Insider và việc đồng bộ playbook như kinh nghiệm tương đương regional planning, không có câu nào trình bày đây là gap",
+          "CV có nội dung về CleverTap, MoEngage và các dự án migration từ CleverTap và Salesforce, nêu rõ khả năng mapping giữa các platform",
+          "Mỗi con số 35% (MAU Sacombank, conversion CellphoneS, MAU chung) khớp với haji-cv-evidence-bank.md về chủ thể, kỳ và mẫu số, có ghi dòng nguồn trong evidence bank; số quy mô người dùng hoặc tần suất gửi hoặc có nguồn, hoặc được đánh dấu chờ Haji",
+          "Có ghi chú trong projects/career/co-hoi/ gồm link file, biên bản 2 vòng phản biện, bảng thay đổi so với ATS v1 và danh sách điểm chờ Haji xác nhận",
+          "Không có ký tự em dash trong CV và trong ghi chú"
+        ],
+        "specifier": "ai",
+        "agent": {
+          "slug": "copywriter",
+          "name": "Copywriter",
+          "key": "ag_a8ce2244aa126c9d"
+        },
+        "route": "wf:career-viet-va-phan-bien-ho-so",
+        "capability": "external-write",
+        "run_seconds": 680,
+        "acceptance_from": "done",
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Worker tự báo chưa sửa được file Drive 1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD vì thiếu quyền ghi (file vẫn là ATS v1 lưu 22:02 ngày 27/11) và chưa chạy 2 vòng phản biện, nên các điều kiện về CV đã sửa, số chữ, Summary, 13 quốc gia, CleverTap/MoEngage/migration và biên bản phản biện chưa đạt.",
+            "a": "Worker tự báo chưa sửa được file Drive 1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD vì thiếu quyền ghi (file vẫn là ATS v1 lưu 22:02 ngày 27/11) và chưa chạy 2 vòng phản biện, nên các điều kiện về CV đã sửa, số chữ, Summary, 13 quốc gia, CleverTap/MoEngage/migration và biên bản phản biện chưa đạt.",
+            "by": "checker",
+            "asked_at": 1795833507.530541,
+            "answered_at": 1795833507.5305421,
+            "progress": "Lượt này lặp lại lượt trước, nên mình dừng: tệp ATS ShopBack trên Drive vẫn chỉ có bản ATS v1 (lưu 22:02 ngày 27/11) và chưa có gì cho thấy Javis đã được cấp quyền ghi, nên chưa có bản v2 để chạy hai vòng phản biện. Haji cấp quyền ghi cho ứng dụng Javis trên đúng tệp này thì mình chạy lại; bản đã biên tập và bảng thay đổi vẫn nằm ở [bàn giao ATS v2](projects/career/co-hoi/shopback-ats-v2-ban-giao-2026-11-28.md)."
+          }
+        ],
+        "acceptance_fixes": 1
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-28 09:26",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-28 09:26",
+          "msg": "claimed by worker:865:cd093460"
+        },
+        {
+          "ts": "2026-11-28 09:27",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-11-28 09:27",
+          "msg": "claimed by worker:865:354bc374"
+        },
+        {
+          "ts": "2026-11-28 09:38",
+          "msg": "Worker tự báo chưa sửa được file Drive 1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD vì thiếu quyền ghi (file vẫn là ATS v1 lưu 22:02 ngày 27/11) và chưa chạy 2 vòng phản biện, nên các điều kiện về CV đã sửa, số chữ, Summary, 13 quốc gia, CleverTap/MoEngage/migration và biên bản phản biện chưa đạt."
+        },
+        {
+          "ts": "2026-11-28 09:38",
+          "msg": "claimed by worker:865:7dd2346b"
+        },
+        {
+          "ts": "2026-11-28 09:44",
+          "msg": "Bước 2 (Copywriter) chưa qua kiểm chứng sau 3 lượt: The task is not done. Drive file 1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD still has only one revision, ATS v1 saved 15:02Z on 27/11 (22:02 Vietnam time). That means there is no v2 on Drive, and the two review rounds have not run. The blocker the worker reports is real: the Javis app got a 403, and the clau. Quy trình dừng ở đây, không chạy tiếp các bước sau."
+        }
+      ]
     }
   ],
-  "updated": 1795790277.215025
+  "updated": 1795833868.7105632
 }

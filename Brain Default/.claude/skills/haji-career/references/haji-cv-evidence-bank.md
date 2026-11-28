@@ -117,7 +117,7 @@ Ký hiệu: ✅ Haji đã xác nhận · 📄 đã dùng trong CV nộp, nên x�
 - ✅ VETC: segmentation architecture 9 scenarios qua Upsert API.
 - ✅ Wavemoney, U-money, Unitel: template cấu trúc + content pick cho pre-approved content framework, client tự mở rộng.
 - ✅ Printerval: dẫn migration Klaviyo → Insider. Không có result sample. Chỉ dùng trong Portfolio hoặc khi JD đòi migration.
-- ✅ Viettel 90,000,000+ push/tháng: KHÔNG đưa vào CV (không thể hiện năng lực chiến lược). Chỉ dùng khi phỏng vấn nếu được hỏi về quy mô. 📄 Truy ra lỗi mapping purchase event gây thiếu conversion A/B trước khi số lên leadership (chỉ phỏng vấn).
+- ✅ Viettel Telecom, quy mô lớn nhất Haji vận hành: 5M active subscribers, hơn 100M push/tháng, 15-20 push có phân khúc mỗi ngày. ĐƯỢC dùng trên CV như một dòng QUY MÔ (Scope/Highlights) khi JD có quy mô user lớn (vd ShopBack 20M+), không viết thành case bullet về Viettel. Nguồn: Haji xác nhận 28/11/2026, thay quy định cũ "chỉ dùng khi phỏng vấn". Bản cũ ghi 90M+ push/tháng; số mới nhất của Haji là 100M+. 📄 Truy ra lỗi mapping purchase event gây thiếu conversion A/B trước khi số lên leadership (chỉ phỏng vấn).
 - ✅ 13.49 GB dataset; Sacombank reporting xử lý dữ liệu lớn: chỉ dùng khi JD đòi năng lực xử lý dữ liệu.
 - ✅ Tracking: GA4/UTM, GTM/pixels (KHÔNG Conversions API, offline conversions). Consent viết là opt-in thiết kế trong journey + review Security/Audit/Compliance, không nêu tên luật.
 - ✅ Đọc được SQL query và cohort definition đủ để phát hiện lỗi và quyết định tối ưu (không ghi SQL là skill).
@@ -162,7 +162,7 @@ Ký hiệu: ✅ Haji đã xác nhận · 📄 đã dùng trong CV nộp, nên x�
 - ✅ Dẫn đa chức năng: điều phối sale, onboarding và vận hành theo kế hoạch của account; ở giai đoạn tái ký, Haji là người chịu trách nhiệm cuối. Viết "accountable for renewal outcomes, coordinating sales, onboarding and operations", không viết "managed" các phòng đó. Nguồn: Haji xác nhận 26/11/2026.
 - ✅ Dẫn đa chức năng về doanh thu client: Haji đứng trong vai nhiều phòng ban (Marketing, Product, Tech, Data, Compliance phía client; sales, onboarding, product, operations phía Insider) và kéo tất cả về một mục tiêu là doanh thu của client. Đây là điểm nổi bật phải lên summary, không để chìm. Nguồn: Haji xác nhận 27/11/2026.
 - ✅ Đa thị trường: Insider có mặt ở 13 quốc gia, playbook, understanding và concept được sync giữa các thị trường. Vai trò làm tại Việt Nam nhưng có shared planning across regions thì tương đương, không phải gap. Không viết "only 3 markets". Nguồn: Haji xác nhận 27/11/2026.
-- ✅ Nền tảng: hiểu sâu CleverTap, MoEngage nên thích nghi platform mới nhanh; có làm dự án migration từ CleverTap và Salesforce sang Insider, mapping được giữa các platform (kèm Klaviyo sang Insider ở Printerval). ⚠️ Chưa chốt client của migration CleverTap và Salesforce, viết chung không gắn tên client. Nguồn: Haji xác nhận 27/11/2026.
+- ✅ Nền tảng: hiểu sâu CleverTap, MoEngage nên thích nghi platform mới nhanh; có làm dự án migration từ CleverTap và Salesforce sang Insider, mapping được giữa các platform (kèm Klaviyo sang Insider ở Printerval). Salesforce sang Insider: VinWonders (Haji xác nhận 28/11/2026). CleverTap sang Insider: không gắn tên client, viết chung. Nguồn: Haji xác nhận 27/11 và 28/11/2026.
 - ✅ Dùng cho JD platform, ecosystem, super app: đọc JD theo chức năng từng dòng, không theo chức danh hay vị trí vendor/chủ nền tảng.
 
 ## F. Framing bắt buộc và Red List
@@ -185,7 +185,7 @@ Ký hiệu: ✅ Haji đã xác nhận · 📄 đã dùng trong CV nộp, nên x�
 - "NPS 90" / "NPS above 90".
 - "11 years CX" / "11 years of CX experience".
 - Sacombank "digital transactions grew 65%".
-- Vinpearl 5x client revenue; "55% of transactions from Pearl Club members"; bất kỳ "migration off Salesforce" nào (Vinpearl không có Salesforce migration).
+- Vinpearl 5x client revenue; "55% of transactions from Pearl Club members"; "migration off Salesforce" gắn với Vinpearl (Vinpearl không có Salesforce migration). Ngoại lệ: VinWonders có migration Salesforce sang Insider, Haji xác nhận 28/11/2026; ghi đúng tên VinWonders, không viết gộp "Vinpearl & VinWonders" cho ý này.
 - "Average engagement ran 20 to 30 stakeholders".
 - Generali "under GDPR governance" / "GDPR-aligned consent handling".
 - Claim tuyệt đối: "business owner on every engagement", "no service disruption on any engagement", "a problem found on a majority of accounts at takeover", "enough to invert the conclusion".
@@ -199,7 +199,7 @@ Ký hiệu: ✅ Haji đã xác nhận · 📄 đã dùng trong CV nộp, nên x�
 - SQL, Python, Power BI (setup) trong skills; RAID nếu không có bằng chứng.
 - "Agent workflows" khi mô tả công việc AI.
 - Chữ "competitor" khi so Insider One với Braze/CleverTap/Iterable.
-- Viettel example trong CV.
+- Viettel làm case bullet trong CV (dòng quy mô 5M subscribers/100M+ push được phép từ 28/11/2026).
 - ESOP; Krystack; mục "AI Projects" riêng.
 
 ## G. ⚠️ Điểm cần Haji chốt

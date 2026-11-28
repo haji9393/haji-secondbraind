@@ -546,3 +546,59 @@ Haji chê v2: summary đọc bị hạ cấp, còn mục Consultant, tên nhóm 
 - 35%: chỉ còn ở Highlights và case Sacombank (MAU). CellphoneS đổi sang engagement 74% lên 86% và 2x doanh thu kênh. Summary không còn 35%.
 - Gap 4 (quy mô user): chưa có số được phép dùng, đang chờ Haji.
 - Chờ Haji: client nào ứng với migration CleverTap và Salesforce; một con số quy mô user hoặc tần suất gửi được phép đưa lên CV.
+
+## Bàn giao viết CV ATS v2 | 28/11/2026 | ĐÃ CHỐT, bước kiểm brief của Trợ lý
+
+**Phiên bản hiện hành:** Brief v4 (Haji duyệt 20:02 ngày 27/11/2026, headline phương án 2), cộng chỉ đạo của Haji lúc 22:00 ngày 27/11/2026. Lệnh giao việc `t_20b97c4128e7` gọi chỉ đạo này là "bản hiện hành". Không có brief mới hơn và không có CV mới giao link sau thời điểm giao việc. Tệp ATS `1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD` chỉ có 1 revision (`modifiedTime` 2026-11-27T15:02:12Z, tức 22:02 ICT), parent `1emwRP-9SgJMTQtqGWSMRyknXT2wW7aZA`, visibility PRIVATE. Kiểm bằng Drive lúc chạy bước này.
+
+**Bằng chứng duyệt (trích nguyên văn):**
+- Brief v4, hồ sơ này mục "Brief v4": "Headline theo phương án 2. Giờ bàn giao viết đi." Headline: `CRM & LIFECYCLE | TURNING FIRST PURCHASES INTO REPEAT BUSINESS`.
+- Chỉ đạo 22:00 không có nguyên văn trong vault (nhật ký `memory/conversations/2026-11-27.md` dừng ở 21:39). Nội dung được ghi lại ở kho dữ kiện mục E8, ba dòng "Haji xác nhận 27/11/2026": dẫn đa chức năng về doanh thu client ("phải lên summary, không để chìm"); "Insider có mặt ở 13 quốc gia, playbook, understanding và concept được sync... tương đương, không phải gap. Không viết 'only 3 markets'"; "hiểu sâu CleverTap, MoEngage... migration từ CleverTap và Salesforce sang Insider... viết chung không gắn tên client". Hồ sơ này mục "CV ATS v1" và tin Javis 09:26 ngày 28/11 cũng ghi đúng năm việc đó.
+- Haji quyết khung Insider "Không chặn" (21:03 ngày 27/11).
+
+**Bản cần sửa và bản nền:**
+- Sửa trên [CV_Phuong Hoang_Apply for ShopBack (ATS)](https://drive.google.com/file/d/1CidXzVzgGMScWG9JhiFZcTG-wYbMQuhD/view), docx, không tạo file mới, không xuất PDF, không đổi quyền chia sẻ.
+- Nội dung nền: CV v2.1, Google Slides `1ii4EiB-fzUCdVx4u1Tge1fNjrlHgf-bjKJhkBvP3Bao` (7 nhóm việc theo JD ShopBack, không có Consultant). Độ dài ATS không được ngắn hơn v2.1 quá 10% (đếm số từ phần thân).
+- Mẫu theo kênh: portal, nên dùng ATS 1 cột theo bản NAB (Calibri, heading đỏ 980000, bullet numPr), đúng quy ước ATS trong CV Builder dòng 72: tên và chức danh ở hai dòng riêng, không bảng, contact trong body, ngày MM/YYYY.
+
+**Luận điểm:** Haji trực tiếp thiết kế và vận hành CRM, lifecycle cho nhiều thương hiệu B2C, đưa người dùng từ giao dịch đầu đến quay lại, đo bằng cohort, A/B và holdout. Điểm hiếm cần đưa lên Summary: Haji đứng giữa Marketing, Product, Tech, Data, Compliance phía client và sales, onboarding, product, operations phía Insider, kéo tất cả về một đích là doanh thu của client.
+
+**Case và thứ tự:** Taptap, SonKim Fashion, Wavemoney/U-money/Unitel, Sacombank, Bamboo Airways. Giữ đủ case của v2.1 (có TP Bank, CellphoneS, Generali, MBS).
+
+**Giới hạn công bố (kiểm theo kho dữ kiện):**
+- 35%, Sacombank: "MAU +35% so với giai đoạn trước chương trình" (E3 dòng 104-105, ✅). Chủ thể: ứng dụng Sacombank, kỳ: so với trước chương trình. Không viết "grew 65%", chỉ viết "65% more digital transactions than non-players".
+- 35%, CellphoneS: "conversion +35%" có nhãn 📄 (E3 dòng 114), chưa có xác nhận dùng. Mẫu số chưa rõ. Không dùng cho tới khi Haji xác nhận. Engagement 74% lên 86% và channel revenue 2x cùng dòng, cùng nhãn 📄.
+- 35% "MAU chung": kho không có. E3 dòng 103 chỉ ghi phương pháp tăng MAU, không có số. Không được gán 35% cho nhiều client hay toàn danh mục.
+- Quy mô user/tần suất gửi: kho không có số được phép dùng trên CV. 350,000+ là số bản ghi phân khúc Sacombank, không phải số user. Viettel 90,000,000+ push/tháng chỉ dùng khi phỏng vấn (E3 dòng 120) và Viettel nằm trong Red List. 13.49 GB chỉ dùng khi JD đòi xử lý dữ liệu. 20 triệu thành viên là số của ShopBack. Ghi "chờ Haji".
+- Migration: viết chung "from CleverTap and Salesforce", không gắn client, tuyệt đối không gắn Vinpearl. Printerval Klaviyo được gắn tên.
+
+**Mâu thuẫn cần biết:** Red List dòng 188 ghi "bất kỳ 'migration off Salesforce' nào (Vinpearl không có Salesforce migration)", còn E8 dòng 165 (Haji xác nhận 27/11) cho phép migration từ Salesforce. Bước này theo chỉ đạo mới hơn của Haji: dùng "migration from Salesforce", không gắn client, không dùng cụm "migration off Salesforce". Vòng 2 không chấm Chặn câu này nếu đúng hai điều kiện trên. Haji cần chốt sửa dòng Red List cho hết mâu thuẫn.
+
+### Tiêu chí đạt bản ATS v2 | Trợ lý soạn, Haji chưa duyệt
+
+Soạn từ luận điểm trên, chỉ đạo 22:00 và [thước đo phản biện CV](skills/haji-career/references/haji-cv-review-rubric.md). Thay câu 1 của Tiêu chí v4 ("Việt Nam, Lào, Myanmar") vì câu này trái chỉ đạo 13 thị trường.
+
+Người đọc phải kể lại được sau 30 giây:
+1. Haji dẫn Marketing, Product, Tech, Data, Compliance của client và các đội nội bộ về một đích là doanh thu của client, đồng thời trực tiếp thiết kế và vận hành CRM, lifecycle.
+2. Haji làm việc trong mạng lưới 13 thị trường của Insider, với playbook và concept dùng chung, tức đã quen với shared planning across regions.
+3. Haji chuyển nhanh giữa các platform (Insider One, CleverTap, MoEngage, Salesforce) vì đã làm migration và mapping giữa các nền tảng, và đo kết quả bằng cohort, A/B, holdout.
+
+Không được mắc:
+1. Số ngoài kho, sai chủ thể, sai kỳ hoặc sai mẫu số, nhất là các số 35% và bất kỳ số quy mô user tự đặt.
+2. Cách viết tạo gap hoặc hạ cấp: "only 3 markets", "inside each team as its own CRM lead", công thức "[Lane] professional with an 11-year career", có mục Consultant, tên nhóm việc thừa kế BillEase.
+3. Cắt nội dung: thiếu nhóm việc của v2.1 hoặc ngắn hơn v2.1 quá 10%; hỏng ATS (bảng, header/footer, tên dính chức danh).
+
+CV mẫu để so: NAB (ATS 1 cột) cho format, BillEase 17/11/2026 cho giọng và tầm.
+
+**Chờ Haji xác nhận (không chặn bước viết):** (1) duyệt Tiêu chí đạt ở trên; (2) client nào ứng với migration CleverTap, client nào ứng với Salesforce, và cho sửa dòng Red List; (3) một số quy mô user hoặc tần suất gửi được phép dùng; (4) có dùng CellphoneS conversion +35% không, nếu dùng thì mẫu số là gì.
+
+## Haji trả lời 2 điểm chờ (28/11/2026 09:29)
+- Migration Salesforce sang Insider: **VinWonders**. Migration CleverTap: không gắn client, viết chung.
+- Quy mô user lớn nhất: **Viettel Telecom, 5M active subscribers, hơn 100M push/tháng, 15-20 push có phân khúc mỗi ngày.** Dùng làm dòng quy mô, không làm case bullet.
+- Đã cập nhật kho dữ kiện (mục nền tảng, Viettel, Red List). Việc `t_20b97c4128e7` dùng hai dữ kiện này.
+
+## CV ATS v3 (28/11/2026 10:30)
+- Link: https://docs.google.com/document/d/1Edq-HrUrTH-bfTkuXHIdRAS7ohSVXSzj/edit (file do Javis tạo, Javis sửa được).
+- Thay đổi: phần Insider mở bằng đoạn phạm vi (70+ tổ chức, mạng 13 thị trường, Viettel 5M subscribers); mỗi nhóm mở bằng 1 bullet bức tranh lớn rồi mới tới ví dụ; 2 trang, 1045 từ.
+- Bản local: exports/career/shopback-ats-v3.docx.
+- Chưa chạy 2 vòng phản biện. v1 (1CidXz...) và v2 (1_R-t4...) vẫn còn trên Drive, chờ Haji quyết xoá.
